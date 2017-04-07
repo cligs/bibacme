@@ -13,6 +13,6 @@ El trabajo se está realizando en el contexto del proyecto ["Estilística comput
 
 Si utiliza esta aplicación o los datos incluidos, por favor haga referencia a ella. Se propone citar la aplicación de la siguiente manera: 
 
-Ulrike Henny (ed). Bib-ACMé. Bibliografía digital de novelas argentinas, cubanas y mexicanas (1830-1910). Würzburg, 2017.
+*Ulrike Henny (ed). Bib-ACMé. Bibliografía digital de novelas argentinas, cubanas y mexicanas (1830-1910). Würzburg, 2017.*
 
 Si tiene sugerencias o comentarios por favor contacte ulrike.henny /at/ uni-wuerzburg.de
