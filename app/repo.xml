@@ -7,9 +7,9 @@
     <license>GNU-LGPL</license>
     <copyright>true</copyright>
     <type>application</type>
-    <target>bibacme</target>
+    <target>bib-acme</target>
     <!--<prepare>pre-install.xql</prepare>-->
     <!--<finish>post-install.xql</finish>-->
-    <permissions user="Χ " group="dba" mode="rw-rw-r--"/>
+    <permissions user="admin" group="dba" mode="rw-rw-r--"/>
     <deployed>2017-03-17T13:06:51.133+01:00</deployed>
 </meta>
