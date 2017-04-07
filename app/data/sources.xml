@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="acronym">Bib-ACMé</title>
+                <title level="m" type="main">Bibliografía digital de novelas argentinas, cubanas y
+                    mexicanas (1830-1910)</title>
+                <title level="a">Fuentes</title>
+                <principal xml:id="uh">Ulrike Henny</principal>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://cligs.hypotheses.org/">CLiGS</ref>
+                </publisher>
+                <availability status="free">
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA
+                        4.0</licence>
+                </availability>
+                <date when="2017">2017</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>En este fichero se dan las fuentes consultadas para establecer las listas de
+                    autores (authors.xml), obras (works.xml) y ediciones (editions.xml).</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listBibl>
+                <bibl>
+                    <seg rend="italic">Biblioteca Virtual Miguel de Cervantes.</seg> S.l., s.f. <ref target="http://www.cervantesvirtual.com/">http://www.cervantesvirtual.com/</ref>
+                </bibl>
+                <bibl xml:id="Bouffartigue">Bouffartigue, Sylvie. "Mujeres en la narrativa de la
+                    Guerra de Independencia." Rey Tristán, Eduardo; Calvo González, Patricia (eds).
+                        <seg rend="italic">XIV Encuentro de Latinoamericanistas Españoles: congreso
+                        internacional</seg>, septiembre 2010, Santiago de Compostela, España.
+                    Universidade de Santiago de Compostela, Centro Interdisciplinario de Estudios
+                    Americanistas Gumersindo Busto; Consejo Español de Estudios Iberoamericanos,
+                    2010, p. 206-221. <ref>https://halshs.archives-ouvertes.fr/halshs-00529274</ref>
+                </bibl>
+                <bibl>
+                    <seg rend="italic">Catálogo Público de la Biblioteca Nacional Mariano Moreno de
+                        la República Argentina.</seg> 2012-2017. <ref target="http://catalogo.bn.gov.ar">http://catalogo.bn.gov.ar</ref>
+                </bibl>
+                <bibl>
+                    <seg rend="italic">En Caribe. Enciclopedia de Historia y Cultura del
+                        Caribe.</seg> Editado por la Fundación Global Democracia y Desarrollo
+                    (FUNGLODE), 2017. <ref target="http://www.encaribe.org">http://www.encaribe.org</ref>
+                </bibl>
+                <bibl>
+                    <seg rend="italic">HathiTrust Digital Library.</seg> S.l., s.f. <ref target="https://www.hathitrust.org/">https://www.hathitrust.org/</ref>
+                </bibl>
+                <bibl>Iguiniz, Juan B. <seg rend="italic">Bibliografía de novelistas mexicanos:
+                        ensayo biográfico, bibliográfico y crítico.</seg> Imprenta de la Secretaría
+                    de relaciones exteriores, 1926.</bibl>
+                <bibl xml:id="DLC">Instituto de Literatura y Lingüística de la Academia de Ciencias
+                    de Cuba (Ed.). <seg rend="italic">Diccionario de la literatura cubana.</seg>
+                    Alicante: Biblioteca Virtual Miguel de Cervantes, 1999. <ref target="http://www.cervantesvirtual.com/obra/diccionario-de-la-literatura-cubana--0/">http://www.cervantesvirtual.com/obra/diccionario-de-la-literatura-cubana--0/</ref>
+                </bibl>
+                <bibl>
+                    <seg rend="italic">La Prosa Modernista.</seg> S.l., s.f. <ref target="http://www.prosamodernista.com/">http://www.prosamodernista.com/</ref>
+                </bibl>
+                <bibl>Lichtblau, Myron. <seg rend="italic">The Argentine Novel: an annotated
+                        bibliography.</seg> Lanham, Maryland, 1997.</bibl>
+                <bibl>Mata, Óscar. <seg rend="italic">La novela corta mexicana en el siglo
+                        XIX.</seg> México: Universidad Nacional Autónoma de México, 1999.</bibl>
+                <bibl>Molina, Hebe Beatriz. <seg rend="italic">Como crecen los hongos. La novela
+                        argentina entre 1838 y 1872.</seg> Teseo 2011.</bibl>
+                <bibl>Secretaría de Cultura (Ed.). <seg rend="italic">Enciclopedia de la literatura
+                        en México.</seg> México, 2016. <ref target="http://www.elem.mx">http://www.elem.mx</ref>
+                </bibl>
+                <bibl>Torres-Rioseco, Arturo. <seg rend="italic">Bibliografía de la novela
+                        mejicana.</seg> Cambridge, Massachusetts: Harvard University Press,
+                    1933.</bibl>
+                <bibl xml:id="Trelles">Trelles, Carlos. <seg rend="italic">Bibliografía Cubana del
+                        Siglo XIX.</seg> Matanzas: Imprenta de Quirós y Estrada, 1911-1915. 8
+                    tomos.</bibl>
+                <bibl>
+                    <seg rend="italic">Wikisource.</seg> S.l., s.f. <ref target="https://es.wikisource.org">https://es.wikisource.org</ref>
+                </bibl>
+            </listBibl>
+        </body>
+    </text>
+</TEI>

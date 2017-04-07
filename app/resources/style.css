@@ -1,0 +1,249 @@
+body {
+    margin: 10px auto;
+    max-width: 65em;
+    font-family: sans-serif;
+    font-size: 11pt;
+    background-color: #E0E0D1;
+    background-image: url("spitzweg_buecherwurm.jpg");
+}
+* {
+    padding: 10px;margin:5px;
+}
+header {
+    background-color: #41210f;
+    color: #FFFFFF;
+    text-align: center;
+    padding-top: 20px;
+    border-radius: 5px;
+}
+nav {
+    background: #41210f;
+    padding: 10px 0 0 0;
+    margin: 0;
+}
+footer {
+    font-size: smaller;
+    background: #E0E0D1;
+    clear: both;
+    border-radius: 5px;
+}
+footer section {
+}
+footer aside {
+    float: right;
+    position: relative;
+    top: -125px;
+    right: -35px;
+}
+main {
+    background-color: #FFFFFF;
+    min-height: 500px;
+    border-radius: 5px;
+}
+article {
+    border: 2px solid #003399;
+}
+section {
+    position: relative;
+}
+aside {
+    text-align: right;
+}
+/***********************************/
+h1.main {
+    font-weight: bold;
+    font-size: 30pt;
+}
+h1 {
+    font-size: 20pt;
+}
+h2 {
+    font-size: 16pt;
+}
+h1, h2, h3 {
+    font-weight: lighter;
+    font-family: serif;
+}
+nav ul {
+    text-align: center;
+}
+nav ul ul {
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 10px;
+    padding-left: 0;
+    background-color: #E0E0D1;
+    z-index: 100;
+    visibility: hidden;
+    border-radius: 5px;
+}
+nav ul li:hover > ul {
+    visibility: visible;
+}
+nav ul ul li {
+    display: block;
+    width: 100%;
+    text-align: left;
+    opacity: 1;
+    color: #000000;
+    padding: 10px;
+    font-size: 11pt;
+}
+nav ul ul li a:link, nav ul ul li a:visited {
+    color: #000000;
+}
+nav li {
+    display: inline-block;
+    color: #FFFFFF;
+    font-weight: normal;
+    padding: 10px 25px;
+    font-size: 12pt;
+    font-family: serif;
+}
+nav li a:link, nav li a:visited, h1 a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+nav li a:hover, nav li a.sel {
+    text-decoration: underline;
+}
+main .pagenav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 2px;
+    font-size: smaller;
+}
+main .pagenav li {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+main .pagenav form {
+    display: inline-block;
+}
+main .pagenav input {
+    margin: 0 3px 0 0;
+    padding: 0;
+    vertical-align: middle;
+}
+main .pagenav label {
+    margin: 0 15px 0 0;
+    padding: 0;
+}
+main div.left {
+    float: left;
+    width: 60%;
+}
+main div.right {
+    float: right;
+}
+main ul li {
+    list-style-type: "—";
+    padding: 5px 10px;
+}
+main li a, main p a, main form a, main table a {
+    padding: 0;
+    margin: 0;
+    color: #006600;
+    text-decoration: none;
+}
+main span {
+    padding: 0;
+    margin: 0;
+}
+main span.smaller {
+    font-size: 0.9em;
+}
+main span.italic, footer span.italic, em {
+    font-style: italic;
+    margin: 0;
+    padding: 0;
+}
+main span.bold {
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+main li.bibl {
+    font-size: 10pt;
+    margin: 0;
+    padding: 0;
+}
+main p.sample {
+    color: #A55527;
+}
+main sup {
+    padding: 0;
+    margin: 0;
+}
+strong {
+    margin: 0;
+    padding: 0;
+}
+main select {
+    width: 300px;
+    height: 50px;
+    display: block;
+    font-style: italic;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border: 1px solid #AAAAAA;
+    border-radius: 5px;
+    margin: 40px 0;
+}
+main button {
+    display: block;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border: 1px solid #AAAAAA;
+    border-radius: 5px;
+}
+main select option {
+    padding: 5px;
+    font-style: normal;
+}
+main select option.default {
+    font-weight: normal;
+    font-style: italic;
+}
+main section {
+    padding-right: 35%;
+}
+main section.index {
+    padding: 10px 20%;
+}
+main section.data {
+    padding: 10px 20%;
+    text-align: center;
+}
+main section.data table {
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+}
+main section.data table td {
+    text-align: right;
+}
+main section.data table td + td {
+    text-align: left;
+}
+main section.author, main section.work, main section.edition {
+    padding: 10px;
+    margin: 5px;
+}
+main section.sources, main section.entities, main section.criteria {
+    padding: 10px 10%;
+    margin: 5px;
+}
+
+main section.edition li {
+    list-style-type: none;
+}
+
+main .main-svg {
+    padding: 0;
+    margin: 0;
+}
+/**********************************/

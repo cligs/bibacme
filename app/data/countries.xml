@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="acronym">Bib-ACMé</title>
+                <title level="m" type="main">Bibliografía digital de novelas argentinas, cubanas y mexicanas
+                    (1830-1910)</title>
+                <title level="a">Países</title>
+                <principal xml:id="uh">Ulrike Henny</principal>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://cligs.hypotheses.org/">CLiGS</ref>
+                </publisher>
+                <availability status="free">
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA
+                        4.0</licence>
+                </availability>
+                <date when="2017">2017</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>La lista contiene países de publicación de las obras reunidas en esta
+                    bibliografía.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPlace>
+                <place xml:id="AR">
+                    <placeName>Argentina</placeName>
+                </place>
+                <place xml:id="AU">
+                    <placeName>Austria</placeName>
+                </place>
+                <place xml:id="CH">
+                    <placeName>Chile</placeName>
+                </place>
+                <place xml:id="CO">
+                    <placeName>Colombia</placeName>
+                </place>
+                <place xml:id="CU">
+                    <placeName>Cuba</placeName>
+                </place>
+                <place xml:id="ES">
+                    <placeName>España</placeName>
+                </place>
+                <place xml:id="GU">
+                    <placeName>Guatemala</placeName>
+                </place>
+                <place xml:id="FR">
+                    <placeName>Francia</placeName>
+                </place>
+                <place xml:id="MX">
+                    <placeName>México</placeName>
+                </place>
+                <place xml:id="UR">
+                    <placeName>Uruguay</placeName>
+                </place>
+                <place xml:id="US">
+                    <placeName>Estados Unidos</placeName>
+                </place>
+            </listPlace>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meta xmlns="http://exist-db.org/xquery/repo">
+    <description>Bibliografía de novelas argentinas, cubanas y mexicanas</description>
+    <author>Ulrike Henny</author>
+    <website/>
+    <status>beta</status>
+    <license>GNU-LGPL</license>
+    <copyright>true</copyright>
+    <type>application</type>
+    <target>bibacme</target>
+    <!--<prepare>pre-install.xql</prepare>-->
+    <!--<finish>post-install.xql</finish>-->
+    <permissions user="Χ " group="dba" mode="rw-rw-r--"/>
+    <deployed>2017-03-17T13:06:51.133+01:00</deployed>
+</meta>
