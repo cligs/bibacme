@@ -1,4 +1,4 @@
-# Bib-ACMé - Bibliografía digital de novelas argentinas, cubanas y mexicanas (1830-1910)
+# Bib-ACMé: Bibliografía digital de novelas argentinas, cubanas y mexicanas (1830-1910)
 
 Bib-ACMé reune datos sobre novelas argentinas, cubanas y mexicanas que se publicaron entre 1830 y 1910.
 
