@@ -13,7 +13,7 @@ declare variable $app:editions := doc(concat($app:root, "/data/editions.xml"))//
 declare variable $app:sources := doc(concat($app:root, "/data/sources.xml"))//tei:bibl;
 declare variable $app:decades := ("1830", "1840", "1850", "1860", "1870", "1880", "1890", "1900", "1910");
 declare variable $app:countries := doc(concat($app:root, "/data/countries.xml"))//tei:listPlace/tei:place;
-declare variable $app:nationalities := distinct-values(doc(concat($app:root, "/data/authors.xml"))//tei:nationality);
+declare variable $app:nationalities := doc(concat($app:root, "/data/nationalities.xml"))//tei:item;
 declare variable $app:alphabet := ("A", "B", "C", "CH", "D", "E", "F", "G", "H", "I", "J", "K", "L", "LL",
 "M", "N", "Ñ", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z");
 
@@ -83,7 +83,7 @@ declare function app:authors($currpage as numeric, $currnationality as xs:string
             let $author-name := data:get-author-name($author-key, "surname")
             order by $author-name
             return 
-                <li><a href="{$app:home}/autor/{$author-key}">{$author-name}</a></li>
+                <li><a href="{$app:home}/autor/{$author-key}">{$author-name}</a><br/><span class="italic smaller">{data:get-author-nationality($author)}</span></li>
             }
         </ul>
         <form action="#" method="GET" style="position: absolute; top: 0; right: 0;">
@@ -120,7 +120,7 @@ declare function app:authors($currpage as numeric, $currnationality as xs:string
             </select>
             <select name="nacionalidad" onchange="this.form.submit()">
                 <option class="default" value="">nacionalidad</option>
-                {for $nac in $app:nationalities
+                {for $nac in $app:nationalities/tei:term[@type="general"]
                 order by $nac
                 return
                     <option>
@@ -148,13 +148,14 @@ declare function app:authors($currpage as numeric, $currnationality as xs:string
 declare function app:author($id as xs:string){
     let $author := $app:authors[@xml:id=$id]
     let $surname := $author/tei:persName/tei:surname/data(.)
-    let $forename := $author/tei:persName/tei:forename/data(.)
-    let $nationality := $author//tei:nationality/data(.)
+    let $author-key := $author/@xml:id
+    let $author-name := data:get-author-name($author-key, "forename")
+    let $nationality := $author/tei:nationality/data(.)
     let $birth := $author//tei:birth
     let $death := $author//tei:death
     return
     <section class="author">
-        <h2>{concat($forename, " ", $surname)}</h2>
+        <h2>{$author-name}</h2>
         <!-- to do: mit XSLT noch mehr Infos ausgeben -->
         <p>({$nationality})</p>
         {if ($birth)
@@ -234,8 +235,10 @@ declare function app:works($currpage as numeric, $currauthor as xs:string?, $cur
             for $work at $pos in $works-ordered[position() = xs:integer($currpage * 15 - 15) to xs:integer($currpage * 15)]
             let $title := data($work//tei:title)
             let $cligs-id := $work//tei:idno[@type='cligs']
+            let $author-key := $work//tei:author/@key
+            let $author-name := data:get-author-name($author-key, "forename")
             return
-                <li><a href="{$app:home}/obra/{$work/@xml:id}">{$title}</a></li>
+                <li><a href="{$app:home}/obra/{$work/@xml:id}">{$title}</a><br/><span class="italic smaller">{string-join($author-name,", ")}</span></li>
             }
         </ul>
         <form action="#" method="GET" style="position: absolute; top: 0; right: 0;">
@@ -757,6 +760,12 @@ declare function app:entities(){(
         
         <p class="sample">Ramos, José Antonio. <span class="italic">Humberto Fabra</span>.
         Gemler Hermanos: París, 1908. 2 tomos.</p>
+        
+        <p>Cuando no fue posible consultar una determinada publicación para determinar
+        cuales son las obras contenidas en ella, se acoge la publicación como tal. Por ejemplo:</p>
+        
+        <p class="sample">Zarzamendi, M. M. <span class="italic">Cuatro leyendas.</span> Edición 
+        de La República. Imprenta Políglota: México, 1883.</p>
         
         <p>Las informaciones se codifican en TEI, siguiendo los "P5: Guidelines 
         for Electronic Text Encoding and Interchange" y el capítulo 

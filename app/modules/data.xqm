@@ -219,3 +219,16 @@ declare function data:get-XML($filename as xs:string) as node()+{
     return $transform
 };
 
+
+declare function data:get-author-nationality($author as node()) as xs:string{
+    let $nat-val := $author/tei:nationality
+    let $nat-term := $app:nationalities[tei:term[@type="general"] = $nat-val]
+    let $sex := $author/tei:sex
+    return
+        if ($sex = "masculino")
+        then $nat-term/tei:term[@type="male"]
+        else if ($sex = "feminino")
+        then $nat-term/tei:term[@type="female"]
+        else $nat-term/tei:term[@type="general"]
+};
+

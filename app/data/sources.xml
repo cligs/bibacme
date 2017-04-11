@@ -63,7 +63,7 @@
                 <bibl>
                     <seg rend="italic">La Prosa Modernista.</seg> S.l., s.f. <ref target="http://www.prosamodernista.com/">http://www.prosamodernista.com/</ref>
                 </bibl>
-                <bibl>Lichtblau, Myron. <seg rend="italic">The Argentine Novel: an annotated
+                <bibl xml:id="Lichtblau">Lichtblau, Myron. <seg rend="italic">The Argentine Novel: an annotated
                         bibliography.</seg> Lanham, Maryland, 1997.</bibl>
                 <bibl>Mata, Óscar. <seg rend="italic">La novela corta mexicana en el siglo
                         XIX.</seg> México: Universidad Nacional Autónoma de México, 1999.</bibl>
