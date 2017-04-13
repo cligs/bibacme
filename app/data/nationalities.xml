@@ -37,6 +37,11 @@
                     <term type="female">argentina</term>
                 </item>
                 <item>
+                    <term type="general">chilena/o</term>
+                    <term type="male">chileno</term>
+                    <term type="female">chilena</term>
+                </item>
+                <item>
                     <term type="general">cubana/o</term>
                     <term type="male">cubano</term>
                     <term type="female">cubana</term>
@@ -50,6 +55,11 @@
                     <term type="general">mexicana/o</term>
                     <term type="male">mexicano</term>
                     <term type="female">mexicana</term>
+                </item>
+                <item>
+                    <term type="general">uruguaya/o</term>
+                    <term type="male">uruguayo</term>
+                    <term type="female">uruguaya</term>
                 </item>
                 <item>
                     <term type="general">desconocido</term>

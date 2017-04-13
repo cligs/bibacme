@@ -106,6 +106,9 @@ return
                                 <li><a
                                         href="{$app:home}/sinopsis/ediciones-por-decada"
                                         class="{local:select-nav($view, "ediciones-por-decada")}">Ediciones por década</a></li>
+                                <li><a
+                                        href="{$app:home}/sinopsis/ediciones-por-obra"
+                                        class="{local:select-nav($view, "ediciones-por-obra")}">Ediciones por obra</a></li>
                             </ul>
                         </li>
                     </ul>
@@ -181,29 +184,35 @@ return
                                                                                     then
                                                                                         app:ediciones-por-decada()
                                                                                     else
-                                                                                        <section
-                                                                                            class="index">
-                                                                                            <!-- erklären: warum die drei Länder -->
-                                                                                            <p>Bib-ACMé reune datos sobre novelas argentinas, cubanas y mexicanas que se publicaron
-                                                                                                entre 1830 y 1910.</p>
-                                                                                            <p>El objetivo de la bibliografía es sobre todo hacer posible una visión general
-                                                                                                de las novelas que se publicaron en este período y ámbito geográfico y cultural.</p>
-                                                                                            <!-- erklären: was sind die Räume, um die es geht -->
-                                                                                            <p>Bib-ACMé se basa en bibliografías existentes (sobre todo en los trabajos de Myron Lichtblau,
-                                                                                                Carlos Trelles y Juan Iguiniz), llevando los registros impresos a un entorno digital para facilitar
-                                                                                                análisis cuantitativos sobre autores, obras y ediciones que se llevan a cabo a modo de ejemplo
-                                                                                                en la sección "Sinopsis".</p>
-                                                                                            <p>Más allá de la dimensión bibliográfica, el objetivo de esta bibliografía es el de
-                                                                                                hacer posible que un corpus de novelas determinado se ponga en relación con lo que se considera
-                                                                                                el acercamiento a la población estadística, o sea el conjunto de novelas de referencia del
-                                                                                                período histórico y espacio geográfico-cultural examinado.</p>
-                                                                                            <p>El trabajo se está realizando en el contexto del proyecto <a
-                                                                                                    href="http://cligs.hypotheses.org"
-                                                                                                    target="blank">"Estilística computacional
-                                                                                                    del género literario" (CLiGS)</a>, financiado por
-                                                                                                el <a href="https://www.bmbf.de/" target="blank">Ministerio de Educación e Investigación 
-                                                                                                alemán (BMBF)</a>.</p>
-                                                                                        </section>
+                                                                                        if ($view = "ediciones-por-obra")
+                                                                                        then
+                                                                                            app:ediciones-por-obra()
+                                                                                        else
+                                                                                            <section
+                                                                                                class="index">
+                                                                                                <!-- erklären: warum die drei Länder -->
+                                                                                                <p>Bib-ACMé reune datos sobre novelas argentinas, cubanas y mexicanas que se publicaron
+                                                                                                    entre 1830 y 1910.</p>
+                                                                                                <p>El objetivo de la bibliografía es sobre todo hacer posible una visión general
+                                                                                                    de las novelas que se publicaron en este período y ámbito geográfico y cultural.</p>
+                                                                                                <!-- erklären: was sind die Räume, um die es geht -->
+                                                                                                <p>Bib-ACMé se basa en bibliografías existentes (sobre todo en los trabajos de Myron Lichtblau,
+                                                                                                    Carlos Trelles y Juan Iguiniz), llevando los registros impresos a un entorno digital para facilitar
+                                                                                                    análisis cuantitativos sobre autores, obras y ediciones que se llevan a cabo a modo de ejemplo
+                                                                                                    en la sección "Sinopsis".</p>
+                                                                                                <p>Más allá de la dimensión bibliográfica, el objetivo de esta bibliografía es el de
+                                                                                                    hacer posible que un corpus de novelas determinado se ponga en relación con lo que se considera
+                                                                                                    el acercamiento a la población estadística, o sea el conjunto de novelas de referencia del
+                                                                                                    período histórico y espacio geográfico-cultural examinado.</p>
+                                                                                                <p>El trabajo se está realizando en el contexto del proyecto <a
+                                                                                                        href="http://cligs.hypotheses.org"
+                                                                                                        target="blank">"Estilística computacional
+                                                                                                        del género literario" (CLiGS)</a>, financiado por
+                                                                                                    el <a
+                                                                                                        href="https://www.bmbf.de/"
+                                                                                                        target="blank">Ministerio de Educación e Investigación
+                                                                                                        alemán (BMBF)</a>.</p>
+                                                                                            </section>
                 }
             </main>
             <footer>

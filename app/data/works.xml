@@ -248,6 +248,713 @@
                     <term type="subgenre_title">novela de costumbres mexicanas</term>
                     <term type="subgenre_title">estudio filosófico</term>
                 </bibl>
+                <bibl xml:id="W37">
+                    <author key="A18">Zentella, Arcadio</author>
+                    <title>Perico</title>
+                    <term type="subgenre_title">esbozos a la brocha</term>
+                </bibl>
+                <bibl xml:id="W38">
+                    <author key="A19">Zambrana y Vázquez, Antonio</author>
+                    <title>El negro Francisco</title>
+                    <term target="subgenre_title">Novela orijinal de costumbres cubanas</term>
+                    <ref>http://bdigital.bnjm.cu/secciones/literatura/autores/45/obras/45_332.pdf</ref>
+                </bibl>
+                <bibl xml:id="W39">
+                    <author key="A20">Zéndegui, Gabriel de</author>
+                    <title>El bombero</title>
+                </bibl>
+                <bibl xml:id="W40">
+                    <author key="A21">Valle, Adrián del</author>
+                    <title>Marta</title>
+                </bibl>
+                <bibl xml:id="W41">
+                    <author key="A22">Villaverde, Cirilo</author>
+                    <title>La peña blanca</title>
+                </bibl>
+                <bibl xml:id="W42">
+                    <author key="A22">Villaverde, Cirilo</author>
+                    <title>La joven de la flecha de oro</title>
+                    <term type="subgenre_title">historia habanera</term>
+                    <idno type="cligs">nh0188</idno>
+                </bibl>
+                <bibl xml:id="W43">
+                    <author key="A22">Villaverde, Cirilo</author>
+                    <title>El espetón de oro</title>
+                    <term type="subgenre_title">novela cubana</term>
+                </bibl>
+                <bibl xml:id="W44">
+                    <author key="A22">Villaverde, Cirilo</author>
+                    <title>Teresa</title>
+                    <term type="subgenre_title">novela original</term>
+                </bibl>
+                <bibl xml:id="W45">
+                    <author key="A22">Villaverde, Cirilo</author>
+                    <title>Cecilia Valdés; o, La loma del Ángel</title>
+                    <term type="subgenre_title">novela cubana</term>
+                    <term type="subgenre_title">novela de costumbres cubanas</term>
+                </bibl>
+                <bibl xml:id="W46">
+                    <author key="A22">Villaverde, Cirilo</author>
+                    <title>El penitente</title>
+                    <term type="subgenre_title">novela histórica cubana</term>
+                </bibl>
+                <bibl xml:id="W47">
+                    <author key="A22">Villaverde, Cirilo</author>
+                    <title>Comunidad de nombres y apellidos</title>
+                    <term type="subgenre_title">novela original</term>
+                </bibl>
+                <bibl xml:id="W48">
+                    <author key="A22">Villaverde, Cirilo</author>
+                    <title>El guajiro</title>
+                    <term type="subgenre_title">cuadro de costumbres cubanas</term>
+                    <idno type="cligs">nh0001</idno>
+                </bibl>
+                <bibl xml:id="W49">
+                    <author key="A22">Villaverde, Cirilo</author>
+                    <title>Dos amores</title>
+                    <term type="subgenre_title">novela original cubana</term>
+                    <!-- comentario en Trelles XIX, t. 4, p. 86 -->
+                </bibl>
+                <bibl xml:id="W50">
+                    <author key="A22">Villaverde, Cirilo</author>
+                    <title>El ave muerta</title>
+                </bibl>
+                <bibl xml:id="W51">
+                    <author key="A22">Villaverde, Cirilo</author>
+                    <title>El perjurio</title>
+                </bibl>
+                <bibl xml:id="W52">
+                    <author key="A22">Villaverde, Cirilo</author>
+                    <title>La tejedora de sombreros de yarey</title>
+                </bibl>
+                <bibl xml:id="W53">
+                    <author key="A23">Vinageras, Antonio</author>
+                    <title>Enriqueta</title>
+                    <term type="subgenre_title">novela original</term>
+                </bibl>
+                <bibl xml:id="W54">
+                    <author key="A24">Babuglia, Antonio</author>
+                    <title>Nenna</title>
+                    <!-- resumen en Lichtblau -->
+                </bibl>
+                <bibl xml:id="W55">
+                    <author key="A24">Babuglia, Antonio</author>
+                    <title>Wanda</title>
+                    <term type="subgenre_lithist">naturalistic novel</term>
+                    <!-- resumen en Lichtblau -->
+                </bibl>
+                <bibl xml:id="W56">
+                    <author key="A25">Bahamonde, Manuel</author>
+                    <title>Abismos</title>
+                </bibl>
+                <bibl xml:id="W57">
+                    <author key="A25">Bahamonde, Manuel</author>
+                    <title>Borrascas</title>
+                </bibl>
+                <bibl xml:id="W58">
+                    <author key="A25">Bahamonde, Manuel</author>
+                    <title>Buenos Aires novelesco</title>
+                </bibl>
+                <bibl xml:id="W59">
+                    <author key="A25">Bahamonde, Manuel</author>
+                    <title>Mareos</title>
+                    <term type="subgenre_title">novela americana</term>
+                </bibl>
+                <bibl xml:id="W60">
+                    <author key="A25">Bahamonde, Manuel</author>
+                    <title>El último Dobaiba</title>
+                </bibl>
+                <bibl xml:id="W61">
+                    <author key="A26">Barbara, Federico</author>
+                    <title>El prisionero de Santos Lugares</title>
+                    <term type="subgenre_title">historia-novela original contemporánea</term>
+                    <note type="subgenre_lithist" source="#Lichtblau">a scathing denunciation of the
+                        Rosas regime</note>
+                    <!-- resumen en Lichtblau -->
+                </bibl>
+                <bibl xml:id="W62">
+                    <author key="A27">Barra, Emma de la</author>
+                    <title>El manantial</title>
+                </bibl>
+                <bibl xml:id="W63">
+                    <author key="A27">Barra, Emma de la</author>
+                    <title>Mecha Iturbe</title>
+                </bibl>
+                <bibl xml:id="W64">
+                    <author key="A27">Barra, Emma de la</author>
+                    <title>Stella</title>
+                    <term type="subgenre_title">novela de costumbres argentinas</term>
+                    <note type="subgenre_lithist" source="#Lichtblau">story of female
+                        development</note>
+                    <!-- resumen en Lichtblau -->
+                </bibl>
+                <bibl xml:id="W65">
+                    <author key="A28">Barra, Federico de la</author>
+                    <title>La presidencia</title>
+                    <!-- comentario en Lichtblau -->
+                </bibl>
+                <bibl xml:id="W66">
+                    <author key="A29">Barreda, Rafael</author>
+                    <title>Magistrados que matan</title>
+                </bibl>
+                <bibl xml:id="W67">
+                    <author key="A29">Barreda, Rafael</author>
+                    <title>Pepe Larrica</title>
+                </bibl>
+                <bibl xml:id="W68">
+                    <author key="A29">Barreda, Rafael</author>
+                    <title>La pera envenenada</title>
+                    <note type="subgenre_lithist" source="#Lichtblau">narración de un espantoso
+                        crimen</note>
+                    <!-- comentario en Lichtblau -->
+                </bibl>
+                <bibl xml:id="W69">
+                    <author key="A30">Bermejo, Ildefonso Antonio</author>
+                    <title>El ángel de mi guardia</title>
+                    <note type="subgenre_lithist" source="#Lichtblau">an unlikely, romantic
+                        story</note>
+                    <!-- comentario en Lichtblau -->
+                </bibl>
+                <bibl xml:id="W70">
+                    <author key="A30">Bermejo, Ildefonso Antonio</author>
+                    <title>El esclavo</title>
+                </bibl>
+                <bibl xml:id="W71">
+                    <author key="A30">Bermejo, Ildefonso Antonio</author>
+                    <title>María Estuardo</title>
+                </bibl>
+                <bibl xml:id="W72">
+                    <author key="A30">Bermejo, Ildefonso Antonio</author>
+                    <title>Un presentimiento</title>
+                </bibl>
+                <bibl xml:id="W73">
+                    <author key="A31">Bertal, O.</author>
+                    <title>Un recuerdo de carnaval</title>
+                    <term type="subgenre_title">un recuerdo</term>
+                    <!-- resumen en Lichtblau -->
+                </bibl>
+                <bibl xml:id="W74">
+                    <author key="A32">Blanco, Angel Julio</author>
+                    <title>Una venganza funesta</title>
+                    <note type="subgenre_lithist" source="#Lichtblau">typical extravangances of
+                        romantic fiction [...] attacks social and economic injustices</note>
+                    <!-- comentario en Lichtblau -->
+                </bibl>
+                <bibl xml:id="W75">
+                    <author key="A32">Blanco, Angel Julio</author>
+                    <title>Emeterio de Leao</title>
+                    <note source="#Lichtblau">Continuación de Una venganza funesta.</note>
+                    <!-- resumen en Lichtblau -->
+                </bibl>
+                <bibl xml:id="W76">
+                    <author key="A32">Blanco, Angel Julio</author>
+                    <title>Luis y Estevan</title>
+                    <note type="subgenre_lithist" source="#Lichtblau">improbable story [...] much
+                        descriptive material on Buenos Aires</note>
+                    <!-- resumen en Lichtblau -->
+                </bibl>
+                <bibl xml:id="W77">
+                    <author key="A33">Blanco, C. M.</author>
+                    <title>Salvaje</title>
+                    <term type="subgenre_title">novela argentina</term>
+                    <!-- resumen en Lichtblau -->
+                </bibl>
+                <bibl xml:id="W78">
+                    <author key="A34">Blanlot, Anselmo</author>
+                    <title>¡Revolución!</title>
+                    <term type="subgenre_title">novela histórica americana</term>
+                </bibl>
+                <bibl xml:id="W79">
+                    <author key="A35">Blomberg, Carlos</author>
+                    <title>El doctor Jacobo</title>
+                    <term type="subgenre_title">estudio social</term>
+                    <note type="subgenre_lithist" source="#Lichtblau">horrifying experiments of an
+                        insane medical scientist who wants to destroy humanity</note>
+                    <!-- resumen en Lichtblau -->
+                </bibl>
+                <bibl xml:id="W80">
+                    <author key="A36">Bosch, Gonzalo</author>
+                    <title>Nieve</title>
+                    <term type="subgenre_title">novela de costumbres</term>
+                </bibl>
+                <bibl xml:id="W81">
+                    <author key="A37">Browne, Miguel</author>
+                    <title>La primera conquista de Esther</title>
+                    <note type="subgenre_lithist" source="#Lichtblau">deals with Patricio's
+                        courtship of Esther</note>
+                    <!-- resumen en Lichtblau -->
+                </bibl>
+                <bibl xml:id="W82">
+                    <author key="A38">Bunge, Carlos Octavio</author>
+                    <title>Mi amigo Luis</title>
+                    <term type="subgenre_lithist">epistolary novel</term>
+                    <note type="subgenre_lithist" source="#Lichtblau">psychological insight into
+                        several amorous relationships</note>
+                    <!-- resumen en Lichtblau -->
+                </bibl>
+                <bibl xml:id="W83">
+                    <author key="A38">Bunge, Carlos Octavio</author>
+                    <title>La novela de la sangre</title>
+                    <term type="subgenre_title">novela histórica argentina</term>
+                    <idno type="cligs">nh0081</idno>
+                    <ref>http://www.ellibrototal.com/ltotal/ficha.jsp?idLibro=3725</ref>
+                </bibl>
+                <bibl xml:id="W84">
+                    <author key="A38">Bunge, Carlos Octavio</author>
+                    <title>Xarcas silenciario</title>
+                </bibl>
+                <bibl xml:id="W85">
+                    <author key="A38">Bunge, Carlos Octavio</author>
+                    <title>La madrina de Lita</title>
+                </bibl>
+                <bibl xml:id="W86">
+                    <author key="A38">Bunge, Carlos Octavio</author>
+                    <title>El último grande de España</title>
+                </bibl>
+                <bibl xml:id="W87">
+                    <author key="A38">Bunge, Carlos Octavio</author>
+                    <title>El capitán Pérez</title>
+                </bibl>
+                <bibl xml:id="W88">
+                    <author key="A38">Bunge, Carlos Octavio</author>
+                    <title>La sirena</title>
+                </bibl>
+                <bibl xml:id="W89">
+                    <author key="A38">Bunge, Carlos Octavio</author>
+                    <title>La perfidia femenina</title>
+                </bibl>
+                <bibl xml:id="W90">
+                    <author key="A39">Valle, Guillermo del</author>
+                    <title>El Castillo de Lunel</title>
+                    <term type="subgenre_title">novela fantástica</term>
+                </bibl>
+                <bibl xml:id="W91">
+                    <author key="A39">Valle, Guillermo del</author>
+                    <title>El Millón de Libras Esterlinas</title>
+                    <term type="subgenre_title">novela original</term>
+                </bibl>
+                <bibl xml:id="W92">
+                    <author key="A39">Valle, Guillermo del</author>
+                    <title>Los Imperiales</title>
+                </bibl>
+                <bibl xml:id="W93">
+                    <author key="A40">Valle, Ramón</author>
+                    <title>Virgen del Valle</title>
+                </bibl>
+                <bibl xml:id="W94">
+                    <author key="A40">Valle, Ramón</author>
+                    <title>Amar odiando</title>
+                </bibl>
+                <bibl xml:id="W95">
+                    <author key="A41">Valle de Santiesteban, J.</author>
+                    <title>Los amantes de Udalla</title>
+                    <term type="subgenre_title">novela histórica</term>
+                </bibl>
+                <bibl xml:id="W96">
+                    <author key="A42">Valles, Rodolfo</author>
+                    <title>Alberto o Historia de Dos Amantes</title>
+                </bibl>
+                <bibl xml:id="W97">
+                    <author key="A43">Vázquez, Andrés Clemente</author>
+                    <title>Enriqueta Fáber</title>
+                    <term type="subgenre_title">ensayo de novela histórica</term>
+                </bibl>
+                <bibl xml:id="W98">
+                    <author key="A44">Vélez, Ismael</author>
+                    <title>Pancho Pérez</title>
+                    <term type="subgenre_title">novela de costumbres</term>
+                </bibl>
+                <bibl xml:id="W99">
+                    <author key="A45">Veras, Filidoro</author>
+                    <title>Mari Stairs</title>
+                </bibl>
+                <bibl xml:id="W100">
+                    <author key="A46">Vigil y Robles, José</author>
+                    <title>El dinero</title>
+                </bibl>
+                <bibl xml:id="W101">
+                    <author key="A47">Villa Gordoa, Jesús</author>
+                    <title>María de la Asunción</title>
+                    <term type="subgenre_title">leyenda histórica</term>
+                </bibl>
+                <bibl xml:id="W102">
+                    <author key="A48">Villa Gordoa, José</author>
+                    <title>Noches de invierno</title>
+                    <term type="subgenre_title">reflexiones</term>
+                </bibl>
+                <bibl xml:id="W103">
+                    <author key="A49">Villamor y Armendariz, Manuel Cecilio</author>
+                    <title>Agripina y su duende</title>
+                    <term type="subgenre_title">episodio histórico</term>
+                </bibl>
+                <bibl xml:id="W104">
+                    <author key="A50">Villanueva, Agustín</author>
+                    <title>Un millonario en diez años</title>
+                </bibl>
+                <bibl xml:id="W105">
+                    <author key="A51">Villanueva, Mariano</author>
+                    <title>Memorias fantásticas del pájaro verde</title>
+                    <term type="subgenre_title">memorias</term>
+                </bibl>
+                <bibl xml:id="W106">
+                    <author key="A52">Villanueva y Francesconi, Mariano</author>
+                    <title>Verdades y cuentos de Juan Verdad</title>
+                </bibl>
+                <bibl xml:id="W107">
+                    <author key="A53">Villaseñor y Villaseñor, Alejandro</author>
+                    <title>Memorias de un estudiante</title>
+                    <term type="subgenre_title">memorias</term>
+                    <term type="subgenre_title">novela histórica mexicana</term>
+                </bibl>
+                <bibl xml:id="W108">
+                    <author key="A54">C.</author>
+                    <title>Los celos y la electricidad</title>
+                    <!-- resumen en Lichtblau -->
+                </bibl>
+                <bibl xml:id="W109">
+                    <author key="A54">C.</author>
+                    <title>El ex-abrupto de don Cándido</title>
+                    <!-- resumen en Lichtblau -->
+                </bibl>
+                <bibl xml:id="W110">
+                    <author key="A55">Cabales, Claudio</author>
+                    <title>Luisa Kiernan</title>
+                    <note type="subgenre_lithist" source="#Lichtblau">Historia de un centro
+                        agrícola.</note>
+                </bibl>
+                <bibl xml:id="W111">
+                    <author key="A56">Cabral, José Victoriano</author>
+                    <title>Amelia de Floriani o el castillo del diablo</title>
+                    <term type="subgenre_title">novela histórica</term>
+                    <note type="subgenre_lithist" source="#Lichtblau">a rambling, tedious, and
+                        complex romantic novel</note>
+                    <!-- resumen en Lichtblau -->
+                </bibl>
+                <bibl xml:id="W112">
+                    <author key="A56">Cabral, José Victoriano</author>
+                    <title>La campaña de San Telmo y la conspiración de 1839 contra el dictador
+                        Rosas</title>
+                    <note type="subgenre_lithist" source="#Lichtblau">forerunner of the documentary
+                        novel</note>
+                    <!-- resumen en Lichtblau -->
+                    <ref>https://archive.org/details/lacampanadesant00cabrgoog</ref>
+                    <ref>https://catalog.hathitrust.org/Record/100356151</ref>
+                </bibl>
+                <bibl xml:id="W113">
+                    <author key="A56">Cabral, José Victoriano</author>
+                    <title>Lina Montalván, o el terremoto que destruyó el Callao y la ciudad de Lima
+                        en 1746</title>
+                    <note type="subgenre_lithist" source="#Lichtblau">story of two lowers [...]
+                        vivid description of the city of Lima before and after the
+                        catastrophe</note>
+                    <!-- resumen en Lichtblau -->
+                    <ref>https://catalog.hathitrust.org/Record/007371558</ref>
+                    <ref>https://catalog.hathitrust.org/Record/100999610</ref>
+                    <ref>https://archive.org/details/linamontalvnoel00cabrgoog</ref>
+                </bibl>
+                <bibl xml:id="W114">
+                    <author key="A57">Calandrelli, Matías</author>
+                    <title>La sociedad y sus víctimas</title>
+                    <note type="subgenre_lithist" source="#Lichtblau">Calandrelli publicó <seg
+                            rend="italic">La sociedad y sus víctimas</seg> para desnudar ese
+                        comercio (explotación de las mujeres)</note>
+                    <!-- resumen en Lichtblau -->
+                </bibl>
+                <bibl xml:id="W115">
+                    <author key="A58">Cambaceres, Eugenio</author>
+                    <title>Sin rumbo</title>
+                    <idno type="cligs">nh0011</idno>
+                    <note type="subgenre_lithist" source="#Lichtblau">naturalistic fiction [...]
+                        presents the tragic fate of a misanthropic owner of a sheep ranch</note>
+                    <!-- resumen en Lichtblau -->
+                </bibl>
+                <bibl xml:id="W116">
+                    <author key="A58">Cambaceres, Eugenio</author>
+                    <title>En la sangre</title>
+                    <note type="subgenre_lithist" source="#Lichtblau">follows Emile Zola's doctrine
+                        of determinism [...] protagonist Genaro, the son of 'lower-class' Italian
+                        immigrants, the worst possible hereditary factors and even more pernicious
+                        environment</note>
+                    <idno type="cligs">nh0012</idno>
+                    <!-- resumen en Lichtblau -->
+                </bibl>
+                <bibl xml:id="W117">
+                    <author key="A58">Cambaceres, Eugenio</author>
+                    <title>Música sentimental—silbidos de un vago</title>
+                    <note type="subgenre_lithist" source="#Lichtblau">portrays a young Argentine in
+                        Paris who dissipates his money and undermines his health in a life of
+                        frivolity and vice</note>
+                    <idno type="cligs">nh0034</idno>
+                    <!-- resumen en Lichtblau -->
+                </bibl>
+                <bibl xml:id="W118">
+                    <author key="A58">Cambaceres, Eugenio</author>
+                    <title>Pot-pourri—silbidos de un vago</title>
+                    <note type="subgenre_lithist" source="#Lichtblau">it vaguely narrates [...] a
+                        sordid adulterous love [...] bitter satire [...] to scoff at 'porteño'
+                        society</note>
+                    <idno type="cligs">nh0057</idno>
+                    <!-- resumen en Lichtblau -->
+                </bibl>
+                <bibl xml:id="W119">
+                    <author key="A59">Campo, Cupertino del</author>
+                    <title>El romance de un médico</title>
+                    <note type="subgenre_lithist" source="#Lichtblau">colorful portrayal, in the
+                        'costumbrista' manner, of life in Buenos Aires at the turn of the
+                        century</note>
+                    <!-- resumen en Lichtblau -->
+                </bibl>
+                <bibl xml:id="W120">
+                    <author key="A60">Campo, Estanislao del</author>
+                    <title>Camila, o la virtud triunfante</title>
+                    <note type="subgenre_lithist" source="#Lichtblau">early romantic novel of love,
+                        hate and violence</note>
+                    <!-- resumen en Lichtblau -->
+                </bibl>
+                <bibl xml:id="W121">
+                    <author key="A61">Cané, Miguel</author>
+                    <title>Esther</title>
+                    <note type="subgenre_lithist" source="#Lichtblau">pale reflection of French
+                        romantic models</note>
+                    <!-- resumen en Lichtblau -->
+                </bibl>
+                <bibl xml:id="W122">
+                    <author key="A61">Cané, Miguel</author>
+                    <title>Eugenio Segry, o el Traviato</title>
+                    <note type="subgenre_lithist" source="#Lichtblau">a Cuban medical student in
+                        Paris, falls in love with Clementina, an Austrian woman married to an
+                        ambitious alcoholic</note>
+                    <!-- resumen en Lichtblau -->
+                </bibl>
+                <bibl xml:id="W123">
+                    <author key="A61">Cané, Miguel</author>
+                    <title>La familia de Sconner</title>
+                    <note type="subgenre_lithist" source="#Lichtblau">imitation of Cané's European
+                        models [...] story [...] of a protracted legal struggle</note>
+                    <!-- resumen en Lichtblau -->
+                </bibl>
+                <bibl xml:id="W124">
+                    <author key="A61">Cané, Miguel</author>
+                    <title>Una noche de boda</title>
+                    <note type="subgenre_lithist" source="#Lichtblau">Conrado, captain of a rebel
+                        grenadier regiment, and Ignacio Rodríguez, a wealthy Spaniard, contend not
+                        only for a woman's affection, but for their ideological principles.</note>
+                    <!-- resumen en Lichtblau -->
+                </bibl>
+                <bibl xml:id="W125">
+                    <author key="A61">Cané, Miguel (p.)</author>
+                    <title>Dos pensamientos</title>
+                </bibl>
+                <bibl xml:id="W126">
+                    <author key="A61">Cané, Miguel (p.)</author>
+                    <title>Una historia</title>
+                    <title type="alt">Marcelina</title>
+                </bibl>
+                <bibl xml:id="W127">
+                    <author key="A61">Cané, Miguel (p.)</author>
+                    <title>Episodio de la peste: Cora o la partida de caza</title>
+                </bibl>
+                <bibl xml:id="W128">
+                    <author key="A62">Cané, Miguel (h.)</author>
+                    <title>Juvenilia</title>
+                    <idno type="cligs">nh0028</idno>
+                    <note type="subgenre_lithist" source="#Lichtblau">Es relato autobiográfico más
+                        que novela.</note>
+                    <!-- resumen en Lichtblau -->
+                </bibl>
+                <bibl xml:id="W129">
+                    <author key="A63">Cantilo, José Luis</author>
+                    <title>Quimera</title>
+                    <term type="subgenre_title">boceto de costumbres</term>
+                    <idno type="cligs">nh0039</idno>
+                    <!-- resumen en Lichtblau -->
+                </bibl>
+                <bibl xml:id="W130">
+                    <author key="A64">Cantilo, José María</author>
+                    <title>La familia Quillango</title>
+                    <!-- resumen en Lichtblau -->
+                </bibl>
+                <bibl xml:id="W131">
+                    <author key="A65">Carballido, Pastor M.</author>
+                    <title>Días sombríos</title>
+                    <term type="subgenre_title">novela original</term>
+                    <!-- resumen en Lichtblau -->
+                </bibl>
+                <bibl xml:id="W132">
+                    <author key="A66">Castilla Aguilar, A.</author>
+                    <title>Hogar sin fuego</title>
+                    <term type="subgenre_title">novela social</term>
+                </bibl>
+                <bibl xml:id="W133">
+                    <author key="A67">Ceppi, José</author>
+                    <title>Hidalguía española</title>
+                    <term type="subgenre_title">narración militar</term>
+                </bibl>
+                <bibl xml:id="W134">
+                    <author key="A67">Ceppi, José</author>
+                    <title>Lejos del terruño</title>
+                </bibl>
+                <bibl xml:id="W135">
+                    <author key="A68">Clermont, Enrique de</author>
+                    <title>Joselín</title>
+                </bibl>
+                <bibl xml:id="W136">
+                    <author key="A68">Clermont, Enrique de</author>
+                    <title>El sacrificio</title>
+                </bibl>
+                <bibl xml:id="W137">
+                    <author key="A69">Coronado, Martín</author>
+                    <title>La bandera</title>
+                    <!-- resumen en Lichtblau -->
+                    <note type="subgenre_lithist" source="#Lichtblau">relato de las peripecias
+                        ocasionadas por el bloqueo anglo-francés del Río de la Plata, cuando el
+                        combate de La Vuelta de Obligado</note>
+                </bibl>
+                <bibl xml:id="W138">
+                    <author key="A70">Cubillos Rodríguez, Máximo</author>
+                    <title>La noche del terremoto</title>
+                </bibl>
+                <bibl xml:id="W139">
+                    <author key="A71">Cursach, Antonio</author>
+                    <title>Los enemigos del alma</title>
+                </bibl>
+                <bibl xml:id="W140">
+                    <author key="A72">Chiappori, Atilio Manuel</author>
+                    <title>Borderland</title>
+                    <term type="subgenre_title">cuentos cíclicos</term>
+                </bibl>
+                <bibl xml:id="W141">
+                    <author key="A72">Chiappori, Atilio Manuel</author>
+                    <title>La eterna angustia</title>
+                </bibl>
+                <bibl xml:id="W142">
+                    <author key="A73">Churruca, Bachiller</author>
+                    <title>Los hombres de dos caras</title>
+                </bibl>
+                <bibl xml:id="W143">
+                    <author key="A73">Churruca, Bachiller</author>
+                    <title>Políticos del día-tipos y escenas electorales</title>
+                    <note type="subgenre_lithist" source="#Lichtblau">portrays the inordinate
+                        interest in politics</note>
+                    <!-- resumen en Lichtblau -->
+                </bibl>
+                <bibl xml:id="W144">
+                    <author key="A74">Ulloa, Ambrosio</author>
+                    <title>Entre dos abismos</title>
+                    <term type="subgenre_title">de mis experiencias psicológicas</term>
+                </bibl>
+                <bibl xml:id="W145">
+                    <author key="A74">Ulloa, Ambrosio</author>
+                    <title>La chismografía de esta tierra</title>
+                    <term type="subgenre_title">de mis recuerdos</term>
+                </bibl>
+                <bibl xml:id="W146">
+                    <author key="A74">Ulloa, Ambrosio</author>
+                    <title>Una auto-novela tapatía</title>
+                    <term type="subgenre_title">auto-novela</term>
+                </bibl>
+                <bibl xml:id="W147">
+                    <author key="A75">Un Michoacano</author>
+                    <title>El bálsamo del dolor</title>
+                    <term type="subgenre_title">novela moral</term>
+                </bibl>
+                <bibl xml:id="W148">
+                    <author key="A76">Téllez Rendón, María Nestora</author>
+                    <title>Staurófila</title>
+                    <term type="subgenre_title">cuento alegórico</term>
+                    <term type="subgenre_title">parábola</term>
+                </bibl>
+                <bibl xml:id="W149">
+                    <author key="A77">Tovar, Pantaleón</author>
+                    <title>Ironías de la vida</title>
+                    <term type="subgenre_title">novela de costumbres nacionales</term>
+                </bibl>
+                <bibl xml:id="W150">
+                    <author key="A77">Tovar, Pantaleón</author>
+                    <title>La hora de Dios</title>
+                    <term type="subgenre_title">novela de costumbres mejicanas</term>
+                </bibl>
+                <bibl xml:id="W151">
+                    <author key="A78">Trebarra, Napoleón</author>
+                    <title>Los misterios de Chan Santa Cruz</title>
+                </bibl>
+                <bibl xml:id="W152">
+                    <author key="A79">Salado Álvarez, Victoriano</author>
+                    <title>De Santa Anna a la Reforma</title>
+                    <term type="subgenre_title">memorias</term>
+                    <term type="subgenre_title">relato anecdótico</term>
+                </bibl>
+                <bibl xml:id="W153">
+                    <author key="A79">Salado Álvarez, Victoriano</author>
+                    <title>La Intervención y el Imperio (1861-1867)</title>
+                    <term type="subgenre_title">episodios nacionales mexicanos</term>
+                </bibl>
+                <bibl xml:id="W154">
+                    <author key="A80">Salas y Quiroga, Jacinto de</author>
+                    <title>El dios del siglo</title>
+                    <term type="subgenre_title">novela original de costumbres contemporáneas</term>
+                </bibl>
+                <bibl xml:id="W155">
+                    <author key="A81">San-Germán, Arnulfo</author>
+                    <title>Hortensia</title>
+                </bibl>
+                <bibl xml:id="W156">
+                    <author key="A82">San Juan, Manuel H.</author>
+                    <title>El Señor Gobernador</title>
+                    <term type="subgenre_title">breves apuntamientos sobre cosas nacionales del
+                        siglo pasado</term>
+                </bibl>
+                <bibl xml:id="W157">
+                    <author key="A83">Sánchez Arce, Abraham</author>
+                    <title>¡Grito de independencia!</title>
+                    <term type="subgenre_title">novela mexicana</term>
+                </bibl>
+                <bibl xml:id="W158">
+                    <author key="A83">Sánchez Arce, Abraham</author>
+                    <title>El ladrón de la casa de cambio</title>
+                    <term type="subgenre_title">novela mexicana</term>
+                </bibl>
+                <bibl xml:id="W159">
+                    <author key="A83">Sánchez Arce, Abraham</author>
+                    <title>Misterios de un consultorio</title>
+                    <term type="subgenre_title">novela mexicana</term>
+                </bibl>
+                <bibl xml:id="W160">
+                    <author key="A83">Sánchez Arce, Abraham</author>
+                    <title>Pasión de tiple</title>
+                </bibl>
+                <bibl xml:id="W161">
+                    <author key="A83">Sánchez Arce, Abraham</author>
+                    <title>Peregrinación de Juárez</title>
+                    <term type="subgenre_title">novela histórica mexicana</term>
+                </bibl>
+                <bibl xml:id="W162">
+                    <author key="A84">Sánchez Mármol, Manuel</author>
+                    <title>Antón Pérez</title>
+                    <ref>http://www.archivos.ujat.mx/2011/difusion/libros/27.pdf</ref>
+                </bibl>
+                <bibl xml:id="W163">
+                    <author key="A84">Sánchez Mármol, Manuel</author>
+                    <title>Previvida</title>
+                    <ref>http://www.archivos.ujat.mx/2011/difusion/libros/27.pdf</ref>
+                </bibl>
+                <bibl xml:id="W164">
+                    <author key="A84">Sánchez Mármol, Manuel</author>
+                    <title>La Venganza de una Injuria</title>
+                    <term type="subgenre_title">novela episódica</term>
+                    <ref>http://www.archivos.ujat.mx/2011/difusion/libros/26.pdf</ref>
+                </bibl>
+                <bibl xml:id="W165">
+                    <author key="A84">Sánchez Mármol, Manuel</author>
+                    <title>Pocahontas</title>
+                    <term type="subgenre_title">relación fantástica</term>
+                    <ref>http://www.archivos.ujat.mx/2011/difusion/libros/26.pdf</ref>
+                </bibl>
+                <bibl xml:id="W166">
+                    <author key="A84">Sánchez Mármol, Manuel</author>
+                    <title>Juanita Sousa</title>
+                    <ref>http://www.archivos.ujat.mx/2011/difusion/libros/26.pdf</ref>
+                </bibl>
             </listBibl>
         </body>
     </text>

@@ -67,7 +67,7 @@ declare function overviews:histogram($params as map, $data as map){
           x: ['{string-join($data("x"),"','")}'],
           type: 'histogram',
           marker: {{color: 'green'}},
-          name: 'autores',
+          name: '{$params("legend-name")}',
           xbins: {{size: 1}}
         }}];
   

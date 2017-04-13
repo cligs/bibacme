@@ -535,79 +535,9 @@
                     <title>La muerte de un héroe</title>
                     <idno type="cligs">nh0056</idno>
                 </bibl>
-                <bibl xml:id="W103">
-                    <author key="A7">Villaverde, Cirilo</author>
-                    <title>La peña blanca</title>
-                </bibl>
                 <bibl xml:id="W104">
                     <author key="A24">Gutiérrez, Eduardo</author>
                     <title>La muerte de Buenos Aires</title>
-                </bibl>
-                <bibl xml:id="W105">
-                    <author key="A7">Villaverde, Cirilo</author>
-                    <title>La joven de la flecha de oro</title>
-                    <idno type="cligs">nh0188</idno>
-                </bibl>
-                <bibl xml:id="W106">
-                    <author key="A7">Villaverde, Cirilo</author>
-                    <title>El espetón de oro</title>
-                </bibl>
-                <bibl xml:id="W107">
-                    <author key="A7">Villaverde, Cirilo</author>
-                    <title>Teresa</title>
-                </bibl>
-                <bibl xml:id="W108">
-                    <author key="A7">Villaverde, Cirilo</author>
-                    <title>Cecilia Valdés; o, La loma del Ángel</title>
-                </bibl>
-                <bibl xml:id="W109">
-                    <author key="A7">Villaverde, Cirilo</author>
-                    <title>El penitente</title>
-                </bibl>
-                <bibl xml:id="W110">
-                    <author key="A7">Villaverde, Cirilo</author>
-                    <title>Comunidad de nombres y apellidos</title>
-                </bibl>
-                <bibl xml:id="W111">
-                    <author key="A7">Villaverde, Cirilo</author>
-                    <title>El guajiro</title>
-                    <idno type="cligs">nh0001</idno>
-                </bibl>
-                <bibl xml:id="W112">
-                    <author key="A7">Villaverde, Cirilo</author>
-                    <title>Dos amores</title>
-                </bibl>
-                <bibl xml:id="W113">
-                    <author key="A7">Villaverde, Cirilo</author>
-                    <title>El ave muerta</title>
-                </bibl>
-                <bibl xml:id="W114">
-                    <author key="A7">Villaverde, Cirilo</author>
-                    <title>El perjurio</title>
-                </bibl>
-                <bibl xml:id="W115">
-                    <author key="A7">Villaverde, Cirilo</author>
-                    <title>La tejedora de sombreros de yarey</title>
-                </bibl>
-                <bibl xml:id="W116">
-                    <author key="A25">Cambaceres, Eugenio</author>
-                    <title>Sin rumbo</title>
-                    <idno type="cligs">nh0011</idno>
-                </bibl>
-                <bibl xml:id="W117">
-                    <author key="A25">Cambaceres, Eugenio</author>
-                    <title>En la sangre</title>
-                    <idno type="cligs">nh0012</idno>
-                </bibl>
-                <bibl xml:id="W118">
-                    <author key="A25">Cambaceres, Eugenio</author>
-                    <title>Música sentimental—silbidos de un vago</title>
-                    <idno type="cligs">nh0034</idno>
-                </bibl>
-                <bibl xml:id="W119">
-                    <author key="A25">Cambaceres, Eugenio</author>
-                    <title>Pot-pourri—silbidos de un vago</title>
-                    <idno type="cligs">nh0057</idno>
                 </bibl>
                 <bibl xml:id="W120">
                     <author key="A26">Frías, Heriberto</author>
@@ -1099,34 +1029,6 @@
                     <author key="A94">Oteyza Bustamante, José</author>
                     <title>Un acontecimiento en Tucumán</title>
                 </bibl>
-                <bibl xml:id="W258">
-                    <author key="A95">Valle, Guillermo del</author>
-                    <title>El Castillo de Lunel</title>
-                </bibl>
-                <bibl xml:id="W259">
-                    <author key="A95">Valle, Guillermo del</author>
-                    <title>El Millón de Libras Esterlinas</title>
-                </bibl>
-                <bibl xml:id="W260">
-                    <author key="A95">Valle, Guillermo del</author>
-                    <title>Los Imperiales</title>
-                </bibl>
-                <bibl xml:id="W261">
-                    <author key="A96">Valle, Ramón</author>
-                    <title>Virgen del Valle</title>
-                </bibl>
-                <bibl xml:id="W262">
-                    <author key="A96">Valle, Ramón</author>
-                    <title>Amar odiando</title>
-                </bibl>
-                <bibl xml:id="W263">
-                    <author key="A97">Valle de Santiesteban, J.</author>
-                    <title>Los amantes de Udalla</title>
-                </bibl>
-                <bibl xml:id="W264">
-                    <author key="A98">Valles, Rodolfo</author>
-                    <title>Alberto o Historia de Dos Amantes</title>
-                </bibl>
                 <bibl xml:id="W265">
                     <author key="A99">Merlin, C. de</author>
                     <title>Historia de la hermana Santa Inés</title><!-- Roman? -->
@@ -1350,19 +1252,6 @@
                 <bibl xml:id="W317">
                     <author key="A107">Guerrero Pallarés, Teodoro</author>
                     <title>La nube negra</title>
-                </bibl>
-                <bibl xml:id="W318">
-                    <author key="A108">Bunge, Carlos Octavio</author>
-                    <title>Mi amigo Luis</title>
-                </bibl>
-                <bibl xml:id="W319">
-                    <author key="A108">Bunge, Carlos Octavio</author>
-                    <title>La novela de la sangre</title>
-                    <idno type="cligs">nh0081</idno>
-                </bibl>
-                <bibl xml:id="W320">
-                    <author key="A108">Bunge, Carlos Octavio</author>
-                    <title>Xarcas silenciario</title>
                 </bibl>
                 <bibl xml:id="W321">
                     <author key="A63">Sicardi, Francisco A.</author>
@@ -1953,11 +1842,6 @@
                     <title>La gran aldea</title>
                     <idno type="cligs">nh0027</idno>
                 </bibl>
-                <bibl xml:id="W455">
-                    <author key="A155">Cané, Miguel</author>
-                    <title>Juvenilia</title>
-                    <idno type="cligs">nh0028</idno>
-                </bibl>
                 <bibl xml:id="W456">
                     <author key="A156">López, Vicente Fidel</author>
                     <title>La novia del hereje o La Inquisición de Lima</title>
@@ -1971,11 +1855,6 @@
                     <author key="A156">López, Vicente Fidel</author>
                     <title>La loca de la guardia</title>
                     <idno type="cligs">nh0037</idno>
-                </bibl>
-                <bibl xml:id="W459">
-                    <author key="A157">Cantilo, José Luis</author>
-                    <title>Quimera</title>
-                    <idno type="cligs">nh0039</idno>
                 </bibl>
                 <bibl xml:id="W460">
                     <author key="A158">Gutiérrez, Juan María</author>

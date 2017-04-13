@@ -154,13 +154,15 @@ declare function data:get-work-numbers-by-pubPlace-first() as map(xs:string, xs:
                         let $edition-dates := $editions//tei:date[1]
                         let $edition-years := for $date in $edition-dates
                                               return data:get-edition-year($date)
-                        let $edition-years := if (index-of($edition-years,0) and count($edition-years) gt 1)
-                                              then remove($edition-years, index-of($edition-years,0))
-                                              else $edition-years
+                        let $edition-years := if (count(index-of($edition-years, 0)) != count($edition-years))
+                                              then
+                                                  for $year in $edition-years
+                                                  return if ($year != 0) then $year else()
+                                              else 0
                         let $year-first-ed := min($edition-years)
                         let $year-first-ed := if ($year-first-ed) then $year-first-ed else 0
                         let $ed-first := ($editions[data:get-edition-year((.//tei:date)[1]) = $year-first-ed])[1]
-                        let $ed-first-place := $ed-first//tei:pubPlace[1]/@corresp
+                        let $ed-first-place := ($ed-first//tei:pubPlace)[1]/@corresp
                         let $place := $app:countries[@xml:id = $ed-first-place]/tei:placeName
                         return map:entry($work-id, $place)
     )

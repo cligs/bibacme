@@ -347,6 +347,7 @@ declare function app:editions($currpage as numeric, $currauthor as xs:string?, $
                                let $country := $place/@corresp
                                let $work-ids := tokenize($edition/@corresp,"\s")
                                let $letter := data:get-first-letter($title)
+                               let $order-title := translate($title,"¡¿","")
                                where every $val in 
                                         (if ($currletter) then $currletter = $letter else true(),
                                         if ($currauthor) then $author = $currauthor else true(),
@@ -354,7 +355,7 @@ declare function app:editions($currpage as numeric, $currauthor as xs:string?, $
                                         if ($currcountry) then $currcountry = $country else true(),
                                         if ($currwork)  then $currwork = $work-ids else true())
                                         satisfies $val = true()
-                               order by if ($order = "alfabetico") then translate($title,"¡¿","") else $year ascending empty greatest
+                               order by if ($order = "alfabetico") then $order-title else $year ascending empty greatest, $order-title
                                return $edition
     let $num-editions := count($editions-ordered)
     let $num-pages := max((1,xs:integer(round($num-editions div 15))))
@@ -566,7 +567,8 @@ declare function app:obras-por-autor(){
         "title" := "Obras por autor",
         "containerId" := "ChartObras_4",
         "xaxis-title" := "número de obras",
-        "yaxis-title" := "número de autores"
+        "yaxis-title" := "número de autores",
+        "legend-name" := "autores"
     }
     return
     (<div id="ChartObras_4" style="width:900px;height:600px;margin: 0 auto;"></div>,
@@ -666,6 +668,29 @@ declare function app:ediciones-por-decada(){
     return 
     (<div id="ChartEdiciones_1" style="width:900px;height:600px;margin: 0 auto;"></div>,
         overviews:bar-chart($params, $data)))
+};
+
+
+
+declare function app:ediciones-por-obra(){
+    (<h2>Sinopsis</h2>,
+    (: number of editions per work :)
+    let $num-editions := for $work in $app:works
+                         let $work-id := $work/@xml:id
+                         return count($app:editions//range:field-eq("work-key", $work-id))
+    let $params := map {
+        "title" := "Ediciones por obra",
+        "containerId" := "ChartEdiciones_2",
+        "xaxis-title" := "número de ediciones",
+        "yaxis-title" := "número de obras",
+        "legend-name" := "obras"
+    }
+    let $data := map {
+        "x" := $num-editions
+    }
+    return 
+    (<div id="ChartEdiciones_2" style="width:900px;height:600px;margin: 0 auto;"></div>,
+        overviews:histogram($params, $data)))
 };
 
 

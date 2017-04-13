@@ -147,22 +147,6 @@
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">17276107</idno>
                 </person>
-                <person xml:id="A7">
-                    <persName>
-                        <surname>Villaverde</surname>
-                        <forename>Cirilo</forename>
-                        <addName type="pseudonym">Sansueña</addName>
-                    </persName>
-                    <birth>
-                        <date when="1812">1812</date>
-                    </birth>
-                    <death>
-                        <date when="1894">1894</date>
-                    </death>
-                    <sex>masculino</sex>
-                    <nationality>cubana/o</nationality>
-                    <idno type="viaf">2481255</idno>
-                </person>
                 <person xml:id="A8">
                     <persName>
                         <surname>Alva</surname>
@@ -514,25 +498,6 @@
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">24681057</idno>
-                </person>
-                <person xml:id="A25">
-                    <persName>
-                        <surname>Cambaceres</surname>
-                        <forename>Eugenio</forename>
-                    </persName>
-                    <birth>
-                        <date when="1843">1843</date>
-                        <placeName>Buenos Aires</placeName>
-                        <placeName>Argentina</placeName>
-                    </birth>
-                    <death>
-                        <date when="1888">1888</date>
-                        <placeName>Buenos Aires</placeName>
-                        <placeName>Argentina</placeName>
-                    </death>
-                    <sex>masculino</sex>
-                    <nationality>argentina/o</nationality>
-                    <idno type="viaf">24681042</idno>
                 </person>
                 <person xml:id="A26">
                     <persName>
@@ -1302,55 +1267,6 @@
                     <sex>masculino</sex>
                     <nationality cert="low">argentina/o</nationality>
                 </person>
-                <person xml:id="A95">
-                    <persName>
-                        <surname>Valle</surname>
-                        <forename>Guillermo del</forename>
-                    </persName>
-                    <birth>
-                        <date when="1846-02-28">28 de febrero de 1846</date>
-                        <placeName>Guadalajara</placeName>
-                    </birth>
-                    <death>
-                        <date when="1917">1917</date>
-                        <placeName>Guadalajara</placeName>
-                    </death>
-                    <sex>masculino</sex>
-                    <nationality>mexicana/o</nationality>
-                </person>
-                <person xml:id="A96">
-                    <persName>
-                        <surname>Valle</surname>
-                        <forename>Ramón</forename>
-                    </persName>
-                    <birth>
-                        <date when="1841-06-30">30 de junio de 1841</date>
-                        <placeName>Guanajuato</placeName>
-                    </birth>
-                    <death>
-                        <date when="1901-02-12">12 de febrero de 1901</date>
-                        <placeName>México</placeName>
-                    </death>
-                    <sex>masculino</sex>
-                    <nationality>mexicana/o</nationality>
-                </person>
-                <!-- Valle Arizpe, Artemio de: nur in Spanien veröffentlich; bei Iguiniz genannt -->
-                <person xml:id="A97">
-                    <persName>
-                        <surname>Valle de Santiesteba</surname>
-                        <forename>J.</forename>
-                    </persName>
-                    <sex>masculino</sex>
-                    <nationality cert="low">mexicana/o</nationality>
-                </person>
-                <person xml:id="A98">
-                    <persName>
-                        <surname>Valles</surname>
-                        <forename>Rodolfo</forename>
-                    </persName>
-                    <sex>masculino</sex>
-                    <nationality cert="low">mexicana/o</nationality>
-                </person>
                 <person xml:id="A99">
                     <persName>
                         <surname>Merlin</surname>
@@ -1466,21 +1382,6 @@
                     <nationality>cubana/o</nationality>
                     <idno type="viaf">39156046</idno>
                     <!-- Roman ? : La pasión de los celos. Cuadros de la vida íntima. La Habana, Imp. del Gobierno..., 1888. | -->
-                </person>
-                <person xml:id="A108">
-                    <persName>
-                        <surname>Bunge</surname>
-                        <forename>Carlos Octavio</forename>
-                    </persName>
-                    <birth>
-                        <date when="1875">1875</date>
-                    </birth>
-                    <death>
-                        <date when="1918">1918</date>
-                    </death>
-                    <sex>masculino</sex>
-                    <nationality>argentina/o</nationality>
-                    <idno type="viaf">74235581</idno>
                 </person>
                 <person xml:id="A109">
                     <persName>
@@ -2148,22 +2049,6 @@
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">6441813</idno>
                 </person>
-                <person xml:id="A155">
-                    <persName>
-                        <surname>Cané</surname>
-                        <forename>Miguel</forename>
-                        <addName>hijo</addName>
-                    </persName>
-                    <birth>
-                        <date when="1851">1851</date>
-                    </birth>
-                    <death>
-                        <date when="1905">1905</date>
-                    </death>
-                    <sex>masculino</sex>
-                    <nationality>argentina/o</nationality>
-                    <idno type="viaf">39458418</idno>
-                </person>
                 <person xml:id="A156">
                     <persName>
                         <surname>López</surname>
@@ -2179,22 +2064,6 @@
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">195708976</idno>
                     <idno type="viaf">25146998423318940532</idno>
-                </person>
-                <person xml:id="A157">
-                    <persName>
-                        <surname>Cantilo</surname>
-                        <forename>José Luis</forename>
-                    </persName>
-                    <birth>
-                        <date when="1871">1871</date>
-                    </birth>
-                    <death>
-                        <date when="1944">1944</date>
-                    </death>
-                    <sex>masculino</sex>
-                    <nationality>argentina/o</nationality>
-                    <idno type="viaf">310572689</idno>
-                    <idno type="viaf">285454743</idno>
                 </person>
                 <person xml:id="A158">
                     <persName>
