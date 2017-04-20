@@ -741,6 +741,15 @@ declare function app:criteria(){
         <p>Finalmente, por "novela argentina", "novela cubana" y "novela mexicana" se entienden 
             obras escritas por autores de nacionalidad argentina, cubana o mexicana y obras 
             publicadas en los países Argentina, Cuba y México entre 1830 y 1910.</p>
+        <!-- rund 250 Wörter pro Cuartilla? https://es.wikipedia.org/wiki/Cuartilla_(papel)
+        dann wären 5000 Wörter 20 Seiten 
+        - Kapitelstruktur
+        - mind. 20 Seiten 
+        - als novela bezeichnet (Titel)
+        - als novela bezeichnet (extern) 
+        - selbständig publiziert
+        - muss: literarisch, fiktiv, narrativ
+        -> mindestens 2 der optionalen sollen gegeben sein -->
     </section>
 };
 

@@ -51,7 +51,10 @@
                     - Villaseñor, J., Marcelino. Novela de costumbes, sin fecha
                     - Villaseñor, Pablo J., Leyendas históricas y tradicionales, en verso; Eufemio - traducción?
                     - Tovar, Agustin de J., Angustias, 1896 (novela?!)
+                    - Sosa y Ávila, Franciso: Lupe. Novela por un sinaloense (cuando?)
+                    - Rubín, Luis G., Veladas del Invierno. Leyendas, 1868, 87 p. (novelas cortas?)
                 -->
+                <!-- DLC: Fernando Urzáis, "novelas en La Aurora", ps. Úrsulo Fernández -->
                 <person xml:id="A0">
                     <persName>
                         <name>Anónimo</name>
@@ -141,6 +144,7 @@
                     <idno type="viaf">72256647</idno>
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
+                    <!-- Tierra de matreros; http://www.biblioteca.org.ar/libros/10059.pdf (relato de viajes?) -->
                 </person>
                 <person xml:id="A7">
                     <persName>
@@ -846,7 +850,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <!-- El medio del difunto. Cuento, 1903, 15 p.
-                    La cueva de Guadalupe. Leyenda, 1905, 16 p. -->
+                    La cueva de Guadalupe. Leyenda, 1905, 16 p. 
+                    Obras de ... 1897-1910: http://cdigital.dgb.uanl.mx/la/1080012719_C/1080012719_C.html
+                    -->
                 </person>
                 <person xml:id="A54">
                     <persName>
@@ -1139,7 +1145,7 @@
                     <idno type="viaf">106924246</idno>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
-                    <!-- Cuentos: Una billetera, Del natural -->
+                    <!-- Cuentos?: Una billetera, Del natural -->
                 </person>
                 <person xml:id="A75">
                     <persName>
@@ -1164,7 +1170,7 @@
                         <placeName>Acámbaro</placeName>
                         <placeName>Guanajuato</placeName>
                     </death>
-                    <sex>feminino</sex>
+                    <sex>femenino</sex>
                     <nationality>mexicana/o</nationality>
                 </person>
                 <person xml:id="A77">
@@ -1294,6 +1300,1217 @@
                     <idno type="viaf">61593104</idno>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
+                </person>
+                <person xml:id="A85">
+                    <persName>
+                        <surname>Segale</surname>
+                        <forename>Atenógenes</forename>
+                    </persName>
+                    <birth>
+                        <date when="1868">1868</date>
+                        <placeName>Zamora</placeName>
+                        <placeName>Michoacán</placeName>
+                        <placeName>México</placeName>
+                    </birth>
+                    <death>
+                        <date when="1903">1903</date>
+                        <placeName>Toluca</placeName>
+                        <placeName>Estado de México</placeName>
+                        <placeName>México</placeName>
+                    </death>
+                    <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                </person>
+                <!-- Check für Zeitschriften und Kurzromane vor Justo Sierra? -->
+                <person xml:id="A86">
+                    <persName>
+                        <surname>Sierra O'Reilly</surname>
+                        <forename>Justo</forename>
+                        <addName type="pseudonym">José Turrisa</addName>
+                        <note>padre</note>
+                    </persName>
+                    <birth>
+                        <date when="1814-09-24">24 de septiembre de 1814</date>
+                        <placeName>Taixcacaltuyú</placeName>
+                        <placeName>Yucatán</placeName>
+                        <placeName>México</placeName>
+                    </birth>
+                    <death>
+                        <date when="1861-01-15">15 de enero de 1861</date>
+                        <placeName>Mérida</placeName>
+                        <placeName>México</placeName>
+                    </death>
+                    <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                    <idno type="viaf">56696380</idno>
+                </person>
+                <person xml:id="A87">
+                    <persName>
+                        <surname>Sierra Méndez</surname>
+                        <forename>Justo</forename>
+                        <note>hijo</note>
+                    </persName>
+                    <birth>
+                        <date when="1848-01-26">26 de enero de 1848</date>
+                        <placeName>Campeche</placeName>
+                        <placeName>Campeche</placeName>
+                        <placeName>México</placeName>
+                    </birth>
+                    <death>
+                        <date when="1912-09-13">13 de septiembre de 1912</date>
+                        <placeName>Madrid</placeName>
+                        <placeName>España</placeName>
+                    </death>
+                    <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                    <idno type="viaf">36989647</idno>
+                    <!-- Cuentos románticos -->
+                </person>
+                <person xml:id="A88">
+                    <persName>
+                        <surname>Sierra</surname>
+                        <forename>Luis G. de la</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">mexicana/o</nationality>
+                </person>
+                <person xml:id="A89">
+                    <persName>
+                        <surname>Sigüenza y Góngora</surname>
+                        <forename>Carlos de</forename>
+                    </persName>
+                    <birth>
+                        <date when="1645-08-15">15 de agosto de 1645</date>
+                        <placeName>México</placeName>
+                    </birth>
+                    <death>
+                        <date when="1700-08-22">22 de agosto de 1700</date>
+                    </death>
+                    <idno type="viaf">59112593</idno>
+                    <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                </person>
+                <person xml:id="A90">
+                    <persName>
+                        <surname>Silva</surname>
+                        <forename>Agapito</forename>
+                    </persName>
+                    <birth>
+                        <date when="1850">1850</date>
+                        <placeName>Chilchota</placeName>
+                        <placeName>Michoacán</placeName>
+                        <placeName>México</placeName>
+                    </birth>
+                    <death>
+                        <date when="1896">1896</date>
+                        <placeName>Ciudad de México</placeName>
+                        <placeName>México</placeName>
+                    </death>
+                    <idno type="viaf">93148207995400342820</idno>
+                    <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                </person>
+                <person xml:id="A91">
+                    <persName>
+                        <surname>Sosa</surname>
+                        <forename>Francisco</forename>
+                    </persName>
+                    <birth>
+                        <date when="1848-04-02">2 de abril de 1848</date>
+                        <placeName>Campeche</placeName>
+                        <placeName>Campeche</placeName>
+                        <placeName>México</placeName>
+                    </birth>
+                    <death>
+                        <date when="1925-02-09">9 de febrero de 1925</date>
+                        <placeName>Ciudad de México</placeName>
+                        <placeName>México</placeName>
+                    </death>
+                    <idno type="viaf">54234683</idno>
+                    <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                </person>
+                <person xml:id="A92">
+                    <persName>
+                        <surname>Sota</surname>
+                        <forename>José Severino de la</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">mexicana/o</nationality>
+                </person>
+                <person xml:id="A93">
+                    <persName>
+                        <surname>Sotomayor</surname>
+                        <forename>José Francisco</forename>
+                    </persName>
+                    <birth>
+                        <date when="1831">1831</date>
+                        <placeName>Hacienda de la Sauceda</placeName>
+                        <placeName>Zacatecas</placeName>
+                        <placeName>México</placeName>
+                    </birth>
+                    <death>
+                        <date when="1899">1899</date>
+                        <placeName>Zacatecas</placeName>
+                        <placeName>Zacatecas</placeName>
+                        <placeName>México</placeName>
+                    </death>
+                    <idno type="viaf">1730542</idno>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">mexicana/o</nationality>
+                </person>
+                <person xml:id="A94">
+                    <persName>
+                        <surname>Sustaita</surname>
+                        <forename>Alberto</forename>
+                        <addName type="pseudonym">P. K. Dor</addName>
+                    </persName>
+                    <birth>
+                        <date when="1863">1863</date>
+                        <placeName>San Luis Potosí</placeName>
+                        <placeName>San Luis Potosí</placeName>
+                        <placeName>México</placeName>
+                    </birth>
+                    <death>
+                        <date when="1909">1909</date>
+                        <placeName>San Luis Potosí</placeName>
+                        <placeName>San Luis Potosí</placeName>
+                        <placeName>México</placeName>
+                    </death>
+                    <idno type="viaf">29373147</idno>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">mexicana/o</nationality>
+                    <!-- El doctor Zacarías. Novela (cuando?)
+                    Peccata minuta. Colección de cuentos -->
+                </person>
+                <person xml:id="A95">
+                    <persName>
+                        <surname>Daireaux</surname>
+                        <forename>Godofredo</forename>
+                    </persName>
+                    <birth>
+                        <date when="1839">1839</date>
+                        <placeName>París</placeName>
+                        <placeName>Francia</placeName>
+                    </birth>
+                    <death>
+                        <date when="1916">1916</date>
+                        <placeName>Buenos Aires</placeName>
+                        <placeName>Argentina</placeName>
+                    </death>
+                    <idno type="viaf">51903953</idno>
+                    <sex>masculino</sex>
+                    <nationality cert="low">francés/a</nationality>
+                </person>
+                <person xml:id="A96">
+                    <persName>
+                        <surname>Della Costa</surname>
+                        <forename>Pablo</forename>
+                        <addName type="pseudonym">Severus</addName>
+                        <note>padre</note>
+                    </persName>
+                    <idno type="viaf">310591307</idno>
+                    <sex>masculino</sex>
+                    <nationality cert="low">argentina/o</nationality>
+                </person>
+                <person xml:id="A97">
+                    <persName>
+                        <surname>Demaría</surname>
+                        <forename>Bernabé</forename>
+                    </persName>
+                    <birth>
+                        <date when="1824-01-17">17 de enero de 1824</date>
+                    </birth>
+                    <death>
+                        <date when="1919-05-25">25 de mayo de 1919</date>
+                    </death>
+                    <idno type="viaf">194145857015022921172</idno>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">argentina/o</nationality>
+                </person>
+                <person xml:id="A98">
+                    <persName>
+                        <surname>Díaz</surname>
+                        <forename>Carlos</forename>
+                    </persName>
+                    <birth>
+                        <date when="1858">1858</date>
+                    </birth>
+                    <death>
+                        <date when="1924">1924</date>
+                    </death>
+                    <sex>masculino</sex>
+                    <nationality>argentina/o</nationality>
+                </person>
+                <person xml:id="A99">
+                    <persName>
+                        <surname>Díaz Olazábal</surname>
+                        <forename>Rodolfo</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">argentina/o</nationality>
+                </person>
+                <person xml:id="A100">
+                    <persName>
+                        <surname>Domínguez</surname>
+                        <forename>Silverio</forename>
+                        <addName type="pseudonym">Ceferino de la Calle</addName>
+                    </persName>
+                    <birth>
+                        <date when="1852">1852</date>
+                        <placeName>España</placeName>
+                    </birth>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">español/a</nationality>
+                </person>
+                <person xml:id="A101">
+                    <persName>
+                        <surname>Rabasa</surname>
+                        <forename>Emilio</forename>
+                        <addName type="pseudonym">Sancho Polo</addName>
+                    </persName>
+                    <birth>
+                        <date when="1856-05-22">22 de mayo de 1856</date>
+                        <placeName>Ocozautla</placeName>
+                        <placeName>Chiapas</placeName>
+                        <placeName>México</placeName>
+                    </birth>
+                    <death>
+                        <date when="1930">1930</date>
+                    </death>
+                    <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                    <idno type="viaf">34493943</idno>
+                </person>
+                <person xml:id="A102">
+                    <persName>
+                        <surname>Ramírez</surname>
+                        <forename>José María</forename>
+                    </persName>
+                    <birth>
+                        <date when="1834">1834</date>
+                        <placeName>Ciudad de México</placeName>
+                        <placeName>México</placeName>
+                    </birth>
+                    <death>
+                        <date when="1892">1892</date>
+                        <placeName>Ciudad de México</placeName>
+                        <placeName>México</placeName>
+                    </death>
+                    <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                </person>
+                <person xml:id="A103">
+                    <persName>
+                        <surname>Ramírez Aparicio</surname>
+                        <forename>Manuel</forename>
+                    </persName>
+                    <birth>
+                        <date when="1831-03-12">12 de marzo de 1831</date>
+                        <placeName>Los Reyes de Acatzingo</placeName>
+                        <placeName>Puebla</placeName>
+                        <placeName>México</placeName>
+                    </birth>
+                    <death>
+                        <date when="1867-12-10">10 de diciembre de 1867</date>
+                        <placeName>Ciudad de México</placeName>
+                        <placeName>México</placeName>
+                    </death>
+                    <idno type="viaf">3941035</idno>
+                    <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                </person>
+                <person xml:id="A104">
+                    <persName>
+                        <surname>Olavarría y Ferrari</surname>
+                        <forename>Enrique</forename>
+                        <addName type="pseudonym">Eduardo Ramos</addName>
+                    </persName>
+                    <birth>
+                        <date when="1844-07-13">13 de julio de 1844</date>
+                        <placeName>Madrid</placeName>
+                        <placeName>España</placeName>
+                    </birth>
+                    <death>
+                        <date when="1919">1919</date>
+                        <placeName>Ciudad de México</placeName>
+                        <placeName>México</placeName>
+                    </death>
+                    <idno type="viaf">12448840</idno>
+                    <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                </person>
+                <person xml:id="A105">
+                    <persName>
+                        <surname>Rebolledo</surname>
+                        <forename>Efrén</forename>
+                    </persName>
+                    <birth>
+                        <date when="1877-07-09">9 de julio de 1877</date>
+                        <placeName>Actopan</placeName>
+                        <placeName>Hidalgo</placeName>
+                        <placeName>México</placeName>
+                    </birth>
+                    <death>
+                        <date when="1929-12-10">10 de diciembre de 1929</date>
+                        <placeName>Madrid</placeName>
+                        <placeName>España</placeName>
+                    </death>
+                    <idno type="viaf">33140203</idno>
+                    <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                </person>
+                <person xml:id="A106">
+                    <persName>
+                        <surname>Rey</surname>
+                        <forename>Emilio</forename>
+                    </persName>
+                    <birth>
+                        <date when="1826">1826</date>
+                        <placeName>Santander</placeName>
+                        <placeName>España</placeName>
+                    </birth>
+                    <death>
+                        <date when="1871">1871</date>
+                        <placeName>Ciudad de México</placeName>
+                        <placeName>México</placeName>
+                    </death>
+                    <sex>masculino</sex>
+                    <nationality cert="low">español/a</nationality>
+                </person>
+                <person xml:id="A107">
+                    <persName>
+                        <surname>Ríos</surname>
+                        <forename>Juan Pablo de los</forename>
+                    </persName>
+                    <idno type="viaf">294481206</idno>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">mexicana/o</nationality>
+                </person>
+                <person xml:id="A108">
+                    <persName>
+                        <surname>Riva Palacio</surname>
+                        <forename>Vicente</forename>
+                    </persName>
+                    <birth>
+                        <date when="1832-10-16">16 de octubre de 1832</date>
+                        <placeName>Ciudad de México</placeName>
+                    </birth>
+                    <death>
+                        <date when="1896-11-22">22 de noviembre de 1896</date>
+                        <placeName>Madrid</placeName>
+                    </death>
+                    <idno type="viaf">54185176</idno>
+                    <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                </person>
+                <person xml:id="A109">
+                    <persName>
+                        <surname>Rivera y Río</surname>
+                        <forename>José</forename>
+                    </persName>
+                    <death>
+                        <date when="1890">1890</date>
+                        <placeName>Tacubaya</placeName>
+                        <placeName>México</placeName>
+                    </death>
+                    <idno type="viaf">17138448</idno>
+                    <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                </person>
+                <person xml:id="A110">
+                    <persName>
+                        <surname>Roa Bárcena</surname>
+                        <forename>José María</forename>
+                    </persName>
+                    <death>
+                        <date when="1827-09-03">3 de septiembre de 1827</date>
+                        <placeName>Xalapa</placeName>
+                        <placeName>Veracruz</placeName>
+                        <placeName>México</placeName>
+                    </death>
+                    <death>
+                        <date when="1908-09-21">21 de septiembre de 1908</date>
+                        <placeName>Ciudad de México</placeName>
+                        <placeName>México</placeName>
+                    </death>
+                    <idno type="viaf">97460</idno>
+                    <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                </person>
+                <person xml:id="A111">
+                    <persName>
+                        <surname>Robleda y Troncoso</surname>
+                        <forename>Cayetano</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality cert="low">mexicana/o</nationality>
+                </person>
+                <person xml:id="A112">
+                    <persName>
+                        <surname>Robles</surname>
+                        <forename>Pablo</forename>
+                        <addName type="pseudonym">Perroblillos</addName>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                </person>
+                <person xml:id="A113">
+                    <persName>
+                        <surname>Rodríguez</surname>
+                        <forename>Manuel Filomeno</forename>
+                    </persName>
+                    <death>
+                        <date when="1884">1884</date>
+                        <placeName>Ciudad de México</placeName>
+                        <placeName>México</placeName>
+                    </death>
+                    <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                </person>
+                <person xml:id="A114">
+                    <persName>
+                        <surname>Rodríguez Beltrán</surname>
+                        <forename>Cayetano</forename>
+                        <addName>Onateyac</addName>
+                    </persName>
+                    <birth>
+                        <date when="1866">1866</date>
+                        <placeName>Tlacotalpan</placeName>
+                        <placeName>Veracruz</placeName>
+                        <placeName>México</placeName>
+                    </birth>
+                    <death>
+                        <date when="1939">1939</date>
+                        <placeName>Xalapa</placeName>
+                        <placeName>Veracruz</placeName>
+                        <placeName>México</placeName>
+                    </death>
+                    <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                </person>
+                <person xml:id="A115">
+                    <persName>
+                        <surname>Rodríguez Correa</surname>
+                        <forename>Ramón</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">mexicana/o</nationality>
+                </person>
+                <person xml:id="A116">
+                    <persName>
+                        <surname>Rodríguez Galván</surname>
+                        <forename>Ignacio</forename>
+                    </persName>
+                    <birth>
+                        <date when="1816-03-22">22 de marzo de 1816</date>
+                        <placeName>Tizayuca</placeName>
+                        <placeName>Hidalgo</placeName>
+                        <placeName>México</placeName>
+                    </birth>
+                    <death>
+                        <date when="1842-07-25">25 de julio de 1842</date>
+                        <placeName>La Habana</placeName>
+                        <placeName>Cuba</placeName>
+                    </death>
+                    <idno type="viaf">17242899</idno>
+                    <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                </person>
+                <person xml:id="A117">
+                    <persName>
+                        <surname>Rodríguez Iglesia</surname>
+                        <forename>Emilio</forename>
+                    </persName>
+                    <idno type="viaf">317119094</idno>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">mexicana/o</nationality>
+                </person>
+                <person xml:id="A118">
+                    <persName>
+                        <surname>Rojas</surname>
+                        <forename>Francisco M.</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">mexicana/o</nationality>
+                </person>
+                <person xml:id="A119">
+                    <persName>
+                        <surname>Rojo</surname>
+                        <forename>José R.</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">mexicana/o</nationality>
+                </person>
+                <person xml:id="A120">
+                    <persName>
+                        <surname>Rojo García</surname>
+                        <forename>Emilio</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">mexicana/o</nationality>
+                </person>
+                <person xml:id="A121">
+                    <persName>
+                        <surname>Roldán</surname>
+                        <forename>Eutimio</forename>
+                    </persName>
+                    <idno type="viaf">282955374</idno>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">mexicana/o</nationality>
+                </person>
+                <person xml:id="A122">
+                    <persName>
+                        <surname>Rosas de Moreno</surname>
+                        <forename>José</forename>
+                    </persName>
+                    <birth>
+                        <date when="1838">1838</date>
+                        <placeName>Lagos de Moreno</placeName>
+                        <placeName>Jalisco</placeName>
+                        <placeName>México</placeName>
+                    </birth>
+                    <death>
+                        <date when="1883">1883</date>
+                        <placeName>Lagos de Moreno</placeName>
+                        <placeName>Jalisco</placeName>
+                        <placeName>México</placeName>
+                    </death>
+                    <idno type="viaf">36819526</idno>
+                    <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                    <!-- Excursiones por el cielo y por la tierra. Leyendas científicas y recreativas, 1874 (novelas cortas?) -->
+                </person>
+                <person xml:id="A123">
+                    <persName>
+                        <surname>Ruanova</surname>
+                        <forename>Francisco de P.</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">mexicana/o</nationality>
+                </person>
+                <person xml:id="A124">
+                    <persName>
+                        <surname>Ruiz Álvarez</surname>
+                        <forename>Eduardo</forename>
+                    </persName>
+                    <birth>
+                        <date when="1839">1839</date>
+                        <placeName>Paracho</placeName>
+                        <placeName>Michoacán</placeName>
+                        <placeName>México</placeName>
+                    </birth>
+                    <death>
+                        <date when="1902">1902</date>
+                        <placeName>Uruapan</placeName>
+                        <placeName>Michoacán</placeName>
+                        <placeName>México</placeName>
+                    </death>
+                    <idno type="viaf">100918931</idno>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">mexicana/o</nationality>
+                </person>
+                <person xml:id="A125">
+                    <persName>
+                        <surname>Quevedo y Zubieta</surname>
+                        <forename>Salvador</forename>
+                    </persName>
+                    <birth>
+                        <date when="1859">1859</date>
+                        <placeName>Guadalajara</placeName>
+                        <placeName>Jalisco</placeName>
+                        <placeName>México</placeName>
+                    </birth>
+                    <death>
+                        <date when="1935">1935</date>
+                        <placeName>Ciudad de México</placeName>
+                        <placeName>México</placeName>
+                    </death>
+                    <idno type="viaf">69081812</idno>
+                    <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                </person>
+                <person xml:id="A126">
+                    <persName>
+                        <surname>Quiroz</surname>
+                        <forename>Bernhardino de Jesús</forename>
+                    </persName>
+                    <idno type="viaf">309781452</idno>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">mexicana/o</nationality>
+                </person>
+                <person xml:id="A127">
+                    <persName>
+                        <surname>Echagüe</surname>
+                        <forename>Pedro</forename>
+                    </persName>
+                    <birth>
+                        <date when="1821">1821</date>
+                        <placeName>Buenos Aires</placeName>
+                        <placeName>Argentina</placeName>
+                    </birth>
+                    <death>
+                        <date when="1889">1889</date>
+                        <placeName>San Juan</placeName>
+                        <placeName>Argentina</placeName>
+                    </death>
+                    <idno type="viaf">73749218</idno>
+                    <idno type="viaf">104145857076022922012</idno>
+                    <sex>masculino</sex>
+                    <nationality>argentina/o</nationality>
+                    <!-- Un lego de San Francisco, novela, perdida -->
+                </person>
+                <person xml:id="A128">
+                    <persName>
+                        <surname>Echeverría</surname>
+                        <forename>Esteban</forename>
+                    </persName>
+                    <birth>
+                        <date when="1805-09-02">2 de septiembre de 1805</date>
+                        <placeName>Buenos Aires</placeName>
+                        <placeName>Argentina</placeName>
+                    </birth>
+                    <death>
+                        <date when="1851-01-19">19 de enero de 1851</date>
+                        <placeName>Montevideo</placeName>
+                        <placeName>Uruguay</placeName>
+                    </death>
+                    <idno type="viaf">32008821</idno>
+                    <sex>masculino</sex>
+                    <nationality>argentina/o</nationality>
+                </person>
+                <person xml:id="A129">
+                    <persName>
+                        <surname>Estrada</surname>
+                        <forename>Ángel de</forename>
+                    </persName>
+                    <birth>
+                        <date when="1872-09-20">20 de septiembre de 1872</date>
+                        <placeName>Buenos Aires</placeName>
+                        <placeName>Argentina</placeName>
+                    </birth>
+                    <death>
+                        <date when="1923-12-28">28 de diciembre 1923</date>
+                        <placeName>Río de Janeiro</placeName>
+                        <placeName>Brasil</placeName>
+                    </death>
+                    <idno type="viaf">313410074</idno>
+                    <sex>masculino</sex>
+                    <nationality>argentina/o</nationality>
+                </person>
+                <person xml:id="A130">
+                    <persName>
+                        <surname>Cartey</surname>
+                        <forename>Guido Anatolio</forename>
+                        <addName type="pseudonym">Domiciano Estrada</addName>
+                    </persName>
+                    <idno type="viaf">232932227</idno>
+                    <idno type="viaf">302509879</idno>
+                    <sex>masculino</sex>
+                    <nationality>argentina/o</nationality>
+                </person>
+                <person xml:id="A131">
+                    <persName>
+                        <surname>Estrada</surname>
+                        <forename>Santiago</forename>
+                    </persName>
+                    <birth>
+                        <date when="1841">1841</date>
+                    </birth>
+                    <death>
+                        <date when="1891">1891</date>
+                    </death>
+                    <idno type="viaf">267390385</idno>
+                    <sex>masculino</sex>
+                    <nationality>argentina/o</nationality>
+                </person>
+                <person xml:id="A132">
+                    <persName>
+                        <surname>Ezcurra</surname>
+                        <forename>Eduardo de</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">argentina/o</nationality>
+                </person>
+                <person xml:id="A133">
+                    <persName>
+                        <surname>Ezcurra y Pardo</surname>
+                        <forename>M.</forename>
+                        <addName type="pseudonym">Muérdago</addName>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality>argentina/o</nationality>
+                </person>
+                <person xml:id="A134">
+                    <persName>
+                        <surname>Fabricio</surname>
+                        <forename>León</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">argentina/o</nationality>
+                </person>
+                <person xml:id="A135">
+                    <persName>
+                        <surname>Fernández</surname>
+                        <forename>E. G.</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">argentina/o</nationality>
+                </person>
+                <person xml:id="A136">
+                    <persName>
+                        <surname>Fernández</surname>
+                        <forename>Nine</forename>
+                    </persName>
+                    <sex>desconocido</sex>
+                    <nationality cert="medium">argentina/o</nationality>
+                </person>
+                <person xml:id="A137">
+                    <persName>
+                        <surname>Fontanella</surname>
+                        <forename>Agustín</forename>
+                    </persName>
+                    <birth>
+                        <date when="1873">1873</date>
+                    </birth>
+                    <death>
+                        <date when="1944">1944</date>
+                    </death>
+                    <idno type="viaf">296570663</idno>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">argentina/o</nationality>
+                </person>
+                <person xml:id="A138">
+                    <persName>
+                        <surname>Franquelo</surname>
+                        <forename>Carlos</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">argentina/o</nationality>
+                </person>
+                <person xml:id="A139">
+                    <persName>
+                        <surname>Frías Collao</surname>
+                        <forename>Baldomero</forename>
+                    </persName>
+                    <birth>
+                        <date when="1859">1859</date>
+                        <placeName>Santiago</placeName>
+                        <placeName>Chile</placeName>
+                    </birth>
+                    <death>
+                        <date when="1893-11-30">30 de noviembre de 1893</date>
+                    </death>
+                    <idno type="viaf">100826859</idno>
+                    <sex>masculino</sex>
+                    <nationality>chilena/o</nationality>
+                </person>
+                <person xml:id="A140">
+                    <persName>
+                        <surname>Tanco y Bosmeniel</surname>
+                        <forename>Félix</forename>
+                        <addName type="pseudonym">Elezio Cundamarco</addName>
+                        <addName type="pseudonym">Frías</addName>
+                        <addName type="pseudonym">Un habanero</addName>
+                        <addName type="pseudonym">Un suscriptor al Plantel</addName>
+                        <addName type="pseudonym">Veráfilo y Los dos lógicos</addName>
+                    </persName>
+                    <birth>
+                        <date when="1797-11">noviembre de 1797</date>
+                        <placeName>Santa Fe de Bogotá</placeName>
+                        <placeName>Colombia</placeName>
+                    </birth>
+                    <death>
+                        <date when="1871-09-26">26 de septiembre de 1871</date>
+                        <placeName>Long Island</placeName>
+                        <placeName>Estados Unidos</placeName>
+                    </death>
+                    <idno type="viaf">106988104</idno>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">cubana/o</nationality>
+                </person>
+                <person xml:id="A141">
+                    <persName>
+                        <surname>Teurbe Tolón y de la Guardia</surname>
+                        <forename>Miguel</forename>
+                        <addName type="pseudonym">Lola</addName>
+                        <addName type="pseudonym">La Lola filibustera</addName>
+                        <addName type="pseudonym">Tello Rubio Montegú</addName>
+                        <addName type="pseudonym">Alfonso de Torquemada</addName>
+                    </persName>
+                    <birth>
+                        <date when="1820-09-29">29 de septiembre de 1820</date>
+                        <placeName>Matanzas</placeName>
+                        <placeName>Cuba</placeName>
+                    </birth>
+                    <death>
+                        <date when="1857-10-16">16 de octubre de 1857</date>
+                        <placeName>Matanzas</placeName>
+                        <placeName>Cuba</placeName>
+                    </death>
+                    <idno type="viaf">19550365</idno>
+                    <sex>masculino</sex>
+                    <nationality>cubana/o</nationality>
+                    <!-- Leyendas cubanas, 1856 (en verso) -->
+                </person>
+                <person xml:id="A142">
+                    <persName>
+                        <surname>Serrano</surname>
+                        <forename>Francisco de Paula</forename>
+                        <addName type="pseudonym">Lola</addName>
+                    </persName>
+                    <birth>
+                        <placeName>Nueva Orleans</placeName>
+                        <placeName>Estados Unidos</placeName>
+                    </birth>
+                    <sex>masculino</sex>
+                    <nationality>desconocido</nationality>
+                </person>
+                <person xml:id="A143">
+                    <persName>
+                        <surname>Suárez y Romero</surname>
+                        <forename>Anselmo</forename>
+                    </persName>
+                    <birth>
+                        <date when="1818-04-21">21 de abril de 1818</date>
+                        <placeName>La Habana</placeName>
+                        <placeName>Cuba</placeName>
+                    </birth>
+                    <death>
+                        <date when="1878-01-07">7 de enero de 1878</date>
+                        <placeName>La Habana</placeName>
+                        <placeName>Cuba</placeName>
+                    </death>
+                    <idno type="viaf">47570151</idno>
+                    <sex>masculino</sex>
+                    <nationality>cubana/o</nationality>
+                </person>
+                <person xml:id="A144">
+                    <persName>
+                        <surname>Santacilia</surname>
+                        <forename>Pedro</forename>
+                    </persName>
+                    <birth>
+                        <date when="1826-06-24">24 de junio de 1826</date>
+                        <placeName>Santiago de Cuba</placeName>
+                        <placeName>Cuba</placeName>
+                    </birth>
+                    <death>
+                        <date when="1910-03-02">2 de marzo de 1910</date>
+                        <placeName>Ciudad México</placeName>
+                        <placeName>México</placeName>
+                    </death>
+                    <idno type="viaf">35923557</idno>
+                    <idno type="viaf">7416148269863605230007</idno>
+                    <sex>masculino</sex>
+                    <nationality>cubana/o</nationality>
+                </person>
+                <person xml:id="A145">
+                    <persName>
+                        <surname>Ramos</surname>
+                        <forename>José Antonio</forename>
+                    </persName>
+                    <birth>
+                        <date when="1885-04-04">4 de abril de 1885</date>
+                        <placeName>La Habana</placeName>
+                        <placeName>Cuba</placeName>
+                    </birth>
+                    <death>
+                        <date when="1946-08-27">27 de agosto de 1946</date>
+                        <placeName>La Habana</placeName>
+                        <placeName>Cuba</placeName>
+                    </death>
+                    <idno type="viaf">61672066</idno>
+                    <sex>masculino</sex>
+                    <nationality>cubana/o</nationality>
+                </person>
+                <person xml:id="A146">
+                    <persName>
+                        <surname>Rodríguez Émbil</surname>
+                        <forename>Luis</forename>
+                        <addName type="pseudonym">Julio Abril</addName>
+                        <addName type="pseudonym">Julián Sorel</addName>
+                    </persName>
+                    <birth>
+                        <date when="1879-08-30">30 de agosto de 1879</date>
+                        <placeName>La Habana</placeName>
+                        <placeName>Cuba</placeName>
+                    </birth>
+                    <death>
+                        <date when="1954-04-29">29 de abril de 1954</date>
+                        <placeName>La Habana</placeName>
+                        <placeName>Cuba</placeName>
+                    </death>
+                    <idno type="viaf">310568951</idno>
+                    <sex>masculino</sex>
+                    <nationality>cubana/o</nationality>
+                </person>
+                <person xml:id="A147">
+                    <persName>
+                        <surname>Puig y de la Puente</surname>
+                        <forename>Francisco</forename>
+                        <addName type="pseudonym">Julio Rosas</addName>
+                        <addName type="pseudonym">Un filántropo abolicionista</addName>
+                    </persName>
+                    <birth>
+                        <date when="1839">1839</date>
+                        <placeName>San Antonio de los Baños</placeName>
+                        <placeName>Habana</placeName>
+                        <placeName>Cuba</placeName>
+                    </birth>
+                    <death>
+                        <date when="1917-12-08">8 de diciembre de 1917</date>
+                        <placeName>San Antonio de los Baños</placeName>
+                        <placeName>Habana</placeName>
+                        <placeName>Cuba</placeName>
+                    </death>
+                    <idno type="viaf">78425874</idno>
+                    <sex>masculino</sex>
+                    <nationality>cubana/o</nationality>
+                </person>
+                <person xml:id="A148">
+                    <persName>
+                        <surname>Palma y Romay</surname>
+                        <forename>Ramón de</forename>
+                    </persName>
+                    <birth>
+                        <date when="1812-01-03">3 de enero de 1812</date>
+                        <placeName>La Habana</placeName>
+                        <placeName>Cuba</placeName>
+                    </birth>
+                    <death>
+                        <date when="1860-06-21">21 de junio de 1860</date>
+                        <placeName>La Habana</placeName>
+                        <placeName>Cuba</placeName>
+                    </death>
+                    <idno type="viaf">61121378</idno>
+                    <sex>masculino</sex>
+                    <nationality>cubana/o</nationality>
+                </person>
+                <person xml:id="A149">
+                    <persName>
+                        <surname>Pérez de Zambrana</surname>
+                        <forename>Luisa</forename>
+                    </persName>
+                    <birth>
+                        <date when="1835-08-25" cert="low">25 de agosto de 1835</date>
+                        <placeName>Finca «Melgarejo»</placeName>
+                        <placeName>El Cobre</placeName>
+                        <placeName>Oriente</placeName>
+                        <placeName>Cuba</placeName>
+                    </birth>
+                    <death>
+                        <date when="1922-05-25">25 de mayo de 1922</date>
+                        <placeName>Regla</placeName>
+                        <placeName>Habana</placeName>
+                        <placeName>Cuba</placeName>
+                    </death>
+                    <idno type="viaf">38072147</idno>
+                    <sex>femenino</sex>
+                    <nationality>cubana/o</nationality>
+                </person>
+                <person xml:id="A150">
+                    <persName>
+                        <surname>Pichardo y Tapia</surname>
+                        <forename>Esteban</forename>
+                    </persName>
+                    <birth>
+                        <date when="1799-12-26">26 de diciembre de 1799</date>
+                        <placeName>Santiago de los Caballeros</placeName>
+                        <placeName>Santo Domingo</placeName>
+                    </birth>
+                    <death>
+                        <date when="1879">1879</date>
+                        <placeName>La Habana</placeName>
+                        <placeName>Cuba</placeName>
+                    </death>
+                    <idno type="viaf">17160970</idno>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">cubana/o</nationality>
+                </person>
+                <person xml:id="A151">
+                    <persName>
+                        <surname>Piña y Blanco</surname>
+                        <forename>Ramón</forename>
+                    </persName>
+                    <birth>
+                        <date when="1819">1819</date>
+                        <placeName>La Habana</placeName>
+                        <placeName>Cuba</placeName>
+                    </birth>
+                    <death>
+                        <date when="1861">1861</date>
+                        <placeName>Madrid</placeName>
+                        <placeName>España</placeName>
+                    </death>
+                    <idno type="viaf">48124168</idno>
+                    <sex>masculino</sex>
+                    <nationality>cubana/o</nationality>
+                </person>
+                <person xml:id="A152">
+                    <persName>
+                        <surname>Puig y Cárdenas</surname>
+                        <forename>Félix</forename>
+                    </persName>
+                    <birth>
+                        <date when="1835">1835</date>
+                        <placeName>La Habana</placeName>
+                        <placeName>Cuba</placeName>
+                    </birth>
+                    <death>
+                        <date when="1896-12-08">8 de diciembre de 1896</date>
+                        <placeName>La Habana</placeName>
+                        <placeName>Cuba</placeName>
+                    </death>
+                    <idno type="viaf">26708536</idno>
+                    <sex>masculino</sex>
+                    <nationality>cubana/o</nationality>
+                </person>
+                <person xml:id="A153">
+                    <persName>
+                        <surname>García</surname>
+                        <forename>Juan Agustín</forename>
+                    </persName>
+                    <birth>
+                        <date when="1862">1862</date>
+                        <placeName>Buenos Aires</placeName>
+                        <placeName>Argentina</placeName>
+                    </birth>
+                    <death>
+                        <date when="1923">1923</date>
+                        <placeName>Buenos Aires</placeName>
+                        <placeName>Argentina</placeName>
+                    </death>
+                    <idno type="viaf">53052344</idno>
+                    <sex>masculino</sex>
+                    <nationality>argentina/o</nationality>
+                </person>
+                <person xml:id="A154">
+                    <persName>
+                        <surname>García Merou</surname>
+                        <forename>Martín</forename>
+                    </persName>
+                    <birth>
+                        <date when="1862">1862</date>
+                        <placeName>Buenos Aires</placeName>
+                        <placeName>Argentina</placeName>
+                    </birth>
+                    <death>
+                        <date when="1905">1905</date>
+                        <placeName>Buenos Aires</placeName>
+                        <placeName>Argentina</placeName>
+                    </death>
+                    <idno type="viaf">5010378</idno>
+                    <sex>masculino</sex>
+                    <nationality>argentina/o</nationality>
+                </person>
+                <person xml:id="A155">
+                    <persName>
+                        <surname>García Velloso</surname>
+                        <forename>Enrique</forename>
+                    </persName>
+                    <birth>
+                        <date when="1880-09-02">2 de septiembre de 1880</date>
+                        <placeName>Rosario</placeName>
+                        <placeName>Santa Fe</placeName>
+                        <placeName>Argentina</placeName>
+                    </birth>
+                    <death>
+                        <date when="1938-01-27">27 de enero de 1938</date>
+                        <placeName>Buenos Aires</placeName>
+                        <placeName>Argentina</placeName>
+                    </death>
+                    <idno type="viaf">54182356</idno>
+                    <sex>masculino</sex>
+                    <nationality>argentina/o</nationality>
+                </person>
+                <person xml:id="A156">
+                    <persName>
+                        <surname>Garmendia</surname>
+                        <forename>José Ignacio</forename>
+                    </persName>
+                    <birth>
+                        <date when="1843-03-19">19 de marzo de 1843</date>
+                        <placeName>Buenos Aires</placeName>
+                        <placeName>Argentina</placeName>
+                    </birth>
+                    <death>
+                        <date when="1925-06-11">11 de junio de 1925</date>
+                        <placeName>Buenos Aires</placeName>
+                        <placeName>Argentina</placeName>
+                    </death>
+                    <idno type="viaf">75232657</idno>
+                    <sex>masculino</sex>
+                    <nationality>argentina/o</nationality>
+                </person>
+                <person xml:id="A157">
+                    <persName>
+                        <surname>Ghiraldo</surname>
+                        <forename>Alberto</forename>
+                    </persName>
+                    <birth>
+                        <date when="1874">1874</date>
+                        <placeName>Buenos Aires</placeName>
+                        <placeName>Argentina</placeName>
+                    </birth>
+                    <death>
+                        <date when="1946-03-23">23 de marzo de 1946</date>
+                        <placeName>Santiago de Chile</placeName>
+                        <placeName>Chile</placeName>
+                    </death>
+                    <idno type="viaf">75232657</idno>
+                    <sex>masculino</sex>
+                    <nationality>argentina/o</nationality>
+                </person>
+                <person xml:id="A158">
+                    <persName>
+                        <surname>Gicca</surname>
+                        <forename>Francisco</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">argentina/o</nationality>
+                </person>
+                <person xml:id="A159">
+                    <persName>
+                        <surname>Giraldes</surname>
+                        <forename>Tomás N.</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">argentina/o</nationality>
+                </person>
+                <person xml:id="A160">
+                    <persName>
+                        <surname>Gómez</surname>
+                        <forename>Eusebio F.</forename>
+                    </persName>
+                    <birth>
+                        <date when="1815">1815</date>
+                    </birth>
+                    <death>
+                        <date when="1885">1885</date>
+                    </death>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">argentina/o</nationality>
+                </person>
+                <person xml:id="A161">
+                    <persName>
+                        <surname>Gorriti</surname>
+                        <forename>Juana Manuela</forename>
+                    </persName>
+                    <birth>
+                        <date when="1819-07-15">15 de julio de 1819</date>
+                        <placeName>Rosario de la Frontera</placeName>
+                        <placeName>Salta</placeName>
+                        <placeName>Argentina</placeName>
+                    </birth>
+                    <death>
+                        <date when="1892-11-06">6 de noviembre de 1892</date>
+                        <placeName>Buenos Aires</placeName>
+                        <placeName>Argentina</placeName>
+                    </death>
+                    <sex>femenino</sex>
+                    <nationality>argentina/o</nationality>
+                    <idno type="viaf">100239982</idno>
                 </person>
             </listPerson>
         </body>

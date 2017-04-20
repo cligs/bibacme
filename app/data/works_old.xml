@@ -1041,10 +1041,6 @@
                     <author key="A101">Bachiller</author>
                     <title>Matilde o los bandidos de Cuba</title><!-- Roman? -->
                 </bibl>
-                <bibl xml:id="W268">
-                    <author key="A102">Palma, R.</author>
-                    <title>Matanzas y Yumurí</title><!-- Roman? -->
-                </bibl>
                 <bibl xml:id="W269">
                     <author key="A103">Cuéllar, José Tomás de</author>
                     <title>Los Mariditos</title>
@@ -1094,24 +1090,6 @@
                     <author key="A103">Cuéllar, José Tomás de</author>
                     <title>La noche buena</title>
                     <idno type="cligs">nh0130</idno>
-                </bibl>
-                <bibl xml:id="W280">
-                    <author key="A104">Rabasa, Emilio</author>
-                    <title>La Bola</title>
-                    <idno type="cligs">nh0023</idno>
-                </bibl>
-                <bibl xml:id="W281">
-                    <author key="A104">Rabasa, Emilio</author>
-                    <title>La Gran Ciencia</title>
-                    <idno type="cligs">nh0198</idno>
-                </bibl>
-                <bibl xml:id="W282">
-                    <author key="A104">Rabasa, Emilio</author>
-                    <title>El Cuarto Poder</title>
-                </bibl>
-                <bibl xml:id="W283">
-                    <author key="A104">Rabasa, Emilio</author>
-                    <title>Moneda Falsa</title>
                 </bibl>
                 <bibl xml:id="W284">
                     <author key="A105">Paz, Ireneo</author>
@@ -1187,47 +1165,6 @@
                     <title>El tipo más original</title>
                     <idno type="cligs">nh0189</idno>
                 </bibl>
-                <bibl xml:id="W302">
-                    <author key="A106">Rivera y Río, José</author>
-                    <title>Los Misterios de San Cosme</title>
-                </bibl>
-                <bibl xml:id="W303">
-                    <author key="A106">Rivera y Río, José</author>
-                    <title>Fatalidad y Providencia</title>
-                </bibl>
-                <bibl xml:id="W304">
-                    <author key="A106">Rivera y Río, José</author>
-                    <title>Mártires y Verdugos</title>
-                </bibl>
-                <bibl xml:id="W305">
-                    <author key="A106">Rivera y Río, José</author>
-                    <title>Las Tres Aventureras</title>
-                </bibl>
-                <bibl xml:id="W306">
-                    <author key="A106">Rivera y Río, José</author>
-                    <title>Los Dramas de Nueva York</title>
-                    <idno type="cligs">nh0183</idno>
-                </bibl>
-                <bibl xml:id="W307">
-                    <author key="A106">Rivera y Río, José</author>
-                    <title>El Hambre y el Oro</title>
-                </bibl>
-                <bibl xml:id="W308">
-                    <author key="A106">Rivera y Río, José</author>
-                    <title>Esqueletos Sociales</title>
-                </bibl>
-                <bibl xml:id="W309">
-                    <author key="A106">Rivera y Río, José</author>
-                    <title>La Virgen del Niágara</title>
-                </bibl>
-                <bibl xml:id="W310">
-                    <author key="A106">Rivera y Río, José</author>
-                    <title>Memorias de Unos Náufragos</title>
-                </bibl>
-                <bibl xml:id="W311">
-                    <author key="A106">Rivera y Río, José</author>
-                    <title>Pobres y Ricos de México</title>
-                </bibl>
                 <bibl xml:id="W312">
                     <author key="A11">Ancona, Eligio</author>
                     <title>La Mestiza</title>
@@ -1289,23 +1226,6 @@
                     <!-- https://itunes.apple.com/mx/book/obras-del-lic.-jose-lopez/id1097004343?mt=11 -->
                     <!-- http://sc.jalisco.gob.mx/acervos/libro-de-consulta-yo-venta/328 -->
                     <!-- https://catalog.hathitrust.org/Record/101403240 -->
-                </bibl>
-                <bibl xml:id="W328">
-                    <author key="A110">Sierra Méndez, Justo</author>
-                    <title>Confesiones de un Pianista</title>
-                    <idno type="cligs">nh0157</idno>
-                </bibl>
-                <!-- Cuentos Románticos 1896 -->
-                <bibl xml:id="W329">
-                    <author key="A111">Sierra O'Reilly, Justo</author>
-                    <title>La Hija del Judío</title>
-                    <idno type="cligs">nh0106</idno>
-                </bibl>
-                <!-- Algunas leyendas 1892 -->
-                <bibl xml:id="W330">
-                    <author key="A111">Sierra O'Reilly, Justo</author>
-                    <title>Un Año en el Hospital de San Lázaro</title>
-                    <idno type="cligs">nh0085</idno>
                 </bibl>
                 <bibl xml:id="W331">
                     <author key="A112">Napolitano, Leonardo</author>
@@ -1861,105 +1781,6 @@
                     <title>El Capitán de Patricios</title>
                     <idno type="cligs">nh0040</idno>
                 </bibl>
-                <bibl xml:id="W461">
-                    <author key="A159">Gorriti, Juana Manuela</author>
-                    <title>El pozo del Yocci</title>
-                    <idno type="cligs">nh0041</idno>
-                </bibl>
-                <bibl xml:id="W462">
-                    <author key="A159">Gorriti, Juana Manuela</author>
-                    <title>La quena</title>
-                    <idno type="cligs">nh0107</idno>
-                </bibl>
-                <bibl xml:id="W463">
-                    <author key="A159">Gorriti, Juana Manuela</author>
-                    <title>El lecho nupcial</title>
-                </bibl>
-                <bibl xml:id="W464">
-                    <author key="A159">Gorriti, Juana Manuela</author>
-                    <title>El ramillete de la velada</title>
-                </bibl>
-                <bibl xml:id="W465">
-                    <author key="A159">Gorriti, Juana Manuela</author>
-                    <title>El guante negro</title>
-                </bibl>
-                <bibl xml:id="W466">
-                    <author key="A159">Gorriti, Juana Manuela</author>
-                    <title>Si haces mal no esperes bien</title>
-                </bibl>
-                <bibl xml:id="W467">
-                    <author key="A159">Gorriti, Juana Manuela</author>
-                    <title>El ángel caído</title>
-                    <idno type="cligs">nh0169</idno>
-                </bibl>
-                <bibl xml:id="W468">
-                    <author key="A159">Gorriti, Juana Manuela</author>
-                    <title>Gubi-Amaya</title>
-                    <idno type="cligs">nh0178</idno>
-                </bibl>
-                <bibl xml:id="W469">
-                    <author key="A159">Gorriti, Juana Manuela</author>
-                    <title>La hija del mashorquero</title>
-                </bibl>
-                <bibl xml:id="W470">
-                    <author key="A159">Gorriti, Juana Manuela</author>
-                    <title>Una hora de coquetería</title>
-                </bibl>
-                <bibl xml:id="W471">
-                    <author key="A159">Gorriti, Juana Manuela</author>
-                    <title>El tesoro de los Incas</title>
-                </bibl>
-                <bibl xml:id="W472">
-                    <author key="A159">Gorriti, Juana Manuela</author>
-                    <title>La novia del muerto</title>
-                </bibl>
-                <bibl xml:id="W473">
-                    <author key="A159">Gorriti, Juana Manuela</author>
-                    <title>Quien escucha su mal oye</title>
-                </bibl>
-                <bibl xml:id="W474">
-                    <author key="A159">Gorriti, Juana Manuela</author>
-                    <title>Tres noches de una historia</title>
-                </bibl>
-                <bibl xml:id="W475">
-                    <author key="A159">Gorriti, Juana Manuela</author>
-                    <title>Un drama en el Adriático</title>
-                </bibl>
-                <bibl xml:id="W476">
-                    <author key="A159">Gorriti, Juana Manuela</author>
-                    <title>Una noche de agonía</title>
-                </bibl>
-                <bibl xml:id="W477">
-                    <author key="A159">Gorriti, Juana Manuela</author>
-                    <title>Un año en California</title>
-                    <title>Un viaje al país del oro</title>
-                </bibl>
-                <bibl xml:id="W478">
-                    <author key="A159">Gorriti, Juana Manuela</author>
-                    <title>Oasis en la vida</title>
-                </bibl>
-                <bibl xml:id="W479">
-                    <author key="A159">Gorriti, Juana Manuela</author>
-                    <title>La tierra natal</title>
-                    <idno type="cligs">nh0042</idno>
-                </bibl>
-                <bibl xml:id="W480">
-                    <author key="A159">Gorriti, Juana Manuela</author>
-                    <title>Peregrinaciones de un alma triste</title>
-                </bibl>
-                <bibl xml:id="W481">
-                    <author key="A159">Gorriti, Juana Manuela</author>
-                    <title>Juez y verdugo</title>
-                    <idno type="cligs">nh0043</idno>
-                </bibl>
-                <bibl xml:id="W482">
-                    <author key="A159">Gorriti, Juana Manuela</author>
-                    <title>Feliza</title>
-                </bibl>
-                <bibl xml:id="W483">
-                    <author key="A159">Gorriti, Juana Manuela</author>
-                    <title>La leontina</title>
-                </bibl>
                 <bibl xml:id="W484">
                     <author key="A160">Castellanos, Jesús</author>
                     <title>La conjura</title>
@@ -1983,38 +1804,6 @@
                     <author key="A161">González, Joaquín Víctor</author>
                     <title>Mis montañas</title>
                     <idno type="cligs">nh0045</idno>
-                </bibl>
-                <bibl xml:id="W489">
-                    <author key="A162">Riva Palacio, Vicente</author>
-                    <title>Calvario y Tabor</title>
-                    <idno type="cligs">nh0125</idno><!-- bisher nur Teil 1 -->
-                </bibl>
-                <bibl xml:id="W490">
-                    <author key="A162">Riva Palacio, Vicente</author>
-                    <title>Martín Garatuza</title>
-                    <idno type="cligs">nh0049</idno>
-                </bibl>
-                <bibl xml:id="W491">
-                    <author key="A162">Riva Palacio, Vicente</author>
-                    <title>Los Piratas del Golfo</title>
-                </bibl>
-                <bibl xml:id="W492">
-                    <author key="A162">Riva Palacio, Vicente</author>
-                    <title>Las dos Emparedadas</title>
-                </bibl>
-                <bibl xml:id="W493">
-                    <author key="A162">Riva Palacio, Vicente</author>
-                    <title>Memorias de un Impostor</title>
-                </bibl>
-                <bibl xml:id="W494">
-                    <author key="A162">Riva Palacio, Vicente</author>
-                    <title>La Vuelta de los Muertos</title>
-                    <idno type="cligs">nh0122</idno>
-                </bibl>
-                <bibl xml:id="W495">
-                    <author key="A162">Riva Palacio, Vicente</author>
-                    <title>Monja y Casada, Virgen y Mártir</title>
-                    <idno type="cligs">nh0203</idno>
                 </bibl>
                 <bibl xml:id="W496">
                     <author key="A163">Alfaro, Jesús</author>
@@ -2090,66 +1879,6 @@
                     <author key="A174">Pérez, Dionisio</author>
                     <title>La Cubanita</title>
                 </bibl>-->
-                <bibl xml:id="W512">
-                    <author key="A174">Puig y Cárdenas, Félix</author>
-                    <title>La Bella Loca</title>
-                </bibl>
-                <bibl xml:id="W513">
-                    <author key="A174">Puig y Cárdenas, Félix</author>
-                    <title>Ángela</title>
-                </bibl>
-                <bibl xml:id="W514">
-                    <author key="A174">Puig y Cárdenas, Félix</author>
-                    <title>Carlota Palmieri</title>
-                </bibl>
-                <bibl xml:id="W515">
-                    <author key="A174">Puig y Cárdenas, Félix</author>
-                    <title>Leoncia de Nancis</title>
-                </bibl>
-                <bibl xml:id="W516">
-                    <author key="A174">Puig y Cárdenas, Félix</author>
-                    <title>El marqués de Girasol</title>
-                </bibl>
-                <bibl xml:id="W517">
-                    <author key="A174">Puig y Cárdenas, Félix</author>
-                    <title>El marqués de Verdemar</title>
-                </bibl>
-                <bibl xml:id="W518">
-                    <author key="A174">Puig y Cárdenas, Félix</author>
-                    <title>Historia de un crimen</title>
-                </bibl>
-                <bibl xml:id="W519">
-                    <author key="A174">Puig y Cárdenas, Félix</author>
-                    <title>Efecto del orgullo</title>
-                </bibl>
-                <bibl xml:id="W520">
-                    <author key="A174">Puig y Cárdenas, Félix</author>
-                    <title>Engañar con la verdad</title>
-                </bibl>
-                <bibl xml:id="W521">
-                    <author key="A174">Puig y Cárdenas, Félix</author>
-                    <title>La sortija del doctor</title>
-                </bibl>
-                <bibl xml:id="W522">
-                    <author key="A174">Puig y Cárdenas, Félix</author>
-                    <title>La fuerza de la conciencia</title>
-                </bibl>
-                <bibl xml:id="W523">
-                    <author key="A174">Puig y Cárdenas, Félix</author>
-                    <title>La rueda de la fortuna</title>
-                </bibl>
-                <bibl xml:id="W524">
-                    <author key="A174">Puig y Cárdenas, Félix</author>
-                    <title>Mariana</title>
-                </bibl>
-                <bibl xml:id="W525">
-                    <author key="A174">Puig y Cárdenas, Félix</author>
-                    <title>Una conversión</title>
-                </bibl>
-                <bibl xml:id="W526">
-                    <author key="A175">Ramos, José Antonio</author>
-                    <title>Humberto Fabra</title>
-                </bibl>
                 <bibl xml:id="W527">
                     <author key="A176">Rencurrell, Georgina</author>
                     <title>Adelfa</title>
@@ -2174,81 +1903,10 @@
                     <author key="A176">Rencurrell, Georgina</author>
                     <title>Único amor</title>
                 </bibl>
-                <bibl xml:id="W533">
-                    <author key="A177">Rodríguez Émbil, Luis</author>
-                    <title>Gil Luna, artista</title>
-                </bibl>
                 <bibl xml:id="W534">
                     <author key="A178">Cárdenas, Fermina de</author>
                     <title>Calixto García</title>
                     <term target="subgenre_lithist" resp="#Bouffartigue">biografía novelada</term>
-                </bibl>
-                <bibl xml:id="W535">
-                    <author key="A179">Puig y de la Puente, Francisco</author>
-                    <title>Flor del corazón</title>
-                    <term type="subgenre_title">novela india</term>
-                </bibl>
-                <bibl xml:id="W536">
-                    <author key="A179">Puig y de la Puente, Francisco</author>
-                    <title>La campana del ingenio</title>
-                    <term type="subgenre_lithist" resp="#DLC">novela abolicionista</term>
-                </bibl>
-                <bibl xml:id="W537">
-                    <author key="A179">Puig y de la Puente, Francisco</author>
-                    <title>La tumba ignorada</title>
-                </bibl>
-                <bibl xml:id="W538">
-                    <author key="A179">Puig y de la Puente, Francisco</author>
-                    <title>Julia, la hija del pescador</title>
-                </bibl>
-                <bibl xml:id="W539">
-                    <author key="A179">Puig y de la Puente, Francisco</author>
-                    <title>La tumba de azucenas</title>
-                </bibl>
-                <bibl xml:id="W540">
-                    <author key="A179">Puig y de la Puente, Francisco</author>
-                    <title>La joven Esmeralda</title>
-                </bibl>
-                <bibl xml:id="W541">
-                    <author key="A179">Puig y de la Puente, Francisco</author>
-                    <title>Lágrimas de un ángel</title>
-                </bibl>
-                <bibl xml:id="W542">
-                    <author key="A179">Puig y de la Puente, Francisco</author>
-                    <title>Graziela</title>
-                </bibl>
-                <bibl xml:id="W543">
-                    <author key="A179">Puig y de la Puente, Francisco</author>
-                    <title>Magdalena</title>
-                </bibl>
-                <bibl xml:id="W544">
-                    <author key="A179">Puig y de la Puente, Francisco</author>
-                    <title>La campana de la tarde; o, Vivir muriendo</title>
-                </bibl>
-                <bibl xml:id="W545">
-                    <author key="A179">Puig y de la Puente, Francisco</author>
-                    <title>Los cocuyos</title>
-                </bibl>
-                <bibl xml:id="W546">
-                    <author key="A179">Puig y de la Puente, Francisco</author>
-                    <title>Amor a la Patria, páginas de un desterrado</title>
-                </bibl>
-                <bibl xml:id="W547">
-                    <author key="A179">Puig y de la Puente, Francisco</author>
-                    <title>Narciso López en Cárdenas</title>
-                    <term type="subgenre_lithist" resp="#Trelles">novela histórica</term>
-                </bibl>
-                <bibl xml:id="W548">
-                    <author key="A179">Puig y de la Puente, Francisco</author>
-                    <title>Cuba Revolucionaria</title>
-                </bibl>
-                <bibl xml:id="W549">
-                    <author key="A179">Puig y de la Puente, Francisco</author>
-                    <title>La choza de Julia</title>
-                </bibl>
-                <bibl xml:id="W550">
-                    <author key="A179">Puig y de la Puente, Francisco</author>
-                    <title>El mulatico Julio</title>
                 </bibl>
                 <bibl xml:id="W551">
                     <author key="A180">Ruilópez, Ramón</author>
@@ -2406,14 +2064,6 @@
                     <author key="A195">Arenosa, Antonio L.</author>
                     <title>María</title>
                 </bibl>
-                <bibl xml:id="W589">
-                    <author key="A196">Piña y Blanco, Ramón</author>
-                    <title>Gerónimo el honrado</title>
-                </bibl>
-                <bibl xml:id="W590">
-                    <author key="A196">Piña y Blanco, Ramón</author>
-                    <title>El Dr. Lañuela</title>
-                </bibl>
                 <bibl xml:id="W591">
                     <author key="A197">Balmaseda, Francisco Javier</author>
                     <title>Los misterios de una cabaña</title>
@@ -2510,10 +2160,6 @@
                 <bibl xml:id="W614">
                     <author key="A207">Pasarón y Lastra, Ubaldo P.</author>
                     <title>Un amor de montaña o Memorias de un muerto</title>
-                </bibl>
-                <bibl xml:id="W615">
-                    <author key="A196">Piña y Blanco, Ramón</author>
-                    <title>Historia de un bribón dichoso</title>
                 </bibl>
                 <!-- Güell y Rente, 1861, Tradiciones de América; http://bdh-rd.bne.es/viewer.vm?id=0000134693 
                 jeweils zwischen etwa 20 und 30 Seiten; siehe Trelles, XIX, t. 4, p. 149 -->

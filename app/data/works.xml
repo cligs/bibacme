@@ -37,12 +37,14 @@
                     <term type="subgenre_title">episodio novelesco de actualidad</term>
                     <term type="subgenre_lithist" ref="#Lichtblau">naturalistic novel</term>
                     <!-- resumen en Lichtblau -->
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W2">
                     <author key="A1">Aguilar, Ventura</author>
                     <title>Noche penal</title>
                     <term type="subgenre_title">episodio de circunstancias</term>
                     <!-- resumen en Lichtblau -->
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W3">
                     <author key="A1">Aguilar, Ventura</author>
@@ -50,6 +52,7 @@
                     <term type="subgenre_title">episodio de la guerra de Cuba</term>
                     <note type="subgenre_lithist" source="#Lichtblau">trite love story</note>
                     <!-- resumen en Lichtblau -->
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W4">
                     <author key="A2">Alberdi, Juan Bautista</author>
@@ -59,6 +62,7 @@
                     <term type="subgenre_lithist" ref="#Lichtblau">satire</term>
                     <term type="subgenre_lithist" ref="#Lichtblau">novela alegórica</term>
                     <!-- resumen en Lichtblau -->
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W5">
                     <author key="A2">Alberdi, Juan Bautista</author>
@@ -68,12 +72,14 @@
                         form</note>
                     <ref>http://trapalanda.bn.gov.ar/jspui/handle/123456789/1790</ref>
                     <!-- resumen en Lichtblau -->
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W6">
                     <author key="A3">Albert, Luis J.</author>
                     <title>Lía</title>
                     <term type="subgenre_title">tradición escrita</term>
                     <!-- resumen en Lichtblau -->
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W7">
                     <author key="A4">Alberto, Jorge</author>
@@ -81,6 +87,7 @@
                     <note type="subgenre_lithist" source="#Lichtblau">narrative of amorous
                         affairs</note>
                     <!-- resumen en Lichtblau -->
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W8">
                     <author key="A5">Alcorta, Amancio</author>
@@ -89,6 +96,7 @@
                     <note type="subgenre_lithist" source="#Lichtblau">pintura cálida y sincera del
                         Buenos Aires de la tiranía</note>
                     <!-- resumen en Lichtblau -->
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W9">
                     <author key="A6">Álvarez, José Sixto</author>
@@ -97,12 +105,17 @@
                     <note type="subgenre_lithist" source="#Lichtblau">un rescate épico del
                         sur</note>
                     <!-- resumen en Lichtblau -->
+                    <ref>https://archive.org/details/3198803</ref>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W10">
                     <author key="A6">Álvarez, José Sixto</author>
                     <title>Memorias de un vigilante</title>
                     <term type="subgenre_title">memorias</term>
                     <!-- resumen en Lichtblau -->
+                    <ref>https://catalog.hathitrust.org/Record/000095953</ref>
+                    <ref>http://www.gutenberg.org/ebooks/19543</ref>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W11">
                     <author key="A6">Álvarez, José Sixto</author>
@@ -110,12 +123,15 @@
                     <note type="subgenre_lithist" source="#Lichtblau">Relatos costumbristas reunidos
                         casi en forma de novela.</note>
                     <!-- resumen en Lichtblau -->
+                    <ref>https://catalog.hathitrust.org/Record/101119318</ref>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W12">
                     <author key="A7">Allende de Buffo, Leonor</author>
                     <title>Flavio Solari</title>
                     <note type="subgenre_lithist" source="#Lichtblau">historia de amor</note>
                     <!-- resumen en Lichtblau -->
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W13">
                     <author key="A0">Anónimo</author>
@@ -123,10 +139,12 @@
                     <note type="subgenre_lithist" source="#Lichtblau">historia de una pesquisa
                         policial</note>
                     <!-- resumen en Lichtblau -->
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W14">
                     <author key="A0">Anónimo</author>
                     <title>El niño expósito</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W15">
                     <author key="A8">Arauz, Toribio</author>
@@ -135,6 +153,7 @@
                     <note type="subgenre_lithist" source="#Lichtblau">a caustic diatribe against
                         Rosas</note>
                     <!-- resumen en Lichtblau -->
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W16">
                     <author key="A9">Argerich, Juan Antonio</author>
@@ -145,6 +164,7 @@
                         'inferior' Italian immigrants</note>
                     <idno type="cligs">nh0038</idno>
                     <!-- resumen en Lichtblau -->
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W17">
                     <author key="A10">Arredondo, Marcos F.</author>
@@ -152,10 +172,12 @@
                     <note type="subgenre_lithist" source="#Lichtblau">treating the question of money
                         versus love in a materialistic Buenos Aires society</note>
                     <!-- resumen en Lichtblau -->
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W18">
                     <author key="A11">Astort, Antonio</author>
                     <title>El despotismo del oro</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W19">
                     <author key="A12">Auzon, Maximiliano Eugenio</author>
@@ -163,206 +185,266 @@
                     <note type="subgenre_lithist" source="#Lichtblau">deals in part with the fever
                         of speculation [...] deals realistically with an adulterous love</note>
                     <!-- resumen en Lichtblau -->
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W20">
                     <author key="A12">Auzon, Maximiliano Eugenio</author>
                     <title>Severina</title>
                     <term type="subgenre_lithist" ref="#Lichtblau">sentimental novel</term>
                     <!-- resumen en Lichtblau -->
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W21">
                     <author key="A13">Zamacois, Niceto de</author>
                     <title>Testamento del gallo pitagórico</title>
                     <term type="subgenre_title">obra satírica</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
                 </bibl>
                 <bibl xml:id="W22">
                     <author key="A13">Zamacois, Niceto de</author>
                     <title>El jarabe</title>
                     <term type="subgenre_title">obra de costumbres mexicanas</term>
                     <!-- novela? -->
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
                 </bibl>
                 <bibl xml:id="W23">
                     <author key="A13">Zamacois, Niceto de</author>
                     <title>El Capitán Rossi</title>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
                 </bibl>
                 <bibl xml:id="W24">
                     <author key="A13">Zamacois, Niceto de</author>
                     <title>El mendigo de San Ángel</title>
                     <term type="subgenre_title">novela histórica original</term>
                     <ref>https://catalog.hathitrust.org/Record/101098936</ref>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
                 </bibl>
                 <bibl xml:id="W25">
                     <author key="A13">Zamacois, Niceto de</author>
                     <title>La destrucción de Pompeya</title>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
                 </bibl>
                 <bibl xml:id="W26">
                     <author key="A13">Zamacois, Niceto de</author>
                     <title>Un ángel desterrado del cielo</title>
+                    <bibl><ptr target="#HathiTrust"/></bibl>
                 </bibl>
                 <bibl xml:id="W27">
                     <author key="A13">Zamacois, Niceto de</author>
                     <title>El buscador de oro en California</title>
+                    <bibl><ptr target="#UANL"/></bibl>
                 </bibl>
                 <bibl xml:id="W28">
                     <author key="A14">Zárate, Eduardo E.</author>
                     <title>Jalapa</title>
                     <term type="subgenre_title">episodio</term>
+                    <ref>https://catalog.hathitrust.org/Record/008727506</ref>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
                 </bibl>
                 <bibl xml:id="W29">
                     <author key="A15">Zarzamendi, M. M.</author>
-                    <title>Cuatro leyendas</title><!-- Sammlung -->
+                    <title>Ciencia y Conciencia</title>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W206">
+                    <author key="A15">Zarzamendi, M. M.</author>
+                    <title>El secreto bien guardado</title>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W207">
+                    <author key="A15">Zarzamendi, M. M.</author>
+                    <title>Doble personalidad</title>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
                 </bibl>
                 <bibl xml:id="W30">
                     <author key="A16">Zayas Enríquez, Rafael de</author>
                     <title>Remordimiento</title>
                     <term type="subgenre_title">memorias</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
                 </bibl>
                 <bibl xml:id="W31">
                     <author key="A16">Zayas Enríquez, Rafael de</author>
                     <title>Oceánica</title>
                     <term type="subgenre_title">novela original</term>
+                    <ref>https://catalog.hathitrust.org/Record/101404362</ref>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
                 </bibl>
                 <bibl xml:id="W32">
                     <author key="A16">Zayas Enríquez, Rafael de</author>
                     <title>El teniente de los gavilanes</title>
                     <term type="subgenre_title">novela de carácter histórico</term>
+                    <ref>https://catalog.hathitrust.org/Record/009782335</ref>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
                 </bibl>
                 <bibl xml:id="W33">
                     <author key="A17">Zayas Guarneros, Pablo</author>
                     <title>La invasión americana en 1847</title>
                     <term type="subgenre_title">novela histórica</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
                 </bibl>
                 <bibl xml:id="W34">
                     <author key="A17">Zayas Guarneros, Pablo</author>
                     <title>Herencias de bienes robados</title>
                     <term type="subgenre_title">novela de costumbres</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
                 </bibl>
                 <bibl xml:id="W35">
                     <author key="A17">Zayas Guarneros, Pablo</author>
                     <title>Escencas populares</title>
                     <term type="subgenre_title">novela original de costumbres</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
                 </bibl>
                 <bibl xml:id="W36">
                     <author key="A17">Zayas Guarneros, Pablo</author>
                     <title>Amor sublime</title>
                     <term type="subgenre_title">novela de costumbres mexicanas</term>
                     <term type="subgenre_title">estudio filosófico</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
                 </bibl>
                 <bibl xml:id="W37">
                     <author key="A18">Zentella, Arcadio</author>
                     <title>Perico</title>
                     <term type="subgenre_title">esbozos a la brocha</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
                 </bibl>
                 <bibl xml:id="W38">
                     <author key="A19">Zambrana y Vázquez, Antonio</author>
                     <title>El negro Francisco</title>
-                    <term target="subgenre_title">Novela orijinal de costumbres cubanas</term>
+                    <term type="subgenre_title">Novela orijinal de costumbres cubanas</term>
                     <ref>http://bdigital.bnjm.cu/secciones/literatura/autores/45/obras/45_332.pdf</ref>
+                    <bibl><ptr target="#DLC"/></bibl>
                 </bibl>
                 <bibl xml:id="W39">
                     <author key="A20">Zéndegui, Gabriel de</author>
                     <title>El bombero</title>
+                    <bibl><ptr target="#DLC"/></bibl>
                 </bibl>
                 <bibl xml:id="W40">
                     <author key="A21">Valle, Adrián del</author>
                     <title>Marta</title>
+                    <bibl><ptr target="#DLC"/></bibl>
                 </bibl>
                 <bibl xml:id="W41">
                     <author key="A22">Villaverde, Cirilo</author>
                     <title>La peña blanca</title>
+                    <bibl><ptr target="#DLC"/></bibl>
                 </bibl>
                 <bibl xml:id="W42">
                     <author key="A22">Villaverde, Cirilo</author>
                     <title>La joven de la flecha de oro</title>
                     <term type="subgenre_title">historia habanera</term>
                     <idno type="cligs">nh0188</idno>
+                    <bibl><ptr target="#DLC"/></bibl>
                 </bibl>
                 <bibl xml:id="W43">
                     <author key="A22">Villaverde, Cirilo</author>
                     <title>El espetón de oro</title>
                     <term type="subgenre_title">novela cubana</term>
+                    <bibl><ptr target="#DLC"/></bibl>
                 </bibl>
                 <bibl xml:id="W44">
                     <author key="A22">Villaverde, Cirilo</author>
                     <title>Teresa</title>
                     <term type="subgenre_title">novela original</term>
+                    <bibl><ptr target="#DLC"/></bibl>
                 </bibl>
                 <bibl xml:id="W45">
                     <author key="A22">Villaverde, Cirilo</author>
                     <title>Cecilia Valdés; o, La loma del Ángel</title>
                     <term type="subgenre_title">novela cubana</term>
                     <term type="subgenre_title">novela de costumbres cubanas</term>
+                    <bibl><ptr target="#DLC"/></bibl>
                 </bibl>
                 <bibl xml:id="W46">
                     <author key="A22">Villaverde, Cirilo</author>
                     <title>El penitente</title>
                     <term type="subgenre_title">novela histórica cubana</term>
+                    <bibl><ptr target="#DLC"/></bibl>
                 </bibl>
                 <bibl xml:id="W47">
                     <author key="A22">Villaverde, Cirilo</author>
                     <title>Comunidad de nombres y apellidos</title>
                     <term type="subgenre_title">novela original</term>
+                    <bibl><ptr target="#DLC"/></bibl>
                 </bibl>
                 <bibl xml:id="W48">
                     <author key="A22">Villaverde, Cirilo</author>
                     <title>El guajiro</title>
                     <term type="subgenre_title">cuadro de costumbres cubanas</term>
                     <idno type="cligs">nh0001</idno>
+                    <bibl><ptr target="#DLC"/></bibl>
                 </bibl>
                 <bibl xml:id="W49">
                     <author key="A22">Villaverde, Cirilo</author>
                     <title>Dos amores</title>
                     <term type="subgenre_title">novela original cubana</term>
                     <!-- comentario en Trelles XIX, t. 4, p. 86 -->
+                    <bibl><ptr target="#DLC"/></bibl>
                 </bibl>
                 <bibl xml:id="W50">
                     <author key="A22">Villaverde, Cirilo</author>
                     <title>El ave muerta</title>
+                    <bibl><ptr target="#DLC"/></bibl>
                 </bibl>
                 <bibl xml:id="W51">
                     <author key="A22">Villaverde, Cirilo</author>
                     <title>El perjurio</title>
+                    <bibl><ptr target="#DLC"/></bibl>
                 </bibl>
                 <bibl xml:id="W52">
                     <author key="A22">Villaverde, Cirilo</author>
                     <title>La tejedora de sombreros de yarey</title>
+                    <bibl><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W208">
+                    <author key="A22">Villaverde, Cirilo</author>
+                    <title>La cueva de Taganana</title>
+                    <bibl><ptr target="#DLC"/></bibl>
                 </bibl>
                 <bibl xml:id="W53">
                     <author key="A23">Vinageras, Antonio</author>
                     <title>Enriqueta</title>
                     <term type="subgenre_title">novela original</term>
+                    <bibl><ptr target="#DLC"/></bibl>
                 </bibl>
                 <bibl xml:id="W54">
                     <author key="A24">Babuglia, Antonio</author>
                     <title>Nenna</title>
                     <!-- resumen en Lichtblau -->
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W55">
                     <author key="A24">Babuglia, Antonio</author>
                     <title>Wanda</title>
                     <term type="subgenre_lithist">naturalistic novel</term>
                     <!-- resumen en Lichtblau -->
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W56">
                     <author key="A25">Bahamonde, Manuel</author>
                     <title>Abismos</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W57">
                     <author key="A25">Bahamonde, Manuel</author>
                     <title>Borrascas</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W58">
                     <author key="A25">Bahamonde, Manuel</author>
                     <title>Buenos Aires novelesco</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W59">
                     <author key="A25">Bahamonde, Manuel</author>
                     <title>Mareos</title>
                     <term type="subgenre_title">novela americana</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W60">
                     <author key="A25">Bahamonde, Manuel</author>
                     <title>El último Dobaiba</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W61">
                     <author key="A26">Barbara, Federico</author>
@@ -371,14 +453,17 @@
                     <note type="subgenre_lithist" source="#Lichtblau">a scathing denunciation of the
                         Rosas regime</note>
                     <!-- resumen en Lichtblau -->
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W62">
                     <author key="A27">Barra, Emma de la</author>
                     <title>El manantial</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W63">
                     <author key="A27">Barra, Emma de la</author>
                     <title>Mecha Iturbe</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W64">
                     <author key="A27">Barra, Emma de la</author>
@@ -387,19 +472,23 @@
                     <note type="subgenre_lithist" source="#Lichtblau">story of female
                         development</note>
                     <!-- resumen en Lichtblau -->
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W65">
                     <author key="A28">Barra, Federico de la</author>
                     <title>La presidencia</title>
                     <!-- comentario en Lichtblau -->
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W66">
                     <author key="A29">Barreda, Rafael</author>
                     <title>Magistrados que matan</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W67">
                     <author key="A29">Barreda, Rafael</author>
                     <title>Pepe Larrica</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W68">
                     <author key="A29">Barreda, Rafael</author>
@@ -407,6 +496,7 @@
                     <note type="subgenre_lithist" source="#Lichtblau">narración de un espantoso
                         crimen</note>
                     <!-- comentario en Lichtblau -->
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W69">
                     <author key="A30">Bermejo, Ildefonso Antonio</author>
@@ -414,24 +504,29 @@
                     <note type="subgenre_lithist" source="#Lichtblau">an unlikely, romantic
                         story</note>
                     <!-- comentario en Lichtblau -->
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W70">
                     <author key="A30">Bermejo, Ildefonso Antonio</author>
                     <title>El esclavo</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W71">
                     <author key="A30">Bermejo, Ildefonso Antonio</author>
                     <title>María Estuardo</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W72">
                     <author key="A30">Bermejo, Ildefonso Antonio</author>
                     <title>Un presentimiento</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W73">
                     <author key="A31">Bertal, O.</author>
                     <title>Un recuerdo de carnaval</title>
                     <term type="subgenre_title">un recuerdo</term>
                     <!-- resumen en Lichtblau -->
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W74">
                     <author key="A32">Blanco, Angel Julio</author>
@@ -439,12 +534,14 @@
                     <note type="subgenre_lithist" source="#Lichtblau">typical extravangances of
                         romantic fiction [...] attacks social and economic injustices</note>
                     <!-- comentario en Lichtblau -->
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W75">
                     <author key="A32">Blanco, Angel Julio</author>
                     <title>Emeterio de Leao</title>
                     <note source="#Lichtblau">Continuación de Una venganza funesta.</note>
                     <!-- resumen en Lichtblau -->
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W76">
                     <author key="A32">Blanco, Angel Julio</author>
@@ -452,17 +549,20 @@
                     <note type="subgenre_lithist" source="#Lichtblau">improbable story [...] much
                         descriptive material on Buenos Aires</note>
                     <!-- resumen en Lichtblau -->
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W77">
                     <author key="A33">Blanco, C. M.</author>
                     <title>Salvaje</title>
                     <term type="subgenre_title">novela argentina</term>
                     <!-- resumen en Lichtblau -->
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W78">
                     <author key="A34">Blanlot, Anselmo</author>
                     <title>¡Revolución!</title>
                     <term type="subgenre_title">novela histórica americana</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W79">
                     <author key="A35">Blomberg, Carlos</author>
@@ -471,11 +571,13 @@
                     <note type="subgenre_lithist" source="#Lichtblau">horrifying experiments of an
                         insane medical scientist who wants to destroy humanity</note>
                     <!-- resumen en Lichtblau -->
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W80">
                     <author key="A36">Bosch, Gonzalo</author>
                     <title>Nieve</title>
                     <term type="subgenre_title">novela de costumbres</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W81">
                     <author key="A37">Browne, Miguel</author>
@@ -483,6 +585,7 @@
                     <note type="subgenre_lithist" source="#Lichtblau">deals with Patricio's
                         courtship of Esther</note>
                     <!-- resumen en Lichtblau -->
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W82">
                     <author key="A38">Bunge, Carlos Octavio</author>
@@ -491,6 +594,7 @@
                     <note type="subgenre_lithist" source="#Lichtblau">psychological insight into
                         several amorous relationships</note>
                     <!-- resumen en Lichtblau -->
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W83">
                     <author key="A38">Bunge, Carlos Octavio</author>
@@ -498,129 +602,162 @@
                     <term type="subgenre_title">novela histórica argentina</term>
                     <idno type="cligs">nh0081</idno>
                     <ref>http://www.ellibrototal.com/ltotal/ficha.jsp?idLibro=3725</ref>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W84">
                     <author key="A38">Bunge, Carlos Octavio</author>
                     <title>Xarcas silenciario</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W85">
                     <author key="A38">Bunge, Carlos Octavio</author>
                     <title>La madrina de Lita</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W86">
                     <author key="A38">Bunge, Carlos Octavio</author>
                     <title>El último grande de España</title>
+                    <bibl><ptr target="#Gutenberg"/></bibl>
                 </bibl>
                 <bibl xml:id="W87">
                     <author key="A38">Bunge, Carlos Octavio</author>
                     <title>El capitán Pérez</title>
+                    <bibl><ptr target="#Gutenberg"/></bibl>
+                </bibl>
+                <bibl xml:id="W209">
+                    <author key="A38">Bunge, Carlos Octavio</author>
+                    <title>Viaje a través de la estirpe</title>
+                    <bibl><ptr target="#BDH"/></bibl>
                 </bibl>
                 <bibl xml:id="W88">
                     <author key="A38">Bunge, Carlos Octavio</author>
                     <title>La sirena</title>
+                    <bibl><ptr target="#BDH"/></bibl>
                 </bibl>
                 <bibl xml:id="W89">
                     <author key="A38">Bunge, Carlos Octavio</author>
                     <title>La perfidia femenina</title>
+                    <bibl><ptr target="#BDH"/></bibl>
                 </bibl>
                 <bibl xml:id="W90">
                     <author key="A39">Valle, Guillermo del</author>
                     <title>El Castillo de Lunel</title>
                     <term type="subgenre_title">novela fantástica</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
                 </bibl>
                 <bibl xml:id="W91">
                     <author key="A39">Valle, Guillermo del</author>
                     <title>El Millón de Libras Esterlinas</title>
                     <term type="subgenre_title">novela original</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
                 </bibl>
                 <bibl xml:id="W92">
                     <author key="A39">Valle, Guillermo del</author>
                     <title>Los Imperiales</title>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
                 </bibl>
                 <bibl xml:id="W93">
                     <author key="A40">Valle, Ramón</author>
                     <title>Virgen del Valle</title>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
                 </bibl>
                 <bibl xml:id="W94">
                     <author key="A40">Valle, Ramón</author>
                     <title>Amar odiando</title>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
                 </bibl>
                 <bibl xml:id="W95">
                     <author key="A41">Valle de Santiesteban, J.</author>
                     <title>Los amantes de Udalla</title>
                     <term type="subgenre_title">novela histórica</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
                 </bibl>
                 <bibl xml:id="W96">
                     <author key="A42">Valles, Rodolfo</author>
                     <title>Alberto o Historia de Dos Amantes</title>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
                 </bibl>
                 <bibl xml:id="W97">
                     <author key="A43">Vázquez, Andrés Clemente</author>
                     <title>Enriqueta Fáber</title>
                     <term type="subgenre_title">ensayo de novela histórica</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
                 </bibl>
                 <bibl xml:id="W98">
                     <author key="A44">Vélez, Ismael</author>
                     <title>Pancho Pérez</title>
                     <term type="subgenre_title">novela de costumbres</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
                 </bibl>
                 <bibl xml:id="W99">
                     <author key="A45">Veras, Filidoro</author>
                     <title>Mari Stairs</title>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
                 </bibl>
                 <bibl xml:id="W100">
                     <author key="A46">Vigil y Robles, José</author>
                     <title>El dinero</title>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
                 </bibl>
                 <bibl xml:id="W101">
                     <author key="A47">Villa Gordoa, Jesús</author>
                     <title>María de la Asunción</title>
                     <term type="subgenre_title">leyenda histórica</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
                 </bibl>
                 <bibl xml:id="W102">
                     <author key="A48">Villa Gordoa, José</author>
                     <title>Noches de invierno</title>
                     <term type="subgenre_title">reflexiones</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
                 </bibl>
                 <bibl xml:id="W103">
                     <author key="A49">Villamor y Armendariz, Manuel Cecilio</author>
                     <title>Agripina y su duende</title>
                     <term type="subgenre_title">episodio histórico</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
                 </bibl>
                 <bibl xml:id="W104">
                     <author key="A50">Villanueva, Agustín</author>
                     <title>Un millonario en diez años</title>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
                 </bibl>
                 <bibl xml:id="W105">
                     <author key="A51">Villanueva, Mariano</author>
                     <title>Memorias fantásticas del pájaro verde</title>
                     <term type="subgenre_title">memorias</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
                 </bibl>
                 <bibl xml:id="W106">
                     <author key="A52">Villanueva y Francesconi, Mariano</author>
                     <title>Verdades y cuentos de Juan Verdad</title>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
                 </bibl>
                 <bibl xml:id="W107">
                     <author key="A53">Villaseñor y Villaseñor, Alejandro</author>
                     <title>Memorias de un estudiante</title>
                     <term type="subgenre_title">memorias</term>
                     <term type="subgenre_title">novela histórica mexicana</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
                 </bibl>
                 <bibl xml:id="W108">
                     <author key="A54">C.</author>
                     <title>Los celos y la electricidad</title>
                     <!-- resumen en Lichtblau -->
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W109">
                     <author key="A54">C.</author>
                     <title>El ex-abrupto de don Cándido</title>
                     <!-- resumen en Lichtblau -->
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W110">
                     <author key="A55">Cabales, Claudio</author>
                     <title>Luisa Kiernan</title>
                     <note type="subgenre_lithist" source="#Lichtblau">Historia de un centro
                         agrícola.</note>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W111">
                     <author key="A56">Cabral, José Victoriano</author>
@@ -629,6 +766,7 @@
                     <note type="subgenre_lithist" source="#Lichtblau">a rambling, tedious, and
                         complex romantic novel</note>
                     <!-- resumen en Lichtblau -->
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W112">
                     <author key="A56">Cabral, José Victoriano</author>
@@ -639,6 +777,7 @@
                     <!-- resumen en Lichtblau -->
                     <ref>https://archive.org/details/lacampanadesant00cabrgoog</ref>
                     <ref>https://catalog.hathitrust.org/Record/100356151</ref>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W113">
                     <author key="A56">Cabral, José Victoriano</author>
@@ -651,6 +790,7 @@
                     <ref>https://catalog.hathitrust.org/Record/007371558</ref>
                     <ref>https://catalog.hathitrust.org/Record/100999610</ref>
                     <ref>https://archive.org/details/linamontalvnoel00cabrgoog</ref>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W114">
                     <author key="A57">Calandrelli, Matías</author>
@@ -659,6 +799,7 @@
                             rend="italic">La sociedad y sus víctimas</seg> para desnudar ese
                         comercio (explotación de las mujeres)</note>
                     <!-- resumen en Lichtblau -->
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W115">
                     <author key="A58">Cambaceres, Eugenio</author>
@@ -667,6 +808,7 @@
                     <note type="subgenre_lithist" source="#Lichtblau">naturalistic fiction [...]
                         presents the tragic fate of a misanthropic owner of a sheep ranch</note>
                     <!-- resumen en Lichtblau -->
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W116">
                     <author key="A58">Cambaceres, Eugenio</author>
@@ -677,6 +819,7 @@
                         environment</note>
                     <idno type="cligs">nh0012</idno>
                     <!-- resumen en Lichtblau -->
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W117">
                     <author key="A58">Cambaceres, Eugenio</author>
@@ -686,6 +829,7 @@
                         frivolity and vice</note>
                     <idno type="cligs">nh0034</idno>
                     <!-- resumen en Lichtblau -->
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W118">
                     <author key="A58">Cambaceres, Eugenio</author>
@@ -695,6 +839,7 @@
                         society</note>
                     <idno type="cligs">nh0057</idno>
                     <!-- resumen en Lichtblau -->
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W119">
                     <author key="A59">Campo, Cupertino del</author>
@@ -703,6 +848,7 @@
                         'costumbrista' manner, of life in Buenos Aires at the turn of the
                         century</note>
                     <!-- resumen en Lichtblau -->
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W120">
                     <author key="A60">Campo, Estanislao del</author>
@@ -710,49 +856,57 @@
                     <note type="subgenre_lithist" source="#Lichtblau">early romantic novel of love,
                         hate and violence</note>
                     <!-- resumen en Lichtblau -->
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W121">
-                    <author key="A61">Cané, Miguel</author>
+                    <author key="A61">Cané, Miguel (p.)</author>
                     <title>Esther</title>
                     <note type="subgenre_lithist" source="#Lichtblau">pale reflection of French
                         romantic models</note>
                     <!-- resumen en Lichtblau -->
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W122">
-                    <author key="A61">Cané, Miguel</author>
+                    <author key="A61">Cané, Miguel (p.)</author>
                     <title>Eugenio Segry, o el Traviato</title>
                     <note type="subgenre_lithist" source="#Lichtblau">a Cuban medical student in
                         Paris, falls in love with Clementina, an Austrian woman married to an
                         ambitious alcoholic</note>
                     <!-- resumen en Lichtblau -->
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W123">
-                    <author key="A61">Cané, Miguel</author>
+                    <author key="A61">Cané, Miguel (p.)</author>
                     <title>La familia de Sconner</title>
                     <note type="subgenre_lithist" source="#Lichtblau">imitation of Cané's European
                         models [...] story [...] of a protracted legal struggle</note>
                     <!-- resumen en Lichtblau -->
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W124">
-                    <author key="A61">Cané, Miguel</author>
+                    <author key="A61">Cané, Miguel (p.)</author>
                     <title>Una noche de boda</title>
                     <note type="subgenre_lithist" source="#Lichtblau">Conrado, captain of a rebel
                         grenadier regiment, and Ignacio Rodríguez, a wealthy Spaniard, contend not
                         only for a woman's affection, but for their ideological principles.</note>
                     <!-- resumen en Lichtblau -->
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W125">
                     <author key="A61">Cané, Miguel (p.)</author>
                     <title>Dos pensamientos</title>
+                    <bibl><ptr target="#Molina"/></bibl>
                 </bibl>
                 <bibl xml:id="W126">
                     <author key="A61">Cané, Miguel (p.)</author>
                     <title>Una historia</title>
                     <title type="alt">Marcelina</title>
+                    <bibl><ptr target="#Molina"/></bibl>
                 </bibl>
                 <bibl xml:id="W127">
                     <author key="A61">Cané, Miguel (p.)</author>
                     <title>Episodio de la peste: Cora o la partida de caza</title>
+                    <bibl><ptr target="#Molina"/></bibl>
                 </bibl>
                 <bibl xml:id="W128">
                     <author key="A62">Cané, Miguel (h.)</author>
@@ -761,6 +915,7 @@
                     <note type="subgenre_lithist" source="#Lichtblau">Es relato autobiográfico más
                         que novela.</note>
                     <!-- resumen en Lichtblau -->
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W129">
                     <author key="A63">Cantilo, José Luis</author>
@@ -768,39 +923,47 @@
                     <term type="subgenre_title">boceto de costumbres</term>
                     <idno type="cligs">nh0039</idno>
                     <!-- resumen en Lichtblau -->
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W130">
                     <author key="A64">Cantilo, José María</author>
                     <title>La familia Quillango</title>
                     <!-- resumen en Lichtblau -->
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W131">
                     <author key="A65">Carballido, Pastor M.</author>
                     <title>Días sombríos</title>
                     <term type="subgenre_title">novela original</term>
                     <!-- resumen en Lichtblau -->
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W132">
                     <author key="A66">Castilla Aguilar, A.</author>
                     <title>Hogar sin fuego</title>
                     <term type="subgenre_title">novela social</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W133">
                     <author key="A67">Ceppi, José</author>
                     <title>Hidalguía española</title>
                     <term type="subgenre_title">narración militar</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W134">
                     <author key="A67">Ceppi, José</author>
                     <title>Lejos del terruño</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W135">
                     <author key="A68">Clermont, Enrique de</author>
                     <title>Joselín</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W136">
                     <author key="A68">Clermont, Enrique de</author>
                     <title>El sacrificio</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W137">
                     <author key="A69">Coronado, Martín</author>
@@ -809,27 +972,33 @@
                     <note type="subgenre_lithist" source="#Lichtblau">relato de las peripecias
                         ocasionadas por el bloqueo anglo-francés del Río de la Plata, cuando el
                         combate de La Vuelta de Obligado</note>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W138">
                     <author key="A70">Cubillos Rodríguez, Máximo</author>
                     <title>La noche del terremoto</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W139">
                     <author key="A71">Cursach, Antonio</author>
                     <title>Los enemigos del alma</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W140">
                     <author key="A72">Chiappori, Atilio Manuel</author>
                     <title>Borderland</title>
                     <term type="subgenre_title">cuentos cíclicos</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W141">
                     <author key="A72">Chiappori, Atilio Manuel</author>
                     <title>La eterna angustia</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W142">
                     <author key="A73">Churruca, Bachiller</author>
                     <title>Los hombres de dos caras</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
                 <bibl xml:id="W143">
                     <author key="A73">Churruca, Bachiller</author>
@@ -837,123 +1006,1537 @@
                     <note type="subgenre_lithist" source="#Lichtblau">portrays the inordinate
                         interest in politics</note>
                     <!-- resumen en Lichtblau -->
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W210">
+                    <author key="A74">Ulloa, Ambrosio</author>
+                    <title>Una billetera</title>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W211">
+                    <author key="A74">Ulloa, Ambrosio</author>
+                    <title>Del natural</title>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
                 </bibl>
                 <bibl xml:id="W144">
                     <author key="A74">Ulloa, Ambrosio</author>
                     <title>Entre dos abismos</title>
                     <term type="subgenre_title">de mis experiencias psicológicas</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
                 </bibl>
                 <bibl xml:id="W145">
                     <author key="A74">Ulloa, Ambrosio</author>
                     <title>La chismografía de esta tierra</title>
                     <term type="subgenre_title">de mis recuerdos</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
                 </bibl>
                 <bibl xml:id="W146">
                     <author key="A74">Ulloa, Ambrosio</author>
                     <title>Una auto-novela tapatía</title>
                     <term type="subgenre_title">auto-novela</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
                 </bibl>
                 <bibl xml:id="W147">
                     <author key="A75">Un Michoacano</author>
                     <title>El bálsamo del dolor</title>
                     <term type="subgenre_title">novela moral</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
                 </bibl>
                 <bibl xml:id="W148">
                     <author key="A76">Téllez Rendón, María Nestora</author>
                     <title>Staurófila</title>
                     <term type="subgenre_title">cuento alegórico</term>
                     <term type="subgenre_title">parábola</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
                 </bibl>
                 <bibl xml:id="W149">
                     <author key="A77">Tovar, Pantaleón</author>
                     <title>Ironías de la vida</title>
                     <term type="subgenre_title">novela de costumbres nacionales</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
                 </bibl>
                 <bibl xml:id="W150">
                     <author key="A77">Tovar, Pantaleón</author>
                     <title>La hora de Dios</title>
                     <term type="subgenre_title">novela de costumbres mejicanas</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
                 </bibl>
                 <bibl xml:id="W151">
                     <author key="A78">Trebarra, Napoleón</author>
                     <title>Los misterios de Chan Santa Cruz</title>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
                 </bibl>
                 <bibl xml:id="W152">
                     <author key="A79">Salado Álvarez, Victoriano</author>
                     <title>De Santa Anna a la Reforma</title>
                     <term type="subgenre_title">memorias</term>
                     <term type="subgenre_title">relato anecdótico</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
                 </bibl>
                 <bibl xml:id="W153">
                     <author key="A79">Salado Álvarez, Victoriano</author>
                     <title>La Intervención y el Imperio (1861-1867)</title>
                     <term type="subgenre_title">episodios nacionales mexicanos</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
                 </bibl>
                 <bibl xml:id="W154">
                     <author key="A80">Salas y Quiroga, Jacinto de</author>
                     <title>El dios del siglo</title>
                     <term type="subgenre_title">novela original de costumbres contemporáneas</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
                 </bibl>
                 <bibl xml:id="W155">
                     <author key="A81">San-Germán, Arnulfo</author>
                     <title>Hortensia</title>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
                 </bibl>
                 <bibl xml:id="W156">
                     <author key="A82">San Juan, Manuel H.</author>
                     <title>El Señor Gobernador</title>
                     <term type="subgenre_title">breves apuntamientos sobre cosas nacionales del
                         siglo pasado</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
                 </bibl>
                 <bibl xml:id="W157">
                     <author key="A83">Sánchez Arce, Abraham</author>
                     <title>¡Grito de independencia!</title>
                     <term type="subgenre_title">novela mexicana</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
                 </bibl>
                 <bibl xml:id="W158">
                     <author key="A83">Sánchez Arce, Abraham</author>
                     <title>El ladrón de la casa de cambio</title>
                     <term type="subgenre_title">novela mexicana</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
                 </bibl>
                 <bibl xml:id="W159">
                     <author key="A83">Sánchez Arce, Abraham</author>
                     <title>Misterios de un consultorio</title>
                     <term type="subgenre_title">novela mexicana</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
                 </bibl>
                 <bibl xml:id="W160">
                     <author key="A83">Sánchez Arce, Abraham</author>
                     <title>Pasión de tiple</title>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
                 </bibl>
                 <bibl xml:id="W161">
                     <author key="A83">Sánchez Arce, Abraham</author>
                     <title>Peregrinación de Juárez</title>
                     <term type="subgenre_title">novela histórica mexicana</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
                 </bibl>
                 <bibl xml:id="W162">
                     <author key="A84">Sánchez Mármol, Manuel</author>
                     <title>Antón Pérez</title>
                     <ref>http://www.archivos.ujat.mx/2011/difusion/libros/27.pdf</ref>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
                 </bibl>
                 <bibl xml:id="W163">
                     <author key="A84">Sánchez Mármol, Manuel</author>
                     <title>Previvida</title>
                     <ref>http://www.archivos.ujat.mx/2011/difusion/libros/27.pdf</ref>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
                 </bibl>
                 <bibl xml:id="W164">
                     <author key="A84">Sánchez Mármol, Manuel</author>
                     <title>La Venganza de una Injuria</title>
                     <term type="subgenre_title">novela episódica</term>
                     <ref>http://www.archivos.ujat.mx/2011/difusion/libros/26.pdf</ref>
+                    <bibl><ptr target="#SanchezMarmolI"/></bibl>
                 </bibl>
                 <bibl xml:id="W165">
                     <author key="A84">Sánchez Mármol, Manuel</author>
                     <title>Pocahontas</title>
                     <term type="subgenre_title">relación fantástica</term>
                     <ref>http://www.archivos.ujat.mx/2011/difusion/libros/26.pdf</ref>
+                    <bibl><ptr target="#SanchezMarmolI"/></bibl>
                 </bibl>
                 <bibl xml:id="W166">
                     <author key="A84">Sánchez Mármol, Manuel</author>
                     <title>Juanita Sousa</title>
                     <ref>http://www.archivos.ujat.mx/2011/difusion/libros/26.pdf</ref>
+                    <bibl><ptr target="#SanchezMarmolI"/></bibl>
+                </bibl>
+                <bibl xml:id="W167">
+                    <author key="A84">Sánchez Mármol, Manuel</author>
+                    <title>El misionero de la Cruz</title>
+                    <term type="subgenre_title">novela yucateca</term>
+                    <bibl><ptr target="#SanchezMarmolI"/></bibl>
+                </bibl>
+                <bibl xml:id="W168">
+                    <author key="A85">Segale, Atenógenes</author>
+                    <title>Auras de abril</title>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W169">
+                    <author key="A85">Segale, Atenógenes</author>
+                    <title>Rosa - Cruz</title>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W170">
+                    <author key="A85">Segale, Atenógenes</author>
+                    <title>Las educandas de S. Amor</title>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W171">
+                    <author key="A85">Segale, Atenógenes</author>
+                    <title>La mudana</title>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W172">
+                    <author key="A85">Segale, Atenógenes</author>
+                    <title>La monja</title>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W173">
+                    <author key="A86">Sierra O'Reilly, Justo</author>
+                    <title>Un Año en el Hospital de San Lázaro</title>
+                    <idno type="cligs">nh0085</idno>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W174">
+                    <author key="A86">Sierra O'Reilly, Justo</author>
+                    <title>La Hija del Judío</title>
+                    <idno type="cligs">nh0106</idno>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W175">
+                    <author key="A86">Sierra O'Reilly, Justo</author>
+                    <title>La Tía Mariana</title>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W176">
+                    <author key="A86">Sierra O'Reilly, Justo</author>
+                    <title>Los Anteojos Verdes</title>
+                    <bibl><ptr target="#BVY"/></bibl>
+                </bibl>
+                <bibl xml:id="W177">
+                    <author key="A86">Sierra O'Reilly, Justo</author>
+                    <title>Doña Felipa de Zanabria</title>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W178">
+                    <author key="A86">Sierra O'Reilly, Justo</author>
+                    <title>D. Pablo de Vergara</title>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W179">
+                    <author key="A86">Sierra O'Reilly, Justo</author>
+                    <title>El Filibustero</title>
+                    <term type="subgenre_title">leyenda</term>
+                </bibl>
+                <bibl xml:id="W180">
+                    <author key="A86">Sierra O'Reilly, Justo</author>
+                    <title>Los Bandos de Valladolid</title>
+                    <bibl><ptr target="#BVY"/></bibl>
+                </bibl>
+                <bibl xml:id="W181">
+                    <author key="A86">Sierra O'Reilly, Justo</author>
+                    <title>D. Juan de Escobar</title>
+                    <bibl><ptr target="#BVY"/></bibl>
+                </bibl>
+                <bibl xml:id="W182">
+                    <author key="A86">Sierra O'Reilly, Justo</author>
+                    <title>El Secreto del Ajusticiado</title>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W183">
+                    <author key="A87">Sierra Méndez, Justo</author>
+                    <title>Confesiones de un Pianista</title>
+                    <idno type="cligs">nh0157</idno>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W184">
+                    <author key="A88">Sierra, Luis G. de la</author>
+                    <title>Carmen en amparo de la obrera</title>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W185">
+                    <author key="A89">Sigüenza y Góngora, Carlos de</author>
+                    <title>Los infortunios de Alonso Ramírez</title>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W186">
+                    <author key="A90">Silva, Agapito</author>
+                    <title>Ernestina</title>
+                    <term type="subgenre_title">escenas del mundo real</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W187">
+                    <author key="A90">Silva, Agapito</author>
+                    <title>Clemencia</title>
+                    <term type="subgenre_title">apuntes para una novela</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W188">
+                    <author key="A91">Sosa, Francisco</author>
+                    <title>Magdalena</title>
+                    <term type="subgenre_title">leyenda histórica</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W189">
+                    <author key="A91">Sosa, Francisco</author>
+                    <title>El Doctor Cupido</title>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W190">
+                    <author key="A91">Sosa, Francisco</author>
+                    <title>Una venganza</title>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W191">
+                    <author key="A91">Sosa, Francisco</author>
+                    <title>En el mar</title>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W192">
+                    <author key="A91">Sosa, Francisco</author>
+                    <title>La hoja seca</title>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W193">
+                    <author key="A91">Sosa, Francisco</author>
+                    <title>El privado</title>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W194">
+                    <author key="A91">Sosa, Francisco</author>
+                    <title>Luisa</title>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W195">
+                    <author key="A91">Sosa, Francisco</author>
+                    <title>El sueño de la magnetizada</title>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W196">
+                    <author key="A91">Sosa, Francisco</author>
+                    <title>Rosalinda</title>
+                    <term type="subgenre_title">memorias</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W197">
+                    <author key="A92">Sota, José Severino de la</author>
+                    <title>El Grito de Dolores</title>
+                    <term type="subgenre_title">memorias</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W198">
+                    <author key="A93">Sotomayor, José Francisco</author>
+                    <title>El solitario del Teira</title>
+                    <term type="subgenre_title">ensayo de una leyenda histórica, moral,
+                        patriótica</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W199">
+                    <author key="A93">Sotomayor, José Francisco</author>
+                    <title>Las ruinas del monasterio</title>
+                    <term type="subgenre_title">leyenda moral e histórica</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W200">
+                    <author key="A93">Sotomayor, José Francisco</author>
+                    <title>Las tardes de la pradera o el nuevo amigo de las familias</title>
+                    <term type="subgenre_title">instrucciones e historias morales</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W201">
+                    <author key="A93">Sotomayor, José Francisco</author>
+                    <title>Un santuario en el desierto</title>
+                    <term type="subgenre_title">leyenda original</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W202">
+                    <author key="A94">Sustaita, Alberto</author>
+                    <title>Las Bolado</title>
+                    <term type="subgenre_title">novela original</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W203">
+                    <author key="A94">Sustaita, Alberto</author>
+                    <title>El crimen del Pullman</title>
+                    <term type="subgenre_title">novela original</term>
+                    <ref>https://itunes.apple.com/mx/book/el-crimen-del-pullman/id999726014</ref>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W204">
+                    <author key="A94">Sustaita, Alberto</author>
+                    <title>Mortales y veniales</title>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W205">
+                    <author key="A94">Sustaita, Alberto</author>
+                    <title>Mutilado</title>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W212">
+                    <author key="A95">Daireaux, Godofredo</author>
+                    <title>Las dos patrias</title>
+                    <term type="subgenre_title">novela argentina</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- comentario en Lichtblau -->
+                </bibl>
+                <bibl xml:id="W213">
+                    <author key="A95">Daireaux, Godofredo</author>
+                    <title>Los dioses de la Pampa</title>
+                    <ref>https://es.wikisource.org/wiki/Los_dioses_de_la_Pampa</ref>
+                    <bibl><ptr target="#Wikisource"/></bibl>
+                </bibl>
+                <bibl xml:id="W214">
+                    <author key="A96">Della Costa, Pablo (p.)</author>
+                    <title>Fray Dionisio Muñoz</title>
+                    <term type="subgenre_title">relato histórico</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W215">
+                    <author key="A97">Demaría, Bernabé</author>
+                    <title>Revelaciones de un manuscrito</title>
+                    <note type="subgenre_lithist" source="#Lichtblau">A sprawling, discursive novel
+                        dealing with the amorous escapades of a dissipated young Argentine living in
+                        Europe.</note>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en Lichtblau -->
+                </bibl>
+                <bibl xml:id="W216">
+                    <author key="A98">Díaz, Carlos</author>
+                    <title>Emelina</title>
+                    <note type="subgenre_lithist" source="#Lichtblau">de neto corte romántico</note>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en Lichtblau -->
+                </bibl>
+                <bibl xml:id="W217">
+                    <author key="A99">Díaz Olazábal, Rodolfo</author>
+                    <title>Buenos Aires cosmopolita</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W218">
+                    <author key="A99">Díaz Olazábal, Rodolfo</author>
+                    <title>El cadete del año 13</title>
+                    <term type="subgenre_title">novela histórica original</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W219">
+                    <author key="A100">Domínguez, Silverio</author>
+                    <title>Las confesiones de un médico</title>
+                    <term type="subgenre_title">confesiones</term>
+                    <note type="subgenre_lithist" source="#Lichtblau">Asume la forma de novela, bajo
+                        el aspecto de memorias</note>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W220">
+                    <author key="A100">Domínguez, Silverio</author>
+                    <title>Palomas y Gavilanes</title>
+                    <note type="subgenre_lithist" source="#Lichtblau">crude realism [...] depicting
+                        the misery and squalor in which the prostitutes lived and sometimes
+                        died</note>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W221">
+                    <author key="A100">Domínguez, Silverio</author>
+                    <title>Perfiles de una llaga social</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W222">
+                    <author key="A100">Domínguez, Silverio</author>
+                    <title>Perfiles y medallones</title>
+                    <term type="subgenre_title">panorama bonaerense</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W223">
+                    <author key="A101">Rabasa, Emilio</author>
+                    <title>La Bola</title>
+                    <term type="subgenre_title">novela original</term>
+                    <idno type="cligs">nh0023</idno>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W224">
+                    <author key="A101">Rabasa, Emilio</author>
+                    <title>La Gran Ciencia</title>
+                    <term type="subgenre_title">novela original</term>
+                    <idno type="cligs">nh0198</idno>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W225">
+                    <author key="A101">Rabasa, Emilio</author>
+                    <title>El Cuarto Poder</title>
+                    <term type="subgenre_title">novela original</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W226">
+                    <author key="A101">Rabasa, Emilio</author>
+                    <title>Moneda Falsa</title>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W227">
+                    <author key="A101">Rabasa, Emilio</author>
+                    <title>La guerra de tres años</title>
+                    <bibl><ptr target="#NovelaCorta"/></bibl>
+                </bibl>
+                <bibl xml:id="W228">
+                    <author key="A102">Ramírez, José María</author>
+                    <title>Celeste</title>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W229">
+                    <author key="A102">Ramírez, José María</author>
+                    <title>Ellas y nosotros</title>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W230">
+                    <author key="A102">Ramírez, José María</author>
+                    <title>Gabriela</title>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W231">
+                    <author key="A102">Ramírez, José María</author>
+                    <title>Avelina</title>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W232">
+                    <author key="A102">Ramírez, José María</author>
+                    <title>Mi frac</title>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W233">
+                    <author key="A102">Ramírez, José María</author>
+                    <title>Una rosa y un harapo</title>
+                    <term type="subgenre_title">novela original</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W234">
+                    <author key="A103">Ramírez Aparicio, Manuel</author>
+                    <title>Agustín o la cura de almas</title>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W235">
+                    <author key="A104">Olavarría y Ferrari, Enrique</author>
+                    <title>La derrota de las Cruces</title>
+                    <term type="subgenre_title">memorias</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W236">
+                    <author key="A104">Olavarría y Ferrari, Enrique</author>
+                    <title>La Virgen de los Remedios</title>
+                    <term type="subgenre_title">memorias</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W237">
+                    <author key="A104">Olavarría y Ferrari, Enrique</author>
+                    <title>Las perlas de la reina Luisa</title>
+                    <term type="subgenre_title">memorias</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W238">
+                    <author key="A104">Olavarría y Ferrari, Enrique</author>
+                    <title>El puente de Calderón</title>
+                    <term type="subgenre_title">memorias</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W239">
+                    <author key="A104">Olavarría y Ferrari, Enrique</author>
+                    <title>El tálamo y la horca</title>
+                    <term type="subgenre_title">novela original</term>
+                    <bibl><ptr target="#ELEM"/></bibl>
+                </bibl>
+                <bibl xml:id="W240">
+                    <author key="A104">Olavarría y Ferrari, Enrique</author>
+                    <title>Venganza y remordimiento</title>
+                    <term type="subgenre_title">novela original</term>
+                    <bibl><ptr target="#ELEM"/></bibl>
+                </bibl>
+                <bibl xml:id="W241">
+                    <author key="A104">Olavarría y Ferrari, Enrique</author>
+                    <title>Lo de "El Domingo"</title>
+                    <!-- novela? -->
+                    <bibl><ptr target="#ELEM"/></bibl>
+                </bibl>
+                <bibl xml:id="W242">
+                    <author key="A104">Olavarría y Ferrari, Enrique</author>
+                    <title>Lágrimas y sonrisas</title>
+                    <term type="subgenre_title">novela original</term>
+                    <bibl><ptr target="#ELEM"/></bibl>
+                </bibl>
+                <bibl xml:id="W243">
+                    <author key="A104">Olavarría y Ferrari, Enrique</author>
+                    <title>Las norias de Baján</title>
+                    <term type="subgenre_title">memorias</term>
+                    <bibl><ptr target="#ELEM"/></bibl>
+                </bibl>
+                <bibl xml:id="W244">
+                    <author key="A104">Olavarría y Ferrari, Enrique</author>
+                    <title>La Virgen de Guadalupe</title>
+                    <term type="subgenre_title">memorias</term>
+                    <bibl><ptr target="#ELEM"/></bibl>
+                </bibl>
+                <bibl xml:id="W245">
+                    <author key="A104">Olavarría y Ferrari, Enrique</author>
+                    <title>La junta de Zitácuaro</title>
+                    <term type="subgenre_title">memorias</term>
+                    <bibl><ptr target="#ELEM"/></bibl>
+                </bibl>
+                <bibl xml:id="W246">
+                    <author key="A104">Olavarría y Ferrari, Enrique</author>
+                    <title>El treinta de julio</title>
+                    <term type="subgenre_title">memorias</term>
+                    <bibl><ptr target="#ELEM"/></bibl>
+                </bibl>
+                <bibl xml:id="W247">
+                    <author key="A104">Olavarría y Ferrari, Enrique</author>
+                    <title>El sitio de Cuautla</title>
+                    <term type="subgenre_title">memorias</term>
+                    <bibl><ptr target="#ELEM"/></bibl>
+                </bibl>
+                <bibl xml:id="W248">
+                    <author key="A104">Olavarría y Ferrari, Enrique</author>
+                    <title>Una venganza insurgente</title>
+                    <term type="subgenre_title">memorias</term>
+                    <bibl><ptr target="#ELEM"/></bibl>
+                </bibl>
+                <bibl xml:id="W249">
+                    <author key="A104">Olavarría y Ferrari, Enrique</author>
+                    <title>La Constitución del Año Doce</title>
+                    <term type="subgenre_title">memorias</term>
+                    <bibl><ptr target="#ELEM"/></bibl>
+                </bibl>
+                <bibl xml:id="W250">
+                    <author key="A104">Olavarría y Ferrari, Enrique</author>
+                    <title>El cura de Nucupétaro</title>
+                    <term type="subgenre_title">memorias</term>
+                    <bibl><ptr target="#ELEM"/></bibl>
+                </bibl>
+                <bibl xml:id="W251">
+                    <author key="A104">Olavarría y Ferrari, Enrique</author>
+                    <title>El conde del Venadito</title>
+                    <term type="subgenre_title">memorias</term>
+                    <bibl><ptr target="#ELEM"/></bibl>
+                </bibl>
+                <bibl xml:id="W252">
+                    <author key="A104">Olavarría y Ferrari, Enrique</author>
+                    <title>El 22 de diciembre de 1815</title>
+                    <term type="subgenre_title">memorias</term>
+                    <bibl><ptr target="#ELEM"/></bibl>
+                </bibl>
+                <bibl xml:id="W253">
+                    <author key="A104">Olavarría y Ferrari, Enrique</author>
+                    <title>El castillo de Acapulco</title>
+                    <term type="subgenre_title">memorias</term>
+                    <bibl><ptr target="#ELEM"/></bibl>
+                </bibl>
+                <bibl xml:id="W254">
+                    <author key="A104">Olavarría y Ferrari, Enrique</author>
+                    <title>La Independencia</title>
+                    <term type="subgenre_title">memorias</term>
+                    <bibl><ptr target="#ELEM"/></bibl>
+                </bibl>
+                <bibl xml:id="W255">
+                    <author key="A104">Olavarría y Ferrari, Enrique</author>
+                    <title>El cadalso de Padilla</title>
+                    <term type="subgenre_title">memorias</term>
+                    <bibl><ptr target="#ELEM"/></bibl>
+                </bibl>
+                <bibl xml:id="W256">
+                    <author key="A104">Olavarría y Ferrari, Enrique</author>
+                    <title>Las Tres Garantías</title>
+                    <term type="subgenre_title">memorias</term>
+                    <bibl><ptr target="#ELEM"/></bibl>
+                </bibl>
+                <bibl xml:id="W257">
+                    <author key="A105">Rebolledo, Efrén</author>
+                    <title>El enemigo</title>
+                    <ref>https://docs.google.com/open?id=0B7tp3AozQe8KeG93c3FEd3JCMzQ</ref>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W258">
+                    <author key="A105">Rebolledo, Efrén</author>
+                    <title>Nikko</title>
+                    <ref>https://docs.google.com/open?id=0B7tp3AozQe8KRkd5WVhSbTV1MDA</ref>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W259">
+                    <author key="A105">Rebolledo, Efrén</author>
+                    <title>Hojas de bambú</title>
+                    <ref>https://docs.google.com/open?id=0B7tp3AozQe8KXzhWMGFkcEhJRWc</ref>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W260">
+                    <author key="A106">Rey, Emilio</author>
+                    <title>¡Amor de ángel!</title>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W261">
+                    <author key="A107">Ríos, Juan Pablo de los</author>
+                    <title>El oficial mayor</title>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W262">
+                    <author key="A108">Riva Palacio, Vicente</author>
+                    <title>Calvario y Tabor</title>
+                    <term type="subgenre_title">novela histórica y de costumbres</term>
+                    <term type="subgenre_title">memorias</term>
+                    <idno type="cligs">nh0125</idno><!-- bisher nur Teil 1 -->
+                    <ref>http://bdh.bne.es/bnesearch/detalle/bdh0000008360</ref>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W263">
+                    <author key="A108">Riva Palacio, Vicente</author>
+                    <title>Martín Garatuza</title>
+                    <term type="subgenre_title">memorias</term>
+                    <idno type="cligs">nh0049</idno>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W264">
+                    <author key="A108">Riva Palacio, Vicente</author>
+                    <title>Los Piratas del Golfo</title>
+                    <term type="subgenre_title">novela histórica</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W265">
+                    <author key="A108">Riva Palacio, Vicente</author>
+                    <title>Las dos Emparedadas</title>
+                    <term type="subgenre_title">memorias de los tiempos de la Inquisición</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W266">
+                    <author key="A108">Riva Palacio, Vicente</author>
+                    <title>Memorias de un Impostor</title>
+                    <term type="subgenre_title">novela histórica</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W267">
+                    <author key="A108">Riva Palacio, Vicente</author>
+                    <title>La Vuelta de los Muertos</title>
+                    <term type="subgenre_title">novela histórica</term>
+                    <idno type="cligs">nh0122</idno>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W268">
+                    <author key="A108">Riva Palacio, Vicente</author>
+                    <title>Monja y Casada, Virgen y Mártir</title>
+                    <term type="subgenre_title">historia de los tiempos de la Inquisición</term>
+                    <idno type="cligs">nh0203</idno>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W269">
+                    <author key="A109">Rivera y Río, José</author>
+                    <title>Los Misterios de San Cosme</title>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W270">
+                    <author key="A109">Rivera y Río, José</author>
+                    <title>Fatalidad y Providencia</title>
+                    <term type="subgenre_title">novela original</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W271">
+                    <author key="A109">Rivera y Río, José</author>
+                    <title>Mártires y Verdugos</title>
+                    <term type="subgenre_title">novela original</term>
+                    <ref>http://online-db.iai.spk-berlin.de/han/750991933</ref>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W272">
+                    <author key="A109">Rivera y Río, José</author>
+                    <title>Las Tres Aventureras</title>
+                    <term type="subgenre_title">novela original</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W273">
+                    <author key="A109">Rivera y Río, José</author>
+                    <title>Los Dramas de Nueva York</title>
+                    <term type="subgenre_title">novela original</term>
+                    <idno type="cligs">nh0183</idno>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W274">
+                    <author key="A109">Rivera y Río, José</author>
+                    <title>El Hambre y el Oro</title>
+                    <term type="subgenre_title">novela original</term>
+                    <ref>http://online-db.iai.spk-berlin.de/han/750989521</ref>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W275">
+                    <author key="A109">Rivera y Río, José</author>
+                    <title>Esqueletos Sociales</title>
+                    <term type="subgenre_title">novela original</term>
+                    <ref>http://online-db.iai.spk-berlin.de/han/750990023</ref>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W276">
+                    <author key="A109">Rivera y Río, José</author>
+                    <title>La Virgen del Niágara</title>
+                    <term type="subgenre_title">novela original</term>
+                    <ref>http://online-db.iai.spk-berlin.de/han/750991275</ref>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W277">
+                    <author key="A109">Rivera y Río, José</author>
+                    <title>Memorias de Unos Náufragos</title>
+                    <term type="subgenre_title">memorias</term>
+                    <term type="subgenre_title">novela original</term>
+                    <ref>http://online-db.iai.spk-berlin.de/han/750992107</ref>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W278">
+                    <author key="A109">Rivera y Río, José</author>
+                    <title>Pobres y Ricos de México</title>
+                    <term type="subgenre_title">novela original</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W279">
+                    <author key="A110">Roa Bárcena, José María</author>
+                    <title>Ensayo de una historia anecdótica de México en los tiempos anteriores a
+                        la conquista española</title>
+                    <term type="subgenre_title">ensayo de una historia anecdótica</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W280">
+                    <author key="A110">Roa Bárcena, José María</author>
+                    <title>Noche al raso</title>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W281">
+                    <author key="A110">Roa Bárcena, José María</author>
+                    <title>Una flor en su sepulcro</title>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W282">
+                    <author key="A110">Roa Bárcena, José María</author>
+                    <title>Aminta Rovero</title>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W283">
+                    <author key="A110">Roa Bárcena, José María</author>
+                    <title>Buondelmonti</title>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W284">
+                    <author key="A110">Roa Bárcena, José María</author>
+                    <title>La quinta modelo</title>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W285">
+                    <author key="A111">Robleda y Troncoso, Cayetano</author>
+                    <title>Mercurio, Lágrimas y cenizas</title><!-- novela? -->
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W286">
+                    <author key="A112">Robles, Pablo</author>
+                    <title>Los plateados de Tierra Caliente</title>
+                    <term type="subgenre_title">episodios de la Guerra de Tres Años</term>
+                    <term type="subgenre_title">cuento semi-histórico</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W287">
+                    <author key="A113">Rodríguez, Manuel Filomeno</author>
+                    <title>Los asesinos del Dongo</title>
+                    <term type="subgenre_title">novela histórica</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W288">
+                    <author key="A114">Rodríguez Beltrán, Cayetano</author>
+                    <title>Pajarito</title>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W289">
+                    <author key="A115">Rodríguez Correa, Ramón</author>
+                    <title>Rosas y perros</title><!-- novela? -->
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W290">
+                    <author key="A116">Rodríguez Galván, Ignacio</author>
+                    <title>La hija del oidor</title>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W291">
+                    <author key="A116">Rodríguez Galván, Ignacio</author>
+                    <title>Manolito el pisaverde</title>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W292">
+                    <author key="A116">Rodríguez Galván, Ignacio</author>
+                    <title>La procesción</title>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W293">
+                    <author key="A116">Rodríguez Galván, Ignacio</author>
+                    <title>Tras un mal vienen ciento</title>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W294">
+                    <author key="A116">Rodríguez Galván, Ignacio</author>
+                    <title>El visitador</title>
+                    <bibl><ptr target="#Mata"/></bibl>
+                </bibl>
+                <bibl xml:id="W295">
+                    <author key="A116">Rodríguez Galván, Ignacio</author>
+                    <title>El secreto</title>
+                    <bibl><ptr target="#Wikipedia"/></bibl>
+                </bibl>
+                <bibl xml:id="W296">
+                    <author key="A117">Rodríguez Iglesia, Emilio</author>
+                    <title>El crimen de los Tepames</title>
+                    <term type="subgenre_title">novela histórico-social</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                    <ref>https://catalog.hathitrust.org/Record/101403935</ref>
+                </bibl>
+                <bibl xml:id="W297">
+                    <author key="A118">Rojas, Francisco M.</author>
+                    <title>Fray Sotana</title>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W298">
+                    <author key="A119">Rojo, José R.</author>
+                    <title>Los vencidos. Infamia</title><!-- novela? -->
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W299">
+                    <author key="A119">Rojo, José R.</author>
+                    <title>Los vencidos. Miseria</title><!-- novela? -->
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W300">
+                    <author key="A120">Rojo García, Emilio</author>
+                    <title>Jovita</title>
+                    <term type="subgenre_title">novela original de costumbres marítimas y
+                        terrestres</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W301">
+                    <author key="A121">Roldán, Eutimio</author>
+                    <title>Mefistófeles</title>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W302">
+                    <author key="A121">Roldán, Eutimio</author>
+                    <title>Querida del tío Toño</title>
+                    <term type="subgenre_title">novela regional de costumbres surianas</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W303">
+                    <author key="A121">Roldán, Eutimio</author>
+                    <title>Quetzal y Metztlixochitl</title>
+                    <term type="subgenre_title">novela mitológica mexicana</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W304">
+                    <author key="A122">Roldán, Eutimio</author>
+                    <title>Rosaura Muñoz</title>
+                    <term type="subgenre_title">novela suriana</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W305">
+                    <author key="A122">Rosas de Moreno, José</author>
+                    <title>Un viajero de diez años</title>
+                    <term type="subgenre_title">relación curiosa e instructiva de una excursión
+                        infantil</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W306">
+                    <author key="A123">Ruanova, Francisco de P.</author>
+                    <title>El reformador de México</title>
+                    <term type="subgenre_title">novela histórico-política</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W307">
+                    <author key="A124">Ruiz Álvarez, Eduardo</author>
+                    <title>Historia de la Guerra de Intervención en Michoacán</title>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W308">
+                    <author key="A125">Quevedo y Zubieta, Salvador</author>
+                    <title>El carnaval de México en 1879</title>
+                    <term type="subgenre_title">memorias</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W309">
+                    <author key="A126">Quiroz, Bernhardino de Jesús</author>
+                    <title>Siempre el bien y la virtud</title>
+                    <term type="subgenre_title">hechos de historia</term>
+                    <bibl><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W310">
+                    <author key="A127">Echagüe, Pedro</author>
+                    <title>Cuatro noches en el mar o sea Amalia y Amelia</title>
+                    <note type="subgenre_lithist" source="#Lichtblau">absurd story of identical twin
+                        sisters in love with the same man</note>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W311">
+                    <author key="A127">Echagüe, Pedro</author>
+                    <title>La Chapanay</title>
+                    <note type="subgenre_lithist" source="#Lichtblau">narrates the adventurous life
+                        of Martina Chapanay [...] Regional types, custumos, and the daily life of
+                        the San Juaneses are vividly portrayed</note>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W312">
+                    <author key="A127">Echagüe, Pedro</author>
+                    <title>Elvira o el temple de alma de una sanjuanina</title>
+                    <title type="alt">La Rinconada</title>
+                    <term type="subgenre_title">novela regional de fondo histórico</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W313">
+                    <author key="A128">Echeverría, Esteban</author>
+                    <title>El matadero</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <note type="subgenre_lithist" source="#Lichtblau">aunque es cuento más que
+                        novela corta</note>
+                    <note type="subgenre_lithist" source="#Lichtblau">describe el ambiente brutal de
+                        'los Corrales' en tiempo de Rosas</note>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W314">
+                    <author key="A129">Estrada, Ángel de</author>
+                    <title>La ilusión</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W315">
+                    <author key="A129">Estrada, Ángel de</author>
+                    <title>Redención</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <note type="subgenre_lithist" source="#Lichtblau">typically modernista novel
+                        [...] beauty and elegance of classical Greece and Italy</note>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W316">
+                    <author key="A130">Cartey, Guido Anatolio</author>
+                    <title>Libertad</title>
+                    <title type="alt">Cadenas rotas</title>
+                    <term type="subgenre_title">novela argentina</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W317">
+                    <author key="A131">Estrada, Santiago</author>
+                    <title>La flor de las tumbas</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W318">
+                    <author key="A131">Estrada, Santiago</author>
+                    <title>El hogar en la pampa</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <note type="subgenre_lithist" source="#Lichtblau">love story [...] the work has
+                        an important place in the development of the gaucho novel</note>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W319">
+                    <author key="A132">Ezcurra, Eduardo de</author>
+                    <title>Buenos Aires en el siglo XXX</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W320">
+                    <author key="A133">Ezcurra y Pardo, M.</author>
+                    <title>El escarabajo</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- comentario en LB -->
+                </bibl>
+                <bibl xml:id="W321">
+                    <author key="A134">Fabricio, León</author>
+                    <title>El hipódromo</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W322">
+                    <author key="A135">Fernández, E. G.</author>
+                    <title>Hace un siglo</title>
+                    <term type="subgenre_title">novela porteña</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W323">
+                    <author key="A136">Fernández, Nine</author>
+                    <title>Papita</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W324">
+                    <author key="A137">Fontanella, Agustín</author>
+                    <title>Camila o la tiranía de Juan Manuel de Rosas</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W325">
+                    <author key="A138">Franquelo, Carlos</author>
+                    <title>La amante del muerto</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W326">
+                    <author key="A139">Frías Collao, Baldomero</author>
+                    <title>Mercedes</title>
+                    <term type="subgenre_title">fragmentos de un diario</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W327">
+                    <author key="A140">Tanco y Bosmeniel, Félix</author>
+                    <title>Petrona y Rosalia</title>
+                    <bibl><ptr target="#DLC"/></bibl>
+                    <!-- escrita en 1838, publicada 1925 en Cuba Contemporánea -->
+                    <ref>http://bdigital.bnjm.cu/secciones/literatura/autores/38/obras/38_271.pdf</ref>
+                </bibl>
+                <bibl xml:id="W328">
+                    <author key="A141">Teurbe Tolón y de la Guardia, Miguel</author>
+                    <title>Lola Guara</title>
+                    <term type="subgenre_title">novela cubana</term>
+                    <bibl><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W329">
+                    <author key="A142">Serrano, Francisco de Paula</author>
+                    <title>Ricardo Leyva</title>
+                    <term type="subgenre_title">novela cubana</term>
+                    <bibl><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W330">
+                    <author key="A143">Suárez de Romero, Anselmo</author>
+                    <title>Biografía de Carlota Valdés</title>
+                    <bibl><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W331">
+                    <author key="A143">Suárez de Romero, Anselmo</author>
+                    <title>Francisco</title>
+                    <term type="subgenre_title">novela cubana</term>
+                    <bibl><ptr target="#DLC"/></bibl>
+                    <ref>http://www.cervantesvirtual.com/obra/francisco-el-ingenio-o-las-delicias-del-campo--0/</ref>
+                    <!-- escrita en 1838-1839 -->
+                </bibl>
+                <bibl xml:id="W332">
+                    <author key="A144">Santacilia, Pedro</author>
+                    <title>La clava del indio</title>
+                    <term type="subgenre_title">leyenda cubana</term>
+                    <bibl><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W333">
+                    <author key="A145">Ramos, José Antonio</author>
+                    <title>Humberto Fabra</title>
+                    <bibl><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W334">
+                    <author key="A146">Rodríguez Émbil, Luis</author>
+                    <title>Gil Luna, artista</title>
+                    <bibl><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W335">
+                    <author key="A146">Rodríguez Émbil, Luis</author>
+                    <title>El velo de la diosa</title>
+                    <term type="subgenre_title">aventura vulgar</term>
+                    <bibl><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W336">
+                    <author key="A147">Puig y de la Puente, Francisco</author>
+                    <title>Flor del corazón</title>
+                    <term type="subgenre_title">novela india</term>
+                    <bibl><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W337">
+                    <author key="A147">Puig y de la Puente, Francisco</author>
+                    <title>La campana del ingenio</title>
+                    <term type="subgenre_lithist" resp="#DLC">novela abolicionista</term>
+                    <bibl><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W338">
+                    <author key="A147">Puig y de la Puente, Francisco</author>
+                    <title>La tumba ignorada</title>
+                    <term type="subgenre_title">leyenda cubana</term>
+                    <bibl><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W339">
+                    <author key="A147">Puig y de la Puente, Francisco</author>
+                    <title>Julia, la hija del pescador</title>
+                    <bibl><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W340">
+                    <author key="A147">Puig y de la Puente, Francisco</author>
+                    <title>La tumba de azucenas</title>
+                    <bibl><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W341">
+                    <author key="A147">Puig y de la Puente, Francisco</author>
+                    <title>La joven Esmeralda</title>
+                    <bibl><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W342">
+                    <author key="A147">Puig y de la Puente, Francisco</author>
+                    <title>Lágrimas de un ángel</title>
+                    <term type="subgenre_title">memorias</term>
+                    <bibl><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W343">
+                    <author key="A147">Puig y de la Puente, Francisco</author>
+                    <title>Graziela</title>
+                    <bibl><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W344">
+                    <author key="A147">Puig y de la Puente, Francisco</author>
+                    <title>Magdalena</title>
+                    <bibl><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W345">
+                    <author key="A147">Puig y de la Puente, Francisco</author>
+                    <title>La campana de la tarde; o, Vivir muriendo</title>
+                    <term type="subgenre_title">novela cubana</term>
+                    <bibl><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W346">
+                    <author key="A147">Puig y de la Puente, Francisco</author>
+                    <title>Los cocuyos</title>
+                    <bibl><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W347">
+                    <author key="A147">Puig y de la Puente, Francisco</author>
+                    <title>Amor a la Patria, páginas de un desterrado</title>
+                    <bibl><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W348">
+                    <author key="A147">Puig y de la Puente, Francisco</author>
+                    <title>Narciso López en Cárdenas</title>
+                    <term type="subgenre_title">fragmento de novela política</term>
+                    <term type="subgenre_lithist" resp="#Trelles">novela histórica</term>
+                    <bibl><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W349">
+                    <author key="A147">Puig y de la Puente, Francisco</author>
+                    <title>Cuba Revolucionaria</title>
+                    <term type="subgenre_title">fragmento de novela política</term>
+                    <bibl><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W350">
+                    <author key="A147">Puig y de la Puente, Francisco</author>
+                    <title>La choza de Julia</title>
+                    <bibl><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W351">
+                    <author key="A147">Puig y de la Puente, Francisco</author>
+                    <title>El mulatico Julio</title>
+                    <bibl><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W352">
+                    <author key="A148">Palma y Romay, Ramón de</author>
+                    <title>Matanzas y Yumurí</title>
+                    <ref>http://bdigital.bnjm.cu/secciones/literatura/autores/22/obras/22_260.pdf</ref>
+                    <bibl><ptr target="#EnCaribe"/></bibl>
+                    <note type="subgenre_lithist" source="#EnCaribe">relato de narrativa
+                        indianista</note>
+                </bibl>
+                <bibl xml:id="W353">
+                    <author key="A148">Palma y Romay, Ramón de</author>
+                    <title>El ermitaño del Niágara</title>
+                    <bibl><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W354">
+                    <author key="A148">Palma y Romay, Ramón de</author>
+                    <title>El cólera en la Habana</title>
+                    <bibl><ptr target="#EnCaribe"/></bibl>
+                    <ref>http://www.encaribe.org/es/Book?idTexto=316&amp;idRegistro=874</ref>
+                </bibl>
+                <bibl xml:id="W355">
+                    <author key="A148">Palma y Romay, Ramón de</author>
+                    <title>Una Pascua en San Marcos</title>
+                    <bibl><ptr target="#EnCaribe"/></bibl>
+                    <note type="subgenre_lithist" source="#EnCaribe">realismo crítico de tintes
+                        costumbristas</note>
+                </bibl>
+                <bibl xml:id="W356">
+                    <author key="A149">Pérez de Zambrana, Luisa</author>
+                    <title>Angélica y Estrella</title>
+                    <bibl><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W357">
+                    <author key="A149">Pérez de Zambrana, Luisa</author>
+                    <title>La hija del verdugo</title>
+                    <bibl><ptr target="#DLC"/></bibl>
+                    <note type="subgenre_lithist" source="#DLC">episodio histórico</note>
+                </bibl>
+                <bibl xml:id="W358">
+                    <author key="A149">Pérez de Zambrana, Luisa</author>
+                    <title>Los Gracos</title>
+                    <bibl><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W359">
+                    <author key="A150">Pichardo y Tapia, Estebán</author>
+                    <title>El fatalista</title>
+                    <term type="subgenre_title">novela cubana</term>
+                    <bibl><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W360">
+                    <author key="A151">Piña y Blanco, Ramón</author>
+                    <title>Gerónimo el honrado</title>
+                    <bibl><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W361">
+                    <author key="A151">Piña y Blanco, Ramón</author>
+                    <title>El Dr. Lañuela</title>
+                    <bibl><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W362">
+                    <author key="A151">Piña y Blanco, Ramón</author>
+                    <title>Historia de un bribón dichoso</title>
+                    <bibl><ptr target="#DLC"/></bibl>
+                    <ref>http://online-db.iai.spk-berlin.de/han/789414910</ref>
+                    <ref>http://bdigital.bnjm.cu/secciones/literatura/autores/37/obras/historia-de-un-bribon-dichoso.pdf</ref>
+                </bibl>
+                <bibl xml:id="W363">
+                    <author key="A152">Puig y Cárdenas, Félix</author>
+                    <title>La Bella Loca</title>
+                    <term type="subgenre_title">novela cubana</term>
+                    <bibl><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W364">
+                    <author key="A152">Puig y Cárdenas, Félix</author>
+                    <title>Ángela</title>
+                    <term type="subgenre_title">amores</term>
+                    <bibl><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W365">
+                    <author key="A152">Puig y Cárdenas, Félix</author>
+                    <title>Carlota Palmieri</title>
+                    <term type="subgenre_title">amores</term>
+                    <bibl><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W366">
+                    <author key="A152">Puig y Cárdenas, Félix</author>
+                    <title>Leoncia de Nancis</title>
+                    <term type="subgenre_title">amores</term>
+                    <bibl><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W367">
+                    <author key="A152">Puig y Cárdenas, Félix</author>
+                    <title>El marqués de Girasol</title>
+                    <term type="subgenre_title">amores</term>
+                    <bibl><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W368">
+                    <author key="A152">Puig y Cárdenas, Félix</author>
+                    <title>El marqués de Verdemar</title>
+                    <term type="subgenre_title">amores</term>
+                    <bibl><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W369">
+                    <author key="A152">Puig y Cárdenas, Félix</author>
+                    <title>Historia de un crimen</title>
+                    <bibl><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W370">
+                    <author key="A152">Puig y Cárdenas, Félix</author>
+                    <title>Efecto del orgullo</title>
+                    <bibl><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W371">
+                    <author key="A152">Puig y Cárdenas, Félix</author>
+                    <title>Engañar con la verdad</title>
+                    <bibl><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W372">
+                    <author key="A152">Puig y Cárdenas, Félix</author>
+                    <title>La sortija del doctor</title>
+                    <bibl><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W373">
+                    <author key="A152">Puig y Cárdenas, Félix</author>
+                    <title>La fuerza de la conciencia</title>
+                    <bibl><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W374">
+                    <author key="A152">Puig y Cárdenas, Félix</author>
+                    <title>La rueda de la fortuna</title>
+                    <bibl><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W375">
+                    <author key="A152">Puig y Cárdenas, Félix</author>
+                    <title>Mariana</title>
+                    <bibl><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W376">
+                    <author key="A152">Puig y Cárdenas, Félix</author>
+                    <title>Una conversión</title>
+                    <bibl><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W377">
+                    <author key="A153">García, Juan Agustín</author>
+                    <title>La Chepa Leona</title>
+                    <term type="subgenre_title">narración colonial</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- comentario en LB -->
+                </bibl>
+                <bibl xml:id="W378">
+                    <author key="A153">García, Juan Agustín</author>
+                    <title>Memorias de un sacristán</title>
+                    <term type="subgenre_title">memorias</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- comentario en LB -->
+                </bibl>
+                <bibl xml:id="W379">
+                    <author key="A154">García Merou, Martín</author>
+                    <title>Ley social</title>
+                    <title type="alt">Marcos</title>
+                    <term type="subgenre_lithist" ref="#Lichtblau">naturalistic novel</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- comentario en LB -->
+                </bibl>
+                <bibl xml:id="W380">
+                    <author key="A155">García Velloso, Enrique</author>
+                    <title>Neurosis sentimental</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <ref>https://catalog.hathitrust.org/Record/007393162</ref>
+                </bibl>
+                <bibl xml:id="W381">
+                    <author key="A156">Garmendia, José Ignacio</author>
+                    <title>En la pampa</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W382">
+                    <author key="A156">Garmendia, José Ignacio</author>
+                    <title>El miliciano Rojas</title>
+                    <term type="subgenre_title">romance de campamento</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W383">
+                    <author key="A156">Garmendia, José Ignacio</author>
+                    <title>El perro adivino</title>
+                    <term type="subgenre_title">romance pampa en estilo criollo</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W384">
+                    <author key="A157">Ghuiraldo, Alberto</author>
+                    <title>La tiranía del frac</title>
+                    <term type="subgenre_title">crónica</term>
+                    <term type="subgenre_title">recuento novelado</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W385">
+                    <author key="A158">Gicca, Francisco</author>
+                    <title>El celibato de los Curas</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W386">
+                    <author key="A158">Gicca, Francisco</author>
+                    <title>La corrupción del misticismo o Roma católica</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W387">
+                    <author key="A158">Gicca, Francisco</author>
+                    <title>Ellas</title>
+                    <term type="subgenre_title">novela de propaganda feminista</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W388">
+                    <author key="A159">Giraldes, Tomás N.</author>
+                    <title>Vengador y suicida</title>
+                    <term type="subgenre_title">novela original</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W389">
+                    <author key="A160">Gómez, Eusebio F.</author>
+                    <title>Angélica o una víctima de sus amores</title>
+                    <term type="subgenre_title">novela original</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W390">
+                    <author key="A161">Gorriti, Juana Manuela</author>
+                    <title>El pozo del Yocci</title>
+                    <idno type="cligs">nh0041</idno>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W391">
+                    <author key="A161">Gorriti, Juana Manuela</author>
+                    <title>La quena</title>
+                    <idno type="cligs">nh0107</idno>
+                    <note type="subgenre_lithist" source="#Lichtblau">In this early romantic work,
+                        the protagonist, spurned in love, enters the priesthood</note>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W392">
+                    <author key="A161">Gorriti, Juana Manuela</author>
+                    <title>El lecho nupcial</title>
+                </bibl>
+                <bibl xml:id="W464">
+                    <author key="A161">Gorriti, Juana Manuela</author>
+                    <title>El ramillete de la velada</title>
+                </bibl>
+                <bibl xml:id="W465">
+                    <author key="A161">Gorriti, Juana Manuela</author>
+                    <title>El guante negro</title>
+                </bibl>
+                <bibl xml:id="W466">
+                    <author key="A161">Gorriti, Juana Manuela</author>
+                    <title>Si haces mal no esperes bien</title>
+                </bibl>
+                <bibl xml:id="W467">
+                    <author key="A161">Gorriti, Juana Manuela</author>
+                    <title>El ángel caído</title>
+                    <idno type="cligs">nh0169</idno>
+                </bibl>
+                <bibl xml:id="W468">
+                    <author key="A161">Gorriti, Juana Manuela</author>
+                    <title>Gubi-Amaya</title>
+                    <idno type="cligs">nh0178</idno>
+                </bibl>
+                <bibl xml:id="W469">
+                    <author key="A161">Gorriti, Juana Manuela</author>
+                    <title>La hija del mashorquero</title>
+                </bibl>
+                <bibl xml:id="W470">
+                    <author key="A161">Gorriti, Juana Manuela</author>
+                    <title>Una hora de coquetería</title>
+                </bibl>
+                <bibl xml:id="W471">
+                    <author key="A161">Gorriti, Juana Manuela</author>
+                    <title>El tesoro de los Incas</title>
+                </bibl>
+                <bibl xml:id="W472">
+                    <author key="A161">Gorriti, Juana Manuela</author>
+                    <title>La novia del muerto</title>
+                </bibl>
+                <bibl xml:id="W473">
+                    <author key="A161">Gorriti, Juana Manuela</author>
+                    <title>Quien escucha su mal oye</title>
+                </bibl>
+                <bibl xml:id="W474">
+                    <author key="A161">Gorriti, Juana Manuela</author>
+                    <title>Tres noches de una historia</title>
+                </bibl>
+                <bibl xml:id="W475">
+                    <author key="A161">Gorriti, Juana Manuela</author>
+                    <title>Un drama en el Adriático</title>
+                </bibl>
+                <bibl xml:id="W476">
+                    <author key="A161">Gorriti, Juana Manuela</author>
+                    <title>Una noche de agonía</title>
+                </bibl>
+                <bibl xml:id="W477">
+                    <author key="A161">Gorriti, Juana Manuela</author>
+                    <title>Un año en California</title>
+                    <title>Un viaje al país del oro</title>
+                </bibl>
+                <bibl xml:id="W478">
+                    <author key="A161">Gorriti, Juana Manuela</author>
+                    <title>Oasis en la vida</title>
+                </bibl>
+                <bibl xml:id="W479">
+                    <author key="A161">Gorriti, Juana Manuela</author>
+                    <title>La tierra natal</title>
+                    <idno type="cligs">nh0042</idno>
+                </bibl>
+                <bibl xml:id="W480">
+                    <author key="A161">Gorriti, Juana Manuela</author>
+                    <title>Peregrinaciones de un alma triste</title>
+                </bibl>
+                <bibl xml:id="W481">
+                    <author key="A161">Gorriti, Juana Manuela</author>
+                    <title>Juez y verdugo</title>
+                    <idno type="cligs">nh0043</idno>
+                </bibl>
+                <bibl xml:id="W482">
+                    <author key="A161">Gorriti, Juana Manuela</author>
+                    <title>Feliza</title>
+                </bibl>
+                <bibl xml:id="W483">
+                    <author key="A161">Gorriti, Juana Manuela</author>
+                    <title>La leontina</title>
                 </bibl>
             </listBibl>
         </body>

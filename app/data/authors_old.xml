@@ -1290,14 +1290,6 @@
                     <sex>indefinido</sex>
                     <nationality cert="low">cubana/o</nationality>
                 </person>
-                <person xml:id="A102">
-                    <persName>
-                        <surname>Palma</surname>
-                        <forename>R.</forename>
-                    </persName>
-                    <sex>masculino</sex>
-                    <nationality>cubana/o</nationality>
-                </person>
                 <person xml:id="A103">
                     <persName>
                         <surname>Cuéllar</surname>
@@ -1315,25 +1307,6 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">54234356</idno>
-                </person>
-                <person xml:id="A104">
-                    <persName>
-                        <surname>Rabasa</surname>
-                        <forename>Emilio</forename>
-                        <addName type="pseudonym">Sancho Polo</addName>
-                    </persName>
-                    <birth>
-                        <date when="1856-05-22">22 de mayo de 1856</date>
-                        <placeName>Ocozautla</placeName>
-                        <placeName>Chiapas</placeName>
-                        <placeName>México</placeName>
-                    </birth>
-                    <death>
-                        <date when="1930">1930</date>
-                    </death>
-                    <sex>masculino</sex>
-                    <nationality>mexicana/o</nationality>
-                    <idno type="viaf">34493943</idno>
                 </person>
                 <person xml:id="A105">
                     <persName>
@@ -1353,15 +1326,6 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">56630916</idno>
-                </person>
-                <person xml:id="A106">
-                    <persName>
-                        <surname>Rivera y Río</surname>
-                        <forename>José</forename>
-                    </persName>
-                    <sex>masculino</sex>
-                    <nationality>mexicana/o</nationality>
-                    <idno type="viaf">17138448</idno>
                 </person>
                 <person xml:id="A107">
                     <persName>
@@ -1397,42 +1361,6 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">29564117</idno>
-                </person>
-                <person xml:id="A110">
-                    <persName>
-                        <surname>Sierra Méndez</surname>
-                        <forename>José</forename>
-                    </persName>
-                    <birth>
-                        <date when="1848-01-26">26 de enero de 1848</date>
-                        <placeName>Campeche</placeName>
-                    </birth>
-                    <death>
-                        <date when="1912-09-13">13 de septiembre de 1912</date>
-                        <placeName>Madrid</placeName>
-                    </death>
-                    <sex>masculino</sex>
-                    <nationality>mexicana/o</nationality>
-                    <idno type="viaf">36989647</idno>
-                </person>
-                <person xml:id="A111">
-                    <persName>
-                        <surname>Sierra O'Reilly</surname>
-                        <forename>José</forename>
-                        <addName type="pseudonym">José Turrisa</addName>
-                    </persName>
-                    <birth>
-                        <date when="1814-09-24">24 de septiembre de 1814</date>
-                        <placeName>Taixcacaltuyú</placeName>
-                        <placeName>Yucatán</placeName>
-                    </birth>
-                    <death>
-                        <date when="1861-01-15">15 de enero de 1861</date>
-                        <placeName>Mérida</placeName>
-                    </death>
-                    <sex>masculino</sex>
-                    <nationality>mexicana/o</nationality>
-                    <idno type="viaf">56696380</idno>
                 </person>
                 <person xml:id="A112">
                     <persName>
@@ -2080,21 +2008,6 @@
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">87762458</idno>
                 </person>
-                <person xml:id="A159">
-                    <persName>
-                        <surname>Gorriti</surname>
-                        <forename>Juana Manuela</forename>
-                    </persName>
-                    <birth>
-                        <date when="1819">1819</date>
-                    </birth>
-                    <death>
-                        <date when="1892">1892</date>
-                    </death>
-                    <sex>femenino</sex>
-                    <nationality>argentina/o</nationality>
-                    <idno type="viaf">100239982</idno>
-                </person>
                 <person xml:id="A160">
                     <persName>
                         <surname>Castellanos</surname>
@@ -2128,23 +2041,6 @@
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">22220469</idno>
-                </person>
-                <person xml:id="A162">
-                    <persName>
-                        <surname>Riva Palacio</surname>
-                        <forename>Vicente</forename>
-                    </persName>
-                    <birth>
-                        <date when="1832-10-16">16 de octubre de 1832</date>
-                        <placeName>Ciudad de México</placeName>
-                    </birth>
-                    <death>
-                        <date when="1896-11-22">22 de noviembre de 1896</date>
-                        <placeName>Madrid</placeName>
-                    </death>
-                    <sex>masculino</sex>
-                    <nationality>mexicana/o</nationality>
-                    <idno type="viaf">54185176</idno>
                 </person>
                 <person xml:id="A163">
                     <persName>
@@ -2309,44 +2205,6 @@
                     <sex>masculino</sex>
                     <nationality>español/a</nationality>
                 </person>-->
-                <person xml:id="A174">
-                    <persName>
-                        <surname>Puig y Cárdenas</surname>
-                        <forename>Félix</forename>
-                    </persName>
-                    <birth>
-                        <date when="1835">1835</date>
-                        <placeName>La Habana</placeName>
-                        <placeName>Cuba</placeName>
-                    </birth>
-                    <death>
-                        <date when="1896-12-08">8 de diciembre de 1896</date>
-                        <placeName>La Habana</placeName>
-                        <placeName>Cuba</placeName>
-                    </death>
-                    <idno type="viaf">26708536</idno>
-                    <sex>masculino</sex>
-                    <nationality>cubana/o</nationality>
-                </person>
-                <person xml:id="A175">
-                    <persName>
-                        <surname>Ramos</surname>
-                        <forename>José Antonio</forename>
-                    </persName>
-                    <birth>
-                        <date when="1885-04-04">4 de abril de 1885</date>
-                        <placeName>La Habana</placeName>
-                        <placeName>Cuba</placeName>
-                    </birth>
-                    <death>
-                        <date when="1946-08-27">27 de agosto de 1946</date>
-                        <placeName>La Habana</placeName>
-                        <placeName>Cuba</placeName>
-                    </death>
-                    <idno type="viaf">61672066</idno>
-                    <sex>masculino</sex>
-                    <nationality>cubana/o</nationality>
-                </person>
                 <person xml:id="A176">
                     <persName>
                         <surname>Rencurrell</surname>
@@ -2360,27 +2218,6 @@
                         <placeName cert="low">Cuba</placeName>
                     </death>
                     <sex>femenino</sex>
-                    <nationality>cubana/o</nationality>
-                </person>
-                <person xml:id="A177">
-                    <persName>
-                        <surname>Rodríguez Émbil</surname>
-                        <forename>Luis</forename>
-                        <addName type="pseudonym">Julio Abril</addName>
-                        <addName type="pseudonym">Julián Sorel</addName>
-                    </persName>
-                    <birth>
-                        <date when="1879-08-30">30 de agosto de 1879</date>
-                        <placeName>La Habana</placeName>
-                        <placeName>Cuba</placeName>
-                    </birth>
-                    <death>
-                        <date when="1954-04-29">29 de abril de 1954</date>
-                        <placeName>La Habana</placeName>
-                        <placeName>Cuba</placeName>
-                    </death>
-                    <idno type="viaf">310568951</idno>
-                    <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
                 </person>
                 <person xml:id="A178">
@@ -2399,29 +2236,6 @@
                         <placeName cert="low">Cuba</placeName>
                     </death>
                     <sex>femenino</sex>
-                    <nationality>cubana/o</nationality>
-                </person>
-                <person xml:id="A179">
-                    <persName>
-                        <surname>Puig y de la Puente</surname>
-                        <forename>Francisco</forename>
-                        <addName type="pseudonym">Julio Rosas</addName>
-                        <addName type="pseudonym">Un filántropo abolicionista</addName>
-                    </persName>
-                    <birth>
-                        <date when="1839">1839</date>
-                        <placeName>San Antonio de los Baños</placeName>
-                        <placeName>Habana</placeName>
-                        <placeName>Cuba</placeName>
-                    </birth>
-                    <death>
-                        <date when="1917-12-08">8 de diciembre de 1917</date>
-                        <placeName>San Antonio de los Baños</placeName>
-                        <placeName>Habana</placeName>
-                        <placeName>Cuba</placeName>
-                    </death>
-                    <idno type="viaf">78425874</idno>
-                    <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
                 </person>
                 <person xml:id="A180">
@@ -2726,25 +2540,6 @@
                     <nationality>cubana/o</nationality>
                 </person>
                 <!-- Domingo del Monte y Portillo; Tradiciones matanceras; Trelles XIX, t. 4, p. 39 -->
-                <person xml:id="A196">
-                    <persName>
-                        <surname>Piña y Blanco</surname>
-                        <forename>Ramón</forename>
-                    </persName>
-                    <birth>
-                        <date when="1819">1819</date>
-                        <placeName>La Habana</placeName>
-                        <placeName>Cuba</placeName>
-                    </birth>
-                    <death>
-                        <date when="1861">1861</date>
-                        <placeName>Madrid</placeName>
-                        <placeName>España</placeName>
-                    </death>
-                    <idno type="viaf">48124168</idno>
-                    <sex>masculino</sex>
-                    <nationality>cubana/o</nationality>
-                </person>
                 <person xml:id="A197">
                     <persName>
                         <surname>Balmaseda</surname>
