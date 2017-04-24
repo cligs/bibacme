@@ -555,6 +555,106 @@ declare function app:autores-por-sexo(){
 };
 
 
+declare function app:obras-por-ano(){
+    (<h2>Sinopsis</h2>,
+    (: number of works per year (by first edition):)
+    let $first-ed-years := for $work in $app:works
+                           let $work-id := $work/@xml:id
+                           let $year := data:get-first-edition-year($work-id)
+                           return $year
+    let $num-editions := for $year in (1830 to 1910)
+                        return count($first-ed-years[xs:integer(.) = $year])
+    let $params := map {
+        "title" := "Obras por año",
+        "containerId" := "ChartObras_5",
+        "xaxis-title" := "año",
+        "yaxis-title" := "número de obras",
+        "y_range" := 20
+    }
+    let $data := map {
+        "x" := (1830 to 1910),
+        "y" := $num-editions
+    }
+    return 
+    (<div id="ChartObras_5" style="width:900px;height:600px;margin: 0 auto;"></div>,
+        overviews:bar-chart($params, $data)),
+        
+    (: number of works per year (by first edition & argentine authors):)
+    let $first-ed-years := let $author-ids := $app:authors//range:field-eq("nationality", "argentina/o")/@xml:id
+                           return
+                                for $work in $app:works[range:field-eq("author-key", $author-ids)]
+                                let $work-id := $work/@xml:id
+                                return data:get-first-edition-year($work-id)
+    let $num-editions := for $year in (1830 to 1910)
+                        return count($first-ed-years[xs:integer(.) = $year])
+    let $params := map {
+        "title" := "Obras por año (escritas por autores de nacionalidad argentina)",
+        "containerId" := "ChartObras_6",
+        "xaxis-title" := "año",
+        "yaxis-title" := "número de obras",
+        "color" := "light blue",
+        "y_range" := 20
+    }
+    let $data := map {
+        "x" := (1830 to 1910),
+        "y" := $num-editions
+    }
+    return 
+    (<div id="ChartObras_6" style="width:900px;height:600px;margin: 0 auto;"></div>,
+        overviews:bar-chart($params, $data)),
+        
+    (: number of works per year (by first edition & cuban authors):)
+    let $first-ed-years := let $author-ids := $app:authors//range:field-eq("nationality", "cubana/o")/@xml:id
+                           return
+                                for $work in $app:works[range:field-eq("author-key", $author-ids)]
+                                let $work-id := $work/@xml:id
+                                return data:get-first-edition-year($work-id)
+    let $num-editions := for $year in (1830 to 1910)
+                        return count($first-ed-years[xs:integer(.) = $year])
+    let $params := map {
+        "title" := "Obras por año (escritas por autores de nacionalidad cubana)",
+        "containerId" := "ChartObras_7",
+        "xaxis-title" := "año",
+        "yaxis-title" := "número de obras",
+        "color" := "#CC0000",
+        "y_range" := 20
+    }
+    let $data := map {
+        "x" := (1830 to 1910),
+        "y" := $num-editions
+    }
+    return 
+    (<div id="ChartObras_7" style="width:900px;height:600px;margin: 0 auto;"></div>,
+        overviews:bar-chart($params, $data)),
+        
+    (: number of works per year (by first edition & mexican authors):)
+    let $first-ed-years := let $author-ids := $app:authors//range:field-eq("nationality", "mexicana/o")/@xml:id
+                           return
+                                for $work in $app:works[range:field-eq("author-key", $author-ids)]
+                                let $work-id := $work/@xml:id
+                                return data:get-first-edition-year($work-id)
+    let $num-editions := for $year in (1830 to 1910)
+                        return count($first-ed-years[xs:integer(.) = $year])
+    let $params := map {
+        "title" := "Obras por año (escritas por autores de nacionalidad mexicana)",
+        "containerId" := "ChartObras_8",
+        "xaxis-title" := "año",
+        "yaxis-title" := "número de obras",
+        "color" := "#006633",
+        "y_range" := 20
+    }
+    let $data := map {
+        "x" := (1830 to 1910),
+        "y" := $num-editions
+    }
+    return 
+    (<div id="ChartObras_8" style="width:900px;height:600px;margin: 0 auto;"></div>,
+        overviews:bar-chart($params, $data))
+    )
+};
+
+
+
 declare function app:obras-por-autor(){
     (<h2>Sinopsis</h2>,
     (: number of works per author :)

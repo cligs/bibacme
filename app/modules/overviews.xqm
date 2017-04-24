@@ -25,7 +25,7 @@ declare function overviews:bar-chart($params as map, $data as map){
           x: ['{string-join($data("x"),"','")}'],
           y: [{string-join($data("y"),",")}],
           type: 'bar',
-          marker: {{color: 'green'}}
+          marker: {{color: '{let $color := $params("color") return if ($color) then $color else "green"}'}}
         }}];
   
         var layout = {{
@@ -33,7 +33,8 @@ declare function overviews:bar-chart($params as map, $data as map){
       	     showlegend: false,
       	     //hovermode: !1,
       	     xaxis: {{title: '{$params("xaxis-title")}' }},
-      	     yaxis: {{title: '{$params("yaxis-title")}' }}
+      	     yaxis: {{title: '{$params("yaxis-title")}'{let $y_range := $params("y_range") 
+      	                                                return if ($y_range) then concat(", range: [0,", $y_range,"]") else()} }}
       	     }};
 
         Plotly.newPlot('{$params("containerId")}', data, layout, {{displayModeBar: false, staticPlot: false}});

@@ -7672,7 +7672,8 @@
                 <biblStruct corresp="W386" xml:id="E518">
                     <monogr>
                         <author key="A158">Gicca, Francisco</author>
-                        <title level="m" type="main">La corrupción del misticismo o Roma católica</title>
+                        <title level="m" type="main">La corrupción del misticismo o Roma
+                            católica</title>
                         <imprint>
                             <pubPlace corresp="ES">Barcelona</pubPlace>
                             <date when="1907">1907</date>
@@ -7725,7 +7726,9 @@
                         <title level="a" type="main">El pozo del Yocci</title>
                     </analytic>
                     <monogr>
-                        <title level="m">Panoramas de la vida</title>
+                        <title level="m" type="main">Panoramas de la vida</title>
+                        <title level="m" type="sub">Colección de novelas, fantasías, leyendas y
+                            descripciones americanas</title>
                         <imprint>
                             <publisher>Imprenta de mayo</publisher>
                             <pubPlace corresp="AR">Buenos Aires</pubPlace>
@@ -7757,6 +7760,7 @@
                     <monogr>
                         <title level="m">Sueños y realidades</title>
                         <imprint>
+                            <publisher>Imprenta de mayo</publisher>
                             <pubPlace corresp="AR">Buenos Aires</pubPlace>
                             <date when="1865">1865</date>
                         </imprint>
@@ -7766,24 +7770,23 @@
                     <ref>https://archive.org/details/sueosyrealidade01quesgoog</ref>
                     <ref>http://resolver.iai.spk-berlin.de/IAI0000545600010000</ref>
                 </biblStruct>
-                <biblStruct corresp="W392" xml:id="E525">
+                <biblStruct corresp="W391" xml:id="E525">
                     <analytic>
                         <author key="A161">Gorriti, Juana Manuela</author>
-                        <title level="a" type="main">El lecho nupcial</title>
+                        <title level="a" type="main">La quena</title>
                     </analytic>
                     <monogr>
                         <title level="m">Sueños y realidades</title>
                         <imprint>
+                            <publisher>Biblioteca de La Nación</publisher>
                             <pubPlace corresp="AR">Buenos Aires</pubPlace>
-                            <date when="1865">1865</date>
+                            <date when="1907">1907</date>
                         </imprint>
                         <biblScope unit="volume">I</biblScope>
-                        <biblScope unit="page">335-</biblScope>
                     </monogr>
-                    <ref>https://archive.org/details/sueosyrealidade01quesgoog</ref>
-                    <ref>http://resolver.iai.spk-berlin.de/IAI0000545600010000</ref>
+                    <ref>https://catalog.hathitrust.org/Record/101406912</ref>
                 </biblStruct>
-                <biblStruct corresp="W393" xml:id="E526">
+                <biblStruct corresp="W392" xml:id="E526">
                     <analytic>
                         <author key="A161">Gorriti, Juana Manuela</author>
                         <title level="a" type="main">El ramillete de la velada</title>
@@ -7791,15 +7794,35 @@
                     <monogr>
                         <title level="m">Sueños y realidades</title>
                         <imprint>
+                            <publisher>Imprenta de mayo</publisher>
                             <pubPlace corresp="AR">Buenos Aires</pubPlace>
                             <date when="1865">1865</date>
                         </imprint>
                         <biblScope unit="volume">II</biblScope>
+                        <biblScope unit="page">p. 185-270</biblScope>
                     </monogr>
-                    <ref>###</ref>
-                    <!-- nicht in Lichtblau -->
+                    <ref>http://resolver.iai.spk-berlin.de/IAI0000545600020000</ref>
+                    <ref>https://archive.org/details/sueosyrealidade00quesgoog</ref>
                 </biblStruct>
-                <biblStruct corresp="W465" xml:id="E449">
+                <biblStruct corresp="W392" xml:id="E527">
+                    <analytic>
+                        <author key="A161">Gorriti, Juana Manuela</author>
+                        <title level="a" type="main">El ramillete de la velada</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m">Sueños y realidades</title>
+                        <imprint>
+                            <publisher>Biblioteca de La Nación</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1907">1907</date>
+                        </imprint>
+                        <biblScope unit="volume">II</biblScope>
+                        <biblScope unit="page">p. 185-270</biblScope>
+                    </monogr>
+                    <ref>https://archive.org/details/sueosyrealidad02gorruoft</ref>
+                    <ref>https://catalog.hathitrust.org/Record/101406912</ref>
+                </biblStruct>
+                <biblStruct corresp="W393" xml:id="E528">
                     <analytic>
                         <author key="A161">Gorriti, Juana Manuela</author>
                         <title level="a" type="main">El guante negro</title>
@@ -7807,14 +7830,33 @@
                     <monogr>
                         <title level="m">Sueños y realidades</title>
                         <imprint>
+                            <publisher>Imprenta de mayo</publisher>
                             <pubPlace corresp="AR">Buenos Aires</pubPlace>
                             <date when="1865">1865</date>
                         </imprint>
                         <biblScope unit="volume">I</biblScope>
                         <biblScope unit="page">69-106</biblScope>
                     </monogr>
+                    <ref>https://archive.org/details/sueosyrealidade01quesgoog</ref>
+                    <ref>http://resolver.iai.spk-berlin.de/IAI0000545600010000</ref>
                 </biblStruct>
-                <biblStruct corresp="W466" xml:id="E450">
+                <biblStruct corresp="W393" xml:id="E529">
+                    <analytic>
+                        <author key="A161">Gorriti, Juana Manuela</author>
+                        <title level="a" type="main">El guante negro</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m">Sueños y realidades</title>
+                        <imprint>
+                            <publisher>Biblioteca de La Nación</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1907">1907</date>
+                        </imprint>
+                        <biblScope unit="volume">I</biblScope>
+                    </monogr>
+                    <ref>https://catalog.hathitrust.org/Record/101406912</ref>
+                </biblStruct>
+                <biblStruct corresp="W394" xml:id="E530">
                     <analytic>
                         <author key="A161">Gorriti, Juana Manuela</author>
                         <title level="a" type="main">Si haces mal no esperes bien</title>
@@ -7822,14 +7864,35 @@
                     <monogr>
                         <title level="m">Sueños y realidades</title>
                         <imprint>
+                            <publisher>Imprenta de mayo</publisher>
                             <pubPlace corresp="AR">Buenos Aires</pubPlace>
                             <date when="1865">1865</date>
                         </imprint>
                         <biblScope unit="volume">II</biblScope>
+                        <biblScope unit="page">p. 145-174</biblScope>
                     </monogr>
-                    <!-- nicht in Lichtblau -->
+                    <ref>http://resolver.iai.spk-berlin.de/IAI0000545600020000</ref>
+                    <ref>https://archive.org/details/sueosyrealidade00quesgoog</ref>
                 </biblStruct>
-                <biblStruct corresp="W467" xml:id="E451">
+                <biblStruct corresp="W394" xml:id="E531">
+                    <analytic>
+                        <author key="A161">Gorriti, Juana Manuela</author>
+                        <title level="a" type="main">Si haces mal no esperes bien</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m">Sueños y realidades</title>
+                        <imprint>
+                            <publisher>Biblioteca de La Nación</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1907">1907</date>
+                        </imprint>
+                        <biblScope unit="volume">II</biblScope>
+                        <biblScope unit="page">p. 145-174</biblScope>
+                    </monogr>
+                    <ref>https://archive.org/details/sueosyrealidad02gorruoft</ref>
+                    <ref>https://catalog.hathitrust.org/Record/101406912</ref>
+                </biblStruct>
+                <biblStruct corresp="W395" xml:id="E532">
                     <analytic>
                         <author key="A161">Gorriti, Juana Manuela</author>
                         <title level="a" type="main">El ángel caído</title>
@@ -7837,148 +7900,181 @@
                     <monogr>
                         <title level="m">Sueños y realidades</title>
                         <imprint>
+                            <publisher>Imprenta de mayo</publisher>
                             <pubPlace corresp="AR">Buenos Aires</pubPlace>
                             <date when="1865">1865</date>
                         </imprint>
                         <biblScope unit="volume">II</biblScope>
                         <biblScope unit="page">3-86</biblScope>
                     </monogr>
+                    <ref>http://resolver.iai.spk-berlin.de/IAI0000545600020000</ref>
+                    <ref>https://archive.org/details/sueosyrealidade00quesgoog</ref>
                 </biblStruct>
-                <biblStruct corresp="W468" xml:id="E452">
+                <biblStruct corresp="W395" xml:id="E533">
                     <analytic>
                         <author key="A161">Gorriti, Juana Manuela</author>
-                        <title level="a" type="main">Gubi-Amaya</title>
+                        <title level="a" type="main">El ángel caído</title>
                     </analytic>
                     <monogr>
                         <title level="m">Sueños y realidades</title>
                         <imprint>
+                            <publisher>Biblioteca de La Nación</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1907">1907</date>
+                        </imprint>
+                        <biblScope unit="volume">II</biblScope>
+                        <biblScope unit="page">5-83</biblScope>
+                    </monogr>
+                    <ref>https://archive.org/details/sueosyrealidad02gorruoft</ref>
+                    <ref>https://catalog.hathitrust.org/Record/101406912</ref>
+                </biblStruct>
+                <biblStruct corresp="W396" xml:id="E534">
+                    <analytic>
+                        <author key="A161">Gorriti, Juana Manuela</author>
+                        <title level="a" type="main">Gubi-Amaya</title>
+                        <title level="a" type="sub">(Historia de un salteador)</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m">Sueños y realidades</title>
+                        <imprint>
+                            <publisher>Imprenta de mayo</publisher>
                             <pubPlace corresp="AR">Buenos Aires</pubPlace>
                             <date when="1865">1865</date>
                         </imprint>
                         <biblScope unit="volume">I</biblScope>
                         <biblScope unit="page">107-200</biblScope>
                     </monogr>
+                    <ref>https://archive.org/details/sueosyrealidade01quesgoog</ref>
+                    <ref>http://resolver.iai.spk-berlin.de/IAI0000545600010000</ref>
                 </biblStruct>
-                <biblStruct corresp="W469" xml:id="E453">
+                <biblStruct corresp="W396" xml:id="E535">
                     <analytic>
                         <author key="A161">Gorriti, Juana Manuela</author>
-                        <title level="a" type="main">La hija del mashorquero</title>
+                        <title level="a" type="main">Gubi-Amaya</title>
+                        <title level="a" type="sub">(Historia de un salteador)</title>
                     </analytic>
                     <monogr>
                         <title level="m">Sueños y realidades</title>
                         <imprint>
+                            <publisher>Biblioteca de La Nación</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1907">1907</date>
+                        </imprint>
+                        <biblScope unit="volume">I</biblScope>
+                    </monogr>
+                    <ref>https://catalog.hathitrust.org/Record/101406912</ref>
+                </biblStruct>
+                <biblStruct corresp="W397" xml:id="E536">
+                    <analytic>
+                        <author key="A161">Gorriti, Juana Manuela</author>
+                        <title level="a" type="main">La hija del mashorquero</title>
+                        <title level="a" type="sub">Leyenda histórica</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m">Sueños y realidades</title>
+                        <imprint>
+                            <publisher>Imprenta de mayo</publisher>
                             <pubPlace corresp="AR">Buenos Aires</pubPlace>
                             <date when="1865">1865</date>
                         </imprint>
                         <biblScope unit="volume">I</biblScope>
+                        <biblScope unit="page">p. 251-278</biblScope>
                     </monogr>
+                    <ref>https://archive.org/details/sueosyrealidade01quesgoog</ref>
+                    <ref>http://resolver.iai.spk-berlin.de/IAI0000545600010000</ref>
                 </biblStruct>
-                <biblStruct corresp="W470" xml:id="E454">
+                <biblStruct corresp="W397" xml:id="E537">
                     <analytic>
                         <author key="A161">Gorriti, Juana Manuela</author>
-                        <title level="a" type="main">Una hora de coquetería</title>
+                        <title level="a" type="main">La hija del mashorquero</title>
+                        <title level="a" type="sub">Leyenda histórica</title>
                     </analytic>
                     <monogr>
                         <title level="m">Sueños y realidades</title>
                         <imprint>
+                            <publisher>Biblioteca de La Nación</publisher>
                             <pubPlace corresp="AR">Buenos Aires</pubPlace>
-                            <date when="1865">1865</date>
+                            <date when="1907">1907</date>
                         </imprint>
-                        <biblScope unit="volume">II</biblScope>
+                        <biblScope unit="volume">I</biblScope>
                     </monogr>
-                    <!-- Nicht in Lichtblau -->
+                    <ref>https://catalog.hathitrust.org/Record/101406912</ref>
                 </biblStruct>
-                <biblStruct corresp="W471" xml:id="E455">
+                <biblStruct corresp="W398" xml:id="E538">
                     <analytic>
                         <author key="A161">Gorriti, Juana Manuela</author>
                         <title level="a" type="main">El tesoro de los incas</title>
+                        <title level="a" type="sub">Leyenda histórica</title>
                     </analytic>
                     <monogr>
                         <title level="m">Sueños y realidades</title>
                         <imprint>
+                            <publisher>Imprenta de mayo</publisher>
                             <pubPlace corresp="AR">Buenos Aires</pubPlace>
                             <date when="1865">1865</date>
                         </imprint>
                         <biblScope unit="volume">II</biblScope>
                         <biblScope unit="page">87-133</biblScope>
                     </monogr>
+                    <ref>http://resolver.iai.spk-berlin.de/IAI0000545600020000</ref>
+                    <ref>https://archive.org/details/sueosyrealidade00quesgoog</ref>
                 </biblStruct>
-                <biblStruct corresp="W472" xml:id="E456">
+                <biblStruct corresp="W398" xml:id="E539">
+                    <analytic>
+                        <author key="A161">Gorriti, Juana Manuela</author>
+                        <title level="a" type="main">El tesoro de los incas</title>
+                        <title level="a" type="sub">Leyenda histórica</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m">Sueños y realidades</title>
+                        <imprint>
+                            <publisher>Biblioteca de La Nación</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1907">1907</date>
+                        </imprint>
+                        <biblScope unit="volume">II</biblScope>
+                        <biblScope unit="page">85-128</biblScope>
+                    </monogr>
+                    <ref>https://archive.org/details/sueosyrealidad02gorruoft</ref>
+                    <ref>https://catalog.hathitrust.org/Record/101406912</ref>
+                </biblStruct>
+                <biblStruct corresp="W399" xml:id="E540">
                     <analytic>
                         <author key="A161">Gorriti, Juana Manuela</author>
                         <title level="a" type="main">La novia del muerto</title>
+                        <title level="a" type="sub">A mi querido amigo Vicente G. Quesada</title>
                     </analytic>
                     <monogr>
                         <title level="m">Sueños y realidades</title>
                         <imprint>
+                            <publisher>Imprenta de mayo</publisher>
                             <pubPlace corresp="AR">Buenos Aires</pubPlace>
                             <date when="1865">1865</date>
                         </imprint>
                         <biblScope unit="volume">I</biblScope>
+                        <biblScope unit="page">225-250</biblScope>
                     </monogr>
-                    <!-- Nicht in Lichtblau -->
+                    <ref>https://archive.org/details/sueosyrealidade01quesgoog</ref>
+                    <ref>http://resolver.iai.spk-berlin.de/IAI0000545600010000</ref>
                 </biblStruct>
-                <biblStruct corresp="W473" xml:id="E457">
+                <biblStruct corresp="W399" xml:id="E541">
                     <analytic>
                         <author key="A161">Gorriti, Juana Manuela</author>
-                        <title level="a" type="main">Quien escucha su mal oye</title>
+                        <title level="a" type="main">La novia del muerto</title>
+                        <title level="a" type="sub">A mi querido amigo Vicente G. Quesada</title>
                     </analytic>
                     <monogr>
                         <title level="m">Sueños y realidades</title>
                         <imprint>
+                            <publisher>Biblioteca de La Nación</publisher>
                             <pubPlace corresp="AR">Buenos Aires</pubPlace>
-                            <date when="1865">1865</date>
-                        </imprint>
-                        <biblScope unit="volume">II</biblScope>
-                    </monogr>
-                    <!-- Nicht in Lichtblau -->
-                </biblStruct>
-                <biblStruct corresp="W474" xml:id="E458">
-                    <analytic>
-                        <author key="A161">Gorriti, Juana Manuela</author>
-                        <title level="a" type="main">Tres noches de una historia</title>
-                    </analytic>
-                    <monogr>
-                        <title level="m">Sueños y realidades</title>
-                        <imprint>
-                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
-                            <date when="1865">1865</date>
+                            <date when="1907">1907</date>
                         </imprint>
                         <biblScope unit="volume">I</biblScope>
                     </monogr>
-                    <!-- Nicht in Lichtblau -->
+                    <ref>https://catalog.hathitrust.org/Record/101406912</ref>
                 </biblStruct>
-                <biblStruct corresp="W475" xml:id="E459">
-                    <analytic>
-                        <author key="A161">Gorriti, Juana Manuela</author>
-                        <title level="a" type="main">Un drama en el Adriático</title>
-                    </analytic>
-                    <monogr>
-                        <title level="m">Sueños y realidades</title>
-                        <imprint>
-                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
-                            <date when="1865">1865</date>
-                        </imprint>
-                        <biblScope unit="volume">I</biblScope>
-                    </monogr>
-                    <!-- Nicht in Lichtblau -->
-                </biblStruct>
-                <biblStruct corresp="W476" xml:id="E460">
-                    <analytic>
-                        <author key="A161">Gorriti, Juana Manuela</author>
-                        <title level="a" type="main">Una noche de agonía</title>
-                    </analytic>
-                    <monogr>
-                        <title level="m">Sueños y realidades</title>
-                        <imprint>
-                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
-                            <date when="1865">1865</date>
-                        </imprint>
-                        <biblScope unit="volume">I</biblScope>
-                    </monogr>
-                    <!-- Nicht in Lichtblau -->
-                </biblStruct>
-                <biblStruct corresp="W477" xml:id="E461">
+                <biblStruct corresp="W400" xml:id="E542">
                     <analytic>
                         <author key="A161">Gorriti, Juana Manuela</author>
                         <title level="a" type="main">Un año en California</title>
@@ -7992,20 +8088,42 @@
                         <biblScope unit="issue">18</biblScope>
                     </monogr>
                 </biblStruct>
-                <biblStruct corresp="W477" xml:id="E462">
+                <biblStruct corresp="W400" xml:id="E543">
+                    <analytic>
+                        <author key="A161">Gorriti, Juana Manuela</author>
+                        <title level="a" type="main">Un viaje al país del oro</title>
+                        <title level="a" type="sub">(Al niño Ernesto Quesada)</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Panoramas de la vida</title>
+                        <title level="m" type="sub">Colección de novelas, fantasías, leyendas y
+                            descripciones americanas</title>
+                        <imprint>
+                            <publisher>Imprenta y Librerías de Mayo</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1876">1876</date>
+                            <biblScope unit="volume">Tomo II</biblScope>
+                            <biblScope unit="page">p. 149-249</biblScope>
+                        </imprint>
+                    </monogr>
+                    <ref>http://www.cervantesvirtual.com/obra/panoramas-de-la-vida-coleccion-de-novelas-fantasias-leyendas-y-descripciones-americanas-tomo-ii--0/</ref>
+                </biblStruct>
+                <biblStruct corresp="W400" xml:id="E544">
                     <analytic>
                         <author key="A161">Gorriti, Juana Manuela</author>
                         <title level="a" type="main">Un viaje al país del oro</title>
                     </analytic>
                     <monogr>
-                        <title level="m">Panoramas de la vida</title>
+                        <title level="m" type="main">Relatos de Juana Manuela Gorriti</title>
                         <imprint>
+                            <publisher>EUDEBA</publisher>
                             <pubPlace corresp="AR">Buenos Aires</pubPlace>
-                            <date when="1876">1876</date>
+                            <date when="1892">1892</date>
+                            <biblScope unit="page">p. 120-191</biblScope>
                         </imprint>
                     </monogr>
                 </biblStruct>
-                <biblStruct corresp="W478" xml:id="E463">
+                <biblStruct corresp="W401" xml:id="E545">
                     <monogr>
                         <author key="A161">Gorriti, Juana Manuela</author>
                         <title level="m" type="main">Oasis en la vida</title>
@@ -8013,10 +8131,12 @@
                             <publisher>Félix Lajouane</publisher>
                             <pubPlace corresp="AR">Buenos Aires</pubPlace>
                             <date when="1888">1888</date>
+                            <biblScope unit="page">p. 11-114</biblScope>
                         </imprint>
                     </monogr>
+                    <ref>https://catalog.hathitrust.org/Record/008714982</ref>
                 </biblStruct>
-                <biblStruct corresp="W479" xml:id="E464">
+                <biblStruct corresp="W402" xml:id="E546">
                     <monogr>
                         <author key="A161">Gorriti, Juana Manuela</author>
                         <title level="m" type="main">La tierra natal</title>
@@ -8026,49 +8146,65 @@
                             <date when="1889">1889</date>
                         </imprint>
                     </monogr>
-                    <!-- nicht in Lichtblau -->
+                    <ref>https://catalog.hathitrust.org/Record/100329404</ref>
                 </biblStruct>
-                <biblStruct corresp="W480" xml:id="E465">
+                <biblStruct corresp="W403" xml:id="E547">
                     <analytic>
                         <author key="A161">Gorriti, Juana Manuela</author>
                         <title level="a" type="main">Peregrinaciones de un alma triste</title>
                     </analytic>
                     <monogr>
-                        <title level="m">Panoramas de la vida</title>
+                        <title level="m" type="main">Panoramas de la vida</title>
+                        <title level="m" type="sub">Colección de novelas, fantasías, leyendas y
+                            descripciones americanas</title>
                         <imprint>
+                            <publisher>Imprenta y librerías de Mayo</publisher>
                             <pubPlace corresp="AR">Buenos Aires</pubPlace>
                             <date when="1876">1876</date>
+                            <biblScope unit="volume">Tomo I</biblScope>
+                            <biblScope unit="page">p. 15-238</biblScope>
                         </imprint>
                     </monogr>
-                    <!-- nicht in Lichtblau -->
+                    <ref>https://catalog.hathitrust.org/Record/100122611</ref>
                 </biblStruct>
-                <biblStruct corresp="W481" xml:id="E466">
+                <biblStruct corresp="W404" xml:id="E548">
                     <analytic>
                         <author key="A161">Gorriti, Juana Manuela</author>
                         <title level="a" type="main">Juez y verdugo</title>
                     </analytic>
                     <monogr>
-                        <title level="m">Panoramas de la vida</title>
+                        <title level="m" type="main">Panoramas de la vida</title>
+                        <title level="m" type="sub">Colección de novelas, fantasías, leyendas y
+                            descripciones americanas</title>
                         <imprint>
+                            <publisher>Imprenta y librerías de Mayo</publisher>
                             <pubPlace corresp="AR">Buenos Aires</pubPlace>
                             <date when="1876">1876</date>
+                            <biblScope unit="volume">Tomo I</biblScope>
+                            <biblScope unit="page">p. 239-347</biblScope>
                         </imprint>
                     </monogr>
+                    <ref>https://catalog.hathitrust.org/Record/100122611</ref>
                 </biblStruct>
-                <biblStruct corresp="W482" xml:id="E467">
+                <biblStruct corresp="W405" xml:id="E549">
                     <analytic>
                         <author key="A161">Gorriti, Juana Manuela</author>
                         <title level="a" type="main">Feliza</title>
                     </analytic>
                     <monogr>
-                        <title level="m">Panoramas de la vida</title>
+                        <title level="m" type="main">Panoramas de la vida</title>
+                        <title level="m" type="sub">Colección de novelas, fantasías, leyendas y
+                            descripciones americanas</title>
                         <imprint>
                             <pubPlace corresp="AR">Buenos Aires</pubPlace>
                             <date when="1876">1876</date>
+                            <biblScope unit="volume">Tomo II</biblScope>
+                            <biblScope unit="page">p. 387-420</biblScope>
                         </imprint>
                     </monogr>
+                    <ref>https://catalog.hathitrust.org/Record/100122611</ref>
                 </biblStruct>
-                <biblStruct corresp="W483" xml:id="E468">
+                <biblStruct corresp="W406" xml:id="E550">
                     <analytic>
                         <author key="A161">Gorriti, Juana Manuela</author>
                         <title level="a" type="main">La leontina</title>
@@ -8082,6 +8218,3047 @@
                         </imprint>
                     </monogr>
                     <note resp="Lichtblau">folletín</note>
+                </biblStruct>
+                <biblStruct corresp="W407" xml:id="E551">
+                    <monogr>
+                        <author key="A162">Grandmontagne, Francisco</author>
+                        <title level="m" type="main">La maldonada</title>
+                        <title level="m" type="sub">(Costumbres criollas)</title>
+                        <imprint>
+                            <publisher>Imprenta Artística</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1898">1898</date>
+                        </imprint>
+                        <extent>383 p.</extent>
+                    </monogr>
+                    <ref>https://archive.org/details/lamaldonadacostu00gran</ref>
+                </biblStruct>
+                <biblStruct corresp="W408" xml:id="E552">
+                    <monogr>
+                        <author key="A162">Grandmontagne, Francisco</author>
+                        <title level="m" type="main">Teodoro Foronda</title>
+                        <title level="m" type="sub">(Evoluciones sobre la sociedad
+                            argentina)</title>
+                        <imprint>
+                            <publisher>La Vasconia</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1896">1896</date>
+                        </imprint>
+                        <extent>2 volúmenes; T. I de 323 y t. II de 315 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W409" xml:id="E553">
+                    <monogr>
+                        <author key="A162">Grandmontagne, Francisco</author>
+                        <title level="m" type="main">Vivos, tilingos y locos lindos</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1901">1901</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W410" xml:id="E554">
+                    <analytic>
+                        <author key="A163">Groussac, Paul</author>
+                        <title level="m" type="main">Fruto vedado</title>
+                        <title level="m" type="sub">(narración franco-argentina)</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j" type="main">Sud-América</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date from="1884-08-04" to="1884-10-04">4 de agosto a 4 de octubre de
+                                1881</date>
+                        </imprint>
+                    </monogr>
+                    <note>folletín</note>
+                </biblStruct>
+                <biblStruct corresp="W410" xml:id="E555">
+                    <monogr>
+                        <author key="A163">Groussac, Paul</author>
+                        <title level="m" type="main">Fruto vedado</title>
+                        <title level="m" type="sub">(Costumbres argentinas)</title>
+                        <imprint>
+                            <publisher>M. Biedma</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1884">1884</date>
+                        </imprint>
+                        <extent>405 p.</extent>
+                    </monogr>
+                    <ref>http://trapalanda.bn.gov.ar/jspui/handle/123456789/5918</ref>
+                </biblStruct>
+                <biblStruct corresp="W411" xml:id="E556">
+                    <analytic>
+                        <author key="A164">Guardiola, Matilde</author>
+                        <author key="A165">Pimentel, Eduardo</author>
+                        <title level="a" type="main">Los amantes del pergamino</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j">La Patria Argentina</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date from="1885-12-01" to="1885-12-15">1 a 15 de diciembre de
+                                1885</date>
+                        </imprint>
+                    </monogr>
+                    <note>folletín</note>
+                </biblStruct>
+                <biblStruct corresp="W412" xml:id="E557">
+                    <!-- Resumen en Lichtblau -->
+                    <monogr>
+                        <author key="A166">Guerra, Rosa</author>
+                        <title level="m" type="main">Julia o la educación</title>
+                        <title level="m" type="sub">Novela didáctica, en forma epistolar</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1863">1863</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W413" xml:id="E558">
+                    <monogr>
+                        <author key="A166">Guerra, Rosa</author>
+                        <title level="m" type="main">Lucía Miranda</title>
+                        <imprint>
+                            <publisher>Imprenta Americana</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1860">1860</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W414" xml:id="E559">
+                    <monogr>
+                        <author key="A167">Guillo, Francisco</author>
+                        <title level="m" type="main">La bandera del héroe</title>
+                        <title level="m" type="sub">Historia novelada</title>
+                        <imprint>
+                            <publisher>Maucci</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1897" cert="medium">c. 1897</date>
+                        </imprint>
+                        <extent>159 p.</extent>
+                    </monogr>
+                    <series>
+                        <title level="s" type="main">(Episodios patrios)</title>
+                    </series>
+                </biblStruct>
+                <biblStruct corresp="W415" xml:id="E560">
+                    <monogr>
+                        <author key="A167">Guillo, Francisco</author>
+                        <title level="m" type="main">El combate de San Lorenzo</title>
+                        <title level="m" type="sub">Historia novelada</title>
+                        <imprint>
+                            <publisher>Maucci</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1897" cert="medium">c. 1897</date>
+                        </imprint>
+                        <extent>186 p.</extent>
+                    </monogr>
+                    <series>
+                        <title level="s" type="main">(Episodios patrios)</title>
+                    </series>
+                </biblStruct>
+                <biblStruct corresp="W416" xml:id="E561">
+                    <monogr>
+                        <author key="A167">Guillo, Francisco</author>
+                        <title level="m" type="main">Conventillo de intelectuales</title>
+                        <title level="m" type="sub">(novela de índole rebelde y de género
+                            naturalista que no deben leer las almas timoratas)</title>
+                        <imprint>
+                            <publisher>El Criterio</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1904">1904</date>
+                        </imprint>
+                        <extent>187 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W417" xml:id="E562">
+                    <monogr>
+                        <author key="A167">Guillo, Francisco</author>
+                        <title level="m" type="main">La corte de don Juan Manuel de Rosas</title>
+                        <title level="m" type="sub">Historia novelada</title>
+                        <imprint>
+                            <publisher>Maucci</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1897" cert="medium">c. 1897</date>
+                        </imprint>
+                        <extent>189 p.</extent>
+                    </monogr>
+                    <series>
+                        <title level="s" type="main">(Episodios patrios)</title>
+                    </series>
+                </biblStruct>
+                <biblStruct corresp="W418" xml:id="E563">
+                    <monogr>
+                        <author key="A167">Guillo, Francisco</author>
+                        <title level="m" type="main">Dantón y los federales</title>
+                        <title level="m" type="sub">Historia novelada</title>
+                        <imprint>
+                            <publisher>Maucci</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1897" cert="medium">c. 1897</date>
+                        </imprint>
+                        <extent>186 p.</extent>
+                    </monogr>
+                    <series>
+                        <title level="s" type="main">(Episodios patrios)</title>
+                    </series>
+                </biblStruct>
+                <biblStruct corresp="W419" xml:id="E564">
+                    <monogr>
+                        <author key="A167">Guillo, Francisco</author>
+                        <title level="m" type="main">La tragedia de Santos Lugares</title>
+                        <title level="m" type="sub">Historia novelada</title>
+                        <imprint>
+                            <publisher>Maucci</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1897" cert="medium">c. 1897</date>
+                        </imprint>
+                        <extent>200 p.</extent>
+                    </monogr>
+                    <series>
+                        <title level="s" type="main">(Episodios patrios)</title>
+                    </series>
+                </biblStruct>
+                <biblStruct corresp="W420" xml:id="E565">
+                    <monogr>
+                        <author key="A167">Guillo, Francisco</author>
+                        <title level="m" type="main">Vidalita</title>
+                        <title level="m" type="sub">Historia novelada</title>
+                        <imprint>
+                            <publisher>Maucci</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1897" cert="medium">c. 1897</date>
+                        </imprint>
+                        <extent>189 p.</extent>
+                    </monogr>
+                    <series>
+                        <title level="s" type="main">(Episodios patrios)</title>
+                    </series>
+                </biblStruct>
+                <biblStruct corresp="W421" xml:id="E566">
+                    <monogr>
+                        <author key="A168">Guindilla</author>
+                        <title level="m" type="main">Dos niñas hechiceras</title>
+                        <title level="m" type="sub">(novela original)</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1874">1874</date>
+                        </imprint>
+                        <extent>18 p.</extent>
+                    </monogr>
+                    <note>"Dedicado al público alcazarero."</note>
+                </biblStruct>
+                <biblStruct corresp="W422" xml:id="E567">
+                    <analytic>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="a">Amor funesto</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="j">La Patria Argentina</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date from="1883-04-17" to="1883-05-03">17 de abril de 1883 a 3 de mayo
+                                de 1883</date>
+                        </imprint>
+                    </monogr>
+                    <note>en folletín</note>
+                </biblStruct>
+                <biblStruct corresp="W422" xml:id="E568">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">Amor funesto</title>
+                        <imprint>
+                            <publisher>La Patria Argentina</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1883">1883</date>
+                        </imprint>
+                        <extent>31 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W422" xml:id="E569">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">Amor funesto</title>
+                        <imprint>
+                            <publisher>N. Tommasi</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1896">1896</date>
+                        </imprint>
+                        <extent>286 p.</extent>
+                    </monogr>
+                    <ref>https://archive.org/details/amorfunestoescr00gutigoog</ref>
+                </biblStruct>
+                <biblStruct corresp="W423" xml:id="E570">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">Un capitán de ladrones en Buenos Aires</title>
+                        <imprint>
+                            <publisher>La Patria Argentina</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1879">1879</date>
+                        </imprint>
+                        <extent>52 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W423" xml:id="E571">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">Antonio Larrea, o sea un capitán de ladrones en
+                            Buenos Aires</title>
+                        <imprint>
+                            <publisher>N. Tommasi</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1886">1886</date>
+                        </imprint>
+                        <extent>141 p.</extent>
+                    </monogr>
+                    <ref>https://archive.org/details/uncapitndeladron00guti</ref>
+                </biblStruct>
+                <biblStruct corresp="W424" xml:id="E572">
+                    <analytic>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="a">Los asesinos de Alvarez</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="j">La Patria Argentina</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date from="1882-12-30" to="1883-03-12">30 de diciembre de 1882 a 12 de
+                                marzo de 1883</date>
+                        </imprint>
+                    </monogr>
+                    <note>en folletín</note>
+                </biblStruct>
+                <biblStruct corresp="W424" xml:id="E573">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">El asesinato de Alvarez</title>
+                        <imprint>
+                            <publisher>N. Tommasi</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1896">1896</date>
+                        </imprint>
+                    </monogr>
+                    <series>
+                        <title type="main" level="s">(Los grandes crímenes)</title>
+                    </series>
+                    <ref>https://archive.org/details/elasesinatodealv00guti</ref>
+                </biblStruct>
+                <biblStruct corresp="W424" xml:id="E574">
+                    <analytic>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="a">El asesinato de Alvarez</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="m">La Patria Argentina</title>
+                        <imprint>
+                            <pubPlace corresp="AR">La Patria Argentina</pubPlace>
+                            <date when="1883">1883</date>
+                        </imprint>
+                        <biblScope unit="page">p. 117-160</biblScope>
+                    </monogr>
+                    <note resp="Lichtblau_1997">A dos columnas. Dividido en dos partes que
+                        corresponden a la doble foliación indicada.</note>
+                </biblStruct>
+                <biblStruct corresp="W425" xml:id="E575">
+                    <analytic>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="a">Enterrados vivos</title>
+                        <title type="sub" level="a">(Continuación de <seg rend="italic">El asesinato
+                                de Alvarez</seg>)</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="j">La Patria Argentina</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date from="1893-03-13" to="1893-04-16">13 de marzo a 16 de abril de
+                                1893</date>
+                        </imprint>
+                    </monogr>
+                    <note>en folletín</note>
+                </biblStruct>
+                <biblStruct corresp="W426" xml:id="E576">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">Astucia de una negra</title>
+                        <imprint>
+                            <publisher>N. Tommasi</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1880">1880</date>
+                        </imprint>
+                        <extent>243 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W426" xml:id="E577">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">Astucia de una negra</title>
+                        <imprint>
+                            <publisher>N. Tommasi</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1890">1890</date>
+                        </imprint>
+                    </monogr>
+                    <note resp="#Lichtblau">Aparece en este volumen sólo el primer capítulo de
+                        novela, "El jorobado se divierte con su gavilla infernal."</note>
+                </biblStruct>
+                <biblStruct corresp="W427" xml:id="E578">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">Carlo Lanza</title>
+                        <note resp="Lichtblau_1997">A dos columnas</note>
+                        <imprint>
+                            <publisher>N. Tommasi</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1886">1886</date>
+                        </imprint>
+                        <extent>262 p.</extent>
+                    </monogr>
+                    <series>
+                        <title type="main" level="s">(Dramas cómicos; episodios curiosos)</title>
+                    </series>
+                    <ref>https://archive.org/details/carlolanza00guti</ref>
+                </biblStruct>
+                <biblStruct corresp="W427" xml:id="E579">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">Carlo Lanza</title>
+                        <imprint>
+                            <publisher>Ivaldi y Checchi</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1890">1890</date>
+                        </imprint>
+                        <extent>267 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W428" xml:id="E580">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">Lanza el gran banquero</title>
+                        <imprint>
+                            <publisher>N. Tommasi</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1886">1886</date>
+                        </imprint>
+                        <extent>295 p.</extent>
+                    </monogr>
+                    <series>
+                        <title type="main" level="s">(Dramas cómicos)</title>
+                    </series>
+                    <note resp="#Lichtblau">Continuación de <seg rend="italic">Carlo Lanza</seg>
+                    </note>
+                </biblStruct>
+                <biblStruct corresp="W428" xml:id="E581">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">Lanza el gran banquero.</title>
+                        <imprint>
+                            <publisher>Ivaldi y Checchi</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1890">1890</date>
+                        </imprint>
+                        <extent>318 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W429" xml:id="E582">
+                    <analytic>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="a">El Chacho</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="j">La Crónica</title>
+                        <note>folletín</note>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date from="1884-01-22" to="1884-10-30">22 de enero a 30 de octubre de
+                                1884</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W429" xml:id="E583">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">El Chacho</title>
+                        <note resp="Lichtblau_1997">A dos columnas</note>
+                        <imprint>
+                            <publisher>N. Tommasi</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1886">1886</date>
+                        </imprint>
+                        <extent>170 p.</extent>
+                    </monogr>
+                    <series>
+                        <title type="main" level="j">(Dramas militares)</title>
+                    </series>
+                    <ref>https://archive.org/details/elchacho00gutiuoft</ref>
+                </biblStruct>
+                <biblStruct corresp="W430" xml:id="E584">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">Los montoneros</title>
+                        <imprint>
+                            <publisher>N. Tommasi</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1886">1886</date>
+                        </imprint>
+                        <extent>319 p.</extent>
+                    </monogr>
+                    <series>
+                        <title type="main" level="j">(Dramas militares)</title>
+                    </series>
+                    <note>"Continuación de <seg rend="italic">El Chacho</seg>."</note>
+                </biblStruct>
+                <biblStruct corresp="W430" xml:id="E585">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">Los montoneros</title>
+                        <imprint>
+                            <publisher>N. Tommasi</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date>desconocido</date>
+                        </imprint>
+                        <extent>206 p.</extent>
+                    </monogr>
+                    <ref>https://archive.org/details/losmontoneroscon00gutiuoft</ref>
+                </biblStruct>
+                <biblStruct corresp="W431" xml:id="E586">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">El rastreador</title>
+                        <imprint>
+                            <publisher>N. Tommasi</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1886">1886</date>
+                        </imprint>
+                        <extent>227 p.</extent>
+                    </monogr>
+                    <note>"Continuación de <seg rend="italic">Los montoneros</seg>."</note>
+                </biblStruct>
+                <biblStruct corresp="W432" xml:id="E587">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">La muerte de un héroe</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1886">1886</date>
+                        </imprint>
+                    </monogr>
+                    <series>
+                        <title level="s" type="main">(Dramas militares)</title>
+                    </series>
+                    <note>"Continuación y fin de <seg rend="italic">El Chacho</seg>, <seg
+                            rend="italic">Los montoneros</seg> y <seg rend="italic">El
+                            rastreador</seg>." </note>
+                    <ref>https://archive.org/details/lamuertedeunhr00gutiuoft</ref>
+                </biblStruct>
+                <biblStruct corresp="W432" xml:id="E588">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">La muerte de un héroe</title>
+                        <imprint>
+                            <publisher>Luis Maucci</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1892">1892</date>
+                        </imprint>
+                        <extent>373 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W433" xml:id="E589">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">Una demanda curiosa</title>
+                        <imprint>
+                            <publisher>Schurer-Stolle</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1899">1899</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W434" xml:id="E590">
+                    <analytic>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="a">Doña Dominga Rivadavia</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j">La Patria Argentina</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date from="1883-05-29" to="1883-09-12">29 de mayo de 1883 a 12 de
+                                septimebre de 1883</date>
+                        </imprint>
+                    </monogr>
+                    <note>en folletín</note>
+                </biblStruct>
+                <biblStruct corresp="W434" xml:id="E591">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="a">Dominga Rivadavia</title>
+                        <imprint>
+                            <publisher>N. Tommasi</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1886">1886</date>
+                        </imprint>
+                        <extent>240 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W434" xml:id="E592">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">Dominga Rivadavia</title>
+                        <imprint>
+                            <publisher>Luis Maucci</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1892">1892</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W435" xml:id="E593">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">Infamias de una madre</title>
+                        <imprint>
+                            <publisher>N. Tommasi</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1883">1883</date>
+                        </imprint>
+                        <extent>230 p.</extent>
+                    </monogr>
+                    <series>
+                        <title type="main" level="s">(Los grandes crímenes)</title>
+                    </series>
+                    <note>"Continuación y fin de <seg rend="italic">Doña Dominga Rivadavia</seg>."
+                    </note>
+                </biblStruct>
+                <biblStruct corresp="W436" xml:id="E594">
+                    <analytic>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="a">Don Juan Manuel de Rosas</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j">La Patria Argentina</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date from="1881-12-27" to="1882-12-29">27 de diciembre de 1881 a 29 de
+                                diciembre de 1882</date>
+                        </imprint>
+                    </monogr>
+                    <series>
+                        <title type="main" level="s">(Dramas del terror)</title>
+                    </series>
+                    <note>folletín</note>
+                </biblStruct>
+                <biblStruct corresp="W436" xml:id="E595">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">Don Juan Manuel de Rosas</title>
+                        <imprint>
+                            <publisher>La Patria Argentina</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1883">1883</date>
+                        </imprint>
+                        <extent>171 p.</extent>
+                    </monogr>
+                    <note resp="Lichtblau">a dos columnas</note>
+                </biblStruct>
+                <biblStruct corresp="W436" xml:id="E596">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">Don Juan Manuel de Rosas</title>
+                        <imprint>
+                            <publisher>J. C. Rovira</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date>desconocido</date>
+                        </imprint>
+                        <extent>220 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W436" xml:id="E597">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">Don Juan Manuel de Rosas</title>
+                        <imprint>
+                            <publisher>N. Tommasi</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1888">1888</date>
+                        </imprint>
+                        <extent>281 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W437" xml:id="E598">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">La Mazorca</title>
+                        <imprint>
+                            <publisher>N. Tommasi</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1888">1888</date>
+                        </imprint>
+                        <extent>324 p.</extent>
+                    </monogr>
+                    <series>
+                        <title type="main" level="s">(Dramas del terror)</title>
+                    </series>
+                    <note>"Continuación de <seg rend="italic">Don Juan Manuel de Rosas</seg>."
+                    </note>
+                </biblStruct>
+                <biblStruct corresp="W437" xml:id="E599">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">La Mazorca</title>
+                        <imprint>
+                            <publisher>Maucci</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1893">1893</date>
+                        </imprint>
+                        <extent>250 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W437" xml:id="E600">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">La Mazorca</title>
+                        <imprint>
+                            <publisher>J. C. Rovira</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date>desconocido</date>
+                        </imprint>
+                        <extent>156 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W438" xml:id="E601">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">Una tragedia de doce años</title>
+                        <imprint>
+                            <publisher>N. Tommasi</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date>desconocido</date>
+                        </imprint>
+                        <extent>272 p.</extent>
+                    </monogr>
+                    <note>"Continuación de <seg rend="italic">Don Juan Manuel de Rosas</seg> y de
+                            <seg rend="italic">La Mazorca</seg>." </note>
+                </biblStruct>
+                <biblStruct corresp="W439" xml:id="E602">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">El puñal del tirano</title>
+
+                        <imprint>
+                            <publisher>N. Tommasi</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1888">1888</date>
+                        </imprint>
+                        <extent>328 p.</extent>
+                    </monogr>
+                    <series>
+                        <title type="main" level="s">Dramas del terror</title>
+                    </series>
+                    <note>"Continuación y fin de <seg rend="italic">Don Juan Manuel de Rosas</seg>,
+                            <seg rend="italic">La mazorca</seg> y <seg rend="italic">Una tragedia de
+                            doce años</seg>." </note>
+                </biblStruct>
+                <biblStruct corresp="W439" xml:id="E603">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">El puñal del tirano</title>
+                        <imprint>
+                            <publisher>N. Tommasi</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1888">1888</date>
+                        </imprint>
+                        <extent>259 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W439" xml:id="E604">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">El puñal del tirano</title>
+                        <imprint>
+                            <publisher>L. Maucci</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1893">1893</date>
+                        </imprint>
+                        <extent>250 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W440" xml:id="E605">
+                    <analytic>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="a">Los grandes ladrones</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j" type="main">La Patria Argentina</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date from="1881-08-04" to="1881-10-15">4 de agosto de 1881 a 15 de
+                                octubre de 1881</date>
+                        </imprint>
+                    </monogr>
+                    <note>folletín</note>
+                </biblStruct>
+                <biblStruct corresp="W440" xml:id="E606">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">Los grandes ladrones</title>
+                        <imprint>
+                            <publisher>La Patria Argentina</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1881">1881</date>
+                        </imprint>
+                        <extent>127 p.</extent>
+                    </monogr>
+                    <series>
+                        <title type="main" level="s">Dramas policiales</title>
+                    </series>
+                    <note resp="#Lichtblau">a dos columnas y algunos grabados en madera</note>
+                </biblStruct>
+                <biblStruct corresp="W440" xml:id="E607">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">Los grandes ladrones</title>
+                        <imprint>
+                            <publisher>N. Tommasi</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1886">1886</date>
+                        </imprint>
+                        <extent>128 p.</extent>
+                    </monogr>
+                    <note resp="Lichtblau">a dos columnas</note>
+                </biblStruct>
+                <biblStruct corresp="W440" xml:id="E608">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">Los grandes ladrones</title>
+                        <imprint>
+                            <publisher>Maucci</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1894">1894</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W441" xml:id="E609">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">Los hermanos Barrientos</title>
+                        <imprint>
+                            <publisher>N. Tommasi</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1886">1886</date>
+                        </imprint>
+                        <extent>208 p.</extent>
+                    </monogr>
+                    <series>
+                        <title type="main" level="s">Dramas policiales</title>
+                    </series>
+                    <note resp="#Lichtblau">a dos columnas</note>
+                </biblStruct>
+                <biblStruct corresp="W441" xml:id="E610">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">Los hermanos Barrientos</title>
+                        <imprint>
+                            <publisher>N. Tommasi</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date>desconocido</date>
+                        </imprint>
+                        <extent>435 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W442" xml:id="E611">
+                    <analytic>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="a">Hormiga Negra</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j" type="main">La Patria Argentina</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date from="1881-10-16" to="1881-12-26">16 de octubre de 1881 a 26 de
+                                diciembre de 1881</date>
+                        </imprint>
+                    </monogr>
+                    <note resp="Lichtblau">folletín</note>
+                </biblStruct>
+                <biblStruct corresp="W442" xml:id="E612">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">Hormiga Negra</title>
+                        <imprint>
+                            <publisher>La Patria Argentina</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1881">1881</date>
+                        </imprint>
+                        <extent>135 p.</extent>
+                    </monogr>
+                    <series>
+                        <title type="main" level="s">Dramas policiales</title>
+                    </series>
+                    <note resp="#Lichtblau">a dos columnas</note>
+                </biblStruct>
+                <biblStruct corresp="W443" xml:id="E613">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">Ignacio Monges</title>
+                        <imprint>
+                            <publisher>N. Tommasi</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1886">1886</date>
+                        </imprint>
+                        <extent>125 p.</extent>
+                    </monogr>
+                    <series>
+                        <title type="main" level="s">Dramas policiales</title>
+                    </series>
+                    <note resp="#Lichtblau">a dos columnas</note>
+                </biblStruct>
+                <biblStruct corresp="W444" xml:id="E614">
+                    <analytic>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="a">El jorobado</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j" type="main">La Patria Argentina</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date from="1880-03-22" to="1880-07-30">22 de marzo 1880 a 30 de julio
+                                1880</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W444" xml:id="E615">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">El jorobado</title>
+                        <imprint>
+                            <publisher>La Patria Argentina</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1880">1880</date>
+                        </imprint>
+                        <extent>224 p.</extent>
+                    </monogr>
+                    <series>
+                        <title type="main" level="s">Dramas policiales</title>
+                    </series>
+                    <note resp="#Lichtblau">A dos columnas</note>
+                </biblStruct>
+                <biblStruct corresp="W444" xml:id="E616">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">El jorobado</title>
+                        <imprint>
+                            <publisher>N. Tommasi</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1886">1886</date>
+                        </imprint>
+                        <extent>206 p.</extent>
+                    </monogr>
+                    <note resp="#Lichtblau">A dos columnas</note>
+                </biblStruct>
+                <biblStruct corresp="W444" xml:id="E617">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">El jorobado</title>
+                        <imprint>
+                            <publisher>N. Tommasi</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1889">1889</date>
+                        </imprint>
+                        <extent>291 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W445" xml:id="E618">
+                    <analytic>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="a">Juan Cuello</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j">La Patria Argentina</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date from="1880-01-09" to="1880-03-19">9 de enero de 1880 a 19 de marzo
+                                de 1880</date>
+                        </imprint>
+                    </monogr>
+                    <note resp="Lichtblau">folletín</note>
+                </biblStruct>
+                <biblStruct corresp="W445" xml:id="E619">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">Juan Cuello</title>
+                        <imprint>
+                            <publisher>La Patria Argentina</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1880">1880</date>
+                        </imprint>
+                        <extent>184 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W445" xml:id="E620">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">Juan Cuello</title>
+                        <title type="sub" level="m">Dramas policiales</title>
+                        <imprint>
+                            <publisher>N. Tommasi</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1886">1886</date>
+                        </imprint>
+                        <extent>147 p.</extent>
+                    </monogr>
+                    <note resp="Lichtblau">a dos columnas</note>
+                </biblStruct>
+                <biblStruct corresp="W445" xml:id="E621">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">Juan Cuello</title>
+                        <imprint>
+                            <publisher>N. Tommasi</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1888">1888</date>
+                        </imprint>
+                        <extent>367 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W446" xml:id="E622">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">Juan Moreira</title>
+                        <imprint>
+                            <publisher>N. Tommasi</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1888">1888</date>
+                        </imprint>
+                    </monogr>
+                    <ref>http://www.cervantesvirtual.com/obra/juan-moreira--0/</ref>
+                </biblStruct>
+                <biblStruct corresp="W446" xml:id="E623">
+                    <analytic>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="a">Juan Moreira</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="j">La Patria Argentina</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date from="1879-11-28" to="1880-01-08">28 de noviembre de 1879 a 8 de
+                                enero de 1880</date>
+                        </imprint>
+                    </monogr>
+                    <note resp="#Lichtblau">Folletín. La novela no llevó el nombre de Eduardo
+                        Gutiérrez hasta la última entrega.</note>
+                </biblStruct>
+                <biblStruct corresp="W446" xml:id="E624">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">Juan Moreira</title>
+                        <imprint>
+                            <publisher>N. Tommasi</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1886">1886</date>
+                        </imprint>
+                        <extent>95 p.</extent>
+                    </monogr>
+                    <note resp="#Lichtblau">A dos columnas.</note>
+                </biblStruct>
+                <biblStruct corresp="W446" xml:id="E625">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">Juan Moreira</title>
+                        <imprint>
+                            <publisher>N. Tommasi</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date>desconocido</date>
+                        </imprint>
+                        <extent>238 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W447" xml:id="E626">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">Juan sin patria</title>
+                        <imprint>
+                            <publisher>La Patria Argentina</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1881">1881</date>
+                        </imprint>
+                        <extent>155 p.</extent>
+                    </monogr>
+                    <series>
+                        <title type="main" level="s">Dramas militares</title>
+                    </series>
+                    <note resp="#Lichtblau">a dos columnas</note>
+                </biblStruct>
+                <biblStruct corresp="W447" xml:id="E627">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">Juan sin patria</title>
+                        <imprint>
+                            <publisher>La Patria Argentina</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1886">1886</date>
+                        </imprint>
+                        <extent>150 p.</extent>
+                    </monogr>
+                    <note resp="#Lichtblau">a dos columnas</note>
+                </biblStruct>
+                <biblStruct corresp="W447" xml:id="E628">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">Juan sin patria</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1886">1886</date>
+                        </imprint>
+                        <extent>150 p.</extent>
+                    </monogr>
+                    <note resp="#Lichtblau">a dos columnas</note>
+                </biblStruct>
+                <biblStruct corresp="W447" xml:id="E629">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">Juan sin patria</title>
+                        <imprint>
+                            <publisher>N. Tommasi</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date>desconocido</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W448" xml:id="E630">
+                    <analytic>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="a">Nicanora Fernández</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j" type="main">La Patria Argentina</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date from="1883-05-04" to="1883-05-21">4 de mayo de 1883 a 21 de mayo
+                                de 1883</date>
+                        </imprint>
+                    </monogr>
+                    <note>folletín</note>
+                </biblStruct>
+                <biblStruct corresp="W448" xml:id="E631">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">Nicanora Fernández</title>
+                        <imprint>
+                            <publisher>N. Tommasi</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1896">1896</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W449" xml:id="E632">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">Pastor Luna</title>
+                        <imprint>
+                            <publisher>N. Tommasi</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1886">1886</date>
+                        </imprint>
+                        <extent>342 p.</extent>
+                    </monogr>
+                    <note resp="#Lichtblau">a dos columnas</note>
+                </biblStruct>
+                <biblStruct corresp="W450" xml:id="E633">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">Santos Vega</title>
+                        <imprint>
+                            <publisher>La Patria Argentina</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1880">1880</date>
+                        </imprint>
+                        <extent>280 p.</extent>
+                    </monogr>
+                    <series>
+                        <title type="main" level="s">Dramas policiales</title>
+                    </series>
+                </biblStruct>
+                <biblStruct corresp="W450" xml:id="E634">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">Santos Vega</title>
+                        <imprint>
+                            <publisher>Buffet</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1886">1886</date>
+                        </imprint>
+                        <extent>259 p.</extent>
+                    </monogr>
+                    <note resp="Lichtblau">a dos columnas</note>
+                </biblStruct>
+                <biblStruct corresp="W450" xml:id="E635">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">Santos Vega</title>
+                        <imprint>
+                            <publisher>N. Tommasi</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date>desconocido</date>
+                        </imprint>
+                        <extent>264 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W451" xml:id="E636">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">Una amistad hasta la muerte</title>
+                        <imprint>
+                            <publisher>N. Tommasi</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date>desconocido</date>
+                        </imprint>
+                        <extent>228 p.</extent>
+                    </monogr>
+                    <series>
+                        <title type="main" level="s">Dramas policiales</title>
+                    </series>
+                    <note resp="#Lichtblau">continuación de Santos Vega</note>
+                </biblStruct>
+                <biblStruct corresp="W452" xml:id="E637">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">Los siete bravos</title>
+                        <imprint>
+                            <publisher>N. Tommasi</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date>desconocido</date>
+                        </imprint>
+                        <extent>255 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W453" xml:id="E638">
+                    <analytic>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="a">El tigre del Quequén</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j" type="main">La Patria Argentina</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date from="1880-08-10" to="1880-11-16">10 de agosto de 1880 a 16 de
+                                noviembre de 1880</date>
+                        </imprint>
+                    </monogr>
+                    <series>
+                        <title type="main" level="s">Dramas policiales</title>
+                    </series>
+                    <note>folletín</note>
+                </biblStruct>
+                <biblStruct corresp="W453" xml:id="E639">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">El tigre del Quequén</title>
+                        <imprint>
+                            <publisher>La Patria Argentina</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1880">1880</date>
+                        </imprint>
+                        <extent>186 p.</extent>
+                    </monogr>
+                    <note resp="#Lichtblau">a doble columna</note>
+                </biblStruct>
+                <biblStruct corresp="W453" xml:id="E640">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">El tigre del Quequén</title>
+                        <imprint>
+                            <publisher>N. Tommasi</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1886">1886</date>
+                        </imprint>
+                        <extent>191 p.</extent>
+                    </monogr>
+                    <note resp="#Lichtblau">a dos columnas</note>
+                </biblStruct>
+                <biblStruct corresp="W454" xml:id="E641">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">Un viaje infernal</title>
+                        <imprint>
+                            <publisher>N. Tommasi</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date>desconocido</date>
+                        </imprint>
+                        <extent>88 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W454" xml:id="E642">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">Un viaje infernal</title>
+                        <imprint>
+                            <publisher>Juan Schürer-Stolle</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1899">1899</date>
+                        </imprint>
+                        <extent>109 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W455" xml:id="E643">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">La muerte de Buenos Aires</title>
+                        <title type="sub" level="m">epopeya de 1880</title>
+                        <imprint>
+                            <publisher>Imprenta de La Patria Argentina</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1881">1882</date>
+                        </imprint>
+                        <extent>156 p.</extent>
+                    </monogr>
+                    <ref>http://resolver.iai.spk-berlin.de/IAI000058E300000000</ref>
+                    <ref>https://catalog.hathitrust.org/Record/010324195</ref>
+                </biblStruct>
+                <biblStruct corresp="W456" xml:id="E644">
+                    <analytic>
+                        <author key="A158">Gutiérrez, Juan María</author>
+                        <title level="a" type="main">El Capitán de Patricios</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j">El Correo del Domingo</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date from="1864-04-03" to="1864-04-17">3 a 17 de abril de 1864</date>
+                        </imprint>
+                    </monogr>
+                    <note resp="Lichtblau">folletín</note>
+                </biblStruct>
+                <biblStruct corresp="W456" xml:id="E645">
+                    <monogr>
+                        <author key="A158">Gutiérrez, Juan María</author>
+                        <title level="m" type="main">El Capitán de Patricios</title>
+                        <imprint>
+                            <publisher>Imprenta del Siglo</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1864">1864</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W456" xml:id="E646">
+                    <analytic>
+                        <author key="A158">Gutiérrez, Juan María</author>
+                        <title level="a" type="main">El Capitán de Patricios</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j" type="main">Revista del Río de la Plata</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1874">1874</date>
+                            <biblScope unit="volume">9</biblScope>
+                            <biblScope unit="page">p. 3-60</biblScope>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W457" xml:id="E647">
+                    <analytic>
+                        <author key="A158">Gutiérrez, Ricardo</author>
+                        <title level="a" type="main">Cristián</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j" type="main">La Patria Argentina</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date from="1880-07-31" to="1880-08-09">31 de julio a 9 de agosto de
+                                1880</date>
+                        </imprint>
+                    </monogr>
+                    <note>folletín</note>
+                </biblStruct>
+                <biblStruct corresp="W457" xml:id="E648">
+                    <monogr>
+                        <author key="A158">Gutiérrez, Ricardo</author>
+                        <title level="m" type="main">Cristián</title>
+                        <imprint>
+                            <publisher>La Patria Argentina</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1880">1880</date>
+                        </imprint>
+                        <extent>94 p.</extent>
+                    </monogr>
+                    <ref>https://catalog.hathitrust.org/Record/008714873</ref>
+                </biblStruct>
+                <biblStruct corresp="W458" xml:id="E649">
+                    <analytic>
+                        <author key="A159">Gutiérrez, Tomás</author>
+                        <title level="a" type="main">Carlota o la hija del pescador</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j" type="main">La Tribuna</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date from="1858-04-20" to="1858-04-28">20 a 28 de abril de 1858</date>
+                        </imprint>
+                    </monogr>
+                    <note>folletín</note>
+                </biblStruct>
+                <biblStruct corresp="W459" xml:id="E650">
+                    <monogr>
+                        <author key="A159">Gutiérrez, Tomás</author>
+                        <title level="m" type="main">El destino, o la venganza de una mujer</title>
+                        <title level="m" type="sub">(Novela original)</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1857">1857</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W460" xml:id="E651">
+                    <monogr>
+                        <author key="A159">Gutiérrez, Tomás</author>
+                        <title level="m" type="main">La maldición o el compadrito</title>
+                        <title level="m" type="sub">(Páginas literarias)</title>
+                        <imprint>
+                            <publisher>Imprenta Americana</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1859">1859</date>
+                        </imprint>
+                        <extent>35 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W461" xml:id="E652">
+                    <monogr>
+                        <author key="A160">Herrero, José Aurelio</author>
+                        <title level="m" type="main">Defensa del celebérrimo escritor Veterano
+                            Aforismos, hecha en últimas instancia por el no menos célebre abogado
+                            del foro de Mar-Chiquita, Don José Aurelio Herrero (Alias Teseo)</title>
+                        <imprint>
+                            <publisher>Jorge E. Cook</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1872">1872</date>
+                        </imprint>
+                        <extent>46 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W462" xml:id="E653">
+                    <monogr>
+                        <author key="A174">Higginson, Ricardo Ciro</author>
+                        <title level="m" type="main">Bárbaros</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Mendoza</pubPlace>
+                            <date when="1909" cert="low">1909</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W463" xml:id="E654">
+                    <monogr>
+                        <author key="A174">Higginson, Ricardo Ciro</author>
+                        <title level="m" type="main">La danza de la muerte</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Mendoza</pubPlace>
+                            <date when="1906" cert="low">1906</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W464" xml:id="E655">
+                    <analytic>
+                        <author key="A175">Holmberg, Eduardo Ladislao</author>
+                        <title type="main" level="a">La bolsa de huesos</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="j">El Tiempo</title>
+                        <note>Folletín. 4. Capítulo I y II.</note>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1896-10-22">22 de octubre de 1896</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W464" xml:id="E656">
+                    <monogr>
+                        <author key="A175">Holmberg, Eduardo Ladislao</author>
+                        <title type="main" level="m">La bolsa de huesos</title>
+                        <imprint>
+                            <publisher>Compañía Sud-Americana de Billetes de Banco</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1896">1896</date>
+                        </imprint>
+                        <extent>114 p.</extent>
+                    </monogr>
+                    <ref>https://es.wikisource.org/wiki/La_bolsa_de_huesos</ref>
+                    <ref>https://catalog.hathitrust.org/Record/100165157</ref>
+                </biblStruct>
+                <biblStruct corresp="W465" xml:id="E657">
+                    <analytic>
+                        <author key="A175">Holmberg, Eduardo Ladislao</author>
+                        <title type="main" level="a">La casa endiablada</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="j">La Quincena</title>
+                        <note resp="Lichtblau_1997">aparecieron dos capítulos de la novela: "La
+                            Perí"; y "Kaspar"</note>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1893-08-18">18 de agosto de 1893</date>
+                            <date when="1894-01">enero de 1894</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W465" xml:id="E658">
+                    <analytic>
+                        <author key="A175">Holmberg, Eduardo Ladislao</author>
+                        <title type="main" level="a">La casa endiablada</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="j">La Nación</title>
+                        <note resp="Lichtblau_1997">3, apareció un capítulo de la novela, "El reloj
+                            de la muerte."</note>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1895-06-10">10 de junio de 1895</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W465" xml:id="E659">
+                    <monogr>
+                        <author key="A175">Holmberg, Eduardo Ladislao</author>
+                        <title type="main" level="m">La casa endiablada</title>
+                        <imprint>
+                            <publisher>CSABB</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1896">1896</date>
+                        </imprint>
+                        <extent>147 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W466" xml:id="E660">
+                    <monogr>
+                        <author key="A175">Holmberg, Eduardo Ladislao</author>
+                        <title type="main" level="m">Dos partidos en lucha</title>
+                        <title type="sub" level="m">Fantasía científica</title>
+                        <imprint>
+                            <publisher>Imprenta de El Arjentino</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1875">1875</date>
+                        </imprint>
+                    </monogr>
+                    <ref>http://trapalanda.bn.gov.ar/jspui/handle/123456789/2345</ref>
+                    <ref>https://catalog.hathitrust.org/Record/100165687</ref>
+                </biblStruct>
+                <biblStruct corresp="W467" xml:id="E661">
+                    <analytic>
+                        <author key="A175">Holmberg, Eduardo Ladislao</author>
+                        <title type="main" level="a">Nelly</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="j">La Prensa</title>
+                        <note>folletín</note>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date from="1896-01-27" to="1896-02-06">27 de enero de 1896 a 6 de
+                                febrero de 1896</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W467" xml:id="E662">
+                    <monogr>
+                        <author key="A175">Holmberg, Eduardo Ladislao</author>
+                        <title type="main" level="m">Nelly</title>
+                        <imprint>
+                            <publisher>CSABB</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1896">1896</date>
+                        </imprint>
+                    </monogr>
+                    <ref>https://archive.org/details/Nelly_620</ref>
+                </biblStruct>
+                <biblStruct corresp="W468" xml:id="E663">
+                    <monogr>
+                        <author key="A175">Holmberg, Eduardo Ladislao</author>
+                        <title type="main" level="m">Viaje maravilloso del Sr. Nic-Nac al planeta
+                            Marte</title>
+                        <imprint>
+                            <publisher>Imprenta de El Nacional</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1875">1875</date>
+                        </imprint>
+                    </monogr>
+                    <ref>https://es.wikisource.org/wiki/Viaje_maravilloso_del_Se%C3%B1or_Nic-Nac</ref>
+                </biblStruct>
+                <biblStruct corresp="W468" xml:id="E664">
+                    <analytic>
+                        <author key="A175">Holmberg, Eduardo Ladislao</author>
+                        <title type="main" level="a">Viaje maravilloso del Sr. Nic-Nac al planeta
+                            Marte</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="j">El Nacional</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date from="1875-11-29" to="1876-02-25">29 de noviembre de 1875 a 25 de
+                                febrero de 1876</date>
+                        </imprint>
+                    </monogr>
+                    <note>en folletín</note>
+                </biblStruct>
+                <biblStruct corresp="W469" xml:id="E665">
+                    <analytic>
+                        <author key="A175">Holmberg, Eduardo Ladislao</author>
+                        <title type="main" level="a">El tipo más original</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="j">El Álbum del Hogar</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date from="1878" to="1879">1878 a 1879</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W470" xml:id="E666">
+                    <monogr>
+                        <author key="A176">Ingalik</author>
+                        <title type="main" level="m">El romance de otro médico</title>
+                        <imprint>
+                            <publisher>Tragant</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1909">1909</date>
+                        </imprint>
+                        <extent>134 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W471" xml:id="E667">
+                    <monogr>
+                        <author key="A177">Iribuen, Juan</author>
+                        <title type="main" level="m">Un joven argentino</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1889">1889</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W472" xml:id="E668">
+                    <monogr>
+                        <author key="A178">Juglaris, Enrique Juan</author>
+                        <title type="main" level="m">La bella Emilia</title>
+                        <title type="sub" level="m">(novela histórica de mis tiempos)</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1869">1869</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W473" xml:id="E669">
+                    <analytic>
+                        <author key="A179">Labastié, Luis</author>
+                        <title type="main" level="m">El cuento del tío</title>
+                        <title type="sub" level="m">(Novela histórica)</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Concurso de novelas cortas</title>
+                        <imprint>
+                            <publisher>Ortega y Radaelli</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1902">1902</date>
+                            <biblScope unit="page">p. 71-93</biblScope>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W474" xml:id="E670">
+                    <monogr>
+                        <author key="A179">Laggar, Mary</author>
+                        <title level="m" type="main">El ansiado nombramiento político</title>
+                        <imprint>
+                            <publisher>Imprenta de Pedro Porzio</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1907">1907</date>
+                        </imprint>
+                        <extent>231 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W475" xml:id="E671">
+                    <monogr>
+                        <author key="A180">Lamas, Pedro S.</author>
+                        <title level="m" type="main">Silvia, episodios de la Guerra de la
+                            Independencia Americana, 1817-1824</title>
+                        <imprint>
+                            <publisher>Biblioteca Popular</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1898">1898</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W476" xml:id="E672">
+                    <monogr>
+                        <author key="A181">Lannot, León</author>
+                        <title level="m" type="main">Paola, la hija del misionero</title>
+                        <title level="m" type="sub">(Novela un si es o no es extraña)</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1904">1904</date>
+                        </imprint>
+                        <extent>143 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W477" xml:id="E673">
+                    <monogr>
+                        <author key="A183">Lapuente, Laurindo</author>
+                        <title level="m" type="main">La aerostática en Buenos Aires</title>
+                        <title level="m" type="sub">(Capricho crítico, histórico y
+                            novelesco)</title>
+                        <imprint>
+                            <publisher>Imprenta de El Eco</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1856">1856</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W478" xml:id="E674">
+                    <monogr>
+                        <author key="A183">Lapuente, Laurindo</author>
+                        <title level="m" type="main">El Herminio de la Nueva Troya</title>
+                        <title level="m" type="sub">(Novela histórica contemporánea)</title>
+                        <imprint>
+                            <publisher>Reforma Pacífica</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1857">1857</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W479" xml:id="E675">
+                    <monogr>
+                        <author key="A183">Lapuente, Laurindo</author>
+                        <title level="m" type="main">Virtud y amor hasta la tumba</title>
+                        <title level="m" type="sub">(Novela original)</title>
+                        <imprint>
+                            <publisher>Imprenta de la Reforma</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1858">1858</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W480" xml:id="E676">
+                    <monogr>
+                        <author key="A184">Larrain, Nicanor</author>
+                        <title level="m" type="main">El alma de Jesús Pérez, o la justicia del
+                            terror</title>
+                        <title level="m" type="sub">(Novela histórica, filosófico-jurídica)</title>
+                        <imprint>
+                            <publisher>D. A. Luna</publisher>
+                            <pubPlace corresp="AR">San Juan</pubPlace>
+                            <date when="1871">1871</date>
+                        </imprint>
+                        <extent>42 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W481" xml:id="E677">
+                    <monogr>
+                        <author key="A185">Larreta, Enrique</author>
+                        <title level="m" type="main">Artemis</title>
+                        <imprint>
+                            <publisher>Fortanet</publisher>
+                            <pubPlace corresp="ES">Madrid</pubPlace>
+                            <date when="1903">1903</date>
+                        </imprint>
+                        <extent>50 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W482" xml:id="E678">
+                    <monogr>
+                        <author key="A185">Larreta, Enrique</author>
+                        <title level="m" type="main">La gloria de Don Ramiro</title>
+                        <title level="m" type="sub">(Una vida en tiempos de Felipe Segundo)</title>
+                        <imprint>
+                            <publisher>Victoriano Suárez</publisher>
+                            <pubPlace corresp="ES">Madrid</pubPlace>
+                            <date when="1908">1908</date>
+                        </imprint>
+                        <extent>446 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W482" xml:id="E679">
+                    <monogr>
+                        <author key="A185">Larreta, Enrique</author>
+                        <title level="m" type="main">La gloria de Don Ramiro</title>
+                        <imprint>
+                            <publisher>Sopena</publisher>
+                            <pubPlace corresp="ES">Barcelona</pubPlace>
+                            <date when="1908">1908</date>
+                        </imprint>
+                        <extent>333 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W482" xml:id="E680">
+                    <monogr>
+                        <author key="A185">Larreta, Enrique</author>
+                        <title level="m" type="main">La gloria de Don Ramiro</title>
+                        <imprint>
+                            <publisher>Garnier</publisher>
+                            <pubPlace corresp="FR">Paris</pubPlace>
+                            <date when="1910">1910</date>
+                        </imprint>
+                        <extent>406 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W483" xml:id="E681">
+                    <monogr>
+                        <author key="A186">Larrosa de Ansaldo, Lola</author>
+                        <title level="m" type="main">Los esposos</title>
+                        <imprint>
+                            <publisher>CSABB</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1895">1895</date>
+                        </imprint>
+                        <extent>219 p.</extent>
+                    </monogr>
+                    <note resp="#Lichtblau">Incluye un prólogo sobre la autora por Federico
+                        Tobal.</note>
+                </biblStruct>
+                <biblStruct corresp="W484" xml:id="E682">
+                    <monogr>
+                        <author key="A186">Larrosa de Ansaldo, Lola</author>
+                        <title level="m" type="main">¡Hija mía!</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1888">1888</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W484" xml:id="E683">
+                    <analytic>
+                        <author key="A186">Larrosa de Ansaldo, Lola</author>
+                        <title level="a" type="main">¡Hija mía!</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j" type="main">La Nación</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1888-05-09">9 de mayo de 1888</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W484" xml:id="E684">
+                    <analytic>
+                        <author key="A186">Larrosa de Ansaldo, Lola</author>
+                        <title level="a" type="main">¡Hija mía!</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j" type="main">Revista Nacional</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1888">1888</date>
+                            <biblScope unit="volume">Tomo VI</biblScope>
+                            <biblScope unit="page">354</biblScope>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W485" xml:id="E685">
+                    <monogr>
+                        <author key="A186">Larrosa de Ansaldo, Lola</author>
+                        <title level="m" type="main">El lujo</title>
+                        <imprint>
+                            <publisher>Imprenta de Juan A. Alsina</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1889">1889</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W486" xml:id="E686">
+                    <monogr>
+                        <author key="A186">Larrosa de Ansaldo, Lola</author>
+                        <title level="m" type="main">Las obras de misericordia</title>
+                        <imprint>
+                            <publisher>Ostwald</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1882">1882</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W487" xml:id="E687">
+                    <monogr>
+                        <author key="A187">Lavalle Cobo, Jorge</author>
+                        <title level="m" type="main">Voces perdidas</title>
+                        <title level="m" type="sub">(Novelas cortas y cuentos)</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1907" cert="medium">c. 1907</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W488" xml:id="E688">
+                    <monogr>
+                        <author key="A188">Leguizamón, Martiniano</author>
+                        <title level="m" type="main">Montaraz</title>
+                        <title level="m" type="sub">(Costumbres Argentinas)</title>
+                        <imprint>
+                            <publisher>Peuser</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1900">1900</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W489" xml:id="E689">
+                    <monogr>
+                        <author key="A189">Lehardy, Karl</author>
+                        <title level="m" type="main">Clelia</title>
+                        <imprint>
+                            <publisher>Félix Lajouane</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1886">1886</date>
+                        </imprint>
+                        <extent>44 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W489" xml:id="E690">
+                    <analytic>
+                        <author key="A189">Lehardy, Karl</author>
+                        <title level="a" type="main">Clelia, de Lehardy</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j" type="main">La Patria</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1886-08-05">5 de agosto de 1886</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W490" xml:id="E691">
+                    <monogr>
+                        <author key="A190">Loiseau, Ernesto O.</author>
+                        <title level="m" type="main">Hojas de mirto</title>
+                        <title level="m" type="sub">(Novela original)</title>
+                        <imprint>
+                            <publisher>Imprenta de La Reforma</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1860">1860</date>
+                        </imprint>
+                        <extent>104 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W491" xml:id="E692">
+                    <monogr>
+                        <author key="A191">López, Enrique</author>
+                        <title level="m" type="main">El indicador positivista, o la novela
+                            enciclopédica</title>
+                        <title level="m" type="sub">(Novela original)</title>
+                        <imprint>
+                            <publisher>Imprenta Española</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1869">1869</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W492" xml:id="E693">
+                    <analytic>
+                        <author key="A192">López, Lucio Vicente</author>
+                        <title level="a" type="main">La gran aldea</title>
+                        <title level="a" type="sub">(Costumbres bonaerenses)</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j">Sud-América</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date from="1884-05-20" to="1884-07-02">20 de mayo a 2 de julio de
+                                1884</date>
+                        </imprint>
+                    </monogr>
+                    <note resp="Lichtblau">folletín</note>
+                </biblStruct>
+                <biblStruct corresp="W492" xml:id="E694">
+                    <monogr>
+                        <author key="A192">López, Lucio Vicente</author>
+                        <title level="m" type="main">La gran aldea</title>
+                        <imprint>
+                            <publisher>Imprenta de Martín Biedma</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1884">1884</date>
+                        </imprint>
+                        <extent>314 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W492" xml:id="E695">
+                    <monogr>
+                        <author key="A192">López, Lucio Vicente</author>
+                        <title level="m" type="main">La gran aldea</title>
+                        <imprint>
+                            <publisher>La Nación</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1903">1903</date>
+                        </imprint>
+                        <extent>223 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W492" xml:id="E696">
+                    <monogr>
+                        <author key="A192">López, Lucio Vicente</author>
+                        <title level="m" type="main">La gran aldea</title>
+                        <imprint>
+                            <publisher>La Nación</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1909">1909</date>
+                        </imprint>
+                        <extent>223 p.</extent>
+                    </monogr>
+                    <note>Reimpresión.</note>
+                </biblStruct>
+                <biblStruct corresp="W493" xml:id="E697">
+                    <analytic>
+                        <author key="A193">López, Vicente Fidel</author>
+                        <title level="a" type="main">La novia del hereje o la inquisición en
+                            Lima</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j">El Plata Científico y Literario</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date from="1854-09" to="1855-07">septiembre de 1854 a julio de
+                                1855</date>
+                        </imprint>
+                    </monogr>
+                    <note resp="Lichtblau">folletín</note>
+                </biblStruct>
+                <biblStruct corresp="W493" xml:id="E698">
+                    <monogr>
+                        <author key="A193">López, Vicente Fidel</author>
+                        <title level="m" type="main">La novia del hereje o la inquisición en
+                            Lima</title>
+                        <imprint>
+                            <publisher>Imprenta de mayo</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1854">1854</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W493" xml:id="E699">
+                    <monogr>
+                        <author key="A193">López, Vicente Fidel</author>
+                        <title level="m" type="main">La novia del hereje o la inquisición en
+                            Lima</title>
+                        <imprint>
+                            <publisher>Carlos Casavalle</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1870">1870</date>
+                        </imprint>
+                        <extent>Tomo I, 394 p; Tomo II, 418 p.</extent>
+                    </monogr>
+                    <note>Del texto de El Plata Científico y Literario.</note>
+                </biblStruct>
+                <biblStruct corresp="W494" xml:id="E700">
+                    <monogr>
+                        <author key="A193">López, Vicente Fidel</author>
+                        <title level="m" type="main">La Gran Semana de mayo</title>
+                        <title level="m" type="sub">(Crónica de la Revolución de mayo. Recompuesta y
+                            arreglada por cartas según la posición y las opiniones de los
+                            promotores)</title>
+                        <imprint>
+                            <publisher>Carlos Casavalle</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1896">1896</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W494" xml:id="E701">
+                    <monogr>
+                        <author key="A193">López, Vicente Fidel</author>
+                        <title level="m" type="main">La Gran Semana de mayo</title>
+                        <imprint>
+                            <publisher>Jacobo Peuser</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1910">1910</date>
+                        </imprint>
+                        <extent>94 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W495" xml:id="E702">
+                    <monogr>
+                        <author key="A193">López, Vicente Fidel</author>
+                        <title level="m" type="main">La loca de la guardia</title>
+                        <title level="m" type="sub">(Cuento histórico)</title>
+                        <imprint>
+                            <publisher>Carlos Casavalle</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1896">1896</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W495" xml:id="E703">
+                    <monogr>
+                        <author key="A193">López, Vicente Fidel</author>
+                        <title level="m" type="main">La loca de la guardia</title>
+                        <imprint>
+                            <publisher>La Facultad</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1897">1897</date>
+                        </imprint>
+                        <extent>501 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W496" xml:id="E704">
+                    <monogr>
+                        <author key="A194">López Torres, Francisco</author>
+                        <title level="m" type="main">La huérfana de Pago Largo</title>
+                        <title level="m" type="sub">(Novela histórica original)</title>
+                        <imprint>
+                            <publisher>Imprenta del Plata</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1856">1856</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W497" xml:id="E705">
+                    <monogr>
+                        <author key="A194">López Torres, Francisco</author>
+                        <title level="m" type="main">La virgen de Lima</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1858">1858</date>
+                        </imprint>
+                        <extent>72 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W498" xml:id="E706">
+                    <analytic>
+                        <author key="A195">Lucas, Miguel</author>
+                        <title level="a" type="main">La carta</title>
+                        <title level="a" type="sub">(Cuadros sociales)</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j" type="main">La Patria Argentina</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date from="1885-05-05" to="1885-05-19">5 a 19 de mayo de 1885</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W499" xml:id="E707">
+                    <analytic>
+                        <author key="A195">Lucas, Miguel</author>
+                        <title level="a" type="main">Los descamisados – entre bastidores</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j" type="main">La Patria Argentina</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date from="1885-04-18" to="1885-05-04">18 de abril a 4 de mayo de
+                                1885</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W500" xml:id="E708">
+                    <analytic>
+                        <author key="A195">Lucas, Miguel</author>
+                        <title level="a" type="main">La reconquista de mi novia</title>
+                        <title level="a" type="sub">(Cuadros sociales)</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j" type="main">La Patria Argentina</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date from="1885-04-04" to="1885-04-07">4 a 7 de abril de 1885</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W501" xml:id="E709">
+                    <monogr>
+                        <author key="A196">Lugones, Leopoldo</author>
+                        <title level="m" type="main">La guerra gaucha</title>
+                        <imprint>
+                            <publisher>A. Moen</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1905">1905</date>
+                        </imprint>
+                        <extent>398 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W502" xml:id="E710">
+                    <analytic>
+                        <author key="A197">Lussich, Juan</author>
+                        <title level="a" type="main">El crimen de Barracas – la mujer
+                            embarrilada</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j" type="main">La Patria Argentina</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date from="1885-10-10" to="1885-11-10">10 de octubre de 1885 a 10 de
+                                noviembre de 1885</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W503" xml:id="E711">
+                    <monogr>
+                        <author key="A198">Lynch, Benito</author>
+                        <title level="m" type="main">Plata dorada</title>
+                        <imprint>
+                            <publisher>Rodríguez Giles y AGLP</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1909">1909</date>
+                        </imprint>
+                        <extent>382 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W504" xml:id="E712">
+                    <analytic>
+                        <author key="A199">Llanos, Julio</author>
+                        <title level="a" type="main">Agustina de Libarona</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j" type="main">La Patria Argentina</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date from="1884-02-18" to="1884-02-28">18 a 28 de febrero de
+                                1884</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W505" xml:id="E713">
+                    <analytic>
+                        <author key="A199">Llanos, Julio</author>
+                        <title level="a" type="main">Ofelia</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j" type="main">La Patria Argentina</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date from="1884-04-12" to="1884-05-02">12 de mayo de 1884</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W505" xml:id="E714">
+                    <monogr>
+                        <author key="A199">Llanos, Julio</author>
+                        <title level="m" type="main">Arturo Sierra</title>
+                        <imprint>
+                            <publisher>Emilio de Mársico</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1884">1884</date>
+                        </imprint>
+                        <extent>193 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W506" xml:id="E715">
+                    <analytic>
+                        <author key="A199">Llanos, Julio</author>
+                        <title level="a" type="main">Camila O'Gorman</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j" type="main">La Patria Argentina</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date from="1883-10-23">a partir de 23 de octubre de 1883</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W506" xml:id="E716">
+                    <monogr>
+                        <author key="A199">Llanos, Julio</author>
+                        <title level="m" type="main">Camila O'Gorman</title>
+                        <imprint>
+                            <publisher>Imprenta de La Patria Argentina</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date from="1883">1883</date>
+                        </imprint>
+                        <extent>194 p.</extent>
+                    </monogr>
+                    <note resp="#Lichtblau">A dos columnas.</note>
+                </biblStruct>
+                <biblStruct corresp="W507" xml:id="E717">
+                    <analytic>
+                        <author key="A199">Llanos, Julio</author>
+                        <title level="a" type="main">El capitán Morillo – últimas víctimas de
+                            Rosas</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j" type="main">La Patria Argentina</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date from="1884-02-29" to="1884-03-12">29 de febrero a 12 de marzo de
+                                1884</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W508" xml:id="E718">
+                    <analytic>
+                        <author key="A199">Llanos, Julio</author>
+                        <title level="a" type="main">Un drama conyugal</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j" type="main">La Patria Argentina</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date from="1884-01-21" to="1884-02-17">21 de enero a 17 de febrero de
+                                1884</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W509" xml:id="E719">
+                    <analytic>
+                        <author key="A199">Llanos, Julio</author>
+                        <title level="a" type="main">La número 35</title>
+                        <title level="a" type="sub">(Cuadros sociales)</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j" type="main">La Patria Argentina</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date from="1884-03-13" to="1884-04-11">13 de marzo a 11 de abril de
+                                1884</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W510" xml:id="E720">
+                    <analytic>
+                        <author key="A199">Llanos, Julio</author>
+                        <title level="a" type="main">El pirata del hogar</title>
+                        <title level="a" type="sub">(Dramas sociales)</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j" type="main">La Patria Argentina</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date from="1883-09-10" to="1883-10-25">10 de septiembre a 25 de octubre
+                                de 1883</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W511" xml:id="E721">
+                    <monogr>
+                        <author key="A200">Machali, Ramón</author>
+                        <title level="m" type="main">Emilia, o los efectos del coquetismo</title>
+                        <imprint>
+                            <publisher>Imprenta de La Bolsa</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1862">1862</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W512" xml:id="E722">
+                    <monogr>
+                        <author key="A201">Maino, Pedro</author>
+                        <title type="main" level="m">Crimen de muchos</title>
+                        <imprint>
+                            <publisher>Imprenta de Bocio y Daubernet</publisher>
+                            <pubPlace corresp="AR">San Pedro</pubPlace>
+                            <date when="1907">1907</date>
+                        </imprint>
+                        <extent>269 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W513" xml:id="E723">
+                    <monogr>
+                        <author key="A201">Maino, Pedro</author>
+                        <title type="main" level="m">Muerte y vida</title>
+                        <imprint>
+                            <pubPlace corresp="AR">San Pedro</pubPlace>
+                            <date when="1908">1908</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W514" xml:id="E724">
+                    <monogr>
+                        <author key="A202">Mansilla, Lucio Victorio</author>
+                        <title level="m" type="main">Una excursión a los indios ranqueles</title>
+                        <imprint>
+                            <publisher>Imprenta, Litografía y Fundición de Tipos</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1870">1870</date>
+                        </imprint>
+                        <extent>Vol. I, 347 p., Vol. II, 428 p.</extent>
+                    </monogr>
+                    <note resp="#Lichtblau">Contiene cartas publicadas en <seg rend="italic">La
+                            Tribuna</seg> de Buenos Aires.</note>
+                </biblStruct>
+                <biblStruct corresp="W514" xml:id="E725">
+                    <monogr>
+                        <author key="A202">Mansilla, Lucio Victorio</author>
+                        <title level="m" type="main">Una excursión a los indios ranqueles</title>
+                        <imprint>
+                            <publisher>F. A. Brockhaus</publisher>
+                            <pubPlace corresp="DE">Leipzig</pubPlace>
+                            <date when="1877">1877</date>
+                        </imprint>
+                        <extent>Vols. I y II</extent>
+                    </monogr>
+                    <note resp="#Lichtblau">Noticia biográfica por E. Kitt, vi-viii.</note>
+                </biblStruct>
+                <biblStruct corresp="W514" xml:id="E726">
+                    <monogr>
+                        <author key="A202">Mansilla, Lucio Victorio</author>
+                        <title level="m" type="main">Una excursión a los indios ranqueles</title>
+                        <edition>Tercera edición autorizada</edition>
+                        <imprint>
+                            <publisher>Juan A. Alsina</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1890">1890</date>
+                        </imprint>
+                        <extent>591 p.</extent>
+                    </monogr>
+                    <note resp="#Lichtblau">Contiene cartas publicadas en La Tribuna de Buenos
+                        Aires.</note>
+                </biblStruct>
+                <biblStruct corresp="W514" xml:id="E727">
+                    <monogr>
+                        <author key="A202">Mansilla, Lucio Victorio</author>
+                        <title level="m" type="main">Una excursión a los indios ranqueles</title>
+                        <imprint>
+                            <publisher>La Nación</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1905">1905</date>
+                        </imprint>
+                        <extent>Vols. I y II</extent>
+                    </monogr>
+                    <note resp="#Lichtblau">Contiene cartas publicadas en La Tribuna de Buenos
+                        Aires.</note>
+                </biblStruct>
+                <biblStruct corresp="W514" xml:id="E728">
+                    <monogr>
+                        <author key="A202">Mansilla, Lucio Victorio</author>
+                        <title level="m" type="main">Una excursión a los indios ranqueles</title>
+                        <edition>reimpresión</edition>
+                        <imprint>
+                            <publisher>La Nación</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1907">1907</date>
+                        </imprint>
+                        <extent>Vols. I y II</extent>
+                    </monogr>
+                    <note resp="#Lichtblau">Contiene cartas publicadas en La Tribuna de Buenos
+                        Aires.</note>
+                </biblStruct>
+                <biblStruct corresp="W514" xml:id="E729">
+                    <monogr>
+                        <author key="A202">Mansilla, Lucio Victorio</author>
+                        <title level="m" type="main">Una excursión a los indios ranqueles</title>
+                        <edition>reimpresión</edition>
+                        <imprint>
+                            <publisher>La Nación</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1909">1909</date>
+                        </imprint>
+                        <extent>Vols. I y II</extent>
+                    </monogr>
+                    <note resp="#Lichtblau">Contiene cartas publicadas en La Tribuna de Buenos
+                        Aires.</note>
+                </biblStruct>
+                <biblStruct corresp="W515" xml:id="E730">
+                    <monogr>
+                        <author key="A203">Mansilla de García, Eduarda</author>
+                        <title level="m" type="main">Un amor</title>
+                        <imprint>
+                            <publisher>Imprenta de El Diario</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1885">1885</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W516" xml:id="E731">
+                    <analytic>
+                        <author key="A203">Mansilla de García, Eduarda</author>
+                        <title level="m" type="main">Lucía</title>
+                        <title level="m" type="sub">Novela sacada de la historia argentina</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j">La Tribuna</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date from="1860-05-10" to="1860-07-04">10 de mayo de 1860 a 4 de julio
+                                de 1860</date>
+                        </imprint>
+                    </monogr>
+                    <note resp="#Lichtblau">La obra apareció bajo el nombre "Daniel."</note>
+                </biblStruct>
+                <biblStruct corresp="W516" xml:id="E732">
+                    <monogr>
+                        <author key="A203">Mansilla de García, Eduarda</author>
+                        <title level="m" type="main">Lucía Miranda</title>
+                        <imprint>
+                            <publisher>Imprenta de Juan A. Alsina</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1882">1882</date>
+                        </imprint>
+                        <extent>386 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W517" xml:id="E733">
+                    <monogr>
+                        <author key="A203">Mansilla de García, Eduarda</author>
+                        <title level="m" type="main">El médico de San Luis</title>
+                        <imprint>
+                            <publisher>Imprenta de La Paz</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1860">1860</date>
+                        </imprint>
+                    </monogr>
+                    <note resp="#Lichtblau">La novela apareció bajo el seudónimo de "Daniel."</note>
+                </biblStruct>
+                <biblStruct corresp="W517" xml:id="E734">
+                    <monogr>
+                        <author key="A203">Mansilla de García, Eduarda</author>
+                        <title level="m" type="main">El médico de San Luis</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1879">1879</date>
+                        </imprint>
+                        <extent>128 p.</extent>
+                    </monogr>
+                    <note>"Precedida de apuntes por Miguel Navarro Viola y de un estudio sobre la
+                        autora por Rafael Pombo."</note>
+                </biblStruct>
+                <biblStruct corresp="W518" xml:id="E735">
+                    <analytic>
+                        <author key="A203">Mansilla de García, Eduarda</author>
+                        <title level="a" type="main">Pablo, o la vida en las pampas</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j" type="main">La Tribuna</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date from="1870-11-29" to="1870-12-30">29 de noviembre de 1870 a 30 de
+                                diciembre de 1870</date>
+                        </imprint>
+                    </monogr>
+                    <note>folletín; traducción al español del francés original</note>
+                </biblStruct>
+                <biblStruct corresp="W519" xml:id="E736">
+                    <monogr>
+                        <author key="A203">Mansilla de García, Eduarda</author>
+                        <title level="m" type="main">Tío Antonio</title>
+                        <imprint>
+                            <publisher>Juan A. Alsina</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1884">1884</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W520" xml:id="E737">
+                    <monogr>
+                        <author key="A204">Manso de Noronha, Juana</author>
+                        <title type="main" level="m">La familia del Comendador</title>
+                        <imprint>
+                            <publisher>Imprenta de J.A. Bernheim</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1854">1854</date>
+                        </imprint>
+                    </monogr>
+                    <note>Los capítulos 1 a 9 fueron publicados anteriormente en el folletín de <seg
+                            rend="italic">Álbum de señoritas</seg> (primero de enero a 17 de
+                        frebrero de 1854).</note>
+                </biblStruct>
+                <biblStruct corresp="W521" xml:id="E738">
+                    <analytic>
+                        <author key="A204">Manso de Noronha, Juana</author>
+                        <title type="main" level="a">Guerras civiles del Río de la Plata</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j" type="main">El Inválido Argentino</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date from="1867-12" to="1868-02">diciembre de 1867 a febrero de
+                                1868</date>
+                        </imprint>
+                    </monogr>
+                    <note>en folletín</note>
+                </biblStruct>
+                <biblStruct corresp="W521" xml:id="E739">
+                    <monogr>
+                        <author key="A204">Manso de Noronha, Juana</author>
+                        <title type="main" level="m">Los misterios del Plata</title>
+                        <title type="sub" level="m">Episodios históricos de la época de
+                            Rosas</title>
+                        <title type="sub" level="m">Novela histórica original</title>
+                        <imprint>
+                            <publisher>Los Mellizos</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1899">1899</date>
+                        </imprint>
+                        <extent>224 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W522" xml:id="E740">
+                    <monogr>
+                        <author key="A205">Mármol, José</author>
+                        <title type="main" level="m">Amalia</title>
+                        <imprint>
+                            <publisher>Imprenta Americana</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1855">1855</date>
+                        </imprint>
+                    </monogr>
+                    <note>En 8 tomos, anteriormente publicada en partes (en Montevideo, en
+                        1851).</note>
+                </biblStruct>
+                <biblStruct corresp="W522" xml:id="E741">
+                    <monogr>
+                        <author key="A205">Mármol, José</author>
+                        <title type="main" level="m">Amalia</title>
+                        <imprint>
+                            <publisher>F. A. Brockhaus</publisher>
+                            <pubPlace corresp="DE">Leipzig</pubPlace>
+                            <date when="1868">1868</date>
+                        </imprint>
+                        <extent>Tomo I, 312 p., Tomo II, 304 p.</extent>
+                    </monogr>
+                    <note resp="#Lichtblau">Dos tomos en un solo libro.</note>
+                </biblStruct>
+                <biblStruct corresp="W522" xml:id="E742">
+                    <monogr>
+                        <author key="A205">Mármol, José</author>
+                        <title type="main" level="m">Amalia</title>
+                        <title type="sub" level="m">(Novela histórica americana)</title>
+                        <imprint>
+                            <publisher>Garnier</publisher>
+                            <pubPlace corresp="FR">Paris</pubPlace>
+                            <date when="1874">1874</date>
+                        </imprint>
+                        <extent>Vol. I, 364 p.; Vol. II, 354 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W522" xml:id="E743">
+                    <monogr>
+                        <author key="A205">Mármol, José</author>
+                        <title type="main" level="m">Amalia</title>
+                        <title type="sub" level="m">(Novela histórica americana)</title>
+                        <edition>reimpresión</edition>
+                        <imprint>
+                            <publisher>Garnier</publisher>
+                            <pubPlace corresp="FR">Paris</pubPlace>
+                            <date when="1898">1898</date>
+                        </imprint>
+                        <extent>Vol. I, 364 p.; Vol. II, 354 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W522" xml:id="E744">
+                    <monogr>
+                        <author key="A205">Mármol, José</author>
+                        <title type="main" level="m">Amalia</title>
+                        <title type="sub" level="m">(Novela histórica americana)</title>
+                        <edition>reimpresión</edition>
+                        <imprint>
+                            <publisher>Garnier</publisher>
+                            <pubPlace corresp="FR">Paris</pubPlace>
+                            <date when="1901">1901</date>
+                        </imprint>
+                        <extent>Vol. I, 364 p.; Vol. II, 354 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W522" xml:id="E745">
+                    <monogr>
+                        <author key="A205">Mármol, José</author>
+                        <title type="main" level="m">Amalia</title>
+                        <title type="sub" level="m">(Novela histórica americana)</title>
+                        <imprint>
+                            <publisher>La Nación</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1903">1903</date>
+                        </imprint>
+                        <extent>Vols. I, II, y III</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W522" xml:id="E746">
+                    <monogr>
+                        <author key="A205">Mármol, José</author>
+                        <title type="main" level="m">Amalia</title>
+                        <title type="sub" level="m">(Novela histórica americana)</title>
+                        <edition>reimpresión</edition>
+                        <imprint>
+                            <publisher>La Nación</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1909">1909</date>
+                        </imprint>
+                        <extent>Vols. I, II, y III</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W522" xml:id="E747">
+                    <monogr>
+                        <author key="A205">Mármol, José</author>
+                        <title type="main" level="m">Amalia</title>
+                        <title type="sub" level="m">(Novela histórica americana)</title>
+                        <imprint>
+                            <publisher>Maucci</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1904">1904</date>
+                        </imprint>
+                        <extent>430 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W522" xml:id="E748">
+                    <monogr>
+                        <author key="A205">Mármol, José</author>
+                        <title type="main" level="m">Amalia</title>
+                        <title type="sub" level="m">(Novela histórica americana)</title>
+                        <imprint>
+                            <publisher>Maucci</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <pubPlace corresp="ES">Barcelona</pubPlace>
+                            <date when="1910">1910</date>
+                        </imprint>
+                        <extent>Vols. I y II</extent>
+                    </monogr>
+                    <note>"Gran Medalla de Oro en las Exposiciones de Viena de 1903; Madrid, 1907;
+                        Budapest, 1907. Gran Premio en la de Buenos Aires, 1910."</note>
+                </biblStruct>
+                <biblStruct corresp="W523" xml:id="E749">
+                    <analytic>
+                        <author key="A205">Mármol, José</author>
+                        <title level="a" type="main">El señor Anrumarrieta</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j">La Semana</title>
+                        <imprint>
+                            <pubPlace corresp="UR">Montevideo</pubPlace>
+                            <date when="1851-07">julio de 1851</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W524" xml:id="E750">
+                    <monogr>
+                        <author key="A206">Marqués, Gervasio</author>
+                        <title level="m" type="main">En la sierra</title>
+                        <imprint>
+                            <publisher>Ángel Estrada</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1896">1896</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W525" xml:id="E751">
+                    <monogr>
+                        <author key="A206">Marqués, Gervasio</author>
+                        <title level="m" type="main">La liga</title>
+                        <imprint>
+                            <publisher>La Nación</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1893">1893</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W526" xml:id="E752">
+                    <monogr>
+                        <author key="A207">Marqués, Teodoro Y.</author>
+                        <title level="m" type="main">La tragedia de la vida</title>
+                        <title level="m" type="sub">Novela histórica contemporánea</title>
+                        <imprint>
+                            <publisher>M. Cerdeña del Río</publisher>
+                            <pubPlace corresp="AR">La Plata</pubPlace>
+                            <date when="1890">1890</date>
+                        </imprint>
+                        <extent>97 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W527" xml:id="E753">
+                    <monogr>
+                        <author key="A208">Marquéz, Coriolano</author>
+                        <title level="m" type="main">El pirata, o la familia de los condes de
+                            Osorno</title>
+                        <title level="m" type="sub">(Novela histórica, escrita en la cárcel pública
+                            de Buenos Aires, en el calabozo No. 5, en octubre de 1862)</title>
+                        <imprint>
+                            <publisher>Imprenta de La Bolsa</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1863">1863</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W528" xml:id="E754">
+                    <monogr>
+                        <author key="A124">Marquéz, Fernando</author>
+                        <title level="m" type="main">La Isla Paraíso</title>
+                        <imprint>
+                            <publisher>J. Menéndez</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1910">1910</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W529" xml:id="E755">
+                    <monogr>
+                        <author key="A210">Martínez Zuviría, Gustavo</author>
+                        <title level="m" type="main">Alegre</title>
+                        <imprint>
+                            <publisher>Fernando Fe</publisher>
+                            <pubPlace corresp="ES">Madrid</pubPlace>
+                            <date when="1905">1905</date>
+                        </imprint>
+                        <extent>Vol. I, 274 p., Vol. II, 300 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W529" xml:id="E756">
+                    <monogr>
+                        <author key="A210">Martínez Zuviría, Gustavo</author>
+                        <title level="m" type="main">Alegre</title>
+                        <imprint>
+                            <publisher>Edición Biblioteca</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1906">1906</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W530" xml:id="E757">
+                    <monogr>
+                        <author key="A210">Martínez Zuviría, Gustavo</author>
+                        <title level="m" type="main">Pequeñas grandes almas</title>
+                        <title level="m" type="sub">Novela de costumbres americanas</title>
+                        <imprint>
+                            <publisher>Montaner y Simón</publisher>
+                            <pubPlace corresp="ES">Barcelona</pubPlace>
+                            <date when="1907">1907</date>
+                        </imprint>
+                        <extent>360 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W531" xml:id="E758">
+                    <monogr>
+                        <author key="A211">Massioti, Antonio B.</author>
+                        <title level="m" type="main">Tierra y cielo</title>
+                        <title level="m" type="sub">(Estudio social bonaerense)</title>
+                        <imprint>
+                            <publisher>F. Lajouane</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1888">1888</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W532" xml:id="E759">
+                    <monogr>
+                        <author key="A212">Méndez, Malaquias</author>
+                        <title level="m" type="main">Lucía</title>
+                        <imprint>
+                            <publisher>Imprenta El Santafesino</publisher>
+                            <pubPlace corresp="AR">Santa Fe</pubPlace>
+                            <date when="1879">1879</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W533" xml:id="E760">
+                    <analytic>
+                        <author key="A212">Méndez, Malaquias</author>
+                        <title level="a" type="main">Una tumba en la selva</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <pubPlace corresp="AR">Santa Fe</pubPlace>
+                            <date when="1881" cert="medium">c. 1881</date>
+                        </imprint>
+                    </monogr>
+                    <note>novela publicada en folletín en un periódico local de Santa Fe</note>
+                </biblStruct>
+                <biblStruct corresp="W534" xml:id="E761">
+                    <monogr>
+                        <author key="A213">Mercante, Víctor</author>
+                        <title level="m" type="main">Los estudiantes</title>
+                        <imprint>
+                            <publisher>Rabelais</publisher>
+                            <pubPlace corresp="AR">Paraná</pubPlace>
+                            <date when="1908">1908</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W535" xml:id="E762">
+                    <analytic>
+                        <author key="A214">Miró, José María</author>
+                        <title level="a" type="main">La bolsa</title>
+                        <title level="a" type="sub">(Estudio social)</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j">La Nación</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date from="1891-08-24" to="1891-10-04">24 de agosto de 1891 a 4 de
+                                octubre de 1891</date>
+                        </imprint>
+                    </monogr>
+                    <note>folletín</note>
+                </biblStruct>
+                <biblStruct corresp="W535" xml:id="E763">
+                    <monogr>
+                        <author key="A214">Miró, José María</author>
+                        <title level="m" type="main">La bolsa</title>
+                        <imprint>
+                            <publisher>Imprenta de La Nación</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1891">1891</date>
+                        </imprint>
+                        <extent>311 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W535" xml:id="E764">
+                    <monogr>
+                        <author key="A214">Miró, José María</author>
+                        <title level="m" type="main">La bolsa</title>
+                        <imprint>
+                            <publisher>Imprenta Artística 'Buenos Aires'</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1898">1898</date>
+                        </imprint>
+                        <extent>304 p.</extent>
+                    </monogr>
+                    <note resp="#Lichtblau">Prólogo de Julio Piquet.</note>
+                </biblStruct>
+                <biblStruct corresp="W535" xml:id="E765">
+                    <monogr>
+                        <author key="A214">Miró, José María</author>
+                        <title level="m" type="main">La bolsa</title>
+                        <imprint>
+                            <publisher>La Nación</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1905">1905</date>
+                        </imprint>
+                        <extent>253 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W535" xml:id="E766">
+                    <monogr>
+                        <author key="A214">Miró, José María</author>
+                        <title level="m" type="main">La bolsa</title>
+                        <edition>reimpresión</edition>
+                        <imprint>
+                            <publisher>La Nación</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1909">1909</date>
+                        </imprint>
+                        <extent>253 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W536" xml:id="E767">
+                    <monogr>
+                        <author key="A215">Mitre, Bartolomé</author>
+                        <title level="m" type="main">Soledad</title>
+                        <title level="m" type="sub">Novela original</title>
+                        <imprint>
+                            <publisher>Imprenta de la Época</publisher>
+                            <pubPlace corresp="AR">La Paz</pubPlace>
+                            <date when="1847">1847</date>
+                        </imprint>
+                        <extent>87 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W536" xml:id="E768">
+                    <analytic>
+                        <author key="A215">Mitre, Bartolomé</author>
+                        <title level="a" type="main">Soledad</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j" type="main">El Comercio de Valparaíso</title>
+                        <imprint>
+                            <pubPlace corresp="CH">Valparaíso</pubPlace>
+                            <date from="1848-07-18" to="1848-08-01">18 de julio a primero de agosto
+                                de 1848</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W537" xml:id="E769">
+                    <monogr>
+                        <author key="A215">Mitre, Bartolomé</author>
+                        <title level="m" type="main">Soledad</title>
+                        <imprint>
+                            <pubPlace corresp="CH">Valparaíso</pubPlace>
+                            <date when="1848">1848</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W537" xml:id="E770">
+                    <monogr>
+                        <author key="A215">Mitre, Bartolomé</author>
+                        <title level="m" type="main">Soledad</title>
+                        <imprint>
+                            <publisher>Biblioteca de América</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1907">1907</date>
+                        </imprint>
+                        <extent>155 p.</extent>
+                    </monogr>
+                    <note resp="#Lichtblau">Prólogo de Pablo Figueroa. Esta edición incluye también
+                        "Memorias de un botón de rosa," cuento que Mitre publicado originalmente en
+                        Valparaíso en 1848.</note>
+                </biblStruct>
+                <biblStruct corresp="W538" xml:id="E771">
+                    <analytic>
+                        <author key="A216">Mitre y Vedia, Bartolomé</author>
+                        <title level="a" type="main">Desde la tipa–impresiones de un preso por
+                            desacato</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j" type="main">La Nación</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date from="1881-10-01" to="1881-10-05">primero a 5 de octubre de
+                                1881</date>
+                        </imprint>
+                    </monogr>
+                    <note>folletín</note>
+                </biblStruct>
+                <biblStruct corresp="W539" xml:id="E772">
+                    <analytic>
+                        <author key="A217">Mohr, Luis Alberto</author>
+                        <title level="a" type="main">Alberto Trejo–¿castigo del cielo o justicia de
+                            la tierra?</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j" type="main">La Patria Argentina</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date from="1884-03-15" to="1884-04-16">15 de marzo a 16 de abril de
+                                1884</date>
+                        </imprint>
+                    </monogr>
+                    <note>folletín</note>
+                </biblStruct>
+                <biblStruct corresp="W539" xml:id="E773">
+                    <monogr>
+                        <author key="A217">Mohr, Luis Alberto</author>
+                        <title level="m" type="main">Alberto Trejo–¿castigo del cielo o justicia de
+                            la tierra?</title>
+                        <title level="m" type="sub">(Historia de la vida íntima)</title>
+                        <imprint>
+                            <publisher>E. de Mársico</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1888">1888</date>
+                        </imprint>
+                        <extent>256 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W540" xml:id="E774">
+                    <monogr>
+                        <author key="A217">Mohr, Luis Alberto</author>
+                        <title level="m" type="main">Verdad y ficción</title>
+                        <imprint>
+                            <publisher>El Censor</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1886">1886</date>
+                        </imprint>
+                        <extent>82 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W541" xml:id="E775">
+                    <monogr>
+                        <author key="A218">Monroy, Fabio</author>
+                        <title level="m" type="main">El ángel de la virtud</title>
+                        <title level="m" type="sub">(Novela original)</title>
+                        <imprint>
+                            <publisher>Imprenta Rápida</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1890">1890</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W541" xml:id="E776">
+                    <monogr>
+                        <author key="A219">Morante, Pedro G.</author>
+                        <title level="m" type="main">Grandezas</title>
+                        <imprint>
+                            <publisher>Félix Lajouane</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1896">1896</date>
+                        </imprint>
+                        <extent>317 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W541" xml:id="E777">
+                    <monogr>
+                        <author key="A219">Morante, Pedro G.</author>
+                        <title level="m" type="main">Grandezas</title>
+                        <imprint>
+                            <publisher>Ivaldi &amp; Checchi</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1897">1897</date>
+                        </imprint>
+                        <extent>317 p.</extent>
+                    </monogr>
                 </biblStruct>
             </listBibl>
         </body>

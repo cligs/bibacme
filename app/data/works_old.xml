@@ -355,189 +355,25 @@
                     <author key="A21">Morúa Delgado, Martín</author>
                     <title>La familia Unzúazu</title>
                 </bibl>
-                <bibl xml:id="W60">
-                    <author key="A22">Holmberg, Eduardo Ladislao</author>
-                    <title>La bolsa de huesos</title>
-                    <idno type="cligs">nh0186</idno>
-                </bibl>
-                <bibl xml:id="W61">
-                    <author key="A22">Holmberg, Eduardo Ladislao</author>
-                    <title>La casa endiablada</title>
-                </bibl>
-                <bibl xml:id="W62">
-                    <author key="A22">Holmberg, Eduardo Ladislao</author>
-                    <title>Dos partidos en lucha</title>
-                </bibl>
-                <bibl xml:id="W63">
-                    <author key="A22">Holmberg, Eduardo Ladislao</author>
-                    <title>Nelly</title>
-                    <idno type="cligs">nh0187</idno>
-                </bibl>
                 <bibl xml:id="W64">
                     <author key="A9">Castillo, Florencio M. del</author>
                     <title>Dolores ocultos</title>
-                </bibl>
-                <bibl xml:id="W65">
-                    <author key="A22">Holmberg, Eduardo Ladislao</author>
-                    <title>Viaje maravilloso del Sr. Nic-Nac al planeta Marte</title>
-                    <idno type="cligs">nh0185</idno>
                 </bibl>
                 <bibl xml:id="W66">
                     <author key="A9">Castillo, Florencio M. del</author>
                     <title>Hermana de los ángeles</title>
                 </bibl>
-                <bibl xml:id="W67">
-                    <author key="A24">Gutiérrez, Eduardo</author>
-                    <title>Amor funesto</title>
-                </bibl>
-                <bibl xml:id="W68">
-                    <author key="A24">Gutiérrez, Eduardo</author>
-                    <title>Un capitán de ladrones en Buenos Aires</title>
-                </bibl>
-                <bibl xml:id="W69">
-                    <author key="A24">Gutiérrez, Eduardo</author>
-                    <title>Los asesinos de Alvarez</title>
-                </bibl>
-                <bibl xml:id="W70">
-                    <author key="A24">Gutiérrez, Eduardo</author>
-                    <title>Enterrados vivos</title>
-                </bibl>
                 <bibl xml:id="W71">
                     <author key="A9">Castillo, Florencio M. del</author>
                     <title>Dos horas en el Hospital de San Andrés</title>
-                </bibl>
-                <bibl xml:id="W72">
-                    <author key="A24">Gutiérrez, Eduardo</author>
-                    <title>Astucia de una negra</title>
-                </bibl>
-                <bibl xml:id="W73">
-                    <author key="A24">Gutiérrez, Eduardo</author>
-                    <title>Carlo Lanza</title>
-                </bibl>
-                <bibl xml:id="W74">
-                    <author key="A24">Gutiérrez, Eduardo</author>
-                    <title>Lanza el gran banquero</title>
-                </bibl>
-                <bibl xml:id="W75">
-                    <author key="A24">Gutiérrez, Eduardo</author>
-                    <title>El Chacho</title>
-                    <idno type="cligs">nh0054</idno>
-                </bibl>
-                <bibl xml:id="W76">
-                    <author key="A24">Gutiérrez, Eduardo</author>
-                    <title>Los montoneros</title>
-                    <idno type="cligs">nh0055</idno>
-                </bibl>
-                <bibl xml:id="W77">
-                    <author key="A24">Gutiérrez, Eduardo</author>
-                    <title>El rastreador</title>
-                    <idno type="cligs">nh0009</idno>
-                </bibl>
-                <bibl xml:id="W78">
-                    <author key="A24">Gutiérrez, Eduardo</author>
-                    <title>Una demanda curiosa</title>
-                </bibl>
-                <bibl xml:id="W79">
-                    <author key="A24">Gutiérrez, Eduardo</author>
-                    <title>Doña Dominga Rivadavia</title>
-                </bibl>
-                <bibl xml:id="W80">
-                    <author key="A24">Gutiérrez, Eduardo</author>
-                    <title>Infamias de una madre</title>
-                </bibl>
-                <bibl xml:id="W81">
-                    <author key="A24">Gutiérrez, Eduardo</author>
-                    <title>Don Juan Manuel de Rosas</title>
-                </bibl>
-                <bibl xml:id="W82">
-                    <author key="A24">Gutiérrez, Eduardo</author>
-                    <title>La Mazorca</title>
-                </bibl>
-                <bibl xml:id="W83">
-                    <author key="A24">Gutiérrez, Eduardo</author>
-                    <title>Una tragedia de doce años</title>
-                </bibl>
-                <bibl xml:id="W84">
-                    <author key="A24">Gutiérrez, Eduardo</author>
-                    <title>El puñal del tirano</title>
-                </bibl>
-                <bibl xml:id="W85">
-                    <author key="A13">Castrejón, Eduardo A.</author>
-                    <title>Los Cuarenta y Uno</title>
-                </bibl>
-                <bibl xml:id="W86">
-                    <author key="A24">Gutiérrez, Eduardo</author>
-                    <title>Los grandes ladrones</title>
-                </bibl>
-                <bibl xml:id="W87">
-                    <author key="A24">Gutiérrez, Eduardo</author>
-                    <title>Los hermanos Barrientos</title>
-                </bibl>
-                <bibl xml:id="W88">
-                    <author key="A24">Gutiérrez, Eduardo</author>
-                    <title>Hormiga Negra</title>
-                </bibl>
-                <bibl xml:id="W89">
-                    <author key="A24">Gutiérrez, Eduardo</author>
-                    <title>Ignacio Monges</title>
-                </bibl>
-                <bibl xml:id="W90">
-                    <author key="A24">Gutiérrez, Eduardo</author>
-                    <title>El jorobado</title>
-                </bibl>
-                <bibl xml:id="W91">
-                    <author key="A24">Gutiérrez, Eduardo</author>
-                    <title>Juan Cuello</title>
-                </bibl>
-                <bibl xml:id="W92">
-                    <author key="A24">Gutiérrez, Eduardo</author>
-                    <title>Juan Moreira</title>
-                    <idno type="cligs">nh0053</idno>
-                </bibl>
-                <bibl xml:id="W93">
-                    <author key="A24">Gutiérrez, Eduardo</author>
-                    <title>Juan sin patria</title>
-                </bibl>
-                <bibl xml:id="W94">
-                    <author key="A24">Gutiérrez, Eduardo</author>
-                    <title>Nicanora Fernández</title>
-                </bibl>
-                <bibl xml:id="W95">
-                    <author key="A24">Gutiérrez, Eduardo</author>
-                    <title>Pastor Luna</title>
-                </bibl>
-                <bibl xml:id="W96">
-                    <author key="A24">Gutiérrez, Eduardo</author>
-                    <title>Santos Vega</title>
-                </bibl>
-                <bibl xml:id="W97">
-                    <author key="A24">Gutiérrez, Eduardo</author>
-                    <title>Una amistad hasta la muerte</title>
-                </bibl>
-                <bibl xml:id="W98">
-                    <author key="A24">Gutiérrez, Eduardo</author>
-                    <title>Los siete bravos</title>
-                </bibl>
-                <bibl xml:id="W99">
-                    <author key="A24">Gutiérrez, Eduardo</author>
-                    <title>El tigre del Quequén</title>
                 </bibl>
                 <bibl xml:id="W100">
                     <author key="A9">Castillo, Florencio M. del</author>
                     <title>Culpa</title>
                 </bibl>
-                <bibl xml:id="W101">
-                    <author key="A24">Gutiérrez, Eduardo</author>
-                    <title>Un viaje infernal</title>
-                </bibl>
-                <bibl xml:id="W102">
-                    <author key="A24">Gutiérrez, Eduardo</author>
-                    <title>La muerte de un héroe</title>
-                    <idno type="cligs">nh0056</idno>
-                </bibl>
-                <bibl xml:id="W104">
-                    <author key="A24">Gutiérrez, Eduardo</author>
-                    <title>La muerte de Buenos Aires</title>
+                <bibl xml:id="Wxxx">
+                    <author key="A13">Castrejón, Eduardo A.</author>
+                    <title>Los Cuarenta y Uno</title>
                 </bibl>
                 <bibl xml:id="W120">
                     <author key="A26">Frías, Heriberto</author>
@@ -1160,11 +996,6 @@
                     <author key="A23">Castillo, Rafael del</author>
                     <title>Los que Lloran</title>
                 </bibl>
-                <bibl xml:id="W301">
-                    <author key="A22">Holmberg, Eduardo Ladislao</author>
-                    <title>El tipo más original</title>
-                    <idno type="cligs">nh0189</idno>
-                </bibl>
                 <bibl xml:id="W312">
                     <author key="A11">Ancona, Eligio</author>
                     <title>La Mestiza</title>
@@ -1239,113 +1070,9 @@
                     <author key="A114">Noguera, Bernardino</author>
                     <title>La modista coqueta</title>
                 </bibl>
-                <bibl xml:id="W334">
-                    <author key="A115">Machali, Ramón</author>
-                    <title>Emilia, o los efectos del coquetismo</title>
-                </bibl>
-                <bibl xml:id="W335">
-                    <author key="A116">Maino, Pedro</author>
-                    <title>Crimen de muchos</title>
-                </bibl>
-                <bibl xml:id="W336">
-                    <author key="A116">Maino, Pedro</author>
-                    <title>Muerte y vida</title>
-                </bibl>
-                <bibl xml:id="W337">
-                    <author key="A117">Mansilla, Lucio Victorio</author>
-                    <title>Una excursión a los indios ranqueles</title>
-                    <idno type="cligs">nh0020</idno>
-                </bibl>
-                <bibl xml:id="W338">
-                    <author key="A118">Mansilla de García, Eduarda</author>
-                    <title>Un amor</title>
-                </bibl>
-                <bibl xml:id="W339">
-                    <author key="A118">Mansilla de García, Eduarda</author>
-                    <title>Lucía Miranda</title>
-                    <idno type="cligs">nh0025</idno>
-                </bibl>
-                <bibl xml:id="W340">
-                    <author key="A118">Mansilla de García, Eduarda</author>
-                    <title>El médico de San Luis</title>
-                    <idno type="cligs">nh0024</idno>
-                </bibl>
                 <bibl xml:id="W341">
                     <author key="A23">Castillo, Rafael del</author>
                     <title>La Carpeta Verde</title>
-                </bibl>
-                <bibl xml:id="W342">
-                    <author key="A118">Mansilla de García, Eduarda</author>
-                    <title>Pablo, o la vida en las pampas</title>
-                </bibl>
-                <bibl xml:id="W343">
-                    <author key="A118">Mansilla de García, Eduarda</author>
-                    <title>Tío Antonio</title>
-                </bibl>
-                <bibl xml:id="W344">
-                    <author key="A119">Manso de Noronha, Juana</author>
-                    <title>La familia del Comendador</title>
-                </bibl>
-                <bibl xml:id="W345">
-                    <author key="A119">Manso de Noronha, Juana</author>
-                    <title>Los misterios del Plata</title>
-                </bibl>
-                <bibl xml:id="W346">
-                    <author key="A120">Mármol, José</author>
-                    <title>Amalia</title>
-                    <idno type="cligs">nh0017</idno>
-                </bibl>
-                <bibl xml:id="W347">
-                    <author key="A121">Marqués, Gervasio</author>
-                    <title>En la sierra</title>
-                </bibl>
-                <bibl xml:id="W348">
-                    <author key="A121">Marqués, Gervasio</author>
-                    <title>La liga</title>
-                </bibl>
-                <bibl xml:id="W349">
-                    <author key="A122">Marqués, Teodoro Y.</author>
-                    <title>La tragedia de la vida</title>
-                </bibl>
-                <bibl xml:id="W350">
-                    <author key="A123">Marquéz, Coriolano</author>
-                    <title>El pirata, o la familia de los condes de Osorno</title>
-                </bibl>
-                <bibl xml:id="W351">
-                    <author key="A124">Marquéz, Fernando</author>
-                    <title>La Isla Paraíso</title>
-                </bibl>
-                <bibl xml:id="W352">
-                    <author key="A125">Martínez Zuviría, Gustavo</author>
-                    <title>Alegre</title>
-                </bibl>
-                <bibl xml:id="W353">
-                    <author key="A125">Martínez Zuviría, Gustavo</author>
-                    <title>Pequeñas grandes almas</title>
-                </bibl>
-                <bibl xml:id="W354">
-                    <author key="A126">Massioti, Antonio B.</author>
-                    <title>Tierra y cielo</title>
-                </bibl>
-                <bibl xml:id="W355">
-                    <author key="A127">Méndez, Malaquias</author>
-                    <title>Lucía</title>
-                </bibl>
-                <bibl xml:id="W356">
-                    <author key="A127">Méndez, Malaquias</author>
-                    <title>Una tumba en la selva</title>
-                </bibl>
-                <bibl xml:id="W357">
-                    <author key="A128">Mercante, Víctor</author>
-                    <title>Los estudiantes</title>
-                </bibl>
-                <bibl xml:id="W358">
-                    <author key="A129">Miró, José María</author>
-                    <title>La bolsa</title>
-                </bibl>
-                <bibl xml:id="W359">
-                    <author key="A130">Mitre, Bartolomé</author>
-                    <title>Soledad</title>
                 </bibl>
                 <bibl xml:id="W360">
                     <author key="A6">Payró, Roberto</author>
@@ -1459,19 +1186,6 @@
                     <title>Los crímenes de Concha</title>
                 </bibl>
                 <!-- Mesa revuelta? -->
-                <bibl xml:id="W387">
-                    <author key="A120">Mármol, José</author>
-                    <title>El señor Anrumarrieta</title>
-                </bibl>
-                <bibl xml:id="W388">
-                    <author key="A133">Guerra, Rosa</author>
-                    <title>Lucía Miranda</title>
-                    <idno type="cligs">nh0019</idno>
-                </bibl>
-                <bibl xml:id="W389">
-                    <author key="A133">Guerra, Rosa</author>
-                    <title>Julia o la educación</title>
-                </bibl>
                 <bibl xml:id="W390">
                     <author key="A1">Agüeros, Victoriano</author>
                     <title>Dos leyendas</title>
@@ -1756,30 +1470,6 @@
                 <bibl xml:id="W453">
                     <author key="A153">Castellot, José Felipe</author>
                     <title>La Cuna de Piedra</title>
-                </bibl>
-                <bibl xml:id="W454">
-                    <author key="A154">López, Vicente Fidel</author>
-                    <title>La gran aldea</title>
-                    <idno type="cligs">nh0027</idno>
-                </bibl>
-                <bibl xml:id="W456">
-                    <author key="A156">López, Vicente Fidel</author>
-                    <title>La novia del hereje o La Inquisición de Lima</title>
-                    <idno type="cligs">nh0035</idno>
-                </bibl>
-                <bibl xml:id="W457">
-                    <author key="A156">López, Vicente Fidel</author>
-                    <title>La Gran Semana de mayo</title>
-                </bibl>
-                <bibl xml:id="W458">
-                    <author key="A156">López, Vicente Fidel</author>
-                    <title>La loca de la guardia</title>
-                    <idno type="cligs">nh0037</idno>
-                </bibl>
-                <bibl xml:id="W460">
-                    <author key="A158">Gutiérrez, Juan María</author>
-                    <title>El Capitán de Patricios</title>
-                    <idno type="cligs">nh0040</idno>
                 </bibl>
                 <bibl xml:id="W484">
                     <author key="A160">Castellanos, Jesús</author>

@@ -73,6 +73,12 @@ else if ($exist:path eq "/sinopsis/obras-por-autor") then
             <add-parameter name="view" value="obras-por-autor"/>
         </forward>
     </dispatch>
+else if ($exist:path eq "/sinopsis/obras-por-ano") then
+    <dispatch xmlns="http://exist.sourceforge.net/NS/exist">
+        <forward url="{$exist:controller}/index.xq">
+            <add-parameter name="view" value="obras-por-ano"/>
+        </forward>
+    </dispatch>
 else if ($exist:path eq "/sinopsis/obras-por-decada") then
     <dispatch xmlns="http://exist.sourceforge.net/NS/exist">
         <forward url="{$exist:controller}/index.xq">

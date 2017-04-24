@@ -442,25 +442,6 @@
                     <nationality>cubana/o</nationality>
                     <idno type="viaf">6422017</idno>
                 </person>
-                <person xml:id="A22">
-                    <persName>
-                        <surname>Holmberg</surname>
-                        <forename>Eduardo Ladislao</forename>
-                    </persName>
-                    <birth>
-                        <date when="1852-06-27">27 de junio de 1852</date>
-                        <placeName>Buenos Aires</placeName>
-                        <placeName>Argentina</placeName>
-                    </birth>
-                    <death>
-                        <date when="1937-11-04">4 de noviembre de 1937</date>
-                        <placeName cert="medium">Buenos Aires</placeName>
-                        <placeName>Argentina</placeName>
-                    </death>
-                    <sex>masculino</sex>
-                    <nationality>argentina/o</nationality>
-                    <idno type="viaf">64238553</idno>
-                </person>
                 <person xml:id="A23">
                     <persName>
                         <surname>Castillo</surname>
@@ -479,25 +460,6 @@
                     <idno type="viaf">46419719</idno>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
-                </person>
-                <person xml:id="A24">
-                    <persName>
-                        <surname>Gutiérrez</surname>
-                        <forename>Eduardo</forename>
-                    </persName>
-                    <birth>
-                        <date when="1851-07-15">15 de julio de 1851</date>
-                        <placeName>Buenos Aires</placeName>
-                        <placeName>Argentina</placeName>
-                    </birth>
-                    <death>
-                        <date when="1889-08-02">2 de agosto de 1889</date>
-                        <placeName cert="medium">Buenos Aires</placeName>
-                        <placeName>Argentina</placeName>
-                    </death>
-                    <sex>masculino</sex>
-                    <nationality>argentina/o</nationality>
-                    <idno type="viaf">24681057</idno>
                 </person>
                 <person xml:id="A26">
                     <persName>
@@ -1398,195 +1360,6 @@
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
                 </person>
-                <person xml:id="A115">
-                    <persName>
-                        <surname>Machali</surname>
-                        <forename>Ramón</forename>
-                        <addName type="pseudonym">R. El Mugiense</addName>
-                    </persName>
-                    <sex>masculino</sex>
-                    <nationality>argentina/o</nationality>
-                </person>
-                <person xml:id="A116">
-                    <persName>
-                        <surname>Maino</surname>
-                        <forename>Pedro</forename>
-                    </persName>
-                    <sex>masculino</sex>
-                    <nationality>argentina/o</nationality>
-                </person>
-                <person xml:id="A117">
-                    <persName>
-                        <surname>Mansilla</surname>
-                        <forename>Lucio Victorio</forename>
-                    </persName>
-                    <birth>
-                        <date when="1831">1831</date>
-                    </birth>
-                    <death>
-                        <date when="1913">1913</date>
-                    </death>
-                    <sex>masculino</sex>
-                    <nationality>argentina/o</nationality>
-                </person>
-                <person xml:id="A118">
-                    <persName>
-                        <surname>Mansilla de García</surname>
-                        <forename>Eduarda</forename>
-                        <addName type="pseudonym">Daniel</addName>
-                    </persName>
-                    <birth>
-                        <date when="1835">1835</date>
-                    </birth>
-                    <death>
-                        <date when="1892">1892</date>
-                    </death>
-                    <sex>femenino</sex>
-                    <nationality>argentina/o</nationality>
-                </person>
-                <person xml:id="A119">
-                    <persName>
-                        <surname>Manso de Noronha</surname>
-                        <forename>Juana</forename>
-                    </persName>
-                    <birth>
-                        <date when="1820">1820</date>
-                    </birth>
-                    <death>
-                        <date when="1875">1875</date>
-                    </death>
-                    <sex>femenino</sex>
-                    <nationality cert="low">argentina/o</nationality>
-                </person>
-                <person xml:id="A120">
-                    <persName>
-                        <surname>Mármol</surname>
-                        <forename>José</forename>
-                    </persName>
-                    <birth>
-                        <date when="1817">1817</date>
-                    </birth>
-                    <death>
-                        <date when="1871">1871</date>
-                    </death>
-                    <sex>masculino</sex>
-                    <nationality>argentina/o</nationality>
-                </person>
-                <person xml:id="A121">
-                    <persName>
-                        <surname>Marqués</surname>
-                        <forename>Gervasio</forename>
-                        <note>es seudónimo</note>
-                    </persName>
-                    <sex>masculino</sex>
-                    <nationality cert="low">argentina/o</nationality>
-                </person>
-                <person xml:id="A122">
-                    <persName>
-                        <surname>Marqués</surname>
-                        <forename>Teodoro Y.</forename>
-                    </persName>
-                    <sex>masculino</sex>
-                    <nationality cert="low">argentina/o</nationality>
-                </person>
-                <person xml:id="A123">
-                    <persName>
-                        <surname>Marquéz</surname>
-                        <forename>Coriolano</forename>
-                    </persName>
-                    <sex>masculino</sex>
-                    <nationality cert="low">argentina/o</nationality>
-                </person>
-                <person xml:id="A124">
-                    <persName>
-                        <surname>Marquéz</surname>
-                        <forename>Fernando</forename>
-                    </persName>
-                    <sex>masculino</sex>
-                    <nationality cert="low">argentina/o</nationality>
-                </person>
-                <person xml:id="A125">
-                    <persName>
-                        <surname>Martínez Zuviría</surname>
-                        <forename>Gustavo</forename>
-                        <addName type="pseudonym">Hugo Wast</addName>
-                    </persName>
-                    <birth>
-                        <date when="1883-10-23">23 de octubre de 1883</date>
-                        <placeName>Córdoba</placeName>
-                        <placeName>Argentina</placeName>
-                    </birth>
-                    <death>
-                        <date when="1962-03-28">28 de marzo de 1962</date>
-                        <placeName>Buenos Aires</placeName>
-                    </death>
-                    <sex>masculino</sex>
-                    <nationality>argentina/o</nationality>
-                    <idno type="viaf">86824536</idno>
-                </person>
-                <person xml:id="A126">
-                    <persName>
-                        <surname>Massioti</surname>
-                        <forename>Antonio B.</forename>
-                    </persName>
-                    <sex>masculino</sex>
-                    <nationality cert="low">argentina/o</nationality>
-                </person>
-                <person xml:id="A127">
-                    <persName>
-                        <surname>Méndez</surname>
-                        <forename>Malaquias</forename>
-                    </persName>
-                    <birth>
-                        <date when="1859">1859</date>
-                    </birth>
-                    <sex>masculino</sex>
-                    <nationality cert="low">argentina/o</nationality>
-                </person>
-                <person xml:id="A128">
-                    <persName>
-                        <surname>Mercante</surname>
-                        <forename>Víctor</forename>
-                        <addName type="pseudonym">F. Scanavecchia</addName>
-                    </persName>
-                    <birth>
-                        <date when="1870">1870</date>
-                    </birth>
-                    <death>
-                        <date when="1934">1934</date>
-                    </death>
-                    <sex>masculino</sex>
-                    <nationality cert="low">argentina/o</nationality>
-                </person>
-                <person xml:id="A129">
-                    <persName>
-                        <surname>Miró</surname>
-                        <forename>José María</forename>
-                        <addName type="pseudonym">Julián Martel</addName>
-                    </persName>
-                    <birth>
-                        <date when="1867">1867</date>
-                    </birth>
-                    <death>
-                        <date when="1896">1896</date>
-                    </death>
-                    <sex>masculino</sex>
-                    <nationality>argentina/o</nationality>
-                </person>
-                <person xml:id="A130">
-                    <persName>
-                        <surname>Mitre</surname>
-                        <forename>Bartolomé</forename>
-                    </persName>
-                    <birth>
-                        <date when="1821">1821</date>
-                    </birth>
-                    <death>
-                        <date when="1906">1906</date>
-                    </death>
-                    <sex>masculino</sex>
-                    <nationality>argentina/o</nationality>
-                </person>
                 <person xml:id="A131">
                     <persName>
                         <surname>Auber de Noya</surname>
@@ -1627,22 +1400,6 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
-                </person>
-                <person xml:id="A133">
-                    <persName>
-                        <surname>Guerra</surname>
-                        <forename>Rosa</forename>
-                        <addName type="pseudonym">Cecilia</addName>
-                    </persName>
-                    <birth>
-                        <date when="1834">1834</date>
-                    </birth>
-                    <death>
-                        <date when="1894">1894</date>
-                    </death>
-                    <sex>femenino</sex>
-                    <nationality>argentina/o</nationality>
-                    <idno type="viaf">72869266</idno>
                 </person>
                 <person xml:id="A134">
                     <persName>
@@ -1961,52 +1718,6 @@
                     </persName>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
-                </person>
-                <person xml:id="A154">
-                    <persName>
-                        <surname>López</surname>
-                        <forename>Lucio Vicente</forename>
-                    </persName>
-                    <birth>
-                        <date when="1848">1848</date>
-                    </birth>
-                    <death>
-                        <date when="1894">1894</date>
-                    </death>
-                    <sex>masculino</sex>
-                    <nationality>argentina/o</nationality>
-                    <idno type="viaf">6441813</idno>
-                </person>
-                <person xml:id="A156">
-                    <persName>
-                        <surname>López</surname>
-                        <forename>Vicente Fidel</forename>
-                    </persName>
-                    <birth>
-                        <date when="1815">1815</date>
-                    </birth>
-                    <death>
-                        <date when="1903">1903</date>
-                    </death>
-                    <sex>masculino</sex>
-                    <nationality>argentina/o</nationality>
-                    <idno type="viaf">195708976</idno>
-                    <idno type="viaf">25146998423318940532</idno>
-                </person>
-                <person xml:id="A158">
-                    <persName>
-                        <surname>Gutiérrez</surname>
-                        <forename>Juan María</forename>
-                    </persName>
-                    <birth>
-                        <date when="1809">1809</date>
-                    </birth>
-                    <death>
-                        <date when="1878">1878</date>
-                    </death>
-                    <sex>masculino</sex>
-                    <nationality>argentina/o</nationality>
-                    <idno type="viaf">87762458</idno>
                 </person>
                 <person xml:id="A160">
                     <persName>

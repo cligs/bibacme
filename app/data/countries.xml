@@ -46,6 +46,9 @@
                 <place xml:id="CU">
                     <placeName>Cuba</placeName>
                 </place>
+                <place xml:id="DE">
+                    <placeName>Alemania</placeName>
+                </place>
                 <place xml:id="ES">
                     <placeName>España</placeName>
                 </place>

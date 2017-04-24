@@ -2508,9 +2508,780 @@
                         <placeName>Buenos Aires</placeName>
                         <placeName>Argentina</placeName>
                     </death>
+                    <idno type="viaf">100239982</idno>
                     <sex>femenino</sex>
                     <nationality>argentina/o</nationality>
-                    <idno type="viaf">100239982</idno>
+                </person>
+                <person xml:id="A162">
+                    <persName>
+                        <surname>Grandmontagne</surname>
+                        <forename>Francisco</forename>
+                    </persName>
+                    <birth>
+                        <date when="1866-09-30">30 de septiembre de 1866</date>
+                        <placeName>Barbadillo de Herreros</placeName>
+                        <placeName>Burgos</placeName>
+                        <placeName>España</placeName>
+                    </birth>
+                    <death>
+                        <date when="1936-06-01">primero de junio de 1936</date>
+                        <placeName cert="low">Argentina</placeName>
+                    </death>
+                    <idno type="viaf">3322065</idno>
+                    <sex>masculino</sex>
+                    <nationality>español</nationality>
+                </person>
+                <person xml:id="A163">
+                    <persName>
+                        <surname>Groussac</surname>
+                        <forename>Paul</forename>
+                    </persName>
+                    <birth>
+                        <date when="1848-02-15">15 de febrero de 1848</date>
+                        <placeName>Toulouse</placeName>
+                        <placeName>Francia</placeName>
+                    </birth>
+                    <death>
+                        <date when="1929-06-27">27 de junio de 1929</date>
+                        <placeName>Buenos Aires</placeName>
+                        <placeName>Argentina</placeName>
+                    </death>
+                    <idno type="viaf">106964814</idno>
+                    <sex>masculino</sex>
+                    <nationality>francés/a</nationality>
+                    <!-- Le herencia / El hogar desierto / La rueda loca: 
+                        escritos 1893-96, publicados en 1922 en Relatos Argentinos -->
+                </person>
+                <person xml:id="A164">
+                    <persName>
+                        <surname>Guardiola</surname>
+                        <forename>Matilde</forename>
+                    </persName>
+                    <sex>femenino</sex>
+                    <nationality>desconocido</nationality>
+                </person>
+                <person xml:id="A165">
+                    <persName>
+                        <surname>Pimentel</surname>
+                        <forename>Eduardo</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality>desconocido</nationality>
+                </person>
+                <person xml:id="A166">
+                    <persName>
+                        <surname>Guerra</surname>
+                        <forename>Rosa</forename>
+                        <addName type="pseudonym">Cecilia</addName>
+                    </persName>
+                    <birth>
+                        <date when="1834">1834</date>
+                    </birth>
+                    <death>
+                        <date when="1894">1894</date>
+                    </death>
+                    <idno type="viaf">72869266</idno>
+                    <sex>femenino</sex>
+                    <nationality>argentina/o</nationality>
+                </person>
+                <person xml:id="A167">
+                    <persName>
+                        <surname>Guillo</surname>
+                        <forename>Francisco</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">argentina/o</nationality>
+                </person>
+                <person xml:id="A168">
+                    <persName>
+                        <name type="pseudonym">Guindilla</name>
+                    </persName>
+                    <sex>desconocido</sex>
+                    <nationality cert="low">argentina/o</nationality>
+                </person>
+                <person xml:id="A169">
+                    <persName>
+                        <surname>Gutiérrez</surname>
+                        <forename>Eduardo</forename>
+                    </persName>
+                    <birth>
+                        <date when="1851-07-15">15 de julio de 1851</date>
+                        <placeName>Buenos Aires</placeName>
+                        <placeName>Argentina</placeName>
+                    </birth>
+                    <death>
+                        <date when="1889-08-02">2 de agosto de 1889</date>
+                        <placeName cert="medium">Buenos Aires</placeName>
+                        <placeName>Argentina</placeName>
+                    </death>
+                    <idno type="viaf">24681057</idno>
+                    <sex>masculino</sex>
+                    <nationality>argentina/o</nationality>
+                </person>
+                <person xml:id="A170">
+                    <persName>
+                        <surname>Gutiérrez</surname>
+                        <forename>Juan María</forename>
+                    </persName>
+                    <birth>
+                        <date when="1809-05-06">6 de mayo de 1809</date>
+                        <placeName>Buenos Aires</placeName>
+                        <placeName>Argentina</placeName>
+                    </birth>
+                    <death>
+                        <date when="1878-02-26">26 de febrero de 1878</date>
+                        <placeName>Buenos Aires</placeName>
+                        <placeName>Argentina</placeName>
+                    </death>
+                    <idno type="viaf">87762458</idno>
+                    <sex>masculino</sex>
+                    <nationality>argentina/o</nationality>
+                </person>
+                <person xml:id="A171">
+                    <persName>
+                        <surname>Gutiérrez</surname>
+                        <forename>Ricardo</forename>
+                    </persName>
+                    <birth>
+                        <date when="1836-11-10">10 de noviembre de 1836</date>
+                        <placeName>Arrecifes</placeName>
+                        <placeName>Buenos Aires</placeName>
+                        <placeName>Argentina</placeName>
+                    </birth>
+                    <death>
+                        <date when="1896-09-23">23 de septiembre de 1896</date>
+                        <placeName>Buenos Aires</placeName>
+                        <placeName>Argentina</placeName>
+                    </death>
+                    <idno type="viaf">22244612</idno>
+                    <sex>masculino</sex>
+                    <nationality>argentina/o</nationality>
+                </person>
+                <person xml:id="A172">
+                    <persName>
+                        <surname>Gutiérrez</surname>
+                        <forename>Tomás</forename>
+                    </persName>
+                    <birth>
+                        <date when="1839">1839</date>
+                    </birth>
+                    <death>
+                        <date when="1881">1881</date>
+                    </death>
+                    <idno type="viaf">22244612</idno>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">argentina/o</nationality>
+                </person>
+                <person xml:id="A173">
+                    <persName>
+                        <surname>Herrero</surname>
+                        <forename>José Aurelio</forename>
+                        <addName type="pseudonym">Teseo</addName>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">argentina/o</nationality>
+                </person>
+                <person xml:id="A174">
+                    <persName>
+                        <surname>Higginson</surname>
+                        <forename>Ricardo Ciro</forename>
+                    </persName>
+                    <birth>
+                        <date when="1889">1889</date>
+                        <placeName>Perú</placeName>
+                    </birth>
+                    <death>
+                        <date when="1927">1927</date>
+                        <placeName>Argentina</placeName>
+                    </death>
+                    <sex>masculino</sex>
+                    <nationality>peruana/o</nationality>
+                </person>
+                <person xml:id="A175">
+                    <persName>
+                        <surname>Holmberg</surname>
+                        <forename>Eduardo Ladislao</forename>
+                    </persName>
+                    <birth>
+                        <date when="1852-06-27">27 de junio de 1852</date>
+                        <placeName>Buenos Aires</placeName>
+                        <placeName>Argentina</placeName>
+                    </birth>
+                    <death>
+                        <date when="1937-11-04">4 de noviembre de 1937</date>
+                        <placeName cert="medium">Buenos Aires</placeName>
+                        <placeName>Argentina</placeName>
+                    </death>
+                    <idno type="viaf">64238553</idno>
+                    <sex>masculino</sex>
+                    <nationality>argentina/o</nationality>
+                    <!-- posthum: Olimpio Pitango de Monalia
+                    Flor de las nieves, 1912 
+                    Horacio Kalibang o los autómatas, cuento?
+                    varios otros cuentos / novelitas (?) -->
+                </person>
+                <person xml:id="A176">
+                    <persName>
+                        <name type="pseudonym">Ingalik</name>
+                    </persName>
+                    <sex>desconocido</sex>
+                    <nationality>desconocido</nationality>
+                </person>
+                <person xml:id="A177">
+                    <persName>
+                        <surname>Irebuen</surname>
+                        <forename>Juan</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">argentina/o</nationality>
+                </person>
+                <person xml:id="A178">
+                    <persName>
+                        <surname>Juglaris</surname>
+                        <forename>Enrique Juan</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality>español/a</nationality>
+                </person>
+                <person xml:id="A179">
+                    <persName>
+                        <surname>Labastié</surname>
+                        <forename>Luis</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality>desconocido</nationality>
+                </person>
+                <person xml:id="A180">
+                    <persName>
+                        <surname>Laggar</surname>
+                        <forename>Mary</forename>
+                    </persName>
+                    <sex>femenino</sex>
+                    <nationality>desconocido</nationality>
+                </person>
+                <person xml:id="A181">
+                    <persName>
+                        <surname>Lamas</surname>
+                        <forename>Pedro S.</forename>
+                    </persName>
+                    <birth>
+                        <date when="1874">1847</date>
+                        <placeName>Uruguay</placeName>
+                    </birth>
+                    <death>
+                        <date when="1922">1922</date>
+                        <placeName>Argentina</placeName>
+                    </death>
+                    <idno type="viaf">45770483</idno>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">uruguaya/o</nationality>
+                </person>
+                <person xml:id="A182">
+                    <persName>
+                        <surname>Lannot</surname>
+                        <forename>León</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">argentina/o</nationality>
+                </person>
+                <person xml:id="A183">
+                    <persName>
+                        <surname>Lapuente</surname>
+                        <forename>Laurindo</forename>
+                        <addName type="pseudonym">Antar</addName>
+                    </persName>
+                    <birth>
+                        <date when="1835">1835</date>
+                        <placeName>Uruguay</placeName>
+                    </birth>
+                    <death>
+                        <date when="1870">1870</date>
+                        <placeName>Argentina</placeName>
+                    </death>
+                    <idno type="viaf">46513944</idno>
+                    <idno type="viaf">260145856979322920824</idno>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">urugaya/o</nationality>
+                    <note resp="#Lichtblau">Escritor uruguayo, emigrado a la Argentina 1853.</note>
+                </person>
+                <person xml:id="A184">
+                    <persName>
+                        <surname>Larrain</surname>
+                        <forename>Nicanor</forename>
+                        <addName type="pseudonym">Antar</addName>
+                    </persName>
+                    <birth>
+                        <date when="1840">1840</date>
+                    </birth>
+                    <death>
+                        <date when="1902">1902</date>
+                    </death>
+                    <idno type="viaf">249145857047622921390</idno>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">argentina/o</nationality>
+                </person>
+                <person xml:id="A185">
+                    <persName>
+                        <surname>Larreta</surname>
+                        <forename>Enrique</forename>
+                    </persName>
+                    <birth>
+                        <date when="1875" cert="low">1875</date>
+                        <placeName>Buenos Aires</placeName>
+                        <placeName>Argentina</placeName>
+                    </birth>
+                    <death>
+                        <date when="1960" cert="low">1960</date>
+                        <placeName>Buenos Aires</placeName>
+                        <placeName>Argentina</placeName>
+                    </death>
+                    <idno type="viaf">59115694</idno>
+                    <sex>masculino</sex>
+                    <nationality>argentina/o</nationality>
+                </person>
+                <person xml:id="A186">
+                    <persName>
+                        <surname>Larrosa de Ansaldo</surname>
+                        <forename>Lola</forename>
+                    </persName>
+                    <birth>
+                        <date when="1859">1859</date>
+                        <placeName>Nueva Palmira</placeName>
+                        <placeName>Uruguay</placeName>
+                    </birth>
+                    <death>
+                        <date when="1895">1895</date>
+                        <placeName>Argentina</placeName>
+                    </death>
+                    <sex>femenino</sex>
+                    <nationality>uruguaya/o</nationality>
+                </person>
+                <person xml:id="A187">
+                    <persName>
+                        <surname>Lavalle Cobo</surname>
+                        <forename>Jorge</forename>
+                    </persName>
+                    <birth>
+                        <date when="1876">1876</date>
+                    </birth>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">argentina/o</nationality>
+                </person>
+                <person xml:id="A188">
+                    <persName>
+                        <surname>Leguizamón</surname>
+                        <forename>Martiniano</forename>
+                    </persName>
+                    <birth>
+                        <date when="1858">1858</date>
+                        <placeName>Rosario del Tala</placeName>
+                        <placeName>Entre Ríos</placeName>
+                        <placeName>Argentina</placeName>
+                    </birth>
+                    <death>
+                        <date when="1935">1935</date>
+                        <placeName>González Catán</placeName>
+                        <placeName>provincia de Buenos Aires</placeName>
+                        <placeName>Argentina</placeName>
+                    </death>
+                    <idno type="viaf">15146080</idno>
+                    <sex>masculino</sex>
+                    <nationality>argentina/o</nationality>
+                </person>
+                <person xml:id="A189">
+                    <persName type="pseudonym">
+                        <surname>Lehardy</surname>
+                        <forename>Karl</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">argentina/o</nationality>
+                </person>
+                <person xml:id="A190">
+                    <persName>
+                        <surname>Loiseau</surname>
+                        <forename>Ernesto O.</forename>
+                        <addName type="pseudonym">El Mulato</addName>
+                    </persName>
+                    <birth>
+                        <date when="1816">1816</date>
+                    </birth>
+                    <death>
+                        <date when="1863">1863</date>
+                    </death>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">argentina/o</nationality>
+                </person>
+                <person xml:id="A191">
+                    <persName>
+                        <surname>López</surname>
+                        <forename>Enrique</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">argentina/o</nationality>
+                </person>
+                <person xml:id="A192">
+                    <persName>
+                        <surname>López</surname>
+                        <forename>Lucio Vicente</forename>
+                    </persName>
+                    <birth>
+                        <date when="1848-12-13">13 de diciembre de 1848</date>
+                        <placeName>Montevideo</placeName>
+                        <placeName>Uruguay</placeName>
+                    </birth>
+                    <death>
+                        <date when="1894-12-29">29 de diciembre de 1894</date>
+                        <placeName>Buenos Aires</placeName>
+                        <placeName>Argentina</placeName>
+                    </death>
+                    <idno type="viaf">6441813</idno>
+                    <sex>masculino</sex>
+                    <nationality>argentina/o</nationality>
+                </person>
+                <person xml:id="A193">
+                    <persName>
+                        <surname>López</surname>
+                        <forename>Vicente Fidel</forename>
+                    </persName>
+                    <birth>
+                        <date when="1815-04-24">24 de abril de 1815</date>
+                        <placeName>Buenos Aires</placeName>
+                        <placeName>Argentina</placeName>
+                    </birth>
+                    <death>
+                        <date when="1903-08-30">30 de agosto de 1903</date>
+                        <placeName>Buenos Aires</placeName>
+                        <placeName>Argentina</placeName>
+                    </death>
+                    <idno type="viaf">195708976</idno>
+                    <idno type="viaf">25146998423318940532</idno>
+                    <sex>masculino</sex>
+                    <nationality>argentina/o</nationality>
+                </person>
+                <person xml:id="A194">
+                    <persName>
+                        <surname>López Torres</surname>
+                        <forename>Francisco</forename>
+                    </persName>
+                    <birth>
+                        <date when="1839">1839</date>
+                    </birth>
+                    <death>
+                        <date when="1871">1871</date>
+                    </death>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">argentina/o</nationality>
+                </person>
+                <person xml:id="A195">
+                    <persName>
+                        <surname>Lucas</surname>
+                        <forename>Miguel</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">argentina/o</nationality>
+                </person>
+                <person xml:id="A196">
+                    <persName>
+                        <surname>Lugones</surname>
+                        <forename>Leopoldo</forename>
+                    </persName>
+                    <birth>
+                        <date when="1874-06-13">13 de junio de 1874</date>
+                        <placeName>Villa de María del Río Seco</placeName>
+                        <placeName>Córdoba</placeName>
+                        <placeName>Argentina</placeName>
+                    </birth>
+                    <death>
+                        <date when="1938-02-18">18 de febrero de 1938</date>
+                        <placeName>Tigre</placeName>
+                        <placeName>Buenos Aires</placeName>
+                        <placeName>Argentina</placeName>
+                    </death>
+                    <idno type="viaf">54160474</idno>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">argentina/o</nationality>
+                </person>
+                <person xml:id="A197">
+                    <persName>
+                        <surname>Lussich</surname>
+                        <forename>Juan</forename>
+                    </persName>
+                    <birth>
+                        <date when="1860">1860</date>
+                    </birth>
+                    <death>
+                        <date when="1885">1885</date>
+                    </death>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">argentina/o</nationality>
+                </person>
+                <person xml:id="A198">
+                    <persName>
+                        <surname>Lynch</surname>
+                        <forename>Benito</forename>
+                    </persName>
+                    <birth>
+                        <date when="1885" cert="low">1885</date>
+                        <placeName>Buenos Aires</placeName>
+                        <placeName>Argentina</placeName>
+                    </birth>
+                    <death>
+                        <date when="1952" cert="low">1952</date>
+                        <placeName>La Plata</placeName>
+                        <placeName>Argentina</placeName>
+                    </death>
+                    <idno type="viaf">74653227</idno>
+                    <sex>masculino</sex>
+                    <nationality>argentina/o</nationality>
+                </person>
+                <person xml:id="A199">
+                    <persName>
+                        <surname>Llanos</surname>
+                        <forename>Julio</forename>
+                    </persName>
+                    <birth>
+                        <date when="1858">1858</date>
+                    </birth>
+                    <death>
+                        <date when="1933">1933</date>
+                    </death>
+                    <idno type="viaf">309573599</idno>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">argentina/o</nationality>
+                </person>
+                <!-- ### -->
+                <person xml:id="A200">
+                    <persName>
+                        <surname>Machali</surname>
+                        <forename>Ramón</forename>
+                        <addName type="pseudonym">R. El Mugiense</addName>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality>argentina/o</nationality>
+                </person>
+                <person xml:id="A201">
+                    <persName>
+                        <surname>Maino</surname>
+                        <forename>Pedro</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality>argentina/o</nationality>
+                </person>
+                <person xml:id="A202">
+                    <persName>
+                        <surname>Mansilla</surname>
+                        <forename>Lucio Victorio</forename>
+                    </persName>
+                    <birth>
+                        <date when="1831">1831</date>
+                    </birth>
+                    <death>
+                        <date when="1913">1913</date>
+                    </death>
+                    <sex>masculino</sex>
+                    <nationality>argentina/o</nationality>
+                </person>
+                <person xml:id="A203">
+                    <persName>
+                        <surname>Mansilla de García</surname>
+                        <forename>Eduarda</forename>
+                        <addName type="pseudonym">Daniel</addName>
+                    </persName>
+                    <birth>
+                        <date when="1835">1835</date>
+                    </birth>
+                    <death>
+                        <date when="1892">1892</date>
+                    </death>
+                    <sex>femenino</sex>
+                    <nationality>argentina/o</nationality>
+                </person>
+                <person xml:id="A204">
+                    <persName>
+                        <surname>Manso de Noronha</surname>
+                        <forename>Juana</forename>
+                    </persName>
+                    <birth>
+                        <date when="1820">1820</date>
+                    </birth>
+                    <death>
+                        <date when="1875">1875</date>
+                    </death>
+                    <sex>femenino</sex>
+                    <nationality cert="low">argentina/o</nationality>
+                </person>
+                <person xml:id="A205">
+                    <persName>
+                        <surname>Mármol</surname>
+                        <forename>José</forename>
+                    </persName>
+                    <birth>
+                        <date when="1817">1817</date>
+                    </birth>
+                    <death>
+                        <date when="1871">1871</date>
+                    </death>
+                    <sex>masculino</sex>
+                    <nationality>argentina/o</nationality>
+                </person>
+                <person xml:id="A206">
+                    <persName type="pseudonym">
+                        <surname>Marqués</surname>
+                        <forename>Gervasio</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality cert="low">argentina/o</nationality>
+                </person>
+                <person xml:id="A207">
+                    <persName>
+                        <surname>Marqués</surname>
+                        <forename>Teodoro Y.</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality cert="low">argentina/o</nationality>
+                </person>
+                <person xml:id="A208">
+                    <persName>
+                        <surname>Marquéz</surname>
+                        <forename>Coriolano</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality cert="low">argentina/o</nationality>
+                </person>
+                <person xml:id="A209">
+                    <persName>
+                        <surname>Marquéz</surname>
+                        <forename>Fernando</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality cert="low">argentina/o</nationality>
+                </person>
+                <person xml:id="A210">
+                    <persName>
+                        <surname>Martínez Zuviría</surname>
+                        <forename>Gustavo</forename>
+                        <addName type="pseudonym">Hugo Wast</addName>
+                    </persName>
+                    <birth>
+                        <date when="1883-10-23">23 de octubre de 1883</date>
+                        <placeName>Córdoba</placeName>
+                        <placeName>Argentina</placeName>
+                    </birth>
+                    <death>
+                        <date when="1962-03-28">28 de marzo de 1962</date>
+                        <placeName>Buenos Aires</placeName>
+                    </death>
+                    <sex>masculino</sex>
+                    <nationality>argentina/o</nationality>
+                    <idno type="viaf">86824536</idno>
+                </person>
+                <person xml:id="A211">
+                    <persName>
+                        <surname>Massioti</surname>
+                        <forename>Antonio B.</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality cert="low">argentina/o</nationality>
+                </person>
+                <person xml:id="A212">
+                    <persName>
+                        <surname>Méndez</surname>
+                        <forename>Malaquias</forename>
+                    </persName>
+                    <birth>
+                        <date when="1859">1859</date>
+                    </birth>
+                    <sex>masculino</sex>
+                    <nationality cert="low">argentina/o</nationality>
+                </person>
+                <person xml:id="A213">
+                    <persName>
+                        <surname>Mercante</surname>
+                        <forename>Víctor</forename>
+                        <addName type="pseudonym">F. Scanavecchia</addName>
+                    </persName>
+                    <birth>
+                        <date when="1870">1870</date>
+                    </birth>
+                    <death>
+                        <date when="1934">1934</date>
+                    </death>
+                    <sex>masculino</sex>
+                    <nationality cert="low">argentina/o</nationality>
+                </person>
+                <person xml:id="A214">
+                    <persName>
+                        <surname>Miró</surname>
+                        <forename>José María</forename>
+                        <addName type="pseudonym">Julián Martel</addName>
+                    </persName>
+                    <birth>
+                        <date when="1867">1867</date>
+                    </birth>
+                    <death>
+                        <date when="1896">1896</date>
+                    </death>
+                    <sex>masculino</sex>
+                    <nationality>argentina/o</nationality>
+                </person>
+                <person xml:id="A215">
+                    <persName>
+                        <surname>Mitre</surname>
+                        <forename>Bartolomé</forename>
+                    </persName>
+                    <birth>
+                        <date when="1821">1821</date>
+                    </birth>
+                    <death>
+                        <date when="1906">1906</date>
+                    </death>
+                    <sex>masculino</sex>
+                    <nationality>argentina/o</nationality>
+                </person>
+                <person xml:id="A216">
+                    <persName>
+                        <surname>Mitre y Vedia</surname>
+                        <forename>Bartolomé</forename>
+                        <addName type="pseudonym">Claudio Caballero</addName>
+                    </persName>
+                    <birth>
+                        <date when="1845">1845</date>
+                    </birth>
+                    <death>
+                        <date when="1900">1900</date>
+                    </death>
+                    <sex>masculino</sex>
+                    <nationality>argentina/o</nationality>
+                </person>
+                <person xml:id="A217">
+                    <persName>
+                        <surname>Mohr</surname>
+                        <forename>Luis Alberto</forename>
+                    </persName>
+                    <birth>
+                        <date when="1844">1844</date>
+                    </birth>
+                    <death>
+                        <date when="1929">1929</date>
+                    </death>
+                    <sex>masculino</sex>
+                    <nationality>argentina/o</nationality>
+                </person>
+                <person xml:id="A218">
+                    <persName>
+                        <surname>Monroy</surname>
+                        <forename>Fabio</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality>argentina/o</nationality>
+                </person>
+                <person xml:id="A219">
+                    <persName>
+                        <surname>Morante</surname>
+                        <forename>Pedro G.</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality>argentina/o</nationality>
                 </person>
             </listPerson>
         </body>

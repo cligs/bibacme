@@ -2451,92 +2451,979 @@
                 </bibl>
                 <bibl xml:id="W392">
                     <author key="A161">Gorriti, Juana Manuela</author>
-                    <title>El lecho nupcial</title>
-                </bibl>
-                <bibl xml:id="W464">
-                    <author key="A161">Gorriti, Juana Manuela</author>
                     <title>El ramillete de la velada</title>
+                    <bibl><ptr target="#InternetArchive"/></bibl>
                 </bibl>
-                <bibl xml:id="W465">
+                <bibl xml:id="W393">
                     <author key="A161">Gorriti, Juana Manuela</author>
                     <title>El guante negro</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
                 </bibl>
-                <bibl xml:id="W466">
+                <bibl xml:id="W394">
                     <author key="A161">Gorriti, Juana Manuela</author>
                     <title>Si haces mal no esperes bien</title>
+                    <bibl><ptr target="#InternetArchive"/></bibl>
                 </bibl>
-                <bibl xml:id="W467">
+                <bibl xml:id="W395">
                     <author key="A161">Gorriti, Juana Manuela</author>
                     <title>El ángel caído</title>
                     <idno type="cligs">nh0169</idno>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
                 </bibl>
-                <bibl xml:id="W468">
+                <bibl xml:id="W396">
                     <author key="A161">Gorriti, Juana Manuela</author>
                     <title>Gubi-Amaya</title>
+                    <term type="subgenre_title">historia de un salteador</term>
                     <idno type="cligs">nh0178</idno>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
                 </bibl>
-                <bibl xml:id="W469">
+                <bibl xml:id="W397">
                     <author key="A161">Gorriti, Juana Manuela</author>
                     <title>La hija del mashorquero</title>
+                    <term type="subgenre_title">leyenda histórica</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
-                <bibl xml:id="W470">
-                    <author key="A161">Gorriti, Juana Manuela</author>
-                    <title>Una hora de coquetería</title>
-                </bibl>
-                <bibl xml:id="W471">
+                <bibl xml:id="W398">
                     <author key="A161">Gorriti, Juana Manuela</author>
                     <title>El tesoro de los Incas</title>
+                    <term type="subgenre_title">leyenda histórica</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
                 </bibl>
-                <bibl xml:id="W472">
+                <bibl xml:id="W399">
                     <author key="A161">Gorriti, Juana Manuela</author>
                     <title>La novia del muerto</title>
+                    <bibl><ptr target="#InternetArchive"/></bibl>
                 </bibl>
-                <bibl xml:id="W473">
-                    <author key="A161">Gorriti, Juana Manuela</author>
-                    <title>Quien escucha su mal oye</title>
-                </bibl>
-                <bibl xml:id="W474">
-                    <author key="A161">Gorriti, Juana Manuela</author>
-                    <title>Tres noches de una historia</title>
-                </bibl>
-                <bibl xml:id="W475">
-                    <author key="A161">Gorriti, Juana Manuela</author>
-                    <title>Un drama en el Adriático</title>
-                </bibl>
-                <bibl xml:id="W476">
-                    <author key="A161">Gorriti, Juana Manuela</author>
-                    <title>Una noche de agonía</title>
-                </bibl>
-                <bibl xml:id="W477">
+                <bibl xml:id="W400">
                     <author key="A161">Gorriti, Juana Manuela</author>
                     <title>Un año en California</title>
                     <title>Un viaje al país del oro</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
-                <bibl xml:id="W478">
+                <bibl xml:id="W401">
                     <author key="A161">Gorriti, Juana Manuela</author>
                     <title>Oasis en la vida</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
                 </bibl>
-                <bibl xml:id="W479">
+                <bibl xml:id="W402">
                     <author key="A161">Gorriti, Juana Manuela</author>
                     <title>La tierra natal</title>
                     <idno type="cligs">nh0042</idno>
+                    <bibl><ptr target="#HathiTrust"/></bibl>
                 </bibl>
-                <bibl xml:id="W480">
+                <bibl xml:id="W403">
                     <author key="A161">Gorriti, Juana Manuela</author>
                     <title>Peregrinaciones de un alma triste</title>
+                    <bibl><ptr target="#HathiTrust"/></bibl>
                 </bibl>
-                <bibl xml:id="W481">
+                <bibl xml:id="W404">
                     <author key="A161">Gorriti, Juana Manuela</author>
                     <title>Juez y verdugo</title>
                     <idno type="cligs">nh0043</idno>
+                    <bibl><ptr target="#HathiTrust"/></bibl>
                 </bibl>
-                <bibl xml:id="W482">
+                <bibl xml:id="W405">
                     <author key="A161">Gorriti, Juana Manuela</author>
                     <title>Feliza</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
                 </bibl>
-                <bibl xml:id="W483">
+                <bibl xml:id="W406">
                     <author key="A161">Gorriti, Juana Manuela</author>
                     <title>La leontina</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W407">
+                    <author key="A162">Grandmontagne, Francisco</author>
+                    <title>La maldonada</title>
+                    <term type="subgenre_title">costumbres criollas</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W408">
+                    <author key="A162">Grandmontagne, Francisco</author>
+                    <title>Teodoro Foronda</title>
+                    <term type="subgenre_title">evoluciones sobre la sociedad argentina</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W409">
+                    <author key="A162">Grandmontagne, Francisco</author>
+                    <title>Vivos, tilingos y locos lindos</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- comentario en LB -->
+                </bibl>
+                <bibl xml:id="W410">
+                    <author key="A163">Groussac, Paul</author>
+                    <title>Fruto vedado</title>
+                    <term type="subgenre_title">costumbres argentinas</term>
+                    <term type="subgenre_title">narración franco-argentina</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W411">
+                    <author key="A164">Guardiola, Matilde</author>
+                    <author key="A165">Pimentel, Eduardo</author>
+                    <title>Los amantes del pergamino</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W412">
+                    <author key="A166">Guerra, Rosa</author>
+                    <title>Julia o la educación</title>
+                    <term type="subgenre_title">novela didáctiva, en forma epistolar</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W413">
+                    <author key="A166">Guerra, Rosa</author>
+                    <title>Lucía Miranda</title>
+                    <idno type="cligs">nh0019</idno>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W414">
+                    <author key="A167">Guillo, Francisco</author>
+                    <title>La bandera del héroe</title>
+                    <term type="subgenre_title">episodios patrios</term>
+                    <term type="subgenre_title">historia novelada</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- comentario en LB -->
+                </bibl>
+                <bibl xml:id="W415">
+                    <author key="A167">Guillo, Francisco</author>
+                    <title>El combate de San Lorenzo</title>
+                    <term type="subgenre_title">episodios patrios</term>
+                    <term type="subgenre_title">historia novelada</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- comentario en LB -->
+                </bibl>
+                <bibl xml:id="W416">
+                    <author key="A167">Guillo, Francisco</author>
+                    <title>Conventillo de intelectuales</title>
+                    <term type="subgenre_title">novela de índole rebelde y de género naturalista que
+                        no deben leer las almas timoratas</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W417">
+                    <author key="A167">Guillo, Francisco</author>
+                    <title>La corte de don Juan Manuel de Rosas</title>
+                    <term type="subgenre_title">episodios patrios</term>
+                    <term type="subgenre_title">historia novelada</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- comentario en LB -->
+                </bibl>
+                <bibl xml:id="W418">
+                    <author key="A167">Guillo, Francisco</author>
+                    <title>Dantón y los federales</title>
+                    <term type="subgenre_title">episodios patrios</term>
+                    <term type="subgenre_title">historia novelada</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- comentario en LB -->
+                </bibl>
+                <bibl xml:id="W419">
+                    <author key="A167">Guillo, Francisco</author>
+                    <title>La tragedia de Santos Lugares</title>
+                    <term type="subgenre_title">episodios patrios</term>
+                    <term type="subgenre_title">historia novelada</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- comentario en LB -->
+                </bibl>
+                <bibl xml:id="W420">
+                    <author key="A167">Guillo, Francisco</author>
+                    <title>Vidalita</title>
+                    <term type="subgenre_title">episodios patrios</term>
+                    <term type="subgenre_title">historia novelada</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- comentario en LB -->
+                </bibl>
+                <bibl xml:id="W421">
+                    <author key="A168">Guindilla</author>
+                    <title>Dos niñas hechiceras</title>
+                    <term type="subgenre_title">novela original</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- comentario en LB -->
+                </bibl>
+                <bibl xml:id="W422">
+                    <author key="A169">Gutiérrez, Eduardo</author>
+                    <title>Amor funesto</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W423">
+                    <author key="A169">Gutiérrez, Eduardo</author>
+                    <title>Un capitán de ladrones en Buenos Aires</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W424">
+                    <author key="A169">Gutiérrez, Eduardo</author>
+                    <title>Los asesinos de Alvarez</title>
+                    <term type="subgenre_title">los grandes crímenes</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W425">
+                    <author key="A169">Gutiérrez, Eduardo</author>
+                    <title>Enterrados vivos</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W426">
+                    <author key="A169">Gutiérrez, Eduardo</author>
+                    <title>Astucia de una negra</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W427">
+                    <author key="A169">Gutiérrez, Eduardo</author>
+                    <title>Carlo Lanza</title>
+                    <term type="subgenre_title">dramas cómicos</term>
+                    <term type="subgenre_title">episodios curiosos</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W428">
+                    <author key="A169">Gutiérrez, Eduardo</author>
+                    <title>Lanza el gran banquero</title>
+                    <term type="subgenre_title">dramas cómicos</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W429">
+                    <author key="A169">Gutiérrez, Eduardo</author>
+                    <title>El Chacho</title>
+                    <idno type="cligs">nh0054</idno>
+                    <term type="subgenre_title">dramas militares</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W430">
+                    <author key="A169">Gutiérrez, Eduardo</author>
+                    <title>Los montoneros</title>
+                    <idno type="cligs">nh0055</idno>
+                    <term type="subgenre_title">dramas militares</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W431">
+                    <author key="A169">Gutiérrez, Eduardo</author>
+                    <title>El rastreador</title>
+                    <idno type="cligs">nh0009</idno>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W432">
+                    <author key="A169">Gutiérrez, Eduardo</author>
+                    <title>La muerte de un héroe</title>
+                    <idno type="cligs">nh0056</idno>
+                    <term type="subgenre_title">dramas militares</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W433">
+                    <author key="A169">Gutiérrez, Eduardo</author>
+                    <title>Una demanda curiosa</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W434">
+                    <author key="A169">Gutiérrez, Eduardo</author>
+                    <title>Doña Dominga Rivadavia</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W435">
+                    <author key="A169">Gutiérrez, Eduardo</author>
+                    <title>Infamias de una madre</title>
+                    <term type="subgenre_title">los grandes crímenes</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W436">
+                    <author key="A169">Gutiérrez, Eduardo</author>
+                    <title>Don Juan Manuel de Rosas</title>
+                    <term type="subgenre_title">dramas del terror</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W437">
+                    <author key="A169">Gutiérrez, Eduardo</author>
+                    <title>La Mazorca</title>
+                    <term type="subgenre_title">dramas del terror</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- comentario en LB -->
+                </bibl>
+                <bibl xml:id="W438">
+                    <author key="A169">Gutiérrez, Eduardo</author>
+                    <title>Una tragedia de doce años</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W439">
+                    <author key="A169">Gutiérrez, Eduardo</author>
+                    <title>El puñal del tirano</title>
+                    <term type="subgenre_title">dramas del terror</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W440">
+                    <author key="A169">Gutiérrez, Eduardo</author>
+                    <title>Los grandes ladrones</title>
+                    <term type="subgenre_title">dramas policiales</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- comentario en LB -->
+                </bibl>
+                <bibl xml:id="W441">
+                    <author key="A169">Gutiérrez, Eduardo</author>
+                    <title>Los hermanos Barrientos</title>
+                    <term type="subgenre_title">dramas policiales</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W442">
+                    <author key="A169">Gutiérrez, Eduardo</author>
+                    <title>Hormiga Negra</title>
+                    <term type="subgenre_title">dramas policiales</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W443">
+                    <author key="A169">Gutiérrez, Eduardo</author>
+                    <title>Ignacio Monges</title>
+                    <term type="subgenre_title">dramas policiales</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W444">
+                    <author key="A169">Gutiérrez, Eduardo</author>
+                    <title>El jorobado</title>
+                    <term type="subgenre_title">dramas policiales</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- comentario en LB -->
+                </bibl>
+                <bibl xml:id="W445">
+                    <author key="A169">Gutiérrez, Eduardo</author>
+                    <title>Juan Cuello</title>
+                    <term type="subgenre_title">dramas policiales</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W446">
+                    <author key="A169">Gutiérrez, Eduardo</author>
+                    <title>Juan Moreira</title>
+                    <idno type="cligs">nh0053</idno>
+                    <term type="subgenre_title">dramas policiales</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W447">
+                    <author key="A169">Gutiérrez, Eduardo</author>
+                    <title>Juan sin patria</title>
+                    <term type="subgenre_title">dramas militares</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W448">
+                    <author key="A169">Gutiérrez, Eduardo</author>
+                    <title>Nicanora Fernández</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W449">
+                    <author key="A169">Gutiérrez, Eduardo</author>
+                    <title>Pastor Luna</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W450">
+                    <author key="A169">Gutiérrez, Eduardo</author>
+                    <title>Santos Vega</title>
+                    <term type="subgenre_title">dramas policiales</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W451">
+                    <author key="A169">Gutiérrez, Eduardo</author>
+                    <title>Una amistad hasta la muerte</title>
+                    <term type="subgenre_title">dramas policiales</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W452">
+                    <author key="A169">Gutiérrez, Eduardo</author>
+                    <title>Los siete bravos</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W453">
+                    <author key="A169">Gutiérrez, Eduardo</author>
+                    <title>El tigre del Quequén</title>
+                    <term type="subgenre_title">dramas policiales</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W454">
+                    <author key="A169">Gutiérrez, Eduardo</author>
+                    <title>Un viaje infernal</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W455">
+                    <author key="A169">Gutiérrez, Eduardo</author>
+                    <title>La muerte de Buenos Aires</title>
+                    <term type="subgenre_title">epopeya</term>
+                    <bibl><ptr target="#HathiTrust"/></bibl>
+                </bibl>
+                <bibl xml:id="W456">
+                    <author key="A170">Gutiérrez, Juan María</author>
+                    <title>El Capitán de Patricios</title>
+                    <idno type="cligs">nh0040</idno>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W457">
+                    <author key="A171">Gutiérrez, Ricardo</author>
+                    <title>Cristián</title>
+                    <note type="subgenre_lithist" source="#Lichtblau">Simple romantic story of a
+                        young musician, Cristián, who falls in love with his sister-in-law</note>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W458">
+                    <author key="A172">Gutiérrez, Tomás</author>
+                    <title>Carlota o la hija del pescador</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W459">
+                    <author key="A172">Gutiérrez, Tomás</author>
+                    <title>El destino, o la venganza de una mujer</title>
+                    <term type="subgenre_title">novela original</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W460">
+                    <author key="A172">Gutiérrez, Tomás</author>
+                    <title>La maldición o el compadrito</title>
+                    <term type="subgenre_title">páginas literarias</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W461">
+                    <author key="A173">Herrero, José Aurelio</author>
+                    <title>Defensa del celebérrimo escritor Veterano Aforismos, hecha en últimas
+                        instancia por el no menos célebre abogado del foro de Mar-Chiquita, Don José
+                        Aurelio Herrero (Alias Teseo)</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W462">
+                    <author key="A174">Higginson, Ricardo Ciro</author>
+                    <title>Bárbaros</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W463">
+                    <author key="A174">Higginson, Ricardo Ciro</author>
+                    <title>La danza de la muerte</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W464">
+                    <author key="A175">Holmberg, Eduardo Ladislao</author>
+                    <title>La bolsa de huesos</title>
+                    <idno type="cligs">nh0186</idno>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W465">
+                    <author key="A175">Holmberg, Eduardo Ladislao</author>
+                    <title>La casa endiablada</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W466">
+                    <author key="A175">Holmberg, Eduardo Ladislao</author>
+                    <title>Dos partidos en lucha</title>
+                    <term type="subgenre_title">fantasía científica</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W467">
+                    <author key="A175">Holmberg, Eduardo Ladislao</author>
+                    <title>Nelly</title>
+                    <idno type="cligs">nh0187</idno>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W468">
+                    <author key="A175">Holmberg, Eduardo Ladislao</author>
+                    <title>Viaje maravilloso del Sr. Nic-Nac al planeta Marte</title>
+                    <idno type="cligs">nh0185</idno>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W469">
+                    <author key="A175">Holmberg, Eduardo Ladislao</author>
+                    <title>El tipo más original</title>
+                    <idno type="cligs">nh0189</idno>
+                    <bibl><ptr target="#Holmberg"/></bibl>
+                </bibl>
+                <bibl xml:id="W470">
+                    <author key="A176">Ingalik</author>
+                    <title>El romance de otro médico</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W471">
+                    <author key="A177">Iribuen, Juan</author>
+                    <title>Un joven argentino</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W472">
+                    <author key="A178">Juglaris, Enrique Juan</author>
+                    <title>La bella Emilia</title>
+                    <term type="subgenre_title">novela histórica de mis tiempos</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W473">
+                    <author key="A179">Labastié, Luis</author>
+                    <title>El cuento del tío</title>
+                    <term type="subgenre_title">novela histórica</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W474">
+                    <author key="A180">Laggar, Mary</author>
+                    <title>El ansiado nombramiento político</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W475">
+                    <author key="A181">Lamas, Pedro S.</author>
+                    <title>Silvia</title>
+                    <term type="subgenre_title">episodios de la Guerra de la Independencia
+                        Americana</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W476">
+                    <author key="A182">Lannot, León</author>
+                    <title>Paola, la hija del misionero</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W477">
+                    <author key="A183">Lapuente, Laurindo</author>
+                    <title>La aerostática en Buenos Aires</title>
+                    <term type="subgenre_title">capricho crítico, histórico y novelesco</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W478">
+                    <author key="A183">Lapuente, Laurindo</author>
+                    <title>El Herminio de la Nueva Troya</title>
+                    <term type="subgenre_title">novela histórica contemporánea</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W479">
+                    <author key="A183">Lapuente, Laurindo</author>
+                    <title>Virtud y amor hasta la tumba</title>
+                    <term type="subgenre_title">novela original</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W480">
+                    <author key="A184">Larrain, Nicanor</author>
+                    <title>El alma de Jesús Pérez, o la justicia del terror</title>
+                    <term type="subgenre_title">novela histórica, filosófico-jurídica</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W481">
+                    <author key="A185">Larreta, Enrique</author>
+                    <title>Artemis</title>
+                    <note type="subgenre_lithist" source="#Lichtblau">un cuadro pintoresco de la
+                        Grecia antigua</note>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W482">
+                    <author key="A185">Larreta, Enrique</author>
+                    <title>La gloria de Don Ramiro</title>
+                    <term type="subgenre_title">una vida en tiempos de Felipe Segundo</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W483">
+                    <author key="A186">Larrosa de Ansaldo, Lola</author>
+                    <title>Los esposos</title>
+                    <note type="subgenre_lithist" source="#Lichtblau">a cloyingly romantic
+                        novel</note>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W484">
+                    <author key="A186">Larrosa de Ansaldo, Lola</author>
+                    <title>¡Hija mía!</title>
+                    <note type="subgenre_lithist" source="#Lichtblau">Late romantic, moralistic,
+                        didactic, overly sentimental novel</note>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W485">
+                    <author key="A186">Larrosa de Ansaldo, Lola</author>
+                    <title>El lujo</title>
+                    <note type="subgenre_lithist" source="#Lichtblau">Pre-arranged marriages, big
+                        city life vs. small town life, materialistic goals, the simple pleasures of
+                        home</note>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W486">
+                    <author key="A186">Larrosa de Ansaldo, Lola</author>
+                    <title>Las obras de misericordia</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W487">
+                    <author key="A187">Lavalle Cobo, Jorge</author>
+                    <title>Voces perdidas</title><!-- Sammlung! -->
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W488">
+                    <author key="A188">Leguizamón, Martiniano</author>
+                    <title>Montaraz</title>
+                    <term type="subgenre_title">costumbres argentinas</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W489">
+                    <author key="A189">Lehardy, Karl</author>
+                    <title>Clelia</title>
+                    <term type="subgenre_lithist" ref="#Lichtblau">novela de costumbres
+                        contemporáneas</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W490">
+                    <author key="A190">Loiseau, Ernesto O.</author>
+                    <title>Hojas de mirto</title>
+                    <term type="subgenre_title">novela original</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W491">
+                    <author key="A191">López, Enrique</author>
+                    <title>El indicador positivista, o la novela enciclopédica</title>
+                    <term type="subgenre_title">novela original</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W492">
+                    <author key="A192">López, Lucio Vicente</author>
+                    <title>La gran aldea</title>
+                    <term type="subgenre_title">costumbres bonaerenses</term>
+                    <idno type="cligs">nh0027</idno>
+                    <!-- resumen en LB -->
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W493">
+                    <author key="A193">López, Vicente Fidel</author>
+                    <title>La novia del hereje o La Inquisición de Lima</title>
+                    <idno type="cligs">nh0035</idno>
+                    <term type="subgenre_lithist" ref="#Lichtblau">relato histórico</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W494">
+                    <author key="A193">López, Vicente Fidel</author>
+                    <title>La Gran Semana de mayo</title>
+                    <term type="subgenre_title">crónica</term>
+                    <term type="subgenre_lithist" ref="#Lichtblau">relato histórico</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W495">
+                    <author key="A193">López, Vicente Fidel</author>
+                    <title>La loca de la guardia</title>
+                    <idno type="cligs">nh0037</idno>
+                    <term type="subgenre_lithist" ref="#Lichtblau">relato histórico</term>
+                    <term type="subgenre_title">cuento histórico</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W496">
+                    <author key="A194">López Torres, Francisco</author>
+                    <title>La huérfana de Pago Largo</title>
+                    <term type="subgenre_title">novela histórica original</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W497">
+                    <author key="A194">López Torres, Francisco</author>
+                    <title>La virgen de Lima</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W498">
+                    <author key="A195">Lucas, Miguel</author>
+                    <title>La carta</title>
+                    <term type="subgenre_title">cuadros sociales</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W499">
+                    <author key="A195">Lucas, Miguel</author>
+                    <title>Los descamisados – entre bastidores</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W500">
+                    <author key="A195">Lucas, Miguel</author>
+                    <title>La reconquista de mi novia</title>
+                    <term type="subgenre_title">cuadros sociales</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W501">
+                    <author key="A196">Lugones, Leopoldo</author>
+                    <title>La guerra gaucha</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W502">
+                    <author key="A197">Lussich, Juan</author>
+                    <title>El crimen de Barracas – la mujer embarrilada</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W503">
+                    <author key="A198">Lynch, Benito</author>
+                    <title>Plata dorada</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W504">
+                    <author key="A199">Llanos, Julio</author>
+                    <title>Agustina de Libarona</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W505">
+                    <author key="A199">Llanos, Julio</author>
+                    <title>Ofelia</title>
+                    <title type="alt">Arturo Sierra</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W506">
+                    <author key="A199">Llanos, Julio</author>
+                    <title>Camila O'Gorman</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W507">
+                    <author key="A199">Llanos, Julio</author>
+                    <title>El capitán Morillo – últimas víctimas de Rosas</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W508">
+                    <author key="A199">Llanos, Julio</author>
+                    <title>Un drama conyugal</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W509">
+                    <author key="A199">Llanos, Julio</author>
+                    <title>La número 35</title>
+                    <term type="subgenre_title">cuadros sociales</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W510">
+                    <author key="A199">Llanos, Julio</author>
+                    <title>El pirata del hogar</title>
+                    <term type="subgenre_title">dramas sociales</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W511">
+                    <author key="A200">Machali, Ramón</author>
+                    <title>Emilia, o los efectos del coquetismo</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W512">
+                    <author key="A201">Maino, Pedro</author>
+                    <title>Crimen de muchos</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W513">
+                    <author key="A201">Maino, Pedro</author>
+                    <title>Muerte y vida</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W514">
+                    <author key="A202">Mansilla, Lucio Victorio</author>
+                    <title>Una excursión a los indios ranqueles</title>
+                    <idno type="cligs">nh0020</idno>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W515">
+                    <author key="A203">Mansilla de García, Eduarda</author>
+                    <title>Un amor</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W516">
+                    <author key="A203">Mansilla de García, Eduarda</author>
+                    <title>Lucía Miranda</title>
+                    <term type="subgenre_title">novela sacada de la historia argentina</term>
+                    <idno type="cligs">nh0025</idno>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W517">
+                    <author key="A203">Mansilla de García, Eduarda</author>
+                    <title>El médico de San Luis</title>
+                    <idno type="cligs">nh0024</idno>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W518">
+                    <author key="A203">Mansilla de García, Eduarda</author>
+                    <title>Pablo, o la vida en las pampas</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W519">
+                    <author key="A203">Mansilla de García, Eduarda</author>
+                    <title>Tío Antonio</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W520">
+                    <author key="A204">Manso de Noronha, Juana</author>
+                    <title>La familia del Comendador</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W521">
+                    <author key="A204">Manso de Noronha, Juana</author>
+                    <title>Los misterios del Plata</title>
+                    <title type="alt">Guerras civiles del Río de la Plata</title>
+                    <term type="subgenre_title">novela histórica original</term>
+                    <term type="subgenre_title">episodios históricos</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W522">
+                    <author key="A205">Mármol, José</author>
+                    <title>Amalia</title>
+                    <term type="subgenre_title">novela histórica americana</term>
+                    <idno type="cligs">nh0017</idno>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W523">
+                    <author key="A205">Mármol, José</author>
+                    <title>El señor Anrumarrieta</title>
+                    <bibl><ptr target="#CervantesVirtual"/></bibl>
+                </bibl>
+                <bibl xml:id="W524">
+                    <author key="A206">Marqués, Gervasio</author>
+                    <title>En la sierra</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W525">
+                    <author key="A206">Marqués, Gervasio</author>
+                    <title>La liga</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W526">
+                    <author key="A207">Marqués, Teodoro Y.</author>
+                    <title>La tragedia de la vida</title>
+                    <term type="subgenre_title">novela histórica contemporánea</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W527">
+                    <author key="A208">Marquéz, Coriolano</author>
+                    <title>El pirata, o la familia de los condes de Osorno</title>
+                    <term type="subgenre_title">novela histórica</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W528">
+                    <author key="A209">Marquéz, Fernando</author>
+                    <title>La Isla Paraíso</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W529">
+                    <author key="A210">Martínez Zuviría, Gustavo</author>
+                    <title>Alegre</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W530">
+                    <author key="A210">Martínez Zuviría, Gustavo</author>
+                    <title>Pequeñas grandes almas</title>
+                    <term type="subgenre_title">novela de costumbres americanas</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W531">
+                    <author key="A211">Massioti, Antonio B.</author>
+                    <title>Tierra y cielo</title>
+                    <term type="subgenre_title">estudio social bonaerense</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W532">
+                    <author key="A212">Méndez, Malaquias</author>
+                    <title>Lucía</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W533">
+                    <author key="A212">Méndez, Malaquias</author>
+                    <title>Una tumba en la selva</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W534">
+                    <author key="A213">Mercante, Víctor</author>
+                    <title>Los estudiantes</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W535">
+                    <author key="A214">Miró, José María</author>
+                    <title>La bolsa</title>
+                    <term type="subgenre_title">estudio social</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W536">
+                    <author key="A215">Mitre, Bartolomé</author>
+                    <title>Soledad</title>
+                    <term type="subgenre_title">novela original</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W537">
+                    <author key="A216">Mitre y Vedia, Bartolomé</author>
+                    <title>Desde la tipa–impresiones de un preso por desacato</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W538">
+                    <author key="A217">Mohr, Luis Alberto</author>
+                    <title>Alberto Trejo–¿castigo del cielo o justicia de la tierra?</title>
+                    <term type="subgenre_title">historia de la vida íntima</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W539">
+                    <author key="A217">Mohr, Luis Alberto</author>
+                    <title>Verdad y ficción</title>
+                    <note type="subgenre_lithist" source="#Lichtblau">Crítica de vida social y
+                        política.</note>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W540">
+                    <author key="A218">Monroy, Fabio</author>
+                    <title>El ángel de la virtud</title>
+                    <term type="subgenre_title">novela original</term>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
+                </bibl>
+                <bibl xml:id="W541">
+                    <author key="A219">Morante, Pedro G.</author>
+                    <title>Grandezas</title>
+                    <bibl><ptr target="#Lichtblau"/></bibl>
+                    <!-- resumen en LB -->
                 </bibl>
             </listBibl>
         </body>
