@@ -16,11 +16,13 @@
                 <publisher>
                     <ref target="http://cligs.hypotheses.org/">CLiGS</ref>
                 </publisher>
+                <pubPlace>Würzburg</pubPlace>
+                <date when="2017">2017</date>
+                <idno type="url">http://bibacme.cligs.digital-humanities.de/</idno>
                 <availability status="free">
                     <licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA
                         4.0</licence>
                 </availability>
-                <date when="2017">2017</date>
             </publicationStmt>
             <sourceDesc>
                 <p>La lista contiene nacionalidades de los autores reunidos en esta
@@ -52,6 +54,11 @@
                     <term type="female">española</term>
                 </item>
                 <item>
+                    <term type="general">francés/a</term>
+                    <term type="male">francés</term>
+                    <term type="female">francesa</term>
+                </item>
+                <item>
                     <term type="general">mexicana/o</term>
                     <term type="male">mexicano</term>
                     <term type="female">mexicana</term>
@@ -68,6 +75,8 @@
                 </item>
                 <item>
                     <term type="general">desconocido</term>
+                    <term type="male">desconocido</term>
+                    <term type="female">desconocido</term>
                 </item>
             </list>
         </body>

@@ -92,24 +92,6 @@
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">120148207996200342512</idno>
                 </person>
-                <person xml:id="A4">
-                    <persName>
-                        <surname>Almazán</surname>
-                        <forename>Pascual</forename>
-                    </persName>
-                    <birth>
-                        <date when="1813">1813</date>
-                        <placeName>México</placeName>
-                    </birth>
-                    <death>
-                        <date when="1886-10-12">12 de octubre 1886</date>
-                        <placeName>Puebla</placeName>
-                        <placeName>México</placeName>
-                    </death>
-                    <sex>masculino</sex>
-                    <nationality>mexicana/o</nationality>
-                    <idno type="viaf">7476121</idno>
-                </person>
                 <person xml:id="A5">
                     <persName>
                         <surname>Altamirano</surname>
@@ -1001,18 +983,6 @@
                     <sex>femenino</sex>
                     <nationality cert="low">argentina/o</nationality>
                 </person>
-                <person xml:id="A78">
-                    <persName>
-                        <!-- oder: Ochagavia, Rufina Margarita? bei Lichtblau sowohl unter R als auch O -->
-                        <surname>Rufina Ochagavia</surname>
-                        <forename>Margarita</forename>
-                    </persName>
-                    <birth>
-                        <date when="1840">1840</date>
-                    </birth>
-                    <sex>femenino</sex>
-                    <nationality cert="low">argentina/o</nationality>
-                </person>
                 <person xml:id="A79">
                     <persName>
                         <surname>Quesada</surname>
@@ -1154,81 +1124,6 @@
                     <sex>masculino</sex>
                     <nationality cert="low">argentina/o</nationality>
                 </person>
-                <person xml:id="A89">
-                    <persName>
-                        <surname>Ocantos</surname>
-                        <forename>Carlos María</forename>
-                    </persName>
-                    <birth>
-                        <date when="1860">1860</date>
-                    </birth>
-                    <death>
-                        <date when="1949">1949</date>
-                    </death>
-                    <sex>masculino</sex>
-                    <nationality cert="low">argentina/o</nationality>
-                </person>
-                <person xml:id="A90">
-                    <persName>
-                        <surname>Olascoaga</surname>
-                        <forename>Manuel J.</forename>
-                        <addName type="pseudonym">Mapuche</addName>
-                    </persName>
-                    <birth>
-                        <date when="1835">1835</date>
-                    </birth>
-                    <death>
-                        <date when="1911">1911</date>
-                    </death>
-                    <sex>masculino</sex>
-                    <nationality cert="low">argentina/o</nationality>
-                </person>
-                <person xml:id="A91">
-                    <persName>
-                        <surname>Oliveira Cézar</surname>
-                        <forename>Filiberto de</forename>
-                    </persName>
-                    <birth>
-                        <date when="1856">1856</date>
-                    </birth>
-                    <death>
-                        <date when="1910">1910</date>
-                    </death>
-                    <sex>masculino</sex>
-                    <nationality cert="low">argentina/o</nationality>
-                </person>
-                <person xml:id="A92">
-                    <persName>
-                        <surname>Ortega</surname>
-                        <forename>Enrique</forename>
-                    </persName>
-                    <birth>
-                        <date when="1847">1847</date>
-                        <placeName>España</placeName>
-                    </birth>
-                    <death>
-                        <date when="1912">1912</date>
-                        <placeName>Argentina</placeName>
-                    </death>
-                    <sex>masculino</sex>
-                    <nationality cert="low">español/a</nationality>
-                </person>
-                <person xml:id="A93">
-                    <persName>
-                        <surname>Otamendi</surname>
-                        <forename>Roque C.</forename>
-                    </persName>
-                    <sex>masculino</sex>
-                    <nationality cert="low">argentina/o</nationality>
-                </person>
-                <person xml:id="A94">
-                    <persName>
-                        <surname>Oteyza Bustamante</surname>
-                        <forename>José</forename>
-                    </persName>
-                    <sex>masculino</sex>
-                    <nationality cert="low">argentina/o</nationality>
-                </person>
                 <person xml:id="A99">
                     <persName>
                         <surname>Merlin</surname>
@@ -1270,25 +1165,6 @@
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">54234356</idno>
                 </person>
-                <person xml:id="A105">
-                    <persName>
-                        <surname>Paz</surname>
-                        <forename>Ireneo</forename>
-                    </persName>
-                    <birth>
-                        <date when="1836-07-03">3 de julio de 1836</date>
-                        <placeName>Guadalajara</placeName>
-                        <placeName>México</placeName>
-                    </birth>
-                    <death>
-                        <date when="1924-11-04">4 de noviembre de 1924</date>
-                        <placeName>Mixcoac</placeName>
-                        <placeName>México</placeName>
-                    </death>
-                    <sex>masculino</sex>
-                    <nationality>mexicana/o</nationality>
-                    <idno type="viaf">56630916</idno>
-                </person>
                 <person xml:id="A107">
                     <persName>
                         <surname>Guerrero Pallarés</surname>
@@ -1323,42 +1199,6 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">29564117</idno>
-                </person>
-                <person xml:id="A112">
-                    <persName>
-                        <surname>Napolitano</surname>
-                        <forename>Leonardo</forename>
-                    </persName>
-                    <birth>
-                        <date when="1885">1885</date>
-                    </birth>
-                    <death>
-                        <date when="1956">1956</date>
-                    </death>
-                    <sex>masculino</sex>
-                    <nationality>argentina/o</nationality>
-                </person>
-                <person xml:id="A113">
-                    <persName>
-                        <surname>Nieves</surname>
-                        <forename>Manuel María</forename>
-                    </persName>
-                    <birth>
-                        <placeName>España</placeName>
-                    </birth>
-                    <death>
-                        <placeName>Argentina</placeName>
-                    </death>
-                    <sex>masculino</sex>
-                    <nationality cert="low">español/a</nationality>
-                </person>
-                <person xml:id="A114">
-                    <persName>
-                        <surname>Noguera</surname>
-                        <forename>Bernardino</forename>
-                    </persName>
-                    <sex>masculino</sex>
-                    <nationality>argentina/o</nationality>
                 </person>
                 <person xml:id="A131">
                     <persName>

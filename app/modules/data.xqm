@@ -57,6 +57,22 @@ declare function data:get-first-edition-year($work-id as xs:string) as xs:string
 };
 
 
+declare function data:get-decade-from-year($year as xs:integer) as xs:integer{
+    let $decs := for $dec at $pos in $app:decades
+                 return 
+                    if ($pos gt 1)
+                    then
+                        if (number($app:decades[$pos - 1]) lt $year and $year le number($dec))
+                        then number($dec) 
+                        else 0
+                    else 
+                        if ($year le number($dec))
+                        then number($dec)
+                        else 0
+    return max($decs)
+};
+
+
 declare function data:get-first-edition-decade($work-id as xs:string) as xs:string{
     (: fetch the decade of the first edition :)
     let $edition-dates := data:get-work-editions($work-id)//tei:date
@@ -64,7 +80,7 @@ declare function data:get-first-edition-decade($work-id as xs:string) as xs:stri
                            let $edition-year := data:get-edition-year($date)
                            return $edition-year
     let $year-first-ed := min($edition-years)
-    let $dec-first-ed := concat(substring($year-first-ed,1,3),"0")
+    let $dec-first-ed := xs:string(data:get-decade-from-year($year-first-ed))
     return $dec-first-ed 
 };
 
@@ -72,7 +88,7 @@ declare function data:get-first-edition-decade($work-id as xs:string) as xs:stri
 declare function data:get-edition-decade($date as node()) as xs:string{
     (: get the decade of the edition :)
     let $year := data:get-edition-year($date)
-    let $dec := concat(substring($year,1,3),"0")
+    let $dec := xs:string(data:get-decade-from-year($year))
     return $dec
 };
 

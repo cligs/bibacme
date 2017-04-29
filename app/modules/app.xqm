@@ -5,13 +5,14 @@ module namespace app="http://localhost/app";
 
 declare namespace tei="http://www.tei-c.org/ns/1.0";
 declare default collation "?lang=es";
-declare variable $app:root := "/db/apps/bib-acme";
-declare variable $app:home := "/apps/bib-acme";
+declare variable $app:root := "/db/apps/bibacme";
+declare variable $app:home := "/exist/apps/bibacme";
 declare variable $app:works := doc(concat($app:root, "/data/works.xml"))//tei:listBibl/tei:bibl;
 declare variable $app:authors := doc(concat($app:root, "/data/authors.xml"))//tei:person;
 declare variable $app:editions := doc(concat($app:root, "/data/editions.xml"))//tei:listBibl/tei:biblStruct;
 declare variable $app:sources := doc(concat($app:root, "/data/sources.xml"))//tei:bibl;
-declare variable $app:decades := ("1830", "1840", "1850", "1860", "1870", "1880", "1890", "1900", "1910");
+declare variable $app:decades := ("1840", "1850", "1860", "1870", "1880", "1890", "1900", "1910");
+declare variable $app:decade-labels := ("1830-1840", "1841-1850", "1851-1860", "1861-1870", "1871-1880", "1881-1890", "1891-1900", "1901-1910");
 declare variable $app:countries := doc(concat($app:root, "/data/countries.xml"))//tei:listPlace/tei:place;
 declare variable $app:nationalities := doc(concat($app:root, "/data/nationalities.xml"))//tei:item;
 declare variable $app:alphabet := ("A", "B", "C", "CH", "D", "E", "F", "G", "H", "I", "J", "K", "L", "LL",
@@ -55,23 +56,23 @@ declare function app:authors($currpage as numeric, $currnationality as xs:string
             <ul>
                 <li>Páginas:</li>
                 {if ($currpage > 3)
-                 then <li><a href="{$app:home}/autores?p=1&amp;nacionalidad={$currnationality}&amp;decada={$currdecade}&amp;pais={$currcountry}">1</a> ...</li>
+                 then <li><a href="{$app:home}/autores?p=1&amp;nacionalidad={$currnationality}&amp;decada={$currdecade}&amp;pais={$currcountry}&amp;letra={$currletter}">1</a> ...</li>
                  else (),
                  if ($currpage > 2)
-                 then <li><a href="{$app:home}/autores?p={$currpage - 2}&amp;nacionalidad={$currnationality}&amp;decada={$currdecade}&amp;pais={$currcountry}">{$currpage - 2}</a></li>
+                 then <li><a href="{$app:home}/autores?p={$currpage - 2}&amp;nacionalidad={$currnationality}&amp;decada={$currdecade}&amp;pais={$currcountry}&amp;letra={$currletter}">{$currpage - 2}</a></li>
                  else(),
                  if ($currpage > 1)
-                 then <li><a href="{$app:home}/autores?p={$currpage - 1}&amp;nacionalidad={$currnationality}&amp;decada={$currdecade}&amp;pais={$currcountry}">{$currpage - 1}</a></li>
+                 then <li><a href="{$app:home}/autores?p={$currpage - 1}&amp;nacionalidad={$currnationality}&amp;decada={$currdecade}&amp;pais={$currcountry}&amp;letra={$currletter}">{$currpage - 1}</a></li>
                  else (),
                  <li>{$currpage}</li>,
                  if ($currpage < $num-pages)
-                 then <li><a href="{$app:home}/autores?p={$currpage + 1}&amp;nacionalidad={$currnationality}&amp;decada={$currdecade}&amp;pais={$currcountry}">{$currpage + 1}</a></li>
+                 then <li><a href="{$app:home}/autores?p={$currpage + 1}&amp;nacionalidad={$currnationality}&amp;decada={$currdecade}&amp;pais={$currcountry}&amp;letra={$currletter}">{$currpage + 1}</a></li>
                  else(),
                  if ($currpage < $num-pages - 1)
-                 then <li><a href="{$app:home}/autores?p={$currpage + 2}&amp;nacionalidad={$currnationality}&amp;decada={$currdecade}&amp;pais={$currcountry}">{$currpage + 2}</a></li>
+                 then <li><a href="{$app:home}/autores?p={$currpage + 2}&amp;nacionalidad={$currnationality}&amp;decada={$currdecade}&amp;pais={$currcountry}&amp;letra={$currletter}">{$currpage + 2}</a></li>
                  else (),
                  if ($currpage < $num-pages - 2)
-                 then <li>... <a href="{$app:home}/autores?p={$num-pages}&amp;nacionalidad={$currnationality}&amp;decada={$currdecade}&amp;pais={$currcountry}">{$num-pages}</a></li>
+                 then <li>... <a href="{$app:home}/autores?p={$num-pages}&amp;nacionalidad={$currnationality}&amp;decada={$currdecade}&amp;pais={$currcountry}&amp;letra={$currletter}">{$num-pages}</a></li>
                  else()}
             </ul>
             else <p>No hay resultados para esta búsqueda.</p>}
@@ -100,12 +101,13 @@ declare function app:authors($currpage as numeric, $currnationality as xs:string
             </select>
             <select name="decada" onchange="this.form.submit()">
                 <option class="default" value="">década</option>
-                {for $dec in $app:decades
+                {for $dec at $pos in $app:decades
+                let $dec-label := $app:decade-labels[$pos]
                 return
-                    <option>
+                    <option value="{$dec}">
                         {if ($dec = $currdecade)
                         then attribute selected {"selected"}
-                        else ()}{$dec}
+                        else ()}{$dec-label}
                     </option>}
             </select>
             <select name="pais" onchange="this.form.submit()">
@@ -212,20 +214,20 @@ declare function app:works($currpage as numeric, $currauthor as xs:string?, $cur
                  then <li><a href="{$app:home}/obras?p=1&amp;autor={$currauthor}&amp;decada={$currdecade}&amp;pais={$currcountry}">1</a> ...</li>
                  else (),
                  if ($currpage > 2)
-                 then <li><a href="{$app:home}/obras?p={$currpage - 2}&amp;autor={$currauthor}&amp;decada={$currdecade}&amp;pais={$currcountry}">{$currpage - 2}</a></li>
+                 then <li><a href="{$app:home}/obras?p={$currpage - 2}&amp;autor={$currauthor}&amp;decada={$currdecade}&amp;pais={$currcountry}&amp;letra={$currletter}">{$currpage - 2}</a></li>
                  else(),
                  if ($currpage > 1)
-                 then <li><a href="{$app:home}/obras?p={$currpage - 1}&amp;autor={$currauthor}&amp;decada={$currdecade}&amp;pais={$currcountry}">{$currpage - 1}</a></li>
+                 then <li><a href="{$app:home}/obras?p={$currpage - 1}&amp;autor={$currauthor}&amp;decada={$currdecade}&amp;pais={$currcountry}&amp;letra={$currletter}">{$currpage - 1}</a></li>
                  else (),
                  <li>{$currpage}</li>,
                  if ($currpage < $num-pages)
-                 then <li><a href="{$app:home}/obras?p={$currpage + 1}&amp;autor={$currauthor}&amp;decada={$currdecade}&amp;pais={$currcountry}">{$currpage + 1}</a></li>
+                 then <li><a href="{$app:home}/obras?p={$currpage + 1}&amp;autor={$currauthor}&amp;decada={$currdecade}&amp;pais={$currcountry}&amp;letra={$currletter}">{$currpage + 1}</a></li>
                  else(),
                  if ($currpage < $num-pages - 1)
-                 then <li><a href="{$app:home}/obras?p={$currpage + 2}&amp;autor={$currauthor}&amp;decada={$currdecade}&amp;pais={$currcountry}">{$currpage + 2}</a></li>
+                 then <li><a href="{$app:home}/obras?p={$currpage + 2}&amp;autor={$currauthor}&amp;decada={$currdecade}&amp;pais={$currcountry}&amp;letra={$currletter}">{$currpage + 2}</a></li>
                  else (),
                  if ($currpage < $num-pages - 2)
-                 then <li>... <a href="{$app:home}/obras?p={$num-pages}&amp;autor={$currauthor}&amp;decada={$currdecade}&amp;pais={$currcountry}">{$num-pages}</a></li>
+                 then <li>... <a href="{$app:home}/obras?p={$num-pages}&amp;autor={$currauthor}&amp;decada={$currdecade}&amp;pais={$currcountry}&amp;letra={$currletter}">{$num-pages}</a></li>
                  else()}
             </ul>
             else <p>No hay resultados para esta búsqueda.</p>}
@@ -268,12 +270,13 @@ declare function app:works($currpage as numeric, $currauthor as xs:string?, $cur
             </select>
             <select name="decada" onchange="this.form.submit()">
                 <option class="default" value="">década</option>
-                {for $dec in $app:decades
+                {for $dec at $pos in $app:decades
+                let $dec-label := $app:decade-labels[$pos]
                 return
-                    <option>
+                    <option value="{$dec}">
                         {if ($dec = $currdecade)
                         then attribute selected {"selected"}
-                        else ()}{$dec}
+                        else ()}{$dec-label}
                     </option>}
             </select>
             <select name="pais" onchange="this.form.submit()">
@@ -368,23 +371,23 @@ declare function app:editions($currpage as numeric, $currauthor as xs:string?, $
             (<ul>
                 <li>Páginas:</li>
                 {if ($currpage > 3)
-                 then <li><a href="{$app:home}/ediciones?p=1&amp;autor={$currauthor}&amp;decada={$currdecade}&amp;pais={$currcountry}&amp;obra={$currwork}">1</a> ...</li>
+                 then <li><a href="{$app:home}/ediciones?p=1&amp;autor={$currauthor}&amp;decada={$currdecade}&amp;pais={$currcountry}&amp;obra={$currwork}&amp;letra={$currletter}&amp;orden={$order}">1</a> ...</li>
                  else (),
                  if ($currpage > 2)
-                 then <li><a href="{$app:home}/ediciones?p={$currpage - 2}&amp;autor={$currauthor}&amp;decada={$currdecade}&amp;pais={$currcountry}&amp;obra={$currwork}">{$currpage - 2}</a></li>
+                 then <li><a href="{$app:home}/ediciones?p={$currpage - 2}&amp;autor={$currauthor}&amp;decada={$currdecade}&amp;pais={$currcountry}&amp;obra={$currwork}&amp;letra={$currletter}&amp;orden={$order}">{$currpage - 2}</a></li>
                  else(),
                  if ($currpage > 1)
-                 then <li><a href="{$app:home}/ediciones?p={$currpage - 1}&amp;autor={$currauthor}&amp;decada={$currdecade}&amp;pais={$currcountry}&amp;obra={$currwork}">{$currpage - 1}</a></li>
+                 then <li><a href="{$app:home}/ediciones?p={$currpage - 1}&amp;autor={$currauthor}&amp;decada={$currdecade}&amp;pais={$currcountry}&amp;obra={$currwork}&amp;letra={$currletter}&amp;orden={$order}">{$currpage - 1}</a></li>
                  else (),
                  <li>{$currpage}</li>,
                  if ($currpage < $num-pages)
-                 then <li><a href="{$app:home}/ediciones?p={$currpage + 1}&amp;autor={$currauthor}&amp;decada={$currdecade}&amp;pais={$currcountry}&amp;obra={$currwork}">{$currpage + 1}</a></li>
+                 then <li><a href="{$app:home}/ediciones?p={$currpage + 1}&amp;autor={$currauthor}&amp;decada={$currdecade}&amp;pais={$currcountry}&amp;obra={$currwork}&amp;letra={$currletter}&amp;orden={$order}">{$currpage + 1}</a></li>
                  else(),
                  if ($currpage < $num-pages - 1)
-                 then <li><a href="{$app:home}/ediciones?p={$currpage + 2}&amp;autor={$currauthor}&amp;decada={$currdecade}&amp;pais={$currcountry}&amp;obra={$currwork}">{$currpage + 2}</a></li>
+                 then <li><a href="{$app:home}/ediciones?p={$currpage + 2}&amp;autor={$currauthor}&amp;decada={$currdecade}&amp;pais={$currcountry}&amp;obra={$currwork}&amp;letra={$currletter}&amp;orden={$order}">{$currpage + 2}</a></li>
                  else (),
                  if ($currpage < $num-pages - 2)
-                 then <li>... <a href="{$app:home}/ediciones?p={$num-pages}&amp;autor={$currauthor}&amp;decada={$currdecade}&amp;pais={$currcountry}&amp;obra={$currwork}">{$num-pages}</a></li>
+                 then <li>... <a href="{$app:home}/ediciones?p={$num-pages}&amp;autor={$currauthor}&amp;decada={$currdecade}&amp;pais={$currcountry}&amp;obra={$currwork}&amp;letra={$currletter}&amp;orden={$order}">{$num-pages}</a></li>
                  else()}
             </ul>,
             <ul>
@@ -405,6 +408,7 @@ declare function app:editions($currpage as numeric, $currauthor as xs:string?, $
                         <input type="hidden" name="autor" value="{$currauthor}"/>
                         <input type="hidden" name="decada" value="{$currdecade}"/>
                         <input type="hidden" name="pais" value="{$currcountry}"/>
+                        <input type="hidden" name="letra" value="{$currletter}"/>
                         <label for="cronologico">cronológico</label>
                     </form>
                 </li>
@@ -464,12 +468,13 @@ declare function app:editions($currpage as numeric, $currauthor as xs:string?, $
             </select>
             <select name="decada" onchange="this.form.submit()">
                 <option class="default" value="">década</option>
-                {for $dec in $app:decades
+                {for $dec at $pos in $app:decades
+                let $dec-label := $app:decade-labels[$pos]
                 return
-                    <option>
+                    <option value="{$dec}">
                         {if ($dec = $currdecade)
                         then attribute selected {"selected"}
-                        else ()}{$dec}
+                        else ()}{$dec-label}
                     </option>}
             </select>
             <select name="pais" onchange="this.form.submit()">
@@ -576,7 +581,7 @@ declare function app:obras-por-ano(){
         "y" := $num-editions
     }
     return 
-    (<div id="ChartObras_5" style="width:900px;height:600px;margin: 0 auto;"></div>,
+    (<div id="ChartObras_5" style="width:900px;height:400px;margin: 0 auto;"></div>,
         overviews:bar-chart($params, $data)),
         
     (: number of works per year (by first edition & argentine authors):)
@@ -600,7 +605,7 @@ declare function app:obras-por-ano(){
         "y" := $num-editions
     }
     return 
-    (<div id="ChartObras_6" style="width:900px;height:600px;margin: 0 auto;"></div>,
+    (<div id="ChartObras_6" style="width:900px;height:400px;margin: 0 auto;"></div>,
         overviews:bar-chart($params, $data)),
         
     (: number of works per year (by first edition & cuban authors):)
@@ -624,7 +629,7 @@ declare function app:obras-por-ano(){
         "y" := $num-editions
     }
     return 
-    (<div id="ChartObras_7" style="width:900px;height:600px;margin: 0 auto;"></div>,
+    (<div id="ChartObras_7" style="width:900px;height:400px;margin: 0 auto;"></div>,
         overviews:bar-chart($params, $data)),
         
     (: number of works per year (by first edition & mexican authors):)
@@ -648,7 +653,7 @@ declare function app:obras-por-ano(){
         "y" := $num-editions
     }
     return 
-    (<div id="ChartObras_8" style="width:900px;height:600px;margin: 0 auto;"></div>,
+    (<div id="ChartObras_8" style="width:900px;height:400px;margin: 0 auto;"></div>,
         overviews:bar-chart($params, $data))
     )
 };
@@ -736,7 +741,7 @@ declare function app:obras-por-decada(){
         "yaxis-title" := "número de obras"
     }
     let $data := map {
-        "x" := $app:decades,
+        "x" := $app:decade-labels,
         "y" := $num-editions
     }
     return 
@@ -762,7 +767,7 @@ declare function app:ediciones-por-decada(){
         "yaxis-title" := "número de ediciones"
     }
     let $data := map {
-        "x" := $app:decades,
+        "x" := $app:decade-labels,
         "y" := $num-editions
     }
     return 
@@ -818,27 +823,26 @@ declare function app:criteria(){
         <p>Por novela se entiende una obra literaria narrativa escrita predominantemente en 
         prosa y de una cierta extensión.</p>
         <p>Siguiendo los límites extensivas de Óscar Mata, se clasifica como novela un texto con
-            35 mil o más palabras. Textos de una extensión entre 5 y 35 mil palabras se clasifican 
-            como novelas cortas. Las novelas cortas igualmente forman parte de esta bibliografía. 
+            35.000 o más palabras. Textos de una extensión entre 5.000 y 35.000 palabras se clasifican 
+            como novelas cortas. Las novelas cortas también forman parte de esta bibliografía. 
             El número de palabras sólo se considera en los casos en que el texto está disponible 
-            en formato digital procesable. En los otros casos, se toma en cuenta si la obra está 
-            denominada como "novela" en el título o subtítulo de las ediciones y si se considera 
+            en <em>full text</em>. En los otros casos, se toma en cuenta si la obra está 
+            denominada como <em>novela</em> en el título o subtítulo de las ediciones y si se considera 
             novela por estudiosos de literatura, por ejemplo en bibliografías de la novela
             argentina, cubana y mexicana. Si está accesible una edición de la obra, se verifica 
             si es una narración y si el texto está escrito en prosa.</p>
         <!-- narración? leyenda? cuento? relato? crónicas noveladas? -->
-        <p>Sólo se incluyen obras que fueron editadas entre 1830 y 1910 (cuando esto se conozca). 
+        <p>Sólo se incluyen obras que fueron publicadas entre 1830 y 1910 (cuando se tenga ese dato). 
             Es decir que por un lado se excluyen obras que quedaron inéditas hasta 1910 y por otro 
             lado se prescinde de acopiar informaciones sobre ediciones posteriores a este año, 
-            aun cuando la obra haya sido publicada antes. Novelas inacabadas no son consideradas 
-            tampoco.</p>
-        <p>La bibliografía contiene novelas escritas en español pero no traducciones al español y
+            aun cuando la obra haya sido publicada antes. Novelas inacabadas no son consideradas.</p>
+        <p>La bibliografía sólo contiene novelas escritas en español, ninguna traducción al español ni
             tampoco novelas escritas en otros idiomas.</p>
-        <p>Las novelas pueden estar publicadas en formato de libro (independientemente o como 
+        <p>Pueden haber sido publicadas en formato de libro (independientemente o como 
             parte de una colección de novelas, por ejemplo en antologías o en una edición de la 
             obra literaria conjunta de un autor); también pueden estar publicadas en revistas 
             literarias o periódicos.</p>
-        <p>Finalmente, por "novela argentina", "novela cubana" y "novela mexicana" se entienden 
+        <p>Finalmente, por <em>novela argentina</em>, <em>novela cubana</em> y <em>novela mexicana</em> se entienden 
             obras escritas por autores de nacionalidad argentina, cubana o mexicana y obras 
             publicadas en los países Argentina, Cuba y México entre 1830 y 1910.</p>
         <!-- rund 250 Wörter pro Cuartilla? https://es.wikipedia.org/wiki/Cuartilla_(papel)
@@ -858,7 +862,7 @@ declare function app:criteria(){
 declare function app:entities(){(
     <section class="entities">
         <h2>Entidades bibliográficas</h2>
-        <p>En el sentido de los Requerimientos funcionales para registros bibliográficos (FRBR),
+        <p>En el sentido de los <em>Requerimientos funcionales para registros bibliográficos</em> (FRBR),
         se entienden por <span class="italic">entidades</span> "los 
         <span class="italic">objetos</span> clave que interesan a los usuarios de los datos 
         bibliográficos."<sup><a href="#N1">1</a></sup> En el caso de Bib-ACMé, estos son 
@@ -879,11 +883,11 @@ declare function app:entities(){(
         en Bib-ACMé se denomina <span class="bold">edición</span> corresponde a una expresión
         en el sentido de que cada realización nueva (posiblemente cambiada) de una obra que se 
         publica en forma de libro, 
-        como parte de un libro, en una revista o en un periódico se registra como una edición
+        como parte de un libro, en una revista o en un periódico, se registra como una edición
         separada. Pero el concepto de edición aquí utilizado corresponde también a una manifestación
         en cuanto que una subsiguiente tirada de la publicación de una obra (por ejemplo en el 
         año siguiente) se registra igualmente como edición.</p>
-        <p>En esta bibliografía no se acogen las publicaciones en sí (es decir, los que equivalen 
+        <p>En esta bibliografía no se recogen las publicaciones en sí (es decir, los que equivalen 
         a libros físicos) sino las referencias bibliográficas
         que corresponden a las expresiones de las obras. Así, una novela puede ser publicada
         como parte de un libro o en dos libros. Por ejemplo:</p>
@@ -926,7 +930,7 @@ declare function app:entities(){(
 (: ########## data page ########## :)
 declare function app:data(){
     <section class="data">
-        <h2>Datos</h2>
+        <h2>Datos básicos</h2>
         <table>
             <tr>
                 <td>Autores:</td>

@@ -78,14 +78,6 @@
                         <term type="genre_lithist" resp="elem">cuento</term>
                     </note>
                 </bibl>
-                <bibl xml:id="W8">
-                    <author key="A4">Almazán, Pascual</author>
-                    <title>Un hereje y un musulmán</title>
-                    <note>
-                        <term type="subgenre_title">novela histórica</term>
-                    </note>
-                    <idno type="cligs">nh0184</idno>
-                </bibl>
                 <bibl xml:id="W9">
                     <author key="A5">Altamirano, Ignacio Manuel</author>
                     <title>Julia</title>
@@ -659,10 +651,6 @@
                     <author key="A77">Rosas de Rivera, Mercedes</author>
                     <title>María de Montiel</title>
                 </bibl>
-                <bibl xml:id="W209">
-                    <author key="A78">Rufina Ochagavia, Margarita</author>
-                    <title>Un ángel y un demonio, o el valor de un juramento</title>
-                </bibl>
                 <bibl xml:id="W210">
                     <author key="A79">Quesada, Vicente Gregorio</author>
                     <title>Crimen y expiación</title>
@@ -766,105 +754,6 @@
                     <author key="A88">Puebla de Godoy, Rosario</author>
                     <title>La ciudad heroica</title>
                 </bibl>
-                <bibl xml:id="W234">
-                    <author key="A89">Ocantos, Carlos María</author>
-                    <title>La cruz de la falta</title>
-                </bibl>
-                <bibl xml:id="W235">
-                    <author key="A89">Ocantos, Carlos María</author>
-                    <title>Don Perfecto</title>
-                    <idno type="cligs">nh0048</idno>
-                </bibl>
-                <bibl xml:id="W236">
-                    <author key="A89">Ocantos, Carlos María</author>
-                    <title>Entre dos luces</title>
-                </bibl>
-                <bibl xml:id="W237">
-                    <author key="A89">Ocantos, Carlos María</author>
-                    <title>El candidato</title>
-                </bibl>
-                <bibl xml:id="W238">
-                    <author key="A89">Ocantos, Carlos María</author>
-                    <title>El esclavo</title>
-                </bibl>
-                <bibl xml:id="W239">
-                    <author key="A89">Ocantos, Carlos María</author>
-                    <title>La Ginesa</title>
-                </bibl>
-                <bibl xml:id="W240">
-                    <author key="A89">Ocantos, Carlos María</author>
-                    <title>León Zaldívar</title>
-                </bibl>
-                <bibl xml:id="W241">
-                    <author key="A89">Ocantos, Carlos María</author>
-                    <title>Misia Jeromita</title>
-                </bibl>
-                <bibl xml:id="W242">
-                    <author key="A89">Ocantos, Carlos María</author>
-                    <title>Nebulosa</title>
-                </bibl>
-                <bibl xml:id="W243">
-                    <author key="A89">Ocantos, Carlos María</author>
-                    <title>Pequeñas miserias</title>
-                </bibl>
-                <bibl xml:id="W244">
-                    <author key="A89">Ocantos, Carlos María</author>
-                    <title>Promisión</title>
-                    <idno type="cligs">nh0046</idno>
-                </bibl>
-                <bibl xml:id="W245">
-                    <author key="A89">Ocantos, Carlos María</author>
-                    <title>Quilito</title>
-                    <idno type="cligs">nh0047</idno>
-                </bibl>
-                <bibl xml:id="W246">
-                    <author key="A89">Ocantos, Carlos María</author>
-                    <title>Tobi</title>
-                </bibl>
-                <bibl xml:id="W247">
-                    <author key="A90">Olascoaga, Manuel J.</author>
-                    <title>El brujo de las cordilleras</title>
-                </bibl>
-                <bibl xml:id="W248">
-                    <author key="A90">Olascoaga, Manuel J.</author>
-                    <title>El sargento Claro, o la guerra de Chile</title>
-                </bibl>
-                <bibl xml:id="W249">
-                    <author key="A91">Oliveira Cézar, Filiberto de</author>
-                    <title>Amores de una india</title>
-                </bibl>
-                <bibl xml:id="W250">
-                    <author key="A91">Oliveira Cézar, Filiberto de</author>
-                    <title>El cacique blanco</title>
-                </bibl>
-                <bibl xml:id="W251">
-                    <author key="A92">Ortega, Enrique</author>
-                    <title>Los casamientos del diablo</title>
-                </bibl>
-                <bibl xml:id="W252">
-                    <author key="A92">Ortega, Enrique</author>
-                    <title>Un drama íntimo</title>
-                </bibl>
-                <bibl xml:id="W253">
-                    <author key="A92">Ortega, Enrique</author>
-                    <title>La familia H.</title>
-                </bibl>
-                <bibl xml:id="W254">
-                    <author key="A92">Ortega, Enrique</author>
-                    <title>Justos y pecadores</title>
-                </bibl>
-                <bibl xml:id="W255">
-                    <author key="A92">Ortega, Enrique</author>
-                    <title>Una hora menguada</title>
-                </bibl>
-                <bibl xml:id="W256">
-                    <author key="A93">Otamendi, Roque C.</author>
-                    <title>El canto del cisne</title>
-                </bibl>
-                <bibl xml:id="W257">
-                    <author key="A94">Oteyza Bustamante, José</author>
-                    <title>Un acontecimiento en Tucumán</title>
-                </bibl>
                 <bibl xml:id="W265">
                     <author key="A99">Merlin, C. de</author>
                     <title>Historia de la hermana Santa Inés</title><!-- Roman? -->
@@ -926,71 +815,6 @@
                     <author key="A103">Cuéllar, José Tomás de</author>
                     <title>La noche buena</title>
                     <idno type="cligs">nh0130</idno>
-                </bibl>
-                <bibl xml:id="W284">
-                    <author key="A105">Paz, Ireneo</author>
-                    <title>La Piedra del Sacrificio</title>
-                </bibl>
-                <bibl xml:id="W285">
-                    <author key="A105">Paz, Ireneo</author>
-                    <title>Amor y Suplicio</title>
-                </bibl>
-                <bibl xml:id="W286">
-                    <author key="A105">Paz, Ireneo</author>
-                    <title>Amor de Viejo</title>
-                </bibl>
-                <bibl xml:id="W287">
-                    <author key="A105">Paz, Ireneo</author>
-                    <title>Guadalupe</title>
-                </bibl>
-                <bibl xml:id="W288">
-                    <author key="A105">Paz, Ireneo</author>
-                    <title>Doña Marina</title>
-                </bibl>
-                <bibl xml:id="W289">
-                    <author key="A105">Paz, Ireneo</author>
-                    <title>El Lic. Verdad</title>
-                </bibl>
-                <bibl xml:id="W290">
-                    <author key="A105">Paz, Ireneo</author>
-                    <title>La Corregidora</title>
-                </bibl>
-                <bibl xml:id="W291">
-                    <author key="A105">Paz, Ireneo</author>
-                    <title>Hidalgo</title>
-                </bibl>
-                <bibl xml:id="W292">
-                    <author key="A105">Paz, Ireneo</author>
-                    <title>Morelos</title>
-                </bibl>
-                <bibl xml:id="W293">
-                    <author key="A105">Paz, Ireneo</author>
-                    <title>Mina</title>
-                </bibl>
-                <bibl xml:id="W294">
-                    <author key="A105">Paz, Ireneo</author>
-                    <title>Guerrero</title>
-                </bibl>
-                <bibl xml:id="W295">
-                    <author key="A105">Paz, Ireneo</author>
-                    <title>Antonio Rojas</title>
-                </bibl>
-                <bibl xml:id="W296">
-                    <author key="A105">Paz, Ireneo</author>
-                    <title>Manuel Lozada</title>
-                </bibl>
-                <bibl xml:id="W297">
-                    <author key="A105">Paz, Ireneo</author>
-                    <title>Su Alteza Serenísima</title>
-                    <idno type="cligs">nh0196</idno>
-                </bibl>
-                <bibl xml:id="W298">
-                    <author key="A105">Paz, Ireneo</author>
-                    <title>Maximiliano</title>
-                </bibl>
-                <bibl xml:id="W299">
-                    <author key="A105">Paz, Ireneo</author>
-                    <title>¡Juárez!</title>
                 </bibl>
                 <bibl xml:id="W300">
                     <author key="A23">Castillo, Rafael del</author>
@@ -1057,18 +881,6 @@
                     <!-- https://itunes.apple.com/mx/book/obras-del-lic.-jose-lopez/id1097004343?mt=11 -->
                     <!-- http://sc.jalisco.gob.mx/acervos/libro-de-consulta-yo-venta/328 -->
                     <!-- https://catalog.hathitrust.org/Record/101403240 -->
-                </bibl>
-                <bibl xml:id="W331">
-                    <author key="A112">Napolitano, Leonardo</author>
-                    <title>Alma virgen</title>
-                </bibl>
-                <bibl xml:id="W332">
-                    <author key="A113">Nieves, Manuel María</author>
-                    <title>Los mártires de Buenos Aires, o el verdugo de su república</title>
-                </bibl>
-                <bibl xml:id="W333">
-                    <author key="A114">Noguera, Bernardino</author>
-                    <title>La modista coqueta</title>
                 </bibl>
                 <bibl xml:id="W341">
                     <author key="A23">Castillo, Rafael del</author>

@@ -7,7 +7,7 @@ declare namespace tei="http://www.tei-c.org/ns/1.0";
 import module namespace app="http://localhost/app" at "app.xqm";
 
 
-declare function overviews:bar-chart($params as map, $data as map){
+declare function overviews:bar-chart($params as map()*, $data as map()*){
     (:
     $params := map{
         "title" := "bar chart title",
@@ -42,7 +42,7 @@ declare function overviews:bar-chart($params as map, $data as map){
     
 };
 
-declare function overviews:pie-chart($params as map, $data as map){
+declare function overviews:pie-chart($params as map()*, $data as map()*){
     <script>
         var data = [{{
           labels: ['{string-join($data("labels"),"','")}'],
@@ -62,7 +62,7 @@ declare function overviews:pie-chart($params as map, $data as map){
 };
 
 
-declare function overviews:histogram($params as map, $data as map){
+declare function overviews:histogram($params as map()*, $data as map()*){
     <script>
         var data = [{{
           x: ['{string-join($data("x"),"','")}'],
