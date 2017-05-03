@@ -9,7 +9,9 @@
     <xsl:template match="author">
         <span class="author">
             <xsl:apply-templates/>
-            <xsl:text>. </xsl:text>
+            <xsl:if test="not(ends-with(.,'.'))">
+                <xsl:text>. </xsl:text>    
+            </xsl:if>
         </span>
     </xsl:template>
     <xsl:template match="title[@level = 'm' or @level = 'j'][@type='main']">

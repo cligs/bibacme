@@ -54,11 +54,14 @@
                 <place xml:id="ES">
                     <placeName>España</placeName>
                 </place>
+                <place xml:id="FR">
+                    <placeName>Francia</placeName>
+                </place>
                 <place xml:id="GU">
                     <placeName>Guatemala</placeName>
                 </place>
-                <place xml:id="FR">
-                    <placeName>Francia</placeName>
+                <place xml:id="IT">
+                    <placeName>Italia</placeName>
                 </place>
                 <place xml:id="MX">
                     <placeName>México</placeName>

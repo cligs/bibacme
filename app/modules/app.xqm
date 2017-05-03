@@ -46,7 +46,7 @@ declare function app:authors($currpage as numeric, $currnationality as xs:string
                                order by $name
                                return $author
     let $num-authors := count($authors-ordered)
-    let $num-pages := max((1,xs:integer(round($num-authors div 15))))
+    let $num-pages := max((1,xs:integer(ceiling($num-authors div 15))))
     return
     <section>
         <h2>Autores ({$num-authors})</h2>
@@ -121,7 +121,7 @@ declare function app:authors($currpage as numeric, $currnationality as xs:string
                         else ()}{$country}</option>}
             </select>
             <select name="nacionalidad" onchange="this.form.submit()">
-                <option class="default" value="">nacionalidad</option>
+                <option class="default" value="">nacionalidad / origen</option>
                 {for $nac in $app:nationalities/tei:term[@type="general"]
                 order by $nac
                 return
@@ -201,7 +201,7 @@ declare function app:works($currpage as numeric, $currauthor as xs:string?, $cur
                                order by translate($title,"¡¿","")
                                return $work
     let $num-works := count($works-ordered)
-    let $num-pages := max((1,xs:integer(round($num-works div 15))))
+    let $num-pages := max((1,xs:integer(ceiling($num-works div 15))))
     return
     <section class="works">
         <h2>Obras ({$num-works})</h2>
@@ -308,13 +308,15 @@ declare function app:works($currpage as numeric, $currauthor as xs:string?, $cur
 declare function app:work($id as xs:string){
     let $work := $app:works[@xml:id = $id]
     let $title := $work/tei:title/data(.)
-    let $author := $work/tei:author
+    let $authors := $work/tei:author
     let $editions := $app:editions[some $work-id in tokenize(@corresp,'\s') satisfies $work-id = $id]
     return
     (<section class="work">
         <h2>{$title}</h2>
-        <p>Autor(a): <a href="{$app:home}/autor/{$author/@key}">{$author}</a></p>
-        <!-- to do: Link zu Cligs geben, falls vorhanden -->
+        {for $author in $authors
+         return 
+            <p>Autor(a): <a href="{$app:home}/autor/{$author/@key}">{$author}</a></p>
+        }
     </section>,
     <section class="work">
         <h3>Ediciones</h3>
@@ -361,7 +363,7 @@ declare function app:editions($currpage as numeric, $currauthor as xs:string?, $
                                order by if ($order = "alfabetico") then $order-title else $year ascending empty greatest, $order-title
                                return $edition
     let $num-editions := count($editions-ordered)
-    let $num-pages := max((1,xs:integer(round($num-editions div 15))))
+    let $num-pages := max((1,xs:integer(ceiling($num-editions div 15))))
     return
     <section class="ediciones">
         <h2>Ediciones ({$num-editions})</h2>
@@ -532,9 +534,9 @@ declare function app:autores-por-nacionalidad(){
         "y" := data:get-nationality-numbers()
     }
     let $params := map {
-        "title" := "Autores por nacionalidad",
+        "title" := "Autores por nacionalidad / origen",
         "containerId" := "ChartAutores_1",
-        "xaxis-title" := "nacionalidad",
+        "xaxis-title" := "nacionalidad / origen",
         "yaxis-title" := "número de autores"
     }
     return
@@ -617,7 +619,7 @@ declare function app:obras-por-ano(){
     let $num-editions := for $year in (1830 to 1910)
                         return count($first-ed-years[xs:integer(.) = $year])
     let $params := map {
-        "title" := "Obras por año (escritas por autores de nacionalidad cubana)",
+        "title" := "Obras por año (escritas por autores originarios de Cuba)",
         "containerId" := "ChartObras_7",
         "xaxis-title" := "año",
         "yaxis-title" := "número de obras",
@@ -692,9 +694,9 @@ declare function app:obras-por-nacionalidad-de-autor(){
         "y" := $values
     }
     let $params := map {
-        "title" := "Obras por nacionalidad de autor",
+        "title" := "Obras por nacionalidad / origen de autor",
         "containerId" := "ChartObras_1",
-        "xaxis-title" := "nacionalidad de autor",
+        "xaxis-title" := "nacionalidad / origen de autor",
         "yaxis-title" := "número de obras"
     }
     return
@@ -843,7 +845,7 @@ declare function app:criteria(){
             obra literaria conjunta de un autor); también pueden estar publicadas en revistas 
             literarias o periódicos.</p>
         <p>Finalmente, por <em>novela argentina</em>, <em>novela cubana</em> y <em>novela mexicana</em> se entienden 
-            obras escritas por autores de nacionalidad argentina, cubana o mexicana y obras 
+            obras escritas por autores de nacionalidad o bien origen argentino, cubano o mexicano y obras 
             publicadas en los países Argentina, Cuba y México entre 1830 y 1910.</p>
         <!-- rund 250 Wörter pro Cuartilla? https://es.wikipedia.org/wiki/Cuartilla_(papel)
         dann wären 5000 Wörter 20 Seiten 

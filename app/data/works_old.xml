@@ -30,11 +30,6 @@
     <text>
         <body>
             <listBibl>
-                <bibl xml:id="W1">
-                    <author key="A14">Márquez Valdés, José de Jesús</author>
-                    <title>Memorias del tío Bartolo</title>
-                    <!-- https://padronel.wordpress.com/2011/08/30/otros-los-canarios-en-amrica-jos-antonio-prez-carrin-jos-de-jess-mrquez-29/ -->
-                </bibl>
                 <bibl xml:id="W2">
                     <author key="A2">Alegría, Adolfo Isaac</author>
                     <title>La luz en las tinieblas</title>
@@ -49,16 +44,6 @@
                     <note>
                         <term type="genre_lithist" resp="Brushwood">novela</term>
                     </note>
-                </bibl>
-                <bibl xml:id="W4">
-                    <author key="A14">Márquez Valdés, José de Jesús</author>
-                    <title>Episodio de un loco</title>
-                    <!-- https://padronel.wordpress.com/2011/08/30/otros-los-canarios-en-amrica-jos-antonio-prez-carrin-jos-de-jess-mrquez-29/ -->
-                </bibl>
-                <bibl xml:id="W5">
-                    <author key="A14">Márquez Valdés, José de Jesús</author>
-                    <title>Los Arrepentidos</title>
-                    <!-- https://padronel.wordpress.com/2011/08/30/otros-los-canarios-en-amrica-jos-antonio-prez-carrin-jos-de-jess-mrquez-29/ -->
                 </bibl>
                 <bibl xml:id="W6">
                     <author key="A1">Agüeros, Victoriano</author>
@@ -111,12 +96,6 @@
                 <bibl xml:id="W15">
                     <author key="A8">Alva, Manuel</author>
                     <title>La trinitaria</title>
-                </bibl>
-                <bibl xml:id="W16">
-                    <author key="A14">Márquez Valdés, José de Jesús</author>
-                    <title>Ira venganza de una loca</title>
-                    <!-- https://padronel.wordpress.com/2011/08/30/otros-los-canarios-en-amrica-jos-antonio-prez-carrin-jos-de-jess-mrquez-29/ -->
-                    <note>continuación de Los Arrepentidos</note>
                 </bibl>
                 <bibl xml:id="W17">
                     <author key="A10">Amador, Severo</author>
@@ -183,169 +162,17 @@
                         <term type="subgenre_title">novela histórica</term>
                     </note>
                 </bibl>
-                <bibl xml:id="W25">
-                    <author key="A12">Malpica La-Barca, Domingo</author>
-                    <title>En el cafetal</title>
-                </bibl>
                 <bibl xml:id="W26">
                     <author key="A9">Castillo, Florencio M. del</author>
                     <title>Amor y desgracia</title>
-                </bibl>
-                <bibl xml:id="W27">
-                    <author key="A14">Márquez Valdés, José de Jesús</author>
-                    <title>Aventuras de un sordo</title>
-                    <note>
-                        <term type="subgenre_title">novela humorística</term>
-                    </note>
-                </bibl>
-                <bibl xml:id="W28">
-                    <author key="A14">Márquez Valdés, José de Jesús</author>
-                    <title>Misterios de una familia</title>
-                </bibl>
-                <bibl xml:id="W29">
-                    <author key="A14">Márquez Valdés, José de Jesús</author>
-                    <title>Los «Hermanos del silencio»</title>
-                </bibl>
-                <bibl xml:id="W30">
-                    <author key="A14">Márquez Valdés, José de Jesús</author>
-                    <title>Jorge o la justicia de Dios</title>
-                </bibl>
-                <bibl xml:id="W31">
-                    <author key="A14">Márquez Valdés, José de Jesús</author>
-                    <title>La hija de un bandido</title>
-                </bibl>
-                <bibl xml:id="W32">
-                    <author key="A14">Márquez Valdés, José de Jesús</author>
-                    <title>La flor de un desengaño</title>
-                </bibl>
-                <bibl xml:id="W33">
-                    <author key="A14">Márquez Valdés, José de Jesús</author>
-                    <title>Historia de un paraguas</title>
-                </bibl>
-                <bibl xml:id="W34">
-                    <author key="A14">Márquez Valdés, José de Jesús</author>
-                    <title>Aurora</title>
-                </bibl>
-                <bibl xml:id="W35">
-                    <author key="A14">Márquez Valdés, José de Jesús</author>
-                    <title>Delitos y penas</title>
-                    <!-- Misterios de una Familia o Delitos y Penas ?
-                    https://padronel.wordpress.com/2011/08/30/otros-los-canarios-en-amrica-jos-antonio-prez-carrin-jos-de-jess-mrquez-29/-->
-                </bibl>
-                <bibl xml:id="W36">
-                    <author key="A15">Martí, José</author>
-                    <title>Amistad funesta</title>
-                </bibl>
-                <bibl xml:id="W37">
-                    <author key="A16">Martínez Villergas, Juan</author>
-                    <title>La vida en el chaleco</title>
-                    <note>
-                        <term type="subgenre_title">novela de costumbres</term>
-                    </note>
-                </bibl>
-                <bibl xml:id="W38">
-                    <author key="A17">Medina, Tristán de Jesús</author>
-                    <title>El Doctor In-Fausto</title>
-                </bibl>
-                <bibl xml:id="W39">
-                    <author key="A17">Medina, Tristán de Jesús</author>
-                    <title>Una lágrima y una gota de rocío</title>
-                    <note>
-                        <term type="subgenre_title">novela en acción</term>
-                    </note>
-                </bibl>
-                <bibl xml:id="W40">
-                    <author key="A17">Medina, Tristán de Jesús</author>
-                    <title>Misterios de La Habana</title>
-                </bibl>
-                <bibl xml:id="W41">
-                    <author key="A17">Medina, Tristán de Jesús</author>
-                    <title>Mozart ensayando su Réquiem</title>
-                </bibl>
-                <bibl xml:id="W42">
-                    <author key="A17">Medina, Tristán de Jesús</author>
-                    <title>Un joven alemán</title>
-                </bibl>
-                <bibl xml:id="W43">
-                    <author key="A17">Medina, Tristán de Jesús</author>
-                    <title>La vendedora de amores y cocuyos</title>
-                </bibl>
-                <bibl xml:id="W44">
-                    <author key="A17">Medina, Tristán de Jesús</author>
-                    <title>Febalma</title>
-                </bibl>
-                <bibl xml:id="W45">
-                    <author key="A17">Medina, Tristán de Jesús</author>
-                    <title>Medea</title>
-                </bibl>
-                <bibl xml:id="W46">
-                    <author key="A17">Medina, Tristán de Jesús</author>
-                    <title>Rosaval</title>
-                </bibl>
-                <bibl xml:id="W47">
-                    <author key="A18">Meza, Ramón</author>
-                    <title>En un pueblo de la Florida</title>
                 </bibl>
                 <bibl xml:id="W48">
                     <author key="A9">Castillo, Florencio M. del</author>
                     <title>La Corona de Azucenas</title>
                 </bibl>
-                <bibl xml:id="W49">
-                    <author key="A18">Meza, Ramón</author>
-                    <title>Flores y calabazas</title>
-                </bibl>
-                <bibl xml:id="W50">
-                    <author key="A18">Meza, Ramón</author>
-                    <title>El duelo de mi vecino</title>
-                </bibl>
-                <bibl xml:id="W51">
-                    <author key="A18">Meza, Ramón</author>
-                    <title>Mi tío el empleado</title>
-                    <idno type="cligs">nh0010</idno>
-                </bibl>
-                <bibl xml:id="W52">
-                    <author key="A18">Meza, Ramón</author>
-                    <title>Don Aniceto el tendero</title>
-                </bibl>
-                <bibl xml:id="W53">
-                    <author key="A18">Meza, Ramón</author>
-                    <title>Carmela</title>
-                    <idno type="cligs">nh0013</idno>
-                </bibl>
-                <bibl xml:id="W54">
-                    <author key="A18">Meza, Ramón</author>
-                    <title>Últimas páginas</title>
-                </bibl>
-                <bibl xml:id="W55">
-                    <author key="A19">Millán, José Agustín</author>
-                    <title>Memorias de una viuda</title>
-                    <note>
-                        <term type="subgenre_title">novela de costumbres</term>
-                    </note>
-                </bibl>
-                <bibl xml:id="W56">
-                    <author key="A20">Morillas, Pedro José</author>
-                    <title>El ranchador</title>
-                    <note>
-                        <quote>escrita desde 1839</quote>
-                        <bibl>Instituto de Literatura y Lingüística de la Academia de Ciencias de
-                            Cuba (Ed.). <seg rend="italic">Diccionario de la literatura
-                                cubana.</seg> Alicante: Biblioteca Virtual Miguel de Cervantes,
-                            1999. <ref target="http://www.cervantesvirtual.com/obra/diccionario-de-la-literatura-cubana--0/">http://www.cervantesvirtual.com/obra/diccionario-de-la-literatura-cubana--0/</ref>
-                        </bibl>
-                    </note>
-                </bibl>
                 <bibl xml:id="W57">
                     <author key="A9">Castillo, Florencio M. del</author>
                     <title>¡Hasta el cielo!</title>
-                </bibl>
-                <bibl xml:id="W58">
-                    <author key="A21">Morúa Delgado, Martín</author>
-                    <title>Sofía</title>
-                </bibl>
-                <bibl xml:id="W59">
-                    <author key="A21">Morúa Delgado, Martín</author>
-                    <title>La familia Unzúazu</title>
                 </bibl>
                 <bibl xml:id="W64">
                     <author key="A9">Castillo, Florencio M. del</author>
@@ -1550,18 +1377,6 @@
                     <author key="A193">Güell y Renté, José</author>
                     <title>Guacanajari</title>
                 </bibl>
-                <bibl xml:id="W585">
-                    <author key="A194">Otero, Rafael</author>
-                    <title>Cecilia la matancera</title>
-                </bibl>
-                <bibl xml:id="W586">
-                    <author key="A194">Otero, Rafael</author>
-                    <title>María, la perla de la Diaria</title>
-                </bibl>
-                <bibl xml:id="W587">
-                    <author key="A194">Otero, Rafael</author>
-                    <title>Dios lo cria y ellos se juntan</title>
-                </bibl>
                 <bibl xml:id="W588">
                     <author key="A195">Arenosa, Antonio L.</author>
                     <title>María</title>
@@ -1590,10 +1405,6 @@
                 <bibl xml:id="W596">
                     <author key="A193">Güell y Renté, José</author>
                     <title>Nieta de Rey</title>
-                </bibl>
-                <bibl xml:id="W597">
-                    <author key="A198">Navarrete y Romay, Carlos</author>
-                    <title>Margarita</title>
                 </bibl>
                 <bibl xml:id="W598">
                     <author key="A199">Pichardo, Emilio</author>

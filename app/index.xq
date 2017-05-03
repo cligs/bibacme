@@ -87,7 +87,7 @@ return
                             <ul>
                                 <li><a
                                         href="{$app:home}/sinopsis/autores-por-nacionalidad"
-                                        class="{local:select-nav($view, "autores-por-nacionalidad")}">Autores por nacionalidad</a></li>
+                                        class="{local:select-nav($view, "autores-por-nacionalidad")}">Autores por nacionalidad / origen</a></li>
                                 <li><a
                                         href="{$app:home}/sinopsis/autores-por-sexo"
                                         class="{local:select-nav($view, "autores-por-sexo")}">Autores por sexo</a></li>
@@ -102,7 +102,7 @@ return
                                         class="{local:select-nav($view, "obras-por-decada")}">Obras por década</a></li>
                                 <li><a
                                         href="{$app:home}/sinopsis/obras-por-nacionalidad-de-autor"
-                                        class="{local:select-nav($view, "obras-por-nacionalidad-de-autor")}">Obras por nacionalidad de autor</a></li>
+                                        class="{local:select-nav($view, "obras-por-nacionalidad-de-autor")}">Obras por nacionalidad / origen de autor</a></li>
                                 <li><a
                                         href="{$app:home}/sinopsis/obras-por-pais-de-primera-edicion"
                                         class="{local:select-nav($view, "obras-por-pais-de-primera-edicion")}">Obras por país de primera edición</a></li>

@@ -245,7 +245,7 @@ declare function data:get-author-nationality($author as node()) as xs:string{
     return
         if ($sex = "masculino")
         then $nat-term/tei:term[@type="male"]
-        else if ($sex = "feminino")
+        else if ($sex = "femenino")
         then $nat-term/tei:term[@type="female"]
         else $nat-term/tei:term[@type="general"]
 };
