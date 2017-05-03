@@ -6,7 +6,7 @@ El objetivo de la bibliografía es sobre todo hacer posible una visión general 
 
 Bib-ACMé se basa en bibliografías existentes (sobre todo en los trabajos de Myron Lichtblau, Carlos Trelles y Juan Iguiniz), llevando los registros impresos a un entorno digital para facilitar análisis cuantitativos sobre autores, obras y ediciones.
 
-A modo de ejemplo, algunos análisis se muestran en este sitio en la sección "Sinopsis".
+A modo de ejemplo, algunos análisis se muestran en la [página web de Bib-ACMé](http://bibacme.cligs.digital-humanities.de) en la sección "Sinopsis".
 
 Más allá de la dimensión bibliográfica en sí, el objetivo de esta bibliografía es el de hacer posible que un corpus de novelas determinado se ponga en relación con lo que se considera el acercamiento a la *población estadística*, o sea el conjunto de novelas de referencia del período histórico y espacio geográfico-cultural examinado.
 
