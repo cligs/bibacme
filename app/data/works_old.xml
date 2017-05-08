@@ -697,18 +697,6 @@
                     <title>Realidades del pueblo</title>
                     <idno type="cligs">nh0123</idno>
                 </bibl>
-                <bibl xml:id="W326">
-                    <author key="A109">López Portillo y Rojas, José</author>
-                    <title>La parcela</title>
-                    <idno type="cligs">nh0036</idno>
-                </bibl>
-                <bibl xml:id="W327">
-                    <author key="A109">López Portillo y Rojas, José</author>
-                    <title>Los precursores</title>
-                    <!-- https://itunes.apple.com/mx/book/obras-del-lic.-jose-lopez/id1097004343?mt=11 -->
-                    <!-- http://sc.jalisco.gob.mx/acervos/libro-de-consulta-yo-venta/328 -->
-                    <!-- https://catalog.hathitrust.org/Record/101403240 -->
-                </bibl>
                 <bibl xml:id="W341">
                     <author key="A23">Castillo, Rafael del</author>
                     <title>La Carpeta Verde</title>

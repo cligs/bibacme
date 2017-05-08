@@ -6,7 +6,7 @@ module namespace app="http://localhost/app";
 declare namespace tei="http://www.tei-c.org/ns/1.0";
 declare default collation "?lang=es";
 declare variable $app:root := "/db/apps/bibacme";
-declare variable $app:home := "/exist/apps/bibacme";
+declare variable $app:home := "/exist/apps/bibacme/"; (: end with slash :)
 declare variable $app:works := doc(concat($app:root, "/data/works.xml"))//tei:listBibl/tei:bibl;
 declare variable $app:authors := doc(concat($app:root, "/data/authors.xml"))//tei:person;
 declare variable $app:editions := doc(concat($app:root, "/data/editions.xml"))//tei:listBibl/tei:biblStruct;
@@ -56,23 +56,23 @@ declare function app:authors($currpage as numeric, $currnationality as xs:string
             <ul>
                 <li>Páginas:</li>
                 {if ($currpage > 3)
-                 then <li><a href="{$app:home}/autores?p=1&amp;nacionalidad={$currnationality}&amp;decada={$currdecade}&amp;pais={$currcountry}&amp;letra={$currletter}">1</a> ...</li>
+                 then <li><a href="{$app:home}autores?p=1&amp;nacionalidad={$currnationality}&amp;decada={$currdecade}&amp;pais={$currcountry}&amp;letra={$currletter}">1</a> ...</li>
                  else (),
                  if ($currpage > 2)
-                 then <li><a href="{$app:home}/autores?p={$currpage - 2}&amp;nacionalidad={$currnationality}&amp;decada={$currdecade}&amp;pais={$currcountry}&amp;letra={$currletter}">{$currpage - 2}</a></li>
+                 then <li><a href="{$app:home}autores?p={$currpage - 2}&amp;nacionalidad={$currnationality}&amp;decada={$currdecade}&amp;pais={$currcountry}&amp;letra={$currletter}">{$currpage - 2}</a></li>
                  else(),
                  if ($currpage > 1)
-                 then <li><a href="{$app:home}/autores?p={$currpage - 1}&amp;nacionalidad={$currnationality}&amp;decada={$currdecade}&amp;pais={$currcountry}&amp;letra={$currletter}">{$currpage - 1}</a></li>
+                 then <li><a href="{$app:home}autores?p={$currpage - 1}&amp;nacionalidad={$currnationality}&amp;decada={$currdecade}&amp;pais={$currcountry}&amp;letra={$currletter}">{$currpage - 1}</a></li>
                  else (),
                  <li>{$currpage}</li>,
                  if ($currpage < $num-pages)
-                 then <li><a href="{$app:home}/autores?p={$currpage + 1}&amp;nacionalidad={$currnationality}&amp;decada={$currdecade}&amp;pais={$currcountry}&amp;letra={$currletter}">{$currpage + 1}</a></li>
+                 then <li><a href="{$app:home}autores?p={$currpage + 1}&amp;nacionalidad={$currnationality}&amp;decada={$currdecade}&amp;pais={$currcountry}&amp;letra={$currletter}">{$currpage + 1}</a></li>
                  else(),
                  if ($currpage < $num-pages - 1)
-                 then <li><a href="{$app:home}/autores?p={$currpage + 2}&amp;nacionalidad={$currnationality}&amp;decada={$currdecade}&amp;pais={$currcountry}&amp;letra={$currletter}">{$currpage + 2}</a></li>
+                 then <li><a href="{$app:home}autores?p={$currpage + 2}&amp;nacionalidad={$currnationality}&amp;decada={$currdecade}&amp;pais={$currcountry}&amp;letra={$currletter}">{$currpage + 2}</a></li>
                  else (),
                  if ($currpage < $num-pages - 2)
-                 then <li>... <a href="{$app:home}/autores?p={$num-pages}&amp;nacionalidad={$currnationality}&amp;decada={$currdecade}&amp;pais={$currcountry}&amp;letra={$currletter}">{$num-pages}</a></li>
+                 then <li>... <a href="{$app:home}autores?p={$num-pages}&amp;nacionalidad={$currnationality}&amp;decada={$currdecade}&amp;pais={$currcountry}&amp;letra={$currletter}">{$num-pages}</a></li>
                  else()}
             </ul>
             else <p>No hay resultados para esta búsqueda.</p>}
@@ -84,7 +84,7 @@ declare function app:authors($currpage as numeric, $currnationality as xs:string
             let $author-name := data:get-author-name($author-key, "surname")
             order by $author-name
             return 
-                <li><a href="{$app:home}/autor/{$author-key}">{$author-name}</a><br/><span class="italic smaller">{data:get-author-nationality($author)}</span></li>
+                <li><a href="{$app:home}autor/{$author-key}">{$author-name}</a><br/><span class="italic smaller">{data:get-author-nationality($author)}</span></li>
             }
         </ul>
         <form action="#" method="GET" style="position: absolute; top: 0; right: 0;">
@@ -161,10 +161,10 @@ declare function app:author($id as xs:string){
         <!-- to do: mit XSLT noch mehr Infos ausgeben -->
         <p>({$nationality})</p>
         {if ($birth)
-        then <p>Nacido: {string-join(($birth/tei:date, $birth/tei:placeName), " en ")}.</p>
+        then <p>Nacido: {string-join(($birth/tei:date, string-join($birth/tei:placeName, ", ")), " en ")}.</p>
         else()}
         {if ($death)
-        then <p>Muerto: {string-join(($death/tei:date, $death/tei:placeName), " en ")}.</p>
+        then <p>Muerto: {string-join(($death/tei:date, string-join($death/tei:placeName, ", ")), " en ")}.</p>
         else()}
     </section>,
     <section class="author">
@@ -175,7 +175,7 @@ declare function app:author($id as xs:string){
             let $title := $work/tei:title/data(.)
             order by $title
             return 
-                <li><a href="{$app:home}/obra/{$work/@xml:id}">{$title}</a></li>
+                <li><a href="{$app:home}obra/{$work/@xml:id}">{$title}</a></li>
             }
         </ul>
     </section>
@@ -211,23 +211,23 @@ declare function app:works($currpage as numeric, $currauthor as xs:string?, $cur
             <ul>
                 <li>Páginas:</li>
                 {if ($currpage > 3)
-                 then <li><a href="{$app:home}/obras?p=1&amp;autor={$currauthor}&amp;decada={$currdecade}&amp;pais={$currcountry}">1</a> ...</li>
+                 then <li><a href="{$app:home}obras?p=1&amp;autor={$currauthor}&amp;decada={$currdecade}&amp;pais={$currcountry}">1</a> ...</li>
                  else (),
                  if ($currpage > 2)
-                 then <li><a href="{$app:home}/obras?p={$currpage - 2}&amp;autor={$currauthor}&amp;decada={$currdecade}&amp;pais={$currcountry}&amp;letra={$currletter}">{$currpage - 2}</a></li>
+                 then <li><a href="{$app:home}obras?p={$currpage - 2}&amp;autor={$currauthor}&amp;decada={$currdecade}&amp;pais={$currcountry}&amp;letra={$currletter}">{$currpage - 2}</a></li>
                  else(),
                  if ($currpage > 1)
-                 then <li><a href="{$app:home}/obras?p={$currpage - 1}&amp;autor={$currauthor}&amp;decada={$currdecade}&amp;pais={$currcountry}&amp;letra={$currletter}">{$currpage - 1}</a></li>
+                 then <li><a href="{$app:home}obras?p={$currpage - 1}&amp;autor={$currauthor}&amp;decada={$currdecade}&amp;pais={$currcountry}&amp;letra={$currletter}">{$currpage - 1}</a></li>
                  else (),
                  <li>{$currpage}</li>,
                  if ($currpage < $num-pages)
-                 then <li><a href="{$app:home}/obras?p={$currpage + 1}&amp;autor={$currauthor}&amp;decada={$currdecade}&amp;pais={$currcountry}&amp;letra={$currletter}">{$currpage + 1}</a></li>
+                 then <li><a href="{$app:home}obras?p={$currpage + 1}&amp;autor={$currauthor}&amp;decada={$currdecade}&amp;pais={$currcountry}&amp;letra={$currletter}">{$currpage + 1}</a></li>
                  else(),
                  if ($currpage < $num-pages - 1)
-                 then <li><a href="{$app:home}/obras?p={$currpage + 2}&amp;autor={$currauthor}&amp;decada={$currdecade}&amp;pais={$currcountry}&amp;letra={$currletter}">{$currpage + 2}</a></li>
+                 then <li><a href="{$app:home}obras?p={$currpage + 2}&amp;autor={$currauthor}&amp;decada={$currdecade}&amp;pais={$currcountry}&amp;letra={$currletter}">{$currpage + 2}</a></li>
                  else (),
                  if ($currpage < $num-pages - 2)
-                 then <li>... <a href="{$app:home}/obras?p={$num-pages}&amp;autor={$currauthor}&amp;decada={$currdecade}&amp;pais={$currcountry}&amp;letra={$currletter}">{$num-pages}</a></li>
+                 then <li>... <a href="{$app:home}obras?p={$num-pages}&amp;autor={$currauthor}&amp;decada={$currdecade}&amp;pais={$currcountry}&amp;letra={$currletter}">{$num-pages}</a></li>
                  else()}
             </ul>
             else <p>No hay resultados para esta búsqueda.</p>}
@@ -240,7 +240,7 @@ declare function app:works($currpage as numeric, $currauthor as xs:string?, $cur
             let $author-key := $work//tei:author/@key
             let $author-name := data:get-author-name($author-key, "forename")
             return
-                <li><a href="{$app:home}/obra/{$work/@xml:id}">{$title}</a><br/><span class="italic smaller">{string-join($author-name,", ")}</span></li>
+                <li><a href="{$app:home}obra/{$work/@xml:id}">{$title}</a><br/><span class="italic smaller">{string-join($author-name,", ")}</span></li>
             }
         </ul>
         <form action="#" method="GET" style="position: absolute; top: 0; right: 0;">
@@ -315,7 +315,7 @@ declare function app:work($id as xs:string){
         <h2>{$title}</h2>
         {for $author in $authors
          return 
-            <p>Autor(a): <a href="{$app:home}/autor/{$author/@key}">{$author}</a></p>
+            <p>Autor(a): <a href="{$app:home}autor/{$author/@key}">{$author}</a></p>
         }
     </section>,
     <section class="work">
@@ -373,23 +373,23 @@ declare function app:editions($currpage as numeric, $currauthor as xs:string?, $
             (<ul>
                 <li>Páginas:</li>
                 {if ($currpage > 3)
-                 then <li><a href="{$app:home}/ediciones?p=1&amp;autor={$currauthor}&amp;decada={$currdecade}&amp;pais={$currcountry}&amp;obra={$currwork}&amp;letra={$currletter}&amp;orden={$order}">1</a> ...</li>
+                 then <li><a href="{$app:home}ediciones?p=1&amp;autor={$currauthor}&amp;decada={$currdecade}&amp;pais={$currcountry}&amp;obra={$currwork}&amp;letra={$currletter}&amp;orden={$order}">1</a> ...</li>
                  else (),
                  if ($currpage > 2)
-                 then <li><a href="{$app:home}/ediciones?p={$currpage - 2}&amp;autor={$currauthor}&amp;decada={$currdecade}&amp;pais={$currcountry}&amp;obra={$currwork}&amp;letra={$currletter}&amp;orden={$order}">{$currpage - 2}</a></li>
+                 then <li><a href="{$app:home}ediciones?p={$currpage - 2}&amp;autor={$currauthor}&amp;decada={$currdecade}&amp;pais={$currcountry}&amp;obra={$currwork}&amp;letra={$currletter}&amp;orden={$order}">{$currpage - 2}</a></li>
                  else(),
                  if ($currpage > 1)
-                 then <li><a href="{$app:home}/ediciones?p={$currpage - 1}&amp;autor={$currauthor}&amp;decada={$currdecade}&amp;pais={$currcountry}&amp;obra={$currwork}&amp;letra={$currletter}&amp;orden={$order}">{$currpage - 1}</a></li>
+                 then <li><a href="{$app:home}ediciones?p={$currpage - 1}&amp;autor={$currauthor}&amp;decada={$currdecade}&amp;pais={$currcountry}&amp;obra={$currwork}&amp;letra={$currletter}&amp;orden={$order}">{$currpage - 1}</a></li>
                  else (),
                  <li>{$currpage}</li>,
                  if ($currpage < $num-pages)
-                 then <li><a href="{$app:home}/ediciones?p={$currpage + 1}&amp;autor={$currauthor}&amp;decada={$currdecade}&amp;pais={$currcountry}&amp;obra={$currwork}&amp;letra={$currletter}&amp;orden={$order}">{$currpage + 1}</a></li>
+                 then <li><a href="{$app:home}ediciones?p={$currpage + 1}&amp;autor={$currauthor}&amp;decada={$currdecade}&amp;pais={$currcountry}&amp;obra={$currwork}&amp;letra={$currletter}&amp;orden={$order}">{$currpage + 1}</a></li>
                  else(),
                  if ($currpage < $num-pages - 1)
-                 then <li><a href="{$app:home}/ediciones?p={$currpage + 2}&amp;autor={$currauthor}&amp;decada={$currdecade}&amp;pais={$currcountry}&amp;obra={$currwork}&amp;letra={$currletter}&amp;orden={$order}">{$currpage + 2}</a></li>
+                 then <li><a href="{$app:home}ediciones?p={$currpage + 2}&amp;autor={$currauthor}&amp;decada={$currdecade}&amp;pais={$currcountry}&amp;obra={$currwork}&amp;letra={$currletter}&amp;orden={$order}">{$currpage + 2}</a></li>
                  else (),
                  if ($currpage < $num-pages - 2)
-                 then <li>... <a href="{$app:home}/ediciones?p={$num-pages}&amp;autor={$currauthor}&amp;decada={$currdecade}&amp;pais={$currcountry}&amp;obra={$currwork}&amp;letra={$currletter}&amp;orden={$order}">{$num-pages}</a></li>
+                 then <li>... <a href="{$app:home}ediciones?p={$num-pages}&amp;autor={$currauthor}&amp;decada={$currdecade}&amp;pais={$currcountry}&amp;obra={$currwork}&amp;letra={$currletter}&amp;orden={$order}">{$num-pages}</a></li>
                  else()}
             </ul>,
             <ul>
@@ -427,7 +427,7 @@ declare function app:editions($currpage as numeric, $currauthor as xs:string?, $
             let $edition-id := $edition/@xml:id
             return
                 <li>
-                    <a href="{$app:home}/edicion/{$edition-id}">{$title}</a><br/><span class="italic smaller">{string-join($author-name,", ")}{if ($year) then concat(", ", $year) else ()}</span>
+                    <a href="{$app:home}edicion/{$edition-id}">{$title}</a><br/><span class="italic smaller">{string-join($author-name,", ")}{if ($year) then concat(", ", $year) else ()}</span>
                 </li>
             }
         </ul>
@@ -515,9 +515,9 @@ declare function app:edition($id as xs:string){
         <h2>Edición</h2>
         {transform:transform($edition, doc(concat($app:root, "/stylesheets/edition.xsl")), ())}
         {for $author in $authors
-         return <p>Autor(a): <a href="{$app:home}/autor/{$author/@key}">{$author/data(.)}</a></p>}
+         return <p>Autor(a): <a href="{$app:home}autor/{$author/@key}">{$author/data(.)}</a></p>}
         {for $work in $works
-         return <p>Obra: <a href="{$app:home}/obra/{$work/@xml:id}">{$work/tei:title/data(.)}</a></p>}
+         return <p>Obra: <a href="{$app:home}obra/{$work/@xml:id}">{$work/tei:title/data(.)}</a></p>}
     </section>
 };
 
@@ -936,19 +936,19 @@ declare function app:data(){
         <table>
             <tr>
                 <td>Autores:</td>
-                <td><a href="{$app:home}/datos/autores" target="blank">autores.xml</a></td>
+                <td><a href="{$app:home}datos/autores" target="blank">autores.xml</a></td>
             </tr>
             <tr>
                 <td>Obras:</td>
-                <td><a href="{$app:home}/datos/obras" target="blank">obras.xml</a></td>
+                <td><a href="{$app:home}datos/obras" target="blank">obras.xml</a></td>
             </tr>
             <tr>
                 <td>Ediciones:</td>
-                <td><a href="{$app:home}/datos/ediciones" target="blank">ediciones.xml</a></td>
+                <td><a href="{$app:home}datos/ediciones" target="blank">ediciones.xml</a></td>
             </tr>
             <tr>
                 <td>Fuentes:</td>
-                <td><a href="{$app:home}/datos/fuentes" target="blank">fuentes.xml</a></td>
+                <td><a href="{$app:home}datos/fuentes" target="blank">fuentes.xml</a></td>
             </tr>
         </table>
     </section>

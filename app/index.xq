@@ -34,19 +34,19 @@ return
             <link
                 rel="stylesheet"
                 type="text/css"
-                href="{$app:home}/resources/style.css"/>
+                href="{$app:home}resources/style.css"/>
             <script
                 type="text/javascript"
-                src="{$app:home}/resources/plotly-latest.min.js"/>
+                src="{$app:home}resources/plotly-latest.min.js"/>
             <title>Bibliografía digital de novelas argentinas, mexicanas y cubanas (1830-1910)</title>
         </head>
         <body>
             <header>
                 <h1
                     class="main"><a
-                        href="{$app:home}/">Bib-ACMé</a></h1>
+                        href="{$app:home}">Bib-ACMé</a></h1>
                 <h1><a
-                        href="{$app:home}/">Bibliografía digital de novelas argentinas, cubanas y mexicanas (1830-1910)</a></h1>
+                        href="{$app:home}">Bibliografía digital de novelas argentinas, cubanas y mexicanas (1830-1910)</a></h1>
                 <nav>
                     <ul>
                         <li>
@@ -55,27 +55,27 @@ return
                                 class="{local:select-nav($view, ("sources", "criteria", "data"))}">Sobre Bib-ACMé</a>
                             <ul>
                                 <li><a
-                                        href="{$app:home}/sobre/fuentes"
+                                        href="{$app:home}sobre/fuentes"
                                         class="{local:select-nav($view, "sources")}">Fuentes</a></li>
                                 <li><a
-                                        href="{$app:home}/sobre/criterios-seleccion"
+                                        href="{$app:home}sobre/criterios-seleccion"
                                         class="{local:select-nav($view, "criteria")}">Criterios de selección</a></li>
                                 <li><a
-                                        href="{$app:home}/sobre/entidades-bibliograficas"
+                                        href="{$app:home}sobre/entidades-bibliograficas"
                                         class="{local:select-nav($view, "entities")}">Entidades bibliográficas</a></li>
                                 <li><a
-                                        href="{$app:home}/sobre/datos"
+                                        href="{$app:home}sobre/datos"
                                         class="{local:select-nav($view, "data")}">Datos básicos</a></li>
                             </ul>
                         </li>
                         <li><a
-                                href="{$app:home}/autores"
+                                href="{$app:home}autores"
                                 class="{local:select-nav($view, "authors")}">Autores</a></li>
                         <li><a
-                                href="{$app:home}/obras"
+                                href="{$app:home}obras"
                                 class="{local:select-nav($view, "works")}">Obras</a></li>
                         <li><a
-                                href="{$app:home}/ediciones"
+                                href="{$app:home}ediciones"
                                 class="{local:select-nav($view, "editions")}">Ediciones</a></li>
                         <li><a
                                 href="#"
@@ -86,31 +86,31 @@ return
                                     }">Sinopsis</a>
                             <ul>
                                 <li><a
-                                        href="{$app:home}/sinopsis/autores-por-nacionalidad"
+                                        href="{$app:home}sinopsis/autores-por-nacionalidad"
                                         class="{local:select-nav($view, "autores-por-nacionalidad")}">Autores por nacionalidad / origen</a></li>
                                 <li><a
-                                        href="{$app:home}/sinopsis/autores-por-sexo"
+                                        href="{$app:home}sinopsis/autores-por-sexo"
                                         class="{local:select-nav($view, "autores-por-sexo")}">Autores por sexo</a></li>
                                 <li><a
-                                        href="{$app:home}/sinopsis/obras-por-ano"
+                                        href="{$app:home}sinopsis/obras-por-ano"
                                         class="{local:select-nav($view, "obras-por-ano")}">Obras por año</a></li>
                                 <li><a
-                                        href="{$app:home}/sinopsis/obras-por-autor"
+                                        href="{$app:home}sinopsis/obras-por-autor"
                                         class="{local:select-nav($view, "obras-por-autor")}">Obras por autor</a></li>
                                 <li><a
-                                        href="{$app:home}/sinopsis/obras-por-decada"
+                                        href="{$app:home}sinopsis/obras-por-decada"
                                         class="{local:select-nav($view, "obras-por-decada")}">Obras por década</a></li>
                                 <li><a
-                                        href="{$app:home}/sinopsis/obras-por-nacionalidad-de-autor"
+                                        href="{$app:home}sinopsis/obras-por-nacionalidad-de-autor"
                                         class="{local:select-nav($view, "obras-por-nacionalidad-de-autor")}">Obras por nacionalidad / origen de autor</a></li>
                                 <li><a
-                                        href="{$app:home}/sinopsis/obras-por-pais-de-primera-edicion"
+                                        href="{$app:home}sinopsis/obras-por-pais-de-primera-edicion"
                                         class="{local:select-nav($view, "obras-por-pais-de-primera-edicion")}">Obras por país de primera edición</a></li>
                                 <li><a
-                                        href="{$app:home}/sinopsis/ediciones-por-decada"
+                                        href="{$app:home}sinopsis/ediciones-por-decada"
                                         class="{local:select-nav($view, "ediciones-por-decada")}">Ediciones por década</a></li>
                                 <li><a
-                                        href="{$app:home}/sinopsis/ediciones-por-obra"
+                                        href="{$app:home}sinopsis/ediciones-por-obra"
                                         class="{local:select-nav($view, "ediciones-por-obra")}">Ediciones por obra</a></li>
                             </ul>
                         </li>
@@ -233,7 +233,7 @@ return
                         href="https://cligs.hypotheses.org"
                         target="blank">
                         <img
-                            src="{$app:home}/resources/cligs_logo.png"
+                            src="{$app:home}resources/cligs_logo.png"
                             alt="CLiGS"
                             title="CLiGS"
                             width="100px"/>

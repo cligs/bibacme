@@ -65,6 +65,9 @@
                     (varios cuentos largos - novelas cortas?)
                     - Martínez, Guillermo:  En las garras de la muerte. Novela histórica mexicana sobre la vida de Pancho Villa (cuándo?)
                     - Mellado, Guillermo: El terruño (cuándo?)
+                    - Morales Puente, Armando (1876-1942): La lobera. Novela de escándalo. Vida de un artista (cuándo?)
+                    - Alonso de Icaza, Lupita. Novela mexicana (cuándo?)
+                    - Hugo, Sol (pseud. de Manzanilla Domínguez, Anastasio), Los rostros de nada. Novela (cuándo?)
                 -->
                 <!-- DLC: Fernando Urzáis, "novelas en La Aurora", ps. Úrsulo Fernández
                 - Noda, Tranquilino Sandalio de
@@ -3683,6 +3686,7 @@
                     <persName>
                         <surname>Peña</surname>
                         <forename>Ignacio A. de la</forename>
+                        <addName type="pseudonym">Ignotus</addName>
                     </persName>
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
@@ -4558,6 +4562,322 @@
                     </death>
                     <idno type="viaf">41551553</idno>
                     <sex>femenino</sex>
+                    <nationality>mexicana/o</nationality>
+                </person>
+                <person xml:id="A299">
+                    <persName>
+                        <surname>Méndez Rivas</surname>
+                        <forename>Federico</forename>
+                    </persName>
+                    <idno type="viaf">68118021</idno>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">mexicana/o</nationality>
+                </person>
+                <person xml:id="A300">
+                    <persName>
+                        <surname>Merino</surname>
+                        <forename>Manuel</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">mexicana/o</nationality>
+                </person>
+                <person xml:id="A301">
+                    <persName>
+                        <surname>Moral</surname>
+                        <forename>Salvador L.</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">mexicana/o</nationality>
+                </person>
+                <person xml:id="A302">
+                    <persName>
+                        <surname>Morales</surname>
+                        <forename>Vicente</forename>
+                        <addName type="pseudonym">Virginia y Víctor</addName>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                </person>
+                <person xml:id="A303">
+                    <persName>
+                        <surname>Moreno</surname>
+                        <forename>Antonio de P.</forename>
+                    </persName>
+                    <birth>
+                        <date when="1848">1848</date>
+                        <placeName>Amozoc</placeName>
+                        <placeName>Puebla</placeName>
+                        <placeName>México</placeName>
+                    </birth>
+                    <death>
+                        <date when="1920">1920</date>
+                        <placeName>Guadalupe</placeName>
+                        <placeName>Hidalgo</placeName>
+                        <placeName>México</placeName>
+                    </death>
+                    <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                </person>
+                <person xml:id="A304">
+                    <persName>
+                        <surname>Moreno Cantón</surname>
+                        <forename>Delio</forename>
+                    </persName>
+                    <birth>
+                        <date when="1863">1863</date>
+                        <placeName>Valladolid</placeName>
+                        <placeName>Yucatán</placeName>
+                        <placeName>México</placeName>
+                    </birth>
+                    <death>
+                        <date when="1916">1916</date>
+                        <placeName>Ciudad de México</placeName>
+                        <placeName>México</placeName>
+                    </death>
+                    <idno type="viaf">43689635</idno>
+                    <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                </person>
+                <person xml:id="A305">
+                    <persName>
+                        <surname>Munguía</surname>
+                        <forename>Felipe S.</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">mexicana/o</nationality>
+                </person>
+                <person xml:id="A306">
+                    <persName>
+                        <surname>Muñoz</surname>
+                        <forename>Mariano M. y</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">mexicana/o</nationality>
+                </person>
+                <person xml:id="A307">
+                    <persName>
+                        <surname>Lacunza</surname>
+                        <forename>José María</forename>
+                    </persName>
+                    <birth>
+                        <date when="1809">1809</date>
+                        <placeName>Ciudad de México</placeName>
+                        <placeName>México</placeName>
+                    </birth>
+                    <death>
+                        <date when="1869">1869</date>
+                        <placeName>La Habana</placeName>
+                        <placeName>Cuba</placeName>
+                    </death>
+                    <idno type="viaf">19228128</idno>
+                    <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                </person>
+                <person xml:id="A308">
+                    <persName>
+                        <surname>Larráinzar</surname>
+                        <forename>Enriqueta</forename>
+                    </persName>
+                    <idno type="viaf">87773763</idno>
+                    <sex>femenino</sex>
+                    <nationality cert="medium">mexicana/o</nationality>
+                </person>
+                <person xml:id="A309">
+                    <persName>
+                        <surname>Larráinzar</surname>
+                        <forename>Ernestina</forename>
+                    </persName>
+                    <idno type="viaf">87773785</idno>
+                    <sex>femenino</sex>
+                    <nationality cert="medium">mexicana/o</nationality>
+                </person>
+                <person xml:id="A310">
+                    <persName>
+                        <surname>Lavat</surname>
+                        <forename>Juan</forename>
+                    </persName>
+                    <birth>
+                        <date when="1857">1857</date>
+                        <placeName>Hacienda de Cedros</placeName>
+                        <placeName>San Luis Potosí</placeName>
+                        <placeName>México</placeName>
+                    </birth>
+                    <death>
+                        <date when="1911">1911</date>
+                        <placeName>Guadalajara</placeName>
+                        <placeName>Jalisco</placeName>
+                        <placeName>México</placeName>
+                    </death>
+                    <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                </person>
+                <person xml:id="A311">
+                    <persName>
+                        <surname>Leduc</surname>
+                        <forename>Alberto</forename>
+                    </persName>
+                    <birth>
+                        <date when="1867-12-05">5 de diciembre de 1867</date>
+                        <placeName>Querétaro</placeName>
+                        <placeName>Querétaro</placeName>
+                        <placeName>México</placeName>
+                    </birth>
+                    <death>
+                        <date when="1908-10-04">4 de octubre de 1908</date>
+                        <placeName>Ciudad de México</placeName>
+                        <placeName>México</placeName>
+                    </death>
+                    <idno type="viaf">14789668</idno>
+                    <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                    <!-- Biografías sentimentales, 1898, contiene:
+                        El Padre Alfredo, Antonia, La Bachillera (Recuerdos de un Charentón),
+                        15-20 páginas cada una
+                        http://www.cervantesvirtual.com/obra/biografias-sentimentales/ 
+                    - En torno de una muerta (cuentos)
+                    http://bdh.bne.es/bnesearch/detalle/bdh0000107603
+                    - Fragatita (cuentos)
+                    - Ángela Lorenzana (cuentos)
+                    - El vencido (novela?)
+                    -->
+                </person>
+                <person xml:id="A312">
+                    <persName>
+                        <surname>Lombardo</surname>
+                        <forename>Alberto</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">mexicana/o</nationality>
+                </person>
+                <person xml:id="A313">
+                    <persName>
+                        <surname>López Portillo y Rojas</surname>
+                        <forename>José</forename>
+                    </persName>
+                    <birth>
+                        <date when="1850-05-26">26 de mayo de 1850</date>
+                    </birth>
+                    <death>
+                        <date when="1923-05-22">22 de mayo de 1923</date>
+                    </death>
+                    <idno type="viaf">29564117</idno>
+                    <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                    <!-- Seis Leyendas, 1883 (qué leyendas?) -->
+                </person>
+                <person xml:id="A314">
+                    <persName>
+                        <surname>López de la Serna</surname>
+                        <forename>Rafael</forename>
+                        <addName type="pseudonym">Ricardo Colt</addName>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">mexicana/o</nationality>
+                </person>
+                <person xml:id="A315">
+                    <persName>
+                        <surname>Loyola</surname>
+                        <forename>Bernabé</forename>
+                    </persName>
+                    <idno type="viaf">70645287</idno>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">mexicana/o</nationality>
+                </person>
+                <person xml:id="A316">
+                    <persName>
+                        <surname>Lozada</surname>
+                        <forename>Enrique</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">mexicana/o</nationality>
+                </person>
+                <person xml:id="A317">
+                    <persName>
+                        <surname>Llanas</surname>
+                        <forename>Pedro L.</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">mexicana/o</nationality>
+                </person>
+                <person xml:id="A318">
+                    <persName>
+                        <surname>Jens</surname>
+                        <forename>Federico Carlos</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">mexicana/o</nationality>
+                </person>
+                <person xml:id="A319">
+                    <persName>
+                        <surname>Inclán</surname>
+                        <forename>Luis Gonzaga</forename>
+                    </persName>
+                    <birth>
+                        <date when="1816-07-21">21 de julio de 1816</date>
+                        <placeName>Tlalpan</placeName>
+                        <placeName>Ciudad de México</placeName>
+                        <placeName>México</placeName>
+                    </birth>
+                    <death>
+                        <date when="1875">1875</date>
+                        <placeName>Ciudad de México</placeName>
+                        <placeName>México</placeName>
+                    </death>
+                    <idno type="viaf">30739492</idno>
+                    <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                    <!-- perdidos: Los tres Pepes; Pepita la planchadora
+                    - Reglas con las que un colegial puede colear y lazar (novela?) -->
+                </person>
+                <person xml:id="A320">
+                    <persName>
+                        <surname>Hernández</surname>
+                        <forename>Fortunato</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">mexicana/o</nationality>
+                </person>
+                <person xml:id="A321">
+                    <persName>
+                        <surname>Hernández</surname>
+                        <forename>J. R.</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">mexicana/o</nationality>
+                </person>
+                <person xml:id="A322">
+                    <persName>
+                        <surname>Hernández</surname>
+                        <forename>Adela</forename>
+                    </persName>
+                    <persName>
+                        <surname>Herrera</surname>
+                        <forename>Adela</forename>
+                    </persName>
+                    <persName>
+                        <surname>Heridrea Real</surname>
+                        <forename>Ada</forename>
+                    </persName>
+                    <sex>femenino</sex>
+                    <nationality cert="medium">mexicana/o</nationality>
+                </person>
+                <person xml:id="A323">
+                    <persName>
+                        <surname>Hidalgo y Esnaurrízar</surname>
+                        <forename>José Manuel</forename>
+                    </persName>
+                    <birth>
+                        <date when="1826">1826</date>
+                        <placeName>Ciudad de México</placeName>
+                        <placeName>México</placeName>
+                    </birth>
+                    <death>
+                        <date when="1896-12-27">27 de diciembre de 1896</date>
+                        <placeName>París</placeName>
+                        <placeName>Francia</placeName>
+                    </death>
+                    <idno type="viaf">30872022</idno>
+                    <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                 </person>
             </listPerson>

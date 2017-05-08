@@ -979,21 +979,6 @@
                     <idno type="viaf">39156046</idno>
                     <!-- Roman ? : La pasión de los celos. Cuadros de la vida íntima. La Habana, Imp. del Gobierno..., 1888. | -->
                 </person>
-                <person xml:id="A109">
-                    <persName>
-                        <surname>López Portillo y Rojas</surname>
-                        <forename>José</forename>
-                    </persName>
-                    <birth>
-                        <date when="1850-05-26">26 de mayo de 1850</date>
-                    </birth>
-                    <death>
-                        <date when="1923-05-22">22 de mayo de 1923</date>
-                    </death>
-                    <sex>masculino</sex>
-                    <nationality>mexicana/o</nationality>
-                    <idno type="viaf">29564117</idno>
-                </person>
                 <person xml:id="A131">
                     <persName>
                         <surname>Auber de Noya</surname>

@@ -4743,6 +4743,401 @@
                     <title>La confesión de Alma</title>
                     <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
                 </bibl>
+                <bibl xml:id="W761">
+                    <author key="A299">Méndez Rivas, Federico</author>
+                    <title>Ana</title>
+                    <term type="subgenre_title">impresiones de un viaje</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W762">
+                    <author key="A299">Méndez Rivas, Federico</author>
+                    <title>María o un amor contrariado</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W763">
+                    <author key="A300">Merino, Manuel</author>
+                    <title>La gruta del madrigal</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W764">
+                    <author key="A300">Merino, Manuel</author>
+                    <title>Juana Santa Anna</title>
+                    <term type="subgenre_title">novela histórica</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W765">
+                    <author key="A300">Merino, Manuel</author>
+                    <title>Ruta</title>
+                    <title type="alt">Celestina</title>
+                    <term type="subgenre_title">novela histórica</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W766">
+                    <author key="A301">Moral, Salvador L.</author>
+                    <title>El mártir de la orfandad</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W767">
+                    <author key="A302">Morales, Vicente</author>
+                    <title>Silveria de Epinay</title>
+                    <term type="subgenre_title">novela original</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W768">
+                    <author key="A302">Morales, Vicente</author>
+                    <title>Ernestina</title>
+                    <term type="subgenre_title">leyenda original</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W769">
+                    <author key="A302">Morales, Vicente</author>
+                    <title>Gentes de historia</title>
+                    <term type="subgenre_title">novela original</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W770">
+                    <author key="A302">Morales, Vicente</author>
+                    <title>Angela</title>
+                    <term type="subgenre_title">leyenda</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W771">
+                    <author key="A302">Morales, Vicente</author>
+                    <title>Gerardo</title>
+                    <term type="subgenre_title">novela original</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                    <ref>http://www.bicentenario.gob.mx/bdb/bdbpdf/laMatraca/GERARDO%20HISTORIA%20DE%20UN%20JUGADOR%201874-primera.pdf</ref>
+                    <ref>http://www.bicentenario.gob.mx/bdb/bdbpdf/laMatraca/GERARDO%20HISTORIA%20DE%20UN%20JUGADOR%201874-segunda.pdf</ref>
+                    <ref>http://www.bicentenario.gob.mx/bdb/bdbpdf/laMatraca/GERARDO%20HISTORIA%20DE%20UN%20JUGADOR%201874-tercera.pdf</ref>
+                    <ref>http://www.bicentenario.gob.mx/bdb/bdbpdf/laMatraca/GERARDO%20HISTORIA%20DE%20UN%20JUGADOR%201874-cuarta.pdf</ref>
+                </bibl>
+                <bibl xml:id="W772">
+                    <author key="A302">Morales, Vicente</author>
+                    <title>El escéptico</title>
+                    <term type="subgenre_title">novela original</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W773">
+                    <author key="A303">Moreno, Antonio de P.</author>
+                    <title>Cartas a María</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W774">
+                    <author key="A303">Moreno, Antonio de P.</author>
+                    <title>Un corazón en un libro</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W775">
+                    <author key="A303">Moreno, Antonio de P.</author>
+                    <title>Ecos de ultratumba o epílogo de un drama</title>
+                    <term type="subgenre_title">Pequeña novela</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W776">
+                    <author key="A304">Moreno Cantón, Delio</author>
+                    <title>El último esfuerzo</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W777">
+                    <author key="A304">Moreno Cantón, Delio</author>
+                    <title>El sargento primero</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W778">
+                    <author key="A305">Munguía, Felipe S.</author>
+                    <title>Estela</title>
+                    <term type="subgenre_title">Bosquejo de un cuadro natural</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W779">
+                    <author key="A306">Muñoz, Mariano M. y</author>
+                    <title>El misterioso</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W780">
+                    <author key="A307">Lacunza, José María</author>
+                    <title>Netzula</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                    <!-- también atribuido a José María Lafragua -->
+                </bibl>
+                <bibl xml:id="W781">
+                    <author key="A308">Larráinzar, Enriqueta</author>
+                    <author key="A309">Larráinzar, Ernestina</author>
+                    <title>Horas serias en la vida</title>
+                    <term type="subgenre_title">reflexiones</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W782">
+                    <author key="A308">Larráinzar, Enriqueta</author>
+                    <author key="A309">Larráinzar, Ernestina</author>
+                    <title>Misterios del corazón</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W783">
+                    <author key="A308">Larráinzar, Enriqueta</author>
+                    <author key="A309">Larráinzar, Ernestina</author>
+                    <title>¡Sonrisas y lágrimas!</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W784">
+                    <author key="A310">Lavat, Juan</author>
+                    <title>Natalia</title>
+                    <term type="subgenre_title">leyenda</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W785">
+                    <author key="A311">Leduc, Alberto</author>
+                    <title>Un calvario</title>
+                    <term type="subgenre_title">memorias</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W786">
+                    <author key="A311">Leduc, Alberto</author>
+                    <title>María del Consuelo</title>
+                    <term type="subgenre_title">memorias</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W787">
+                    <author key="A312">Lombardo, Alberto</author>
+                    <title>Hidaldo</title>
+                    <term type="subgenre_title">episodio</term>
+                    <term type="subgenre_title">novela histórica</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W788">
+                    <author key="A312">Lombardo, Alberto</author>
+                    <title>Morelos</title>
+                    <term type="subgenre_title">episodio</term>
+                    <term type="subgenre_title">novela histórica</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W789">
+                    <author key="A313">López Portillo y Rojas, José</author>
+                    <title>La parcela</title>
+                    <term type="subgenre_title">novela de costumbres mexicanas</term>
+                    <idno type="cligs">nh0036</idno>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W790">
+                    <author key="A313">López Portillo y Rojas, José</author>
+                    <title>Los precursores</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W791">
+                    <author key="A313">López Portillo y Rojas, José</author>
+                    <title>Nieves</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W792">
+                    <author key="A313">López Portillo y Rojas, José</author>
+                    <title>El primer amor</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W793">
+                    <author key="A313">López Portillo y Rojas, José</author>
+                    <title>El Espejo</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W794">
+                    <author key="A313">López Portillo y Rojas, José</author>
+                    <title>En Diligencia</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W795">
+                    <author key="A313">López Portillo y Rojas, José</author>
+                    <title>Adalinda</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W796">
+                    <author key="A313">López Portillo y Rojas, José</author>
+                    <title>El Arpa</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W797">
+                    <author key="A313">López Portillo y Rojas, José</author>
+                    <title>Un Pacto con el Diablo</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W798">
+                    <author key="A313">López Portillo y Rojas, José</author>
+                    <title>La Fuga</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W799">
+                    <author key="A313">López Portillo y Rojas, José</author>
+                    <title>El Brazalete</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W800">
+                    <author key="A313">López Portillo y Rojas, José</author>
+                    <title>La Suerte del Bueno</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W801">
+                    <author key="A313">López Portillo y Rojas, José</author>
+                    <title>El proscripto</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W802">
+                    <author key="A313">López Portillo y Rojas, José</author>
+                    <title>El rector y el colegial</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W803">
+                    <author key="A313">López Portillo y Rojas, José</author>
+                    <title>Pía</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W804">
+                    <author key="A313">López Portillo y Rojas, José</author>
+                    <title>Luz de rayo</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W805">
+                    <author key="A313">López Portillo y Rojas, José</author>
+                    <title>Sor María Margarita</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W806">
+                    <author key="A313">López Portillo y Rojas, José</author>
+                    <title>La horma de su zapato</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W807">
+                    <author key="A313">López Portillo y Rojas, José</author>
+                    <title>El dolor y la honra</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W808">
+                    <author key="A313">López Portillo y Rojas, José</author>
+                    <title>Egoísmo trágico</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W809">
+                    <author key="A313">López Portillo y Rojas, José</author>
+                    <title>El billete de lotería</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W810">
+                    <author key="A313">López Portillo y Rojas, José</author>
+                    <title>El pro y el contra</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W811">
+                    <author key="A313">López Portillo y Rojas, José</author>
+                    <title>Un drama de tres horas</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W812">
+                    <author key="A313">López Portillo y Rojas, José</author>
+                    <title>El brazo del coronel</title>
+                    <term type="subgenre_title">desenlace ilógico</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W813">
+                    <author key="A313">López Portillo y Rojas, José</author>
+                    <title>Suprema fineza</title>
+                    <term type="subgenre_title">desenlace ilógico</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W814">
+                    <author key="A313">López Portillo y Rojas, José</author>
+                    <title>Orvañanos</title>
+                    <term type="subgenre_title">desenlace ilógico</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W815">
+                    <author key="A314">López de la Serna, Rafael</author>
+                    <title>Curiosa venganza</title>
+                    <term type="subgenre_title">costumbres de mineros mexicanos</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W816">
+                    <author key="A315">Loyola, Bernabé</author>
+                    <title>Doce episodios de la vida de Bernabé Loyola</title>
+                    <term type="subgenre_title">episodios</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W817">
+                    <author key="A316">Lozada, Enrique</author>
+                    <title>Celeste</title>
+                    <term type="subgenre_title">novela fantástica</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W818">
+                    <author key="A317">Llanas, Pedro L.</author>
+                    <title>Caridad y recompensa</title>
+                    <term type="subgenre_title">novela histórica y original</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W819">
+                    <author key="A318">Jens, Federico Carlos</author>
+                    <title>De la muerte a la vida</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W820">
+                    <author key="A319">Inclán, Luis Gonzaga</author>
+                    <title>Astucia</title>
+                    <term type="subgenre_title">novela histórica de costumbres mexicanas</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W821">
+                    <author key="A319">Inclán, Luis Gonzaga</author>
+                    <title>Recuerdos del Chamberín</title>
+                    <term type="subgenre_title">breve relación de hecho públicos y memorables</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W822">
+                    <author key="A320">Hernández, Fortunato</author>
+                    <title>Desequilibrio</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W823">
+                    <author key="A320">Hernández, Fortunato</author>
+                    <title>En plena lucha</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W824">
+                    <author key="A320">Hernández, Fortunato</author>
+                    <title>Transfiguración</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W825">
+                    <author key="A321">Hernández, J. R.</author>
+                    <title>Azcaxochitl o la flecha de oro</title>
+                    <term type="subgenre_title">leyenda histórica azteca</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W826">
+                    <author key="A322">Hernández, Adela</author>
+                    <title>Margarita</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W827">
+                    <author key="A323">Hidalgo y Esnaurrízar, José Manuel</author>
+                    <title>Las dos condesas</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W828">
+                    <author key="A323">Hidalgo y Esnaurrízar, José Manuel</author>
+                    <title>La sed de oro</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W829">
+                    <author key="A323">Hidalgo y Esnaurrízar, José Manuel</author>
+                    <title>Víctimas del chic</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W830">
+                    <author key="A323">Hidalgo y Esnaurrízar, José Manuel</author>
+                    <title>Lelia y Marina</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W831">
+                    <author key="A323">Hidalgo y Esnaurrízar, José Manuel</author>
+                    <title>La confesión de una mundana</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
             </listBibl>
         </body>
     </text>
