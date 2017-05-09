@@ -5138,6 +5138,180 @@
                     <title>La confesión de una mundana</title>
                     <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
                 </bibl>
+                <bibl xml:id="W832">
+                    <author key="A324">Galindo, Humberto</author>
+                    <title>El ídolo</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W833">
+                    <author key="A325">Gallardo, Aurelio Luis</author>
+                    <title>Adah o el amor de un ángel</title>
+                    <term type="subgenre_title">novela original</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W834">
+                    <author key="A326">Gamboa, Federico</author>
+                    <title>Apariencias</title>
+                    <idno type="cligs">nh0190</idno>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W835">
+                    <author key="A326">Gamboa, Federico</author>
+                    <title>Suprema ley</title>
+                    <idno type="cligs">nh0192</idno>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W836">
+                    <author key="A326">Gamboa, Federico</author>
+                    <title>Reconquista</title>
+                    <idno type="cligs">nh0193</idno>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W837">
+                    <author key="A326">Gamboa, Federico</author>
+                    <title>Metamorfosis</title>
+                    <idno type="cligs">nh0194</idno>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W838">
+                    <author key="A326">Gamboa, Federico</author>
+                    <title>Santa</title>
+                    <idno type="cligs">nh0080</idno>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W839">
+                    <author key="A326">Gamboa, Federico</author>
+                    <title>La llaga</title>
+                    <idno type="cligs">nh0191</idno>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W840">
+                    <author key="A326">Gamboa, Federico</author>
+                    <title>El mechero de gas</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W841">
+                    <author key="A326">Gamboa, Federico</author>
+                    <title>La excursionista</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W842">
+                    <author key="A326">Gamboa, Federico</author>
+                    <title>El primer caso</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W843">
+                    <author key="A326">Gamboa, Federico</author>
+                    <title>Uno de tantos</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W844">
+                    <author key="A326">Gamboa, Federico</author>
+                    <title>¡Vendía cerrillos!</title>
+                    <idno type="cligs">nh0128</idno>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                    <ref>http://www.lanovelacorta.com/1872-1922/vcp.php</ref>
+                </bibl>
+                <bibl xml:id="W845">
+                    <author key="A327">Garay, Aurelio</author>
+                    <title>La hidra</title>
+                    <term type="subgenre_title">memorias</term>
+                    <term type="subgenre_title">silueta social</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W846">
+                    <author key="A328">García, Genaro</author>
+                    <title>Inelda</title>
+                    <term type="subgenre_title">ensayo</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W847">
+                    <author key="A328">García, Genaro</author>
+                    <title>Páginas arrancadas de una historia. ¡Pobre Belém!</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W848">
+                    <author key="A329">García González, Francisco</author>
+                    <title>Belén por dentro</title>
+                    <term type="subgenre_title">novela de costumbres</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W849">
+                    <author key="A330">Gómez Luna, Ignacio</author>
+                    <title>Amor ideal</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W850">
+                    <author key="A330">Gómez Luna, Ignacio</author>
+                    <title>Rosa y Teresa</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W851">
+                    <author key="A331">Gómez Vergara, Joaquín</author>
+                    <title>Quien mal anda, mal acaba</title>
+                    <term type="subgenre_title">cuento</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W852">
+                    <author key="A331">Gómez Vergara, Joaquín</author>
+                    <title>La puerta del cielo</title>
+                    <term type="subgenre_title">cuento</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W853">
+                    <author key="A331">Gómez Vergara, Joaquín</author>
+                    <title>Las cruces del santuario</title>
+                    <term type="subgenre_title">tradición popular mexicana</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W854">
+                    <author key="A331">Gómez Vergara, Joaquín</author>
+                    <title>El baile de confianza</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W855">
+                    <author key="A331">Gómez Vergara, Joaquín</author>
+                    <title>El matrimonio</title>
+                    <term type="subgenre_title">variaciones sobre un tema popular</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W856">
+                    <author key="A331">Gómez Vergara, Joaquín</author>
+                    <title>El médico</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W857">
+                    <author key="A331">Gómez Vergara, Joaquín</author>
+                    <title>Los rotos</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W858">
+                    <author key="A332">González Peña, Carlos</author>
+                    <title>De noche</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W859">
+                    <author key="A332">González Peña, Carlos</author>
+                    <title>La chiquilla</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W860">
+                    <author key="A332">González Peña, Carlos</author>
+                    <title>La musa bohemia</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W861">
+                    <author key="A333">Goyc, Juan</author>
+                    <title>Vicio heroico y virtud criminal</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W862">
+                    <author key="A334">Guadalajara, José Rafael</author>
+                    <title>Amalia</title>
+                    <title type="alt">Sara</title>
+                    <term type="subgenre_title">páginas del primer amor</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
             </listBibl>
         </body>
     </text>

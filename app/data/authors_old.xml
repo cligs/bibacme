@@ -311,24 +311,6 @@
                     <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
                 </person>
-                <person xml:id="A43">
-                    <persName>
-                        <surname>Gamboa</surname>
-                        <forename>Federico</forename>
-                        <addName type="pseudonym">La Cocardière</addName>
-                    </persName>
-                    <birth>
-                        <date when="1864-12-22">22 de diciembre de 1864</date>
-                        <placeName>México</placeName>
-                    </birth>
-                    <death>
-                        <date when="1939-08-15">15 de agosto de 1939</date>
-                        <placeName>México</placeName>
-                    </death>
-                    <idno type="viaf">61671056</idno>
-                    <sex>masculino</sex>
-                    <nationality>mexicana/o</nationality>
-                </person>
                 <person xml:id="A44">
                     <persName>
                         <surname>Pelliza de Sagasta</surname>

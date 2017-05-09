@@ -68,6 +68,11 @@
                     - Morales Puente, Armando (1876-1942): La lobera. Novela de escándalo. Vida de un artista (cuándo?)
                     - Alonso de Icaza, Lupita. Novela mexicana (cuándo?)
                     - Hugo, Sol (pseud. de Manzanilla Domínguez, Anastasio), Los rostros de nada. Novela (cuándo?)
+                    - Galindo, Miguel: Notas grises, Páginas blancas, Páginas verdes (ensayos, narraciones cortas ?)
+                    - García y Valdés, María. Almas superiores (cuándo?)
+                    - González, Lauro: Demófilo y sus hombres a las puertas del desengaño. Novela sui-generis..., 1880 (sólo 
+                    se conocen las primeras entregas)
+                    - Gutiérrez, Federico: La novela de Alicia. En La Novela Semanal de El Universal Ilustrado (cuándo?)
                 -->
                 <!-- DLC: Fernando Urzáis, "novelas en La Aurora", ps. Úrsulo Fernández
                 - Noda, Tranquilino Sandalio de
@@ -4879,6 +4884,161 @@
                     <idno type="viaf">30872022</idno>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
+                </person>
+                <person xml:id="A324">
+                    <persName>
+                        <surname>Galindo</surname>
+                        <forename>Humberto</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">mexicana/o</nationality>
+                </person>
+                <person xml:id="A325">
+                    <persName>
+                        <surname>Gallardo</surname>
+                        <forename>Aurelio Luis</forename>
+                    </persName>
+                    <birth>
+                        <date when="1831" cert="low">1831</date>
+                        <placeName>León</placeName>
+                        <placeName>Guanajuato</placeName>
+                        <placeName>México</placeName>
+                    </birth>
+                    <death>
+                        <date when="1869">1869</date>
+                        <placeName>Napa</placeName>
+                        <placeName>California</placeName>
+                        <placeName>Estados Unidos</placeName>
+                    </death>
+                    <idno type="viaf">8601148209319400460007</idno>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">mexicana/o</nationality>
+                </person>
+                <person xml:id="A326">
+                    <persName>
+                        <surname>Gamboa</surname>
+                        <forename>Federico</forename>
+                        <addName type="pseudonym">La Cocardière</addName>
+                    </persName>
+                    <birth>
+                        <date when="1864-12-22">22 de diciembre de 1864</date>
+                        <placeName>México</placeName>
+                    </birth>
+                    <death>
+                        <date when="1939-08-15">15 de agosto de 1939</date>
+                        <placeName>México</placeName>
+                    </death>
+                    <idno type="viaf">61671056</idno>
+                    <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                    <!-- Impresiones y recuerdos (memorias en forma narrativa, 1896)
+                    - Mi diario, 1907, 1910 -->
+                </person>
+                <person xml:id="A327">
+                    <persName>
+                        <surname>Garay</surname>
+                        <forename>Aurelio</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">mexicana/o</nationality>
+                </person>
+                <person xml:id="A328">
+                    <persName>
+                        <surname>García</surname>
+                        <forename>Genaro</forename>
+                        <addName type="pseudonym">Franco Leal</addName>
+                    </persName>
+                    <birth>
+                        <date when="1867">1867</date>
+                    </birth>
+                    <death>
+                        <date when="1920">1920</date>
+                    </death>
+                    <idno type="viaf">4967617</idno>
+                    <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                    <!-- Dos antiguas relaciones de la Florida (1902, no es novela) -->
+                </person>
+                <person xml:id="A329">
+                    <persName>
+                        <surname>García González</surname>
+                        <forename>Francisco</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">mexicana/o</nationality>
+                </person>
+                <person xml:id="A330">
+                    <persName>
+                        <surname>Gómez Luna</surname>
+                        <forename>Ignacio</forename>
+                    </persName>
+                    <persName>
+                        <surname>Magez Nigona</surname>
+                        <forename>Lucio</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">mexicana/o</nationality>
+                </person>
+                <person xml:id="A331">
+                    <persName>
+                        <surname>Gómez Vergara</surname>
+                        <forename>Joaquín</forename>
+                        <addName type="pseudonym">Demócrito</addName>
+                    </persName>
+                    <birth>
+                        <date when="1840" cert="low">1840</date>
+                        <placeName>Guadalajara</placeName>
+                        <placeName>Jalisco</placeName>
+                        <placeName>México</placeName>
+                    </birth>
+                    <death>
+                        <date when="1894">1894</date>
+                        <placeName>Ciudad de México</placeName>
+                        <placeName>México</placeName>
+                    </death>
+                    <idno type="viaf">698144782726996295481</idno>
+                    <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                </person>
+                <person xml:id="A332">
+                    <persName>
+                        <surname>González Peña</surname>
+                        <forename>Carlos</forename>
+                    </persName>
+                    <birth>
+                        <date when="1885">1885</date>
+                        <placeName>Guadalajara</placeName>
+                        <placeName>Jalisco</placeName>
+                        <placeName>México</placeName>
+                    </birth>
+                    <death>
+                        <date when="1955">1955</date>
+                        <placeName>Ciudad de México</placeName>
+                        <placeName>México</placeName>
+                    </death>
+                    <idno type="viaf">24688679</idno>
+                    <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                </person>
+                <person xml:id="A333">
+                    <persName>
+                        <surname>Goyc</surname>
+                        <forename>Juan</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">mexicana/o</nationality>
+                </person>
+                <person xml:id="A334">
+                    <persName>
+                        <surname>Guadalajara</surname>
+                        <forename>José Rafael</forename>
+                    </persName>
+                    <birth>
+                        <date when="1863">1863</date>
+                    </birth>
+                    <idno type="viaf">165474218</idno>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">mexicana/o</nationality>
                 </person>
             </listPerson>
         </body>

@@ -17217,6 +17217,785 @@
                         <extent>En 8°, de (4), III, 203 p.</extent>
                     </monogr>
                 </biblStruct>
+                <biblStruct corresp="W832" xml:id="E1144">
+                    <monogr>
+                        <author key="A324">Galindo, Humberto</author>
+                        <title level="m" type="main">El ídolo</title>
+                        <imprint>
+                            <publisher cert="low">Tipografía Vizcaino y Viamonte</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1906">1906</date>
+                        </imprint>
+                        <extent>En 4°, de 41 p.</extent>
+                    </monogr>
+                    <ref>https://catalog.hathitrust.org/Record/101402798</ref>
+                </biblStruct>
+                <biblStruct corresp="W833" xml:id="E1145">
+                    <monogr>
+                        <author key="A325">Gallardo, Aurelio Luis</author>
+                        <title level="m" type="main">Adah o el amor de un ángel</title>
+                        <title level="m" type="sub">Novela original</title>
+                        <imprint>
+                            <publisher>Imprenta, Litografía y Encuadernación de Ireneo
+                                Paz</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1900">1900</date>
+                        </imprint>
+                        <extent>En 4°, de 294 p.</extent>
+                    </monogr>
+                    <series>
+                        <title level="s" type="main">Biblioteca de La Patria</title>
+                    </series>
+                    <ref>https://catalog.hathitrust.org/Record/101402803</ref>
+                </biblStruct>
+                <biblStruct corresp="W834" xml:id="E1146">
+                    <monogr>
+                        <author key="A326">Gamboa, Federico</author>
+                        <title level="m" type="main">Apariencias</title>
+                        <imprint>
+                            <publisher>Imprenta, litografía y encuadernación de Jacobo
+                                Peuser</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <pubPlace corresp="AR">La Plata</pubPlace>
+                            <pubPlace corresp="AR">Rosario</pubPlace>
+                            <date when="1892">1892</date>
+                        </imprint>
+                        <extent>En 4°, de 602 p.</extent>
+                    </monogr>
+                    <ref>https://archive.org/details/apariencias00gambgoog</ref>
+                </biblStruct>
+                <biblStruct corresp="W835" xml:id="E1147">
+                    <monogr>
+                        <author key="A326">Gamboa, Federico</author>
+                        <title level="m" type="main">Suprema Ley</title>
+                        <imprint>
+                            <publisher>Librería de la Viuda de Ch. Bouret</publisher>
+                            <pubPlace corresp="FR">París</pubPlace>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1896">1896</date>
+                        </imprint>
+                        <extent>En 4°, de VI, 565 p.</extent>
+                    </monogr>
+                    <ref>https://archive.org/details/supremaley00gambgoog</ref>
+                    <ref>http://impresosmexicanos.conaculta.gob.mx/libros/CJM/309652_1.pdf</ref>
+                </biblStruct>
+                <biblStruct corresp="W836" xml:id="E1148">
+                    <monogr>
+                        <author key="A326">Gamboa, Federico</author>
+                        <title level="m" type="main">Reconquista</title>
+                        <imprint>
+                            <publisher>Eusebio Gómez de la Puente</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <pubPlace corresp="ES">Barcelona</pubPlace>
+                            <date when="1908">1908</date>
+                        </imprint>
+                        <extent>En 4°, de (8), 237 p.</extent>
+                    </monogr>
+                    <note resp="#TorresRioseco">(Subscrita en Washington, D. C., 15 de abril de
+                        1903. "Villalobos," Guatemala, 28 de marzo de 1906.)</note>
+                    <ref>https://archive.org/details/reconquista00gambgoog</ref>
+                    <ref>http://cd.dgb.uanl.mx/handle/201504211/8688</ref>
+                    <ref>http://cd.dgb.uanl.mx/handle/201504211/9754</ref>
+                    <ref>http://impresosmexicanos.conaculta.gob.mx/libros/CJM/113008_1.pdf</ref>
+                </biblStruct>
+                <biblStruct corresp="W837" xml:id="E1149">
+                    <monogr>
+                        <author key="A326">Gamboa, Federico</author>
+                        <title level="m" type="main">Metamorfosis</title>
+                        <imprint>
+                            <publisher>Tipografía Nacional</publisher>
+                            <pubPlace corresp="GU">Guatemala</pubPlace>
+                            <date when="1899">1899</date>
+                        </imprint>
+                        <extent>1 vol. en 4°</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W837" xml:id="E1150">
+                    <monogr>
+                        <author key="A326">Gamboa, Federico</author>
+                        <title level="m" type="main">Metamorfosis</title>
+                        <imprint>
+                            <publisher>Centro Mercantil</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1899">1899</date>
+                        </imprint>
+                        <extent>En 8°, de 789 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W838" xml:id="E1151">
+                    <monogr>
+                        <author key="A326">Gamboa, Federico</author>
+                        <title level="m" type="main">Santa</title>
+                        <note>(Epígrafe de Oseas.)</note>
+                        <imprint>
+                            <publisher>Talleres Araluce</publisher>
+                            <pubPlace corresp="ES">Barcelona</pubPlace>
+                            <date when="1903">1903</date>
+                        </imprint>
+                        <extent>En 4°, de 395 p.</extent>
+                    </monogr>
+                    <note resp="#TorresRioseco">(Subscrita en Guatemala, 7 de abril,
+                        1900-Villalobos, 14 de febrero, 1902.)</note>
+                    <ref>http://cd.dgb.uanl.mx/handle/201504211/14655</ref>
+                </biblStruct>
+                <biblStruct corresp="W838" xml:id="E1152">
+                    <monogr>
+                        <author key="A326">Gamboa, Federico</author>
+                        <title level="m" type="main">Santa</title>
+                        <note>(Epígrafe de Oseas.)</note>
+                        <edition>Segunda edición corregida y aumentada por su autor</edition>
+                        <imprint>
+                            <publisher>Ed. y Libr. Araluce</publisher>
+                            <pubPlace corresp="ES">Barcelona</pubPlace>
+                            <date when="1905">1905</date>
+                        </imprint>
+                        <extent>En 8°, de VIII, 390 p.</extent>
+                    </monogr>
+                    <note resp="#TorresRioseco">(A la v: Talleres Araluce, Barcelona.)</note>
+                </biblStruct>
+                <biblStruct corresp="W838" xml:id="E1153">
+                    <monogr>
+                        <author key="A326">Gamboa, Federico</author>
+                        <title level="m" type="main">Santa</title>
+                        <note>Ilustraciones de J. Escontría</note>
+                        <note>(Epígrafe de Oseas.)</note>
+                        <imprint>
+                            <publisher>Eusebio Gómez de la Puente, ed.</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1910">1910</date>
+                        </imprint>
+                        <extent>En 8°, de (8), 371 p. más el retrato del autor</extent>
+                    </monogr>
+                    <series>
+                        <title level="s" type="main">Obras completas</title>
+                        <biblScope unit="volume">T. I</biblScope>
+                    </series>
+                    <note resp="#TorresRioseco">(A la v: Talleres Araluce, Barcelona.)</note>
+                </biblStruct>
+                <biblStruct corresp="W839" xml:id="E1154">
+                    <monogr>
+                        <author key="A326">Gamboa, Federico</author>
+                        <title level="m" type="main">La llaga</title>
+                        <imprint>
+                            <publisher>Eusebio Gómez de la Puente</publisher>
+                            <pubPlace corresp="MX">México, D. F.</pubPlace>
+                            <date when="1910" cert="low">1910</date>
+                        </imprint>
+                        <extent>En 4°, de 412 p.</extent>
+                    </monogr>
+                    <note resp="#TorresRioseco">(A la v.: Madrid, Establecimiento Tip., Campomanes,
+                        4.)</note>
+                    <note resp="#TorresRioseco">(Subscrita en Bruselas, 22 de junio, 1911-Brujas, 23
+                        de agosto, 1912.)</note>
+                    <ref>https://archive.org/details/lallaga00gamb_0</ref>
+                </biblStruct>
+                <biblStruct corresp="W840" xml:id="E1155">
+                    <analytic>
+                        <author key="A326">Gamboa, Federico</author>
+                        <title level="a" type="main">El mechero de gas</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Del natural</title>
+                        <title level="m" type="sub">Esbozos contemporáneos</title>
+                        <imprint>
+                            <publisher>Tipografía La Unión</publisher>
+                            <pubPlace corresp="GU">Guatemala</pubPlace>
+                            <date when="1889">1889</date>
+                        </imprint>
+                        <extent>En 8°, de 337 p.</extent>
+                        <biblScope unit="page">p. 11-56</biblScope>
+                    </monogr>
+                    <ref>https://archive.org/details/3673044</ref>
+                </biblStruct>
+                <biblStruct corresp="W840" xml:id="E1156">
+                    <analytic>
+                        <author key="A326">Gamboa, Federico</author>
+                        <title level="a" type="main">El mechero de gas</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Del natural</title>
+                        <title level="m" type="sub">Esbozos contemporáneos</title>
+                        <edition>Segunda edición</edition>
+                        <imprint>
+                            <publisher>Tipografía La Unión</publisher>
+                            <pubPlace corresp="GU">Guatemala</pubPlace>
+                            <date when="1889">1889</date>
+                        </imprint>
+                        <extent>En 8°, de 335 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W840" xml:id="E1157">
+                    <analytic>
+                        <author key="A326">Gamboa, Federico</author>
+                        <title level="a" type="main">El mechero de gas</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Del natural</title>
+                        <title level="m" type="sub">Esbozos contemporáneos</title>
+                        <title level="j" type="main">Revista Nacional</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1892">1892</date>
+                            <biblScope unit="part">segunda serie</biblScope>
+                            <biblScope unit="volume">t. XV</biblScope>
+                        </imprint>
+                        <extent>En 4° mayor</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W841" xml:id="E1158">
+                    <analytic>
+                        <title level="a" type="main">La excursionista</title>
+                    </analytic>
+                    <monogr>
+                        <author key="A326">Gamboa, Federico</author>
+                        <title level="m" type="main">Del natural</title>
+                        <title level="m" type="sub">Esbozos contemporáneos</title>
+                        <imprint>
+                            <publisher>Tipografía La Unión</publisher>
+                            <pubPlace corresp="GU">Guatemala</pubPlace>
+                            <date when="1889">1889</date>
+                        </imprint>
+                        <biblScope unit="page">p. 57-110</biblScope>
+                    </monogr>
+                    <ref>https://archive.org/details/3673044</ref>
+                </biblStruct>
+                <biblStruct corresp="W841" xml:id="E1159">
+                    <analytic>
+                        <author key="A326">Gamboa, Federico</author>
+                        <title level="a" type="main">La excursionista</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Del natural</title>
+                        <title level="m" type="sub">Esbozos contemporáneos</title>
+                        <edition>Segunda edición</edition>
+                        <imprint>
+                            <publisher>Tipografía La Unión</publisher>
+                            <pubPlace corresp="GU">Guatemala</pubPlace>
+                            <date when="1889">1889</date>
+                        </imprint>
+                        <extent>En 8°, de 335 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W841" xml:id="E1160">
+                    <analytic>
+                        <author key="A326">Gamboa, Federico</author>
+                        <title level="a" type="main">La excursionista</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Del natural</title>
+                        <title level="m" type="sub">Esbozos contemporáneos</title>
+                        <title level="j" type="main">Revista Nacional</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1892">1892</date>
+                            <biblScope unit="part">segunda serie</biblScope>
+                            <biblScope unit="volume">t. XV</biblScope>
+                        </imprint>
+                        <extent>En 4° mayor</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W842" xml:id="E1161">
+                    <analytic>
+                        <title level="a" type="main">El primer caso</title>
+                    </analytic>
+                    <monogr>
+                        <author key="A326">Gamboa, Federico</author>
+                        <title level="m" type="main">Del natural</title>
+                        <title level="m" type="sub">Esbozos contemporáneos</title>
+                        <imprint>
+                            <publisher>Tipografía La Unión</publisher>
+                            <pubPlace corresp="GU">Guatemala</pubPlace>
+                            <date when="1889">1889</date>
+                        </imprint>
+                        <biblScope unit="page">p. 111-168</biblScope>
+                    </monogr>
+                    <ref>https://archive.org/details/3673044</ref>
+                </biblStruct>
+                <biblStruct corresp="W842" xml:id="E1162">
+                    <analytic>
+                        <author key="A326">Gamboa, Federico</author>
+                        <title level="a" type="main">El primer caso</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Del natural</title>
+                        <title level="m" type="sub">Esbozos contemporáneos</title>
+                        <edition>Segunda edición</edition>
+                        <imprint>
+                            <publisher>Tipografía La Unión</publisher>
+                            <pubPlace corresp="GU">Guatemala</pubPlace>
+                            <date when="1889">1889</date>
+                        </imprint>
+                        <extent>En 8°, de 335 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W842" xml:id="E1163">
+                    <analytic>
+                        <author key="A326">Gamboa, Federico</author>
+                        <title level="a" type="main">El primer caso</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Del natural</title>
+                        <title level="m" type="sub">Esbozos contemporáneos</title>
+                        <title level="j" type="main">Revista Nacional</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1892">1892</date>
+                            <biblScope unit="part">segunda serie</biblScope>
+                            <biblScope unit="volume">t. XV</biblScope>
+                        </imprint>
+                        <extent>En 4° mayor</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W843" xml:id="E1164">
+                    <analytic>
+                        <title level="a" type="main">Uno de tantos</title>
+                    </analytic>
+                    <monogr>
+                        <author key="A43">Gamboa, Federico</author>
+                        <title level="m" type="main">Del natural</title>
+                        <title level="m" type="sub">Esbozos contemporáneos</title>
+                        <imprint>
+                            <publisher>Tipografía La Unión</publisher>
+                            <pubPlace corresp="GU">Guatemala</pubPlace>
+                            <date when="1889">1889</date>
+                        </imprint>
+                        <biblScope unit="page">p. 169-254</biblScope>
+                    </monogr>
+                    <ref>https://archive.org/details/3673044</ref>
+                </biblStruct>
+                <biblStruct corresp="W843" xml:id="E1165">
+                    <analytic>
+                        <author key="A326">Gamboa, Federico</author>
+                        <title level="a" type="main">Uno de tantos</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Del natural</title>
+                        <title level="m" type="sub">Esbozos contemporáneos</title>
+                        <edition>Segunda edición</edition>
+                        <imprint>
+                            <publisher>Tipografía La Unión</publisher>
+                            <pubPlace corresp="GU">Guatemala</pubPlace>
+                            <date when="1889">1889</date>
+                        </imprint>
+                        <extent>En 8°, de 335 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W843" xml:id="E1166">
+                    <analytic>
+                        <author key="A326">Gamboa, Federico</author>
+                        <title level="a" type="main">Uno de tantos</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Del natural</title>
+                        <title level="m" type="sub">Esbozos contemporáneos</title>
+                        <title level="j" type="main">Revista Nacional</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1892">1892</date>
+                            <biblScope unit="part">segunda serie</biblScope>
+                            <biblScope unit="volume">t. XV</biblScope>
+                        </imprint>
+                        <extent>En 4° mayor</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W844" xml:id="E1167">
+                    <analytic>
+                        <title level="a" type="main">¡Vendía cerrillos!</title>
+                    </analytic>
+                    <monogr>
+                        <author key="A326">Gamboa, Federico</author>
+                        <title level="m" type="main">Del natural</title>
+                        <title level="m" type="sub">Esbozos contemporáneos</title>
+                        <imprint>
+                            <publisher>Tipografía La Unión</publisher>
+                            <pubPlace corresp="GU">Guatemala</pubPlace>
+                            <date when="1889">1889</date>
+                        </imprint>
+                        <biblScope unit="page">p. 255-333</biblScope>
+                    </monogr>
+                    <ref>https://archive.org/details/3673044</ref>
+                </biblStruct>
+                <biblStruct corresp="W844" xml:id="E1168">
+                    <analytic>
+                        <author key="A326">Gamboa, Federico</author>
+                        <title level="a" type="main">¡Vendía cerrillos!</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Del natural</title>
+                        <title level="m" type="sub">Esbozos contemporáneos</title>
+                        <edition>Segunda edición</edition>
+                        <imprint>
+                            <publisher>Tipografía La Unión</publisher>
+                            <pubPlace corresp="GU">Guatemala</pubPlace>
+                            <date when="1889">1889</date>
+                        </imprint>
+                        <extent>En 8°, de 335 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W844" xml:id="E1169">
+                    <analytic>
+                        <author key="A326">Gamboa, Federico</author>
+                        <title level="a" type="main">¡Vendía cerrillos!</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Del natural</title>
+                        <title level="m" type="sub">Esbozos contemporáneos</title>
+                        <title level="j" type="main">Revista Nacional</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1892">1892</date>
+                            <biblScope unit="part">segunda serie</biblScope>
+                            <biblScope unit="volume">t. XV</biblScope>
+                        </imprint>
+                        <extent>En 4° mayor</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W845" xml:id="E1170">
+                    <monogr>
+                        <author key="A327">Garay, Aurelio</author>
+                        <title level="m" type="main">La hidra</title>
+                        <title level="m" type="sub">Memorias de un suicida</title>
+                        <title level="m" type="sub">Silueta social</title>
+                        <imprint>
+                            <publisher>Establecimiento Tipográfico del Socialista</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1887">1887</date>
+                        </imprint>
+                        <extent>En 16°</extent>
+                    </monogr>
+                    <series>
+                        <title level="s" type="main">Biblioteca del Monitor del Pueblo</title>
+                    </series>
+                </biblStruct>
+                <biblStruct corresp="W846" xml:id="E1171">
+                    <monogr>
+                        <author key="A328">García, Genaro</author>
+                        <title level="m" type="main">Inelda</title>
+                        <title level="m" type="sub">Pequeño ensayo</title>
+                        <imprint>
+                            <publisher>Tipografía El Gran Libro, F. Parres y Cía., Suc.</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1886">1886</date>
+                        </imprint>
+                        <extent>En 16°, 64 p.</extent>
+                    </monogr>
+                    <note resp="#TorresRioseco">(Subscrito en México, agosto, 1886.)</note>
+                </biblStruct>
+                <biblStruct corresp="W847" xml:id="E1172">
+                    <monogr>
+                        <author key="A328">García, Genaro</author>
+                        <title level="m" type="main">Páginas arrancadas de una historia. ¡Pobre
+                            Belém!</title>
+                        <title level="m" type="sub">Por Franco Leal</title>
+                        <imprint>
+                            <publisher>Tipografía El Gran Libro</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1890">1890</date>
+                        </imprint>
+                        <extent>En 16°, de 47 p.</extent>
+                    </monogr>
+                    <note resp="#TorresRioseco">(Subscritas en marzo-junio, 1890.)</note>
+                </biblStruct>
+                <biblStruct corresp="W848" xml:id="E1173">
+                    <monogr>
+                        <author key="A329">García González, Francisco</author>
+                        <title level="m" type="main">Belén por dentro</title>
+                        <title level="m" type="sub">Novela de costumbres</title>
+                        <imprint>
+                            <publisher>Imprenta Reina Regente</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1894">1894</date>
+                        </imprint>
+                        <extent>En 8°, de 266 p.</extent>
+                    </monogr>
+                    <series>
+                        <title level="s" type="main">Biblioteca de El Relámpago</title>
+                    </series>
+                </biblStruct>
+                <biblStruct corresp="W849" xml:id="E1174">
+                    <monogr>
+                        <author key="A330">Gómez Luna, Ignacio</author>
+                        <title level="m" type="main">Amor ideal</title>
+                        <edition>Ed. de El Lunes</edition>
+                        <imprint>
+                            <publisher>Imprenta Políglota</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1882">1882</date>
+                        </imprint>
+                        <extent>En 8°, de 103 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W850" xml:id="E1175">
+                    <monogr>
+                        <author key="A330">Gómez Luna, Ignacio</author>
+                        <title level="m" type="main">Rosa y Teresa</title>
+                        <imprint>
+                            <publisher>Alejandro Marcué, imp.</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1890">1890</date>
+                        </imprint>
+                        <extent>En 8°, de 208 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W851" xml:id="E1176">
+                    <monogr>
+                        <author key="A331">Gómez Vergara, Joaquín</author>
+                        <title level="m" type="main">Quien mal anda, mal acaba</title>
+                        <title level="m" type="sub">Cuento</title>
+                        <imprint>
+                            <publisher>Imprenta de Ignacio Cumplido</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1870">1870</date>
+                        </imprint>
+                        <extent>En 8°, de VII, 64 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W852" xml:id="E1177">
+                    <monogr>
+                        <author key="A331">Gómez Vergara, Joaquín</author>
+                        <title level="m" type="main">La puerta del cielo</title>
+                        <title level="m" type="sub">Cuento</title>
+                        <edition>Ed. del Siglo XIX</edition>
+                        <imprint>
+                            <publisher>Imprenta de Ignacio Cumplido</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1872">1872</date>
+                        </imprint>
+                        <extent>En 8°, de 58 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W853" xml:id="E1178">
+                    <monogr>
+                        <author key="A331">Gómez Vergara, Joaquín</author>
+                        <title level="m" type="main">Las cruces del santuario</title>
+                        <title level="m" type="sub">Tradición popular mexicana</title>
+                        <edition>Tercera edición</edition>
+                        <imprint>
+                            <publisher>Imprenta, Litografía y Encuadernación de Ireneo
+                                Paz</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1893">1893</date>
+                        </imprint>
+                        <extent>En 4°, de 143 p.</extent>
+                    </monogr>
+                    <note resp="#TorresRioseco">(En el forro aparece que es la segunda
+                        edición.)</note>
+                </biblStruct>
+                <biblStruct corresp="W854" xml:id="E1179">
+                    <analytic>
+                        <author key="A331">Gómez Vergara, Joaquín</author>
+                        <title level="a" type="main">El baile de confianza</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Fotografías a la sombra</title>
+                        <title level="m" type="sub">Retratos en silueta de las muchas caricaturas
+                            sociales que nos estorban el paso y nos salen al encuentro por todas
+                            partes</title>
+                        <title level="m" type="sub">Escritos en prosa desaliñada y criticable, por
+                            Demócrito</title>
+                        <edition>Ed. del Siglo XIX</edition>
+                        <imprint>
+                            <publisher>Imprenta de Ignacio Cumplido</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1871">1871</date>
+                            <biblScope unit="page">p. 11-38</biblScope>
+                        </imprint>
+                        <extent>En 8°, de 240 p.</extent>
+                    </monogr>
+                    <ref>http://cd.dgb.uanl.mx/handle/201504211/8426</ref>
+                </biblStruct>
+                <biblStruct corresp="W855" xml:id="E1180">
+                    <analytic>
+                        <author key="A331">Gómez Vergara, Joaquín</author>
+                        <title level="a" type="main">El matrimonio</title>
+                        <title level="a" type="sub">[Variaciones sobre un tema popular.]</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Fotografías a la sombra</title>
+                        <title level="m" type="sub">Retratos en silueta de las muchas caricaturas
+                            sociales que nos estorban el paso y nos salen al encuentro por todas
+                            partes</title>
+                        <title level="m" type="sub">Escritos en prosa desaliñada y criticable, por
+                            Demócrito</title>
+                        <edition>Ed. del Siglo XIX</edition>
+                        <imprint>
+                            <publisher>Imprenta de Ignacio Cumplido</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1871">1871</date>
+                            <biblScope unit="page">p. 95-139</biblScope>
+                        </imprint>
+                        <extent>En 8°, de 240 p.</extent>
+                    </monogr>
+                    <ref>http://cd.dgb.uanl.mx/handle/201504211/8426</ref>
+                </biblStruct>
+                <biblStruct corresp="W856" xml:id="E1181">
+                    <analytic>
+                        <author key="A331">Gómez Vergara, Joaquín</author>
+                        <title level="a" type="main">El médico</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Fotografías a la sombra</title>
+                        <title level="m" type="sub">Retratos en silueta de las muchas caricaturas
+                            sociales que nos estorban el paso y nos salen al encuentro por todas
+                            partes</title>
+                        <title level="m" type="sub">Escritos en prosa desaliñada y criticable, por
+                            Demócrito</title>
+                        <edition>Ed. del Siglo XIX</edition>
+                        <imprint>
+                            <publisher>Imprenta de Ignacio Cumplido</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1871">1871</date>
+                            <biblScope unit="page">p. 141-168</biblScope>
+                        </imprint>
+                        <extent>En 8°, de 240 p.</extent>
+                    </monogr>
+                    <ref>http://cd.dgb.uanl.mx/handle/201504211/8426</ref>
+                </biblStruct>
+                <biblStruct corresp="W857" xml:id="E1182">
+                    <analytic>
+                        <author key="A331">Gómez Vergara, Joaquín</author>
+                        <title level="a" type="main">Los rotos</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Fotografías a la sombra</title>
+                        <title level="m" type="sub">Retratos en silueta de las muchas caricaturas
+                            sociales que nos estorban el paso y nos salen al encuentro por todas
+                            partes</title>
+                        <title level="m" type="sub">Escritos en prosa desaliñada y criticable, por
+                            Demócrito</title>
+                        <edition>Ed. del Siglo XIX</edition>
+                        <imprint>
+                            <publisher>Imprenta de Ignacio Cumplido</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1871">1871</date>
+                            <biblScope unit="page">p. 205-235</biblScope>
+                        </imprint>
+                        <extent>En 8°, de 240 p.</extent>
+                    </monogr>
+                    <ref>http://cd.dgb.uanl.mx/handle/201504211/8426</ref>
+                </biblStruct>
+                <biblStruct corresp="W858" xml:id="E1183">
+                    <monogr>
+                        <author key="A332">González Peña, Carlos</author>
+                        <title level="m" type="main">De noche</title>
+                        <title level="m" type="sub">Novela</title>
+                        <imprint>
+                            <publisher>Tipografía y Encuadernación de Ireneo Paz</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1907">1907</date>
+                        </imprint>
+                        <extent>En 8°, de 228 p.</extent>
+                    </monogr>
+                    <note resp="#TorresRioseco">(Subscrita en México, agosto-noviembre,
+                        1904.)</note>
+                </biblStruct>
+                <biblStruct corresp="W859" xml:id="E1184">
+                    <monogr>
+                        <author key="A332">González Peña, Carlos</author>
+                        <title level="m" type="main">La chiquilla</title>
+                        <title level="m" type="sub">Novela</title>
+                        <imprint>
+                            <publisher>Tipografía y Encuadernación de Ireneo Paz</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1907">1907</date>
+                        </imprint>
+                        <extent>En 8°, de XXV, 495 p.</extent>
+                    </monogr>
+                    <note resp="#TorresRioseco">(Subscrita en México, junio, 1905-enero, 1906, y
+                        prologada por D. José Escofet.)</note>
+                </biblStruct>
+                <biblStruct corresp="W859" xml:id="E1185">
+                    <monogr>
+                        <author key="A332">González Peña, Carlos</author>
+                        <title level="m" type="main">La chiquilla</title>
+                        <title level="m" type="sub">Novela</title>
+                        <imprint>
+                            <publisher>F. Sempere y Cía., ed.</publisher>
+                            <pubPlace corresp="ES">Valencia</pubPlace>
+                            <date when="1906" cert="low">1906</date>
+                        </imprint>
+                        <extent>En 8°, de XVI, 293 p.</extent>
+                    </monogr>
+                    <ref>https://catalog.hathitrust.org/Record/006504436</ref>
+                </biblStruct>
+                <biblStruct corresp="W860" xml:id="E1186">
+                    <monogr>
+                        <author key="A332">González Peña, Carlos</author>
+                        <title level="m" type="main">La musa bohemia</title>
+                        <title level="m" type="sub">Novela</title>
+                        <edition>Ed. del Siglo XIX</edition>
+                        <imprint>
+                            <publisher>F. Sempere y Cía., ed.</publisher>
+                            <pubPlace corresp="ES">Valencia</pubPlace>
+                            <date from="1907" to="1908" cert="low">1907-1908</date>
+                        </imprint>
+                        <extent>En 8°, de 286 p.</extent>
+                    </monogr>
+                    <note resp="#TorresRioseco">(Subscrita en México, abril, 1907-julio,
+                        1908.)</note>
+                    <ref>https://catalog.hathitrust.org/Record/001590048</ref>
+                </biblStruct>
+                <biblStruct corresp="W861" xml:id="E1187">
+                    <monogr>
+                        <author key="A333">Goyc, Juan</author>
+                        <title level="m" type="main">Vicio heroico y virtud criminal</title>
+                        <title level="m" type="sub">Novela escrita para el actual estado moral de la
+                            República</title>
+                        <imprint>
+                            <publisher>Imprenta de A. Boix, a cargo de M. Zornosa</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1860">1860</date>
+                        </imprint>
+                        <extent>En 16°, de VII, 232 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W862" xml:id="E1188">
+                    <monogr>
+                        <author key="A334">Guadalajara, José Rafael</author>
+                        <title level="m" type="main">Sara</title>
+                        <title level="m" type="sub">Páginas del primer amor</title>
+                        <imprint>
+                            <publisher>Imprenta de las Escalerillas núm. 20</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1891">1891</date>
+                        </imprint>
+                        <extent>En 16°, de 288 p.</extent>
+                    </monogr>
+                    <note resp="#TorresRioseco">(Las siguientes ediciones aparecen con título de
+                        Amalia.)</note>
+                </biblStruct>
+                <biblStruct corresp="W862" xml:id="E1189">
+                    <monogr>
+                        <author key="A334">Guadalajara, José Rafael</author>
+                        <title level="m" type="main">Amalia</title>
+                        <title level="m" type="sub">Páginas del primer amor</title>
+                        <imprint>
+                            <publisher>Casa Ed. Maucci</publisher>
+                            <pubPlace corresp="ES">Barcelona</pubPlace>
+                            <date when="1899">1899</date>
+                        </imprint>
+                        <extent>En 8°, de 251 p., ilustr.</extent>
+                    </monogr>
+                    <series>
+                        <title level="s" type="main">Biblioteca Mexicana</title>
+                    </series>
+                    <note resp="#TorresRioseco">(A la v.: Tip. Moderna, Aribau, 60.)</note>
+                </biblStruct>
+                <biblStruct corresp="W862" xml:id="E1190">
+                    <monogr>
+                        <author key="A334">Guadalajara, José Rafael</author>
+                        <title level="m" type="main">Amalia</title>
+                        <title level="m" type="sub">Páginas del primer amor</title>
+                        <imprint>
+                            <publisher>Eusebio Gómez de la Puente, ed.</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date>desconocido</date>
+                        </imprint>
+                        <extent>En 8°, de 247 p., ilustr.</extent>
+                    </monogr>
+                    <note resp="#TorresRioseco">(A la v.: Establecimiento Tip. de Feliu y Susanna,
+                        Barcelona.)</note>
+                </biblStruct>
             </listBibl>
         </body>
     </text>
