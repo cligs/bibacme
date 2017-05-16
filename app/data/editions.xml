@@ -27,6 +27,8 @@
             <sourceDesc>
                 <p>Las fuentes consultadas para establecer esta lista de ediciones se dan en el
                     fichero sources.xml.</p>
+                <!-- Es müsste noch differenziert werden zwischen Werken, die erstmals vor 1830 erschienen sind, aber 
+                zwischen 1830 und 1910 weiter herausgegeben wurden und solchen, die erstmals ab 1830 erschienen sind. -->
             </sourceDesc>
         </fileDesc>
     </teiHeader>
@@ -17995,6 +17997,1293 @@
                     </monogr>
                     <note resp="#TorresRioseco">(A la v.: Establecimiento Tip. de Feliu y Susanna,
                         Barcelona.)</note>
+                </biblStruct>
+                <biblStruct corresp="W863" xml:id="E1191">
+                    <monogr>
+                        <author key="A335">Gutiérrez de Lara, Lázaro</author>
+                        <title level="m" type="main">Los bribones</title>
+                        <title level="m" type="sub">Novela mexicana de actualidad</title>
+                        <imprint>
+                            <publisher>Imprenta de El Popular, F. H. Arizméndez, prop.</publisher>
+                            <pubPlace corresp="US">Los Angeles, California</pubPlace>
+                            <date>desconocido</date>
+                        </imprint>
+                        <extent>En 4°, de 207 p.</extent>
+                    </monogr>
+                    <ref>http://cd.dgb.uanl.mx/handle/201504211/9762</ref>
+                </biblStruct>
+                <biblStruct corresp="W864" xml:id="E1192">
+                    <analytic>
+                        <author key="A336">Gutiérrez Nájera, Manuel</author>
+                        <title level="m" type="main">Aventuras de Manon</title>
+                        <title level="m" type="sub">Recuerdos de ópera bufa</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j" type="main">El Nacional</title>
+                        <imprint>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date from="1884-08-13" to="1884-08-24">13 a 24 de agosto de 1884</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W865" xml:id="E1193">
+                    <analytic>
+                        <author key="A336">Gutiérrez Nájera, Manuel</author>
+                        <title level="m" type="main">Por donde se sube al cielo</title>
+                        <title level="m" type="sub">Novela original</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j" type="main">El Noticioso</title>
+                        <imprint>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date from="1882-06" to="1882-10">junio a octubre de 1882</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W866" xml:id="E1194">
+                    <monogr>
+                        <author key="A337">Fernández de Lizardi, José Joaquín</author>
+                        <title level="m" type="main">El Periquillo Sarniento, por El Pensador
+                            Mexicano</title>
+                        <edition>Tercera edición corregida y aumentada por su autor</edition>
+                        <imprint>
+                            <publisher>Imprenta de Galván, a cargo de Mariano Arévalo</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1830">1830</date>
+                            <biblScope unit="volume">Tomo I</biblScope>
+                        </imprint>
+                        <extent>5 vol. en 8°, ilustr. con láminas. T. I, 258, (2) p.; t. II, 257,
+                            (2) p.; t. III, 262, (2) p.; t. IV, 209, (2) p.; t. V, 175, (3)
+                            p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W866" xml:id="E1195">
+                    <monogr>
+                        <author key="A337">Fernández de Lizardi, José Joaquín</author>
+                        <title level="m" type="main">El Periquillo Sarniento, por El Pensador
+                            Mexicano</title>
+                        <edition>Cuarta edición, corregida, ilustrada con notas y adornada con 60
+                            láminas finas</edition>
+                        <imprint>
+                            <publisher>Imprenta de Galván, a cargo de Mariano Arévalo</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1842">1842</date>
+                            <biblScope unit="volume">Tomo I</biblScope>
+                        </imprint>
+                        <extent>4 vol. en 8°. T. I, XXII, XX, 189, (2) p.; t. II, VIII, 206, (2) p.;
+                            t. III, 196, (2) p.; t. III, 196, (2) p.; t. IV, 230, (2) p.</extent>
+                    </monogr>
+                    <note resp="#TorresRioseco">(A la v.: Imp. de V. G. Torres, calle del Espíritu
+                        Santo, núm. 2.)</note>
+                    <note resp="#TorresRioseco">Existen ejemplares de esta cuarta ed. sin otra
+                        diferencia que las portadas, cuyo pie de imprenta es el siguiente: México,
+                        1845. Se espende en la Librería núm. 7 del Portal de Mercaderes. (A la v.:
+                        Impreso por I. Cumplido, calle de los Rebeldes, núm. 2.)</note>
+                </biblStruct>
+                <biblStruct corresp="W866" xml:id="E1196">
+                    <monogr>
+                        <author key="A337">Fernández de Lizardi, José Joaquín</author>
+                        <title level="m" type="main">El Periquillo Sarniento, por El Pensador
+                            Mexicano</title>
+                        <edition>Quinta edición, corregida, ilustrada con notas, y adornada con
+                            muchas láminas finas</edition>
+                        <imprint>
+                            <publisher>Imprenta de Murguía y Cía.</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1853">1853</date>
+                            <biblScope unit="volume">Tomo I</biblScope>
+                        </imprint>
+                        <extent>4 vol. en 16°. T. I, 272, (2) p.; t. II, 299, (2) p.; t. III, 285,
+                            (2) p.; t. IV, 329, (3) p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W866" xml:id="E1197">
+                    <monogr>
+                        <author key="A337">Fernández de Lizardi, José Joaquín</author>
+                        <title level="m" type="main">El Periquillo Sarniento, por El Pensador
+                            Mexicano</title>
+                        <edition>Primera edición de Blanquel, corregida, illustrada con notas, y
+                            adornada con 56 láminas finas</edition>
+                        <imprint>
+                            <publisher>Blanquel</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1865">1865</date>
+                        </imprint>
+                        <extent>4 vol. en 8°. T. I, 215 p.; t. II, 220 p.; t. III, 206 p.; t. IV,
+                            244 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W866" xml:id="E1198">
+                    <monogr>
+                        <author key="A337">Fernández de Lizardi, José Joaquín</author>
+                        <title level="m" type="main">El Periquillo Sarniento, por El Pensador
+                            Mexicano</title>
+                        <edition>Segunda edición corregida, ilustrada con notas, y adornada con 30
+                            láminas finas.</edition>
+                        <imprint>
+                            <publisher>J. Valdés y Cueva</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1884">1884</date>
+                            <biblScope unit="volume">Tomo I</biblScope>
+                        </imprint>
+                        <extent>4 vol. en 4°. T. I, 183 p.; t. II, 213 p.; t. III, 204, (2) p.; t.
+                            IV, 245, III p.</extent>
+                    </monogr>
+                    <note resp="#TorresRioseco">(A la v.: Tip. Clarke y Macías.)</note>
+                </biblStruct>
+                <biblStruct corresp="W866" xml:id="E1199">
+                    <monogr>
+                        <author key="A337">Fernández de Lizardi, José Joaquín</author>
+                        <title level="m" type="main">El Periquillo Sarniento, por Don José Joaquín
+                            Fernández de Lizardi (El Pensador Mexicano)</title>
+                        <edition>Nueva edición adornada con multitud de cromos y fotograbados por
+                            Don José M. Villasana y precedida de un estudio biográfico y
+                            bibliográfico por Don Luis González Obregón (del Liceo
+                            Mexicano)</edition>
+                        <imprint>
+                            <publisher>Imprenta, Litografía y Encuadernación de Ireneo
+                                Paz</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1892">1892</date>
+                            <biblScope unit="volume">Tomo I</biblScope>
+                        </imprint>
+                    </monogr>
+                    <note resp="#TorresRioseco">(En fol. Unicamente aparecieron las primeras (4), 36
+                        p.)</note>
+                </biblStruct>
+                <biblStruct corresp="W866" xml:id="E1200">
+                    <analytic>
+                        <author key="A337">Fernández de Lizardi, José Joaquín</author>
+                        <title level="a" type="main">El Periquillo Sarniento</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">El Periquillo Sarniento, La Quijotita, Don
+                            Catrín de la Fachenda, Noches tristes, Día alegre, Fábulas</title>
+                        <edition>Prólogo de D. Francisco Sosa. Ed. de lujo, adornada con láminas
+                            cromolitografiados, y enriquecidas sus páginas con numerosos grabados de
+                            D. Antonio Urillo</edition>
+                        <imprint>
+                            <publisher>J. Ballescá y Cía.</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1897">1897</date>
+                        </imprint>
+                        <extent>4 vol., fol. menor. T. I, 296 p.; t. II, 312 p.; t. III, 298 p.; t.
+                            IV, 252 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W866" xml:id="E1201">
+                    <monogr>
+                        <author key="A337">Fernández de Lizardi, José Joaquín</author>
+                        <title level="m" type="main">El Periquillo Sarniento, por El Pensador
+                            Mexicano</title>
+                        <imprint>
+                            <publisher>José Barbier, ed.</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1900">1900</date>
+                            <biblScope unit="volume">Tomo I</biblScope>
+                        </imprint>
+                        <extent>En 16°</extent>
+                    </monogr>
+                    <series>
+                        <title level="s" type="main">Biblioteca Económica, lectura amena e
+                            instructiva</title>
+                    </series>
+                    <note resp="#TorresRioseco">(Sólo se conoce la primera entrega, de 14 p.)</note>
+                </biblStruct>
+                <biblStruct corresp="W866" xml:id="E1202">
+                    <monogr>
+                        <author key="A337">Fernández de Lizardi, José Joaquín</author>
+                        <title level="m" type="main">El Periquillo Sarniento, por El Pensador
+                            Mexicano</title>
+                        <edition>Edición corregida, ilustrada con notas y adornada con 24
+                            láminas</edition>
+                        <imprint>
+                            <publisher>Maucci Hermanos e Hijos</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <pubPlace corresp="CU">Habana</pubPlace>
+                            <date>desconocido</date>
+                            <biblScope unit="volume">Tomo I</biblScope>
+                        </imprint>
+                        <extent>2 vol. en 8°, de 527 p. cada uno</extent>
+                    </monogr>
+                    <note resp="#TorresRioseco">(A la v.: Tip. Casa Editorial Sopena,
+                        Barcelona.)</note>
+                    <note resp="#TorresRioseco">(Con una introducción por D. Luis González
+                        Obregón.)</note>
+                </biblStruct>
+                <biblStruct corresp="W866" xml:id="E1203">
+                    <monogr>
+                        <author key="A337">Fernández de Lizardi, José Joaquín</author>
+                        <title level="m" type="main">El Periquillo Sarniento, por El Pensador
+                            Mexicano</title>
+                        <edition>Edición corregida e ilustrada</edition>
+                        <imprint>
+                            <publisher>Ed. Sopena</publisher>
+                            <pubPlace corresp="ES">Barcelona</pubPlace>
+                            <date when="1908">1908</date>
+                            <biblScope unit="volume">Tomo I</biblScope>
+                        </imprint>
+                        <extent>En 4°, de 311 p.</extent>
+                    </monogr>
+                    <series>
+                        <title level="s" type="main">Biblioteca de Grandes Novelas</title>
+                    </series>
+                </biblStruct>
+                <biblStruct corresp="W867" xml:id="E1204">
+                    <monogr>
+                        <author key="A337">Fernández de Lizardi, José Joaquín</author>
+                        <title level="m" type="main">La Quijotita y su prima</title>
+                        <title level="m" type="sub">Historia muy cierta con apariencias de
+                            novela</title>
+                        <title level="m" type="sub">Escrita por El Pensador Mexicano</title>
+                        <edition>Segunda edición (sic)</edition>
+                        <imprint>
+                            <publisher>Imprenta de Altamirano, a cargo de Daniel
+                                Barquera</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1831">1831</date>
+                            <biblScope unit="volume">Tomo I</biblScope>
+                        </imprint>
+                        <extent>4 vol. en 8°, con láminas. T. I, (12), 238 p.; t. II, (2), 259 p.;
+                            t. III, (2), 241 p.; t. IV, (2), 267, (3) p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W867" xml:id="E1205">
+                    <monogr>
+                        <author key="A337">Fernández de Lizardi, José Joaquín</author>
+                        <title level="m" type="main">La Quijotita y su prima</title>
+                        <title level="m" type="sub">Historia muy cierta con apariencias de novela,
+                            escrita por El Pensador Mexicano</title>
+                        <edition>Tercera edición</edition>
+                        <imprint>
+                            <publisher>Imprenta a cargo de Mariano Arévalo, calle de Cadena núm.
+                                2</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1836">1836</date>
+                            <biblScope unit="volume">Tomo III</biblScope>
+                        </imprint>
+                        <extent>En 8°</extent>
+                    </monogr>
+                    <note resp="#TorresRioseco">(Ilustr. con láminas.)</note>
+                </biblStruct>
+                <biblStruct corresp="W867" xml:id="E1206">
+                    <monogr>
+                        <author key="A337">Fernández de Lizardi, José Joaquín</author>
+                        <title level="m" type="main">La educación de las mujeres o la Quijotita y su
+                            prima</title>
+                        <title level="m" type="sub">Historia muy cierta con apariencias de novela,
+                            escrita por El Pensador Mexicano</title>
+                        <edition>Quinta edición</edition>
+                        <imprint>
+                            <publisher>M. Murguía y Cía., ed.; Imp. de los Editores</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1853">1853</date>
+                        </imprint>
+                        <extent>2 vol. en 16°, con litografías; t. I, IX, 404, (2) p.; t. II, 339
+                            p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W867" xml:id="E1207">
+                    <analytic>
+                        <author key="A337">Fernández de Lizardi, José Joaquín</author>
+                        <title level="a" type="main">La Quijotita</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">El Periquillo Sarniento, La Quijotita, Don
+                            Catrín de la Fachenda, Noches tristes, Día alegre, Fábulas</title>
+                        <edition>Prólogo de D. Francisco Sosa. Ed. de lujo, adornada con láminas
+                            cromolitografiados, y enriquecidas sus páginas con numerosos grabados de
+                            D. Antonio Urillo</edition>
+                        <imprint>
+                            <publisher>J. Ballescá y Cía.</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1897">1897</date>
+                        </imprint>
+                        <extent>4 vol., fol. menor. T. I, 296 p.; t. II, 312 p.; t. III, 298 p.; t.
+                            IV, 252 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W867" xml:id="E1208">
+                    <monogr>
+                        <author key="A337">Fernández de Lizardi, José Joaquín</author>
+                        <title level="m" type="main">La educación de las mujeres o La Quijotita y su
+                            prima</title>
+                        <title level="m" type="sub">Historia muy cierta con apariencias de
+                            novela</title>
+                        <edition>Edición de lujo adornada con láminas cromolitografiadas y
+                            enriquecidas sus páginas con numerosos grabados. Dibujos de D. Antonio
+                            Utrillo</edition>
+                        <imprint>
+                            <publisher>J. Ballescá y Cía., Suc.</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1897">1897</date>
+                        </imprint>
+                        <extent>Fol. menor, (2), IX, 812 p.</extent>
+                    </monogr>
+                    <note resp="#TorresRioseco">(Colofón: Este libro se acabó de imprimir en
+                        Barcelona en el Establecimiento Tipográfico de José Espasa en junio de
+                        1898.)</note>
+                </biblStruct>
+                <biblStruct corresp="W867" xml:id="E1209">
+                    <monogr>
+                        <author key="A337">Fernández de Lizardi, José Joaquín</author>
+                        <title level="m" type="main">La educación de las mujeres o La Quijotita y su
+                            prima</title>
+                        <title level="m" type="sub">Por El Pensador Mexicano</title>
+                        <imprint>
+                            <publisher>Talleres Tip. de El Tiempo</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1906">1906</date>
+                        </imprint>
+                        <extent>En 8°</extent>
+                    </monogr>
+                    <series>
+                        <title level="s" type="main">Biblioteca de La Gaceta</title>
+                    </series>
+                    <note resp="#TorresRioseco">(Sólo se conoce el primer pliego impreso.)</note>
+                </biblStruct>
+                <biblStruct corresp="W868" xml:id="E1210">
+                    <analytic>
+                        <author key="A337">Fernández de Lizardi, José Joaquín</author>
+                        <title level="a" type="main">Noches tristes, Día alegre</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">El Periquillo Sarniento, La Quijotita, Don
+                            Catrín de la Fachenda, Noches tristes, Día alegre, Fábulas</title>
+                        <edition>Prólogo de D. Francisco Sosa. Ed. de lujo, adornada con láminas
+                            cromolitografiados, y enriquecidas sus páginas con numerosos grabados de
+                            D. Antonio Urillo</edition>
+                        <imprint>
+                            <publisher>J. Ballescá y Cía.</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1897">1897</date>
+                        </imprint>
+                        <extent>4 vol., fol. menor. T. I, 296 p.; t. II, 312 p.; t. III, 298 p.; t.
+                            IV, 252 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W868" xml:id="E1211">
+                    <analytic>
+                        <author key="A337">Fernández de Lizardi, José Joaquín</author>
+                        <title level="a" type="main">Las noches tristes, el Día alegre</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Las noches tristes</title>
+                        <title level="m" type="sub">Por el pensador mexicano</title>
+                        <edition>Cuarta edición</edition>
+                        <edition>Van añanidas a esta obrita, el Día alegre, las Fábulas, D. Catrín
+                            de la Fachenda y la Muerte y funeral del Gato, por el mismo autor; y va
+                            adornada con estampas finas y varias viñetas.</edition>
+                        <imprint>
+                            <publisher>Se espenden en la Librería núm. 7 del Portal de
+                                Mercaderes</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1845">1845</date>
+                            <biblScope unit="page">p. 1-74</biblScope>
+                        </imprint>
+                        <extent>En 4° menor, de VI, 271, 3 p.</extent>
+                    </monogr>
+                    <note resp="#TorresRioseco">(A la v.: Reimpresas por Antonio Díaz.)</note>
+                    <ref>https://archive.org/details/lasnochestriste00lizagoog</ref>
+                </biblStruct>
+                <biblStruct corresp="W868" xml:id="E1212">
+                    <analytic>
+                        <author key="A337">Fernández de Lizardi, José Joaquín</author>
+                        <title level="a" type="main">Noches tristes y Día alegre</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Noches tristes y Día alegre, por el pensador
+                            mexicano</title>
+                        <title level="m" type="sub">(Epígrafe de Ovidio.)</title>
+                        <edition>Tercera edición</edition>
+                        <imprint>
+                            <publisher>Reimpresas en la oficina de la calle del Espíritu Santo núm.
+                                2, a cargo del C. José Uribe y Alcalde</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1831">1831</date>
+                        </imprint>
+                        <extent>En 16°, de 144 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W869" xml:id="E1213">
+                    <analytic>
+                        <author key="A337">Fernández de Lizardi, José Joaquín</author>
+                        <title level="a" type="main">Vida y hechos del famoso D. Catrín de la
+                            Fachenda</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Las noches tristes</title>
+                        <title level="m" type="sub">Por el pensador mexicano</title>
+                        <edition>Cuarta edición</edition>
+                        <edition>Van añanidas a esta obrita, el Día alegre, las Fábulas, D. Catrín
+                            de la Fachenda y la Muerte y funeral del Gato, por el mismo autor; y va
+                            adornada con estampas finas y varias viñetas.</edition>
+                        <imprint>
+                            <publisher>Se espenden en la Librería núm. 7 del Portal de
+                                Mercaderes</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1845">1845</date>
+                            <biblScope unit="page">p. 179-259</biblScope>
+                        </imprint>
+                        <extent>En 4° menor, de VI, 271, 3 p.</extent>
+                    </monogr>
+                    <note resp="#TorresRioseco">(A la v.: Reimpresas por Antonio Díaz.)</note>
+                    <ref>https://archive.org/details/lasnochestriste00lizagoog</ref>
+                </biblStruct>
+                <biblStruct corresp="W869" xml:id="E1214">
+                    <analytic>
+                        <author key="A337">Fernández de Lizardi, José Joaquín</author>
+                        <title level="a" type="main">Don Catrín de la Fachenda</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">El Periquillo Sarniento, La Quijotita, Don
+                            Catrín de la Fachenda, Noches tristes, Día alegre, Fábulas</title>
+                        <edition>Prólogo de D. Francisco Sosa. Ed. de lujo, adornada con láminas
+                            cromolitografiados, y enriquecidas sus páginas con numerosos grabados de
+                            D. Antonio Urillo</edition>
+                        <imprint>
+                            <publisher>J. Ballescá y Cía.</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1897">1897</date>
+                        </imprint>
+                        <extent>4 vol., fol. menor. T. I, 296 p.; t. II, 312 p.; t. III, 298 p.; t.
+                            IV, 252 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W869" xml:id="E1215">
+                    <monogr>
+                        <author key="A337">Fernández de Lizardi, José Joaquín</author>
+                        <title level="m" type="main">Vida y hechos del famoso caballero D. Catrín de
+                            la Fachenda</title>
+                        <title level="m" type="sub">Obra inédita del Pensador Mexicano ciudadano
+                            José Joaquín Fernández de Lizardi</title>
+                        <imprint>
+                            <publisher>Imprenta del ciudadano Alejandro Valdés</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1832">1832</date>
+                        </imprint>
+                        <extent>164 p.</extent>
+                    </monogr>
+                    <ref>https://archive.org/details/vidayhechosdelf00lizagoog</ref>
+                </biblStruct>
+                <biblStruct corresp="W870" xml:id="E1216">
+                    <monogr>
+                        <author key="A338">Fernández Serrano, Tomás</author>
+                        <title level="m" type="main">El robo al banco minero</title>
+                        <title level="m" type="sub">Novela histórica original</title>
+                        <edition>Segunda edición</edition>
+                        <imprint>
+                            <publisher>Imprenta Moderna</publisher>
+                            <pubPlace corresp="US">El Paso, Texas</pubPlace>
+                            <date when="1910" cert="low">1910</date>
+                        </imprint>
+                        <extent>En 4°, de 191 p.</extent>
+                    </monogr>
+                    <note resp="#TorresRioseco">(Subscrita en El Paso, Texas, 15 de junio, 1910.
+                        Sólo contiene la primera parte.)</note>
+                </biblStruct>
+                <biblStruct corresp="W871" xml:id="E1217">
+                    <monogr>
+                        <author key="A339">Ferrel y Félix, José</author>
+                        <title level="m" type="main">Los de la mutua de elogios</title>
+                        <imprint>
+                            <publisher>Imprenta de Retes</publisher>
+                            <pubPlace corresp="MX">Mazatlán</pubPlace>
+                            <date when="1892">1892</date>
+                        </imprint>
+                        <extent>229 p.</extent>
+                    </monogr>
+                    <ref>https://archive.org/details/losdelamutuadee01ferrgoog</ref>
+                    <ref>https://archive.org/details/losdelamutuadee00ferrgoog</ref>
+                    <ref>https://catalog.hathitrust.org/Record/100510512</ref>
+                </biblStruct>
+                <biblStruct corresp="W872" xml:id="E1218">
+                    <monogr>
+                        <author key="A339">Ferrel y Félix, José</author>
+                        <title level="m" type="main">La caída de un ángel</title>
+                        <imprint>
+                            <publisher>Imprenta en Mazatlán</publisher>
+                            <pubPlace corresp="MX">Mazatlán</pubPlace>
+                            <date>desconocido</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W873" xml:id="E1219">
+                    <monogr>
+                        <author key="A339">Ferrel y Félix, José</author>
+                        <title level="m" type="main">Reproducciones</title>
+                        <edition>Edición y propriedad de El Demócrata</edition>
+                        <imprint>
+                            <publisher>Tipografía El Demócrata</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1895">1895</date>
+                        </imprint>
+                        <extent>En 4°, de 312, V p.</extent>
+                    </monogr>
+                    <note resp="#TorresRioseco">(Subscrita en la Cárcel de Belén, de la Ciudad de
+                        México, diciembre, 1895.)</note>
+                </biblStruct>
+                <biblStruct corresp="W874" xml:id="E1220">
+                    <monogr>
+                        <author key="A340">Flores Villar, Mariano</author>
+                        <title level="m" type="main">La línea curva</title>
+                        <title level="m" type="sub">Novela por Mariano Flores Villar, autor de La
+                            conquista de un dogal, novela que fué premiada en el concurso convocado
+                            por El Universal</title>
+                        <edition>(Edición agotada.)</edition>
+                        <imprint>
+                            <publisher>Antigua Imprenta de Orozco</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1893">1893</date>
+                        </imprint>
+                        <extent>En 8°, de 175 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W874" xml:id="E1221">
+                    <monogr>
+                        <author key="A340">Flores Villar, Mariano</author>
+                        <title level="m" type="main">La línea curva</title>
+                        <title level="m" type="sub">Novela</title>
+                        <imprint>
+                            <publisher>Imprenta de Orozco</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1895">1895</date>
+                        </imprint>
+                        <extent>173 p. 20 cm</extent>
+                    </monogr>
+                    <ref>https://catalog.hathitrust.org/Record/101402763</ref>
+                </biblStruct>
+                <biblStruct corresp="W875" xml:id="E1222">
+                    <monogr>
+                        <author key="A340">Flores Villar, Mariano</author>
+                        <title level="m" type="main">La conquista de un dogal</title>
+                        <title level="m" type="sub">Novela premiada en el concurso abierto por El
+                            Universal</title>
+                        <imprint>
+                            <publisher>Antigua Tipografía de Orozco</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1894">1894</date>
+                        </imprint>
+                        <extent>En 8°, de 135 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W876" xml:id="E1223">
+                    <monogr>
+                        <author key="A340">Flores Villar, Mariano</author>
+                        <title level="m" type="main">Electra</title>
+                        <title level="m" type="sub">Novela original</title>
+                        <imprint>
+                            <publisher>Tipografía de El Mundo</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1899">1899</date>
+                        </imprint>
+                        <extent>En 8°, de 270 p.</extent>
+                    </monogr>
+                    <series>
+                        <title level="s" type="main">Biblioteca de El Mundo</title>
+                    </series>
+                    <ref>http://dgb.conaculta.gob.mx/coleccion_sep/libro_pdf/11000026274.pdf</ref>
+                </biblStruct>
+                <biblStruct corresp="W877" xml:id="E1224">
+                    <monogr>
+                        <author key="A341">Frías, Heriberto</author>
+                        <title type="main" level="m">¡Tomochic!</title>
+                        <title type="sub" level="m">Episodios de la Campaña de Chihuahua</title>
+                        <title type="sub" level="m">1892</title>
+                        <title type="sub" level="m">Relación escrita por un testigo
+                            presencial</title>
+                        <edition>Segunda edición cuidadosamente corregida y aumentada con detalles
+                            históricos. (Es propiedad del autor)</edition>
+                        <imprint>
+                            <publisher>Imprenta de Jesús T. Recio</publisher>
+                            <pubPlace corresp="US">Río Grande City, Texas</pubPlace>
+                            <date when="1894">1894</date>
+                        </imprint>
+                        <extent>En 8°, de 187 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W877" xml:id="E1225">
+                    <monogr>
+                        <author key="A341">Frías, Heriberto</author>
+                        <title type="main" level="m">Tomochic</title>
+                        <title type="sub" level="m">Por Heriberto Frías</title>
+                        <imprint>
+                            <publisher>Casa editorial Maucci</publisher>
+                            <publisher>Maucci Hermanos</publisher>
+                            <pubPlace corresp="ES">Barcelona</pubPlace>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1899">1899</date>
+                        </imprint>
+                        <extent>En 8°, de 256 p., ilustrada.</extent>
+                    </monogr>
+                    <note resp="#TorresRioseco">(Al frente: Tip. Moderna, Aribau, 60.)</note>
+                </biblStruct>
+                <biblStruct corresp="W877" xml:id="E1226">
+                    <monogr>
+                        <author key="A341">Frías, Heriberto</author>
+                        <title type="main" level="m">Tomochic</title>
+                        <title type="sub" level="m">Novela Histórica Mexicana</title>
+                        <edition>Única edición de la obra íntegra; corregida y aumentada, con notas
+                            y capítulos inéditos escritos expresamente por su autor para "El Correo
+                            de la Tarde." Precedida de "La Novela Nacional" crítica del Lic. José
+                            Ferrel.</edition>
+                        <imprint>
+                            <publisher>Imprenta y Casa Editorial de Valadés y Cía.,
+                                Sucs.</publisher>
+                            <pubPlace corresp="MX">Mazatlán, Sin., México</pubPlace>
+                            <date when="1906">1906</date>
+                        </imprint>
+                        <extent>En 8°, de (4), VII, 304, II p. con el retrato del autor.</extent>
+                    </monogr>
+                    <ref>https://archive.org/details/tomchicnovelahi00frgoog</ref>
+                </biblStruct>
+                <biblStruct corresp="W878" xml:id="E1227">
+                    <monogr>
+                        <author key="A341">Frías, Heriberto</author>
+                        <title type="main" level="m">El Último Duelo</title>
+                        <title type="sub" level="m">Novela social de costumbres mexicanas</title>
+                        <imprint>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1896">1896</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W878" xml:id="E1228">
+                    <monogr>
+                        <author key="A341">Frías, Heriberto</author>
+                        <title type="main" level="m">El Último Duelo</title>
+                        <title type="sub" level="m">Novela social de costumbres mexicanas</title>
+                        <imprint>
+                            <publisher>Imprenta de la Revista Militar</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1906">1906</date>
+                        </imprint>
+                        <extent>En 4°, de 264 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W878" xml:id="E1229">
+                    <monogr>
+                        <author key="A341">Frías, Heriberto</author>
+                        <title type="main" level="m">El Último Duelo</title>
+                        <title type="sub" level="m">(Un Crimen Social de la época del Presidente
+                            Manuel González)</title>
+                        <edition>Segunda edición corregida y aumentada con nuevos
+                            capítulos</edition>
+                        <imprint>
+                            <publisher>Imprenta y Casa Editorial de Valadés y Cía. Sucs.</publisher>
+                            <pubPlace corresp="MX">Mazatlán</pubPlace>
+                            <date when="1907">1907</date>
+                        </imprint>
+                        <extent>En 4°, de (6), 259 p.</extent>
+                    </monogr>
+                    <ref>https://archive.org/details/elltimoduelo00frgoog</ref>
+                </biblStruct>
+                <biblStruct corresp="W879" xml:id="E1230">
+                    <monogr>
+                        <author key="A341">Frías, Heriberto</author>
+                        <title type="sub" level="m">Vida Social Mexicana</title>
+                        <title type="main" level="m">El Amor de las Sirenas</title>
+                        <title type="sub" level="m">(Los Destripados)</title>
+                        <title type="sub" level="m">Por Heriberto Frías</title>
+                        <imprint>
+                            <publisher>Tipografía y Casa Editorial Valadés y Cía. Sucs.</publisher>
+                            <pubPlace corresp="MX">Mazatlán</pubPlace>
+                            <date when="1908">1908</date>
+                        </imprint>
+                        <extent>En 4°, de (2), 780 p. más una lámina.</extent>
+                    </monogr>
+                    <note resp="#Iguiniz">Subscrita en Mazatlán, a 2 de febrero de 1908.</note>
+                    <ref>http://bdh.bne.es/bnesearch/detalle/bdh0000098310</ref>
+                </biblStruct>
+                <biblStruct corresp="W880" xml:id="E1231">
+                    <analytic>
+                        <author key="A341">Frías, Heriberto</author>
+                        <title type="main" level="a">Realidades del pueblo</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j" type="main">El Demócrata</title>
+                        <imprint>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date from="1895-12-06" to="1896-01-25">6 de diciembre de 1895 a 25 de
+                                enero de 1896</date>
+                        </imprint>
+                    </monogr>
+                    <ref>http://www.lanovelacorta.com/1872-1922/rdpp.php</ref>
+                </biblStruct>
+                <biblStruct corresp="W881" xml:id="E1232">
+                    <monogr>
+                        <author key="A342">Frías y Soto, Hilarión</author>
+                        <title level="m" type="main">Vulcano</title>
+                        <title level="m" type="sub">Novela realista por Safir</title>
+                        <edition>Edición de El Diario del Hogar</edition>
+                        <imprint>
+                            <publisher>Tipografía Literaria de Filomeno Mata</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1882">1882</date>
+                        </imprint>
+                        <extent>En 8°, de 55 p.</extent>
+                    </monogr>
+                    <note resp="#TorresRioseco">(Subscrita en México, mayo, 1861.)</note>
+                </biblStruct>
+                <biblStruct corresp="W882" xml:id="E1233">
+                    <monogr>
+                        <author key="A343">Fuentes, Julio</author>
+                        <title level="m" type="main">Estella</title>
+                        <title level="m" type="sub">Novela original</title>
+                        <imprint>
+                            <publisher>Tipografía de Fin de Siglo</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1898">1898</date>
+                        </imprint>
+                        <extent>En 8°, de 135 p.</extent>
+                    </monogr>
+                    <series>
+                        <title level="s" type="main">Biblioteca de Fin de Siglo</title>
+                    </series>
+                </biblStruct>
+                <biblStruct corresp="W883" xml:id="E1234">
+                    <monogr>
+                        <author key="A344">Paterson, Roberto G.</author>
+                        <title level="m" type="main">Dueña y señora</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1905">1905</date>
+                        </imprint>
+                        <extent>141 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W884" xml:id="E1235">
+                    <monogr>
+                        <author key="A344">Paterson, Roberto G.</author>
+                        <title level="m" type="main">Por tu honra</title>
+                        <imprint>
+                            <publisher>Juan Alsina</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1895">1895</date>
+                        </imprint>
+                        <extent>200 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W885" xml:id="E1236">
+                    <analytic>
+                        <author key="A344">Paterson, Roberto G.</author>
+                        <title level="a" type="main">La venganza</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Solos de flauta</title>
+                        <imprint>
+                            <publisher>Jesús Menéndez</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1905">1905</date>
+                        </imprint>
+                        <biblScope unit="page">p. 85-141</biblScope>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W886" xml:id="E1237">
+                    <analytic>
+                        <author key="A345">Payró, Roberto</author>
+                        <title level="a" type="main">Antes que te cases</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m">Scripta</title>
+                        <imprint>
+                            <publisher>La Plata</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1887">1887</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W887" xml:id="E1238">
+                    <monogr>
+                        <author key="A345">Payró, Roberto</author>
+                        <title level="m" type="main">Antígona</title>
+                        <imprint>
+                            <publisher>Sud-América</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1885">1885</date>
+                        </imprint>
+                        <extent>299 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W888" xml:id="E1239">
+                    <monogr>
+                        <author key="A345">Payró, Roberto</author>
+                        <title level="m" type="main">El casamiento de Laucha</title>
+                        <imprint>
+                            <publisher>CSABB</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1906">1906</date>
+                        </imprint>
+                        <extent>112 p.</extent>
+                    </monogr>
+                    <ref>https://es.wikisource.org/wiki/El_casamiento_de_Laucha</ref>
+                </biblStruct>
+                <biblStruct corresp="W889" xml:id="E1240">
+                    <monogr>
+                        <author key="A345">Payró, Roberto</author>
+                        <title level="m" type="main">Las divertidas aventuras del nieto de Juan
+                            Moreira</title>
+                        <imprint>
+                            <publisher>M. Rodríguez Giles</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1910">1910</date>
+                        </imprint>
+                        <extent>373 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W890" xml:id="E1241">
+                    <monogr>
+                        <author key="A345">Payró, Roberto</author>
+                        <title level="m" type="main">El falso inca</title>
+                        <title level="m" type="sub">Crónica novelesca de la conquista</title>
+                        <imprint>
+                            <publisher>CSABB</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1905">1905</date>
+                        </imprint>
+                        <extent>208 p.</extent>
+                    </monogr>
+                    <ref>https://es.wikisource.org/wiki/El_falso_Inca</ref>
+                </biblStruct>
+                <biblStruct corresp="W891" xml:id="E1242">
+                    <monogr>
+                        <author key="A345">Payró, Roberto</author>
+                        <title level="m" type="main">Pago Chico</title>
+                        <imprint>
+                            <publisher>Casa Editorial Mitre</publisher>
+                            <publisher>Rodríguez Giles</publisher>
+                            <pubPlace corresp="ES">Barcelona</pubPlace>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1908">1908</date>
+                        </imprint>
+                    </monogr>
+                    <ref>https://catalog.hathitrust.org/Record/008003762</ref>
+                </biblStruct>
+                <biblStruct corresp="W892" xml:id="E1243">
+                    <monogr>
+                        <author key="A346">Paz, Carlos Luis</author>
+                        <title level="m" type="main">¡Santa y mártir de veinte años!</title>
+                        <title level="m" type="sub">Novela original</title>
+                        <imprint>
+                            <publisher>Imprenta de la Reforma</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1857">1857</date>
+                        </imprint>
+                        <extent>46 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W893" xml:id="E1244">
+                    <monogr>
+                        <author key="A347">Pearson, Isaac R.</author>
+                        <title level="m" type="main">Las dos venganzas</title>
+                        <title level="m" type="sub">Episodios de la vida argentina</title>
+                        <imprint>
+                            <publisher>Centro Argentino de Publicidad</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1904">1904</date>
+                        </imprint>
+                        <extent>213 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W894" xml:id="E1245">
+                    <monogr>
+                        <author key="A347">Pearson, Isaac R.</author>
+                        <title level="m" type="main">¡Patria!</title>
+                        <imprint>
+                            <publisher>Imprenta La Revista</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1896">1896</date>
+                        </imprint>
+                        <extent>213 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W894" xml:id="E1246">
+                    <monogr>
+                        <author key="A347">Pearson, Isaac R.</author>
+                        <title level="m" type="main">¡Patria!</title>
+                        <imprint>
+                            <publisher>Imprenta de El Pueblo</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1908">1908</date>
+                        </imprint>
+                        <extent>447 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W895" xml:id="E1247">
+                    <monogr>
+                        <author key="A347">Pearson, Isaac R.</author>
+                        <title level="m" type="main">El triunfo del siglo</title>
+                        <imprint>
+                            <publisher>Imprenta de La Revista</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1899">1899</date>
+                        </imprint>
+                        <extent>356 p.</extent>
+                    </monogr>
+                    <note resp="#Lichtblau">Prólogo del Dr. Francisco Durá.</note>
+                </biblStruct>
+                <biblStruct corresp="W896" xml:id="E1248">
+                    <monogr>
+                        <author key="A348">Pelliza de Sagasta, Josefina</author>
+                        <title level="m" type="main">El César</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1882">1882</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W897" xml:id="E1249">
+                    <analytic>
+                        <author key="A348">Pelliza de Sagasta, Josefina</author>
+                        <title level="a" type="main">La chiriguana</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Novelas Americanas</title>
+                        <imprint>
+                            <publisher>Imprenta Santiago de Estero</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1877">1877</date>
+                        </imprint>
+                        <biblScope unit="page">p. 3-32</biblScope>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W898" xml:id="E1250">
+                    <monogr>
+                        <author key="A348">Pelliza de Sagasta, Josefina</author>
+                        <title level="m" type="main">Margarita</title>
+                        <title level="m" type="sub">Novela original</title>
+                        <imprint>
+                            <publisher>Establecimiento Tipografía de El Orden</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1875">1875</date>
+                        </imprint>
+                    </monogr>
+                    <ref>http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb11311612-5</ref>
+                </biblStruct>
+                <biblStruct corresp="W899" xml:id="E1251">
+                    <monogr>
+                        <author key="A348">Pelliza de Sagasta, Josefina</author>
+                        <title level="m" type="main">Palmira, o el héroe de Paysandú</title>
+                        <imprint>
+                            <publisher>Maubé</publisher>
+                            <pubPlace corresp="AR">Santa Fe</pubPlace>
+                            <date>desconocido</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W900" xml:id="E1252">
+                    <monogr>
+                        <author key="A349">Pérez y Pérez, Manuel</author>
+                        <title level="m" type="main">El gobierno Rodriguista</title>
+                        <title level="m" type="sub">Novela criolla</title>
+                        <imprint>
+                            <publisher>Arnoldo Moen</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1905">1905</date>
+                        </imprint>
+                        <extent>360 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W901" xml:id="E1253">
+                    <monogr>
+                        <author key="A349">Pérez y Pérez, Manuel</author>
+                        <title level="m" type="main">La Revolución Malezalera</title>
+                        <title level="m" type="sub">Novela criolla</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1902">1902</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W902" xml:id="E1254">
+                    <monogr>
+                        <author key="A350">Podestá, Gerónimo</author>
+                        <title level="m" type="main">La caída de Lucía</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1899">1899</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W903" xml:id="E1255">
+                    <monogr>
+                        <author key="A351">Podestá, Manuel T.</author>
+                        <title level="m" type="main">Alma de niña</title>
+                        <imprint>
+                            <publisher>Coni</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1892">1892</date>
+                        </imprint>
+                        <extent>272 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W903" xml:id="E1256">
+                    <analytic>
+                        <author key="A351">Podestá, Manuel T.</author>
+                        <title level="a" type="main">Alma de niña</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Alma de niña</title>
+                        <imprint>
+                            <publisher>Imprenta de La Nación</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1903">1903</date>
+                            <biblScope unit="page">p. 76-160</biblScope>
+                        </imprint>
+                    </monogr>
+                    <note resp="#Lichtblau">Incluye también la novela Irresponsable.</note>
+                </biblStruct>
+                <biblStruct corresp="W903" xml:id="E1257">
+                    <analytic>
+                        <author key="A351">Podestá, Manuel T.</author>
+                        <title level="a" type="main">Alma de niña</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Alma de niña</title>
+                        <imprint>
+                            <publisher>Imprenta de La Nación</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1909">1909</date>
+                            <biblScope unit="page">p. 76-160</biblScope>
+                        </imprint>
+                    </monogr>
+                    <note resp="#Lichtblau">Incluye también la novela Irresponsable.
+                        Reimpresión.</note>
+                </biblStruct>
+                <biblStruct corresp="W904" xml:id="E1258">
+                    <monogr>
+                        <author key="A351">Podestá, Manuel T.</author>
+                        <title level="m" type="main">Irresponsable</title>
+                        <imprint>
+                            <publisher>Imprenta de La Tribuna Nacional</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1889">1889</date>
+                        </imprint>
+                        <extent>357 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W904" xml:id="E1259">
+                    <analytic>
+                        <author key="A351">Podestá, Manuel T.</author>
+                        <title level="a" type="main">Irresponsable</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Alma de niña</title>
+                        <imprint>
+                            <publisher>Imprenta de La Nación</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1903">1903</date>
+                            <biblScope unit="page">p. 163-368</biblScope>
+                        </imprint>
+                    </monogr>
+                    <note resp="#Lichtblau">Incluye también Alma de niña.</note>
+                </biblStruct>
+                <biblStruct corresp="W904" xml:id="E1260">
+                    <analytic>
+                        <author key="A351">Podestá, Manuel T.</author>
+                        <title level="a" type="main">Irresponsable</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Alma de niña</title>
+                        <imprint>
+                            <publisher>Imprenta de La Nación</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1909">1909</date>
+                            <biblScope unit="page">p. 163-368</biblScope>
+                        </imprint>
+                    </monogr>
+                    <note resp="#Lichtblau">Incluye también Alma de niña. Reimpresión.</note>
+                </biblStruct>
+                <biblStruct corresp="W905" xml:id="E1261">
+                    <monogr>
+                        <author key="A352">Quesada, Vicente Gregorio</author>
+                        <title level="m" type="main">Crimen y expiación</title>
+                        <title level="m" type="sub">Crónica de la Villa Imperial de Potosí</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1865">1865</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W906" xml:id="E1262">
+                    <monogr>
+                        <author key="A353">Quiroga, Guillermo</author>
+                        <title level="m" type="main">Una sanjuanina, o sea Carolina</title>
+                        <title level="m" type="sub">Novela de costumbres</title>
+                        <imprint>
+                            <publisher>Imprenta de la Unión</publisher>
+                            <pubPlace corresp="AR">San Juan</pubPlace>
+                            <date when="1881">1881</date>
+                        </imprint>
+                        <extent>18 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W907" xml:id="E1263">
+                    <monogr>
+                        <author key="A354">Quiroga, Horacio</author>
+                        <title level="m" type="main">Historia de un amor turbio</title>
+                        <imprint>
+                            <publisher>A. Moen</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1908">1908</date>
+                        </imprint>
+                        <extent>242 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W908" xml:id="E1264">
+                    <monogr>
+                        <author key="A355">Rave, María</author>
+                        <title level="m" type="main">Babilonia: memorias del Gran Sacerdote de
+                            Ystar, la diosa de la noche y las estrellas</title>
+                        <imprint>
+                            <publisher>Centro Argentino de Publicidad</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1904">1904</date>
+                        </imprint>
+                        <extent>252 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W909" xml:id="E1265">
+                    <analytic>
+                        <author key="A356">Reynal O'Connor, Arturo</author>
+                        <title level="a" type="main">El monumento</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j">La Quincena</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date from="1894-05-01" to="1895-11-30">primero de mayo de 1894 a 30 de
+                                noviembre de 1895</date>
+                        </imprint>
+                    </monogr>
+                    <note>en folletín</note>
+                </biblStruct>
+                <biblStruct corresp="W910" xml:id="E1266">
+                    <analytic>
+                        <author key="A357">Rivarola, Enrique E.</author>
+                        <title level="a" type="main">El arma de Werther</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j">La Patria Argentina</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date from="1884-06-29" to="1884-07-27">29 de junio de 1884 a 27 de
+                                julio de 1884</date>
+                        </imprint>
+                    </monogr>
+                    <note>en folletín</note>
+                </biblStruct>
+                <biblStruct corresp="W910" xml:id="E1267">
+                    <monogr>
+                        <author key="A357">Rivarola, Enrique E.</author>
+                        <title level="m" type="main">Armar al vuelo</title>
+                        <title level="m" type="sub">Costumbres estudiantiles</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <publisher>Emilio de Mársico</publisher>
+                            <date when="1885">1885</date>
+                        </imprint>
+                        <extent>224 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W911" xml:id="E1268">
+                    <monogr>
+                        <author key="A357">Rivarola, Enrique E.</author>
+                        <title level="m" type="main">Mandinga</title>
+                        <imprint>
+                            <publisher>Leopoldo López</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1895">1895</date>
+                        </imprint>
+                        <extent>156 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W912" xml:id="E1269">
+                    <monogr>
+                        <author key="A357">Rivarola, Enrique E.</author>
+                        <title level="m" type="main">Meñique</title>
+                        <imprint>
+                            <publisher>Edición del autor</publisher>
+                            <pubPlace corresp="AR">La Plata</pubPlace>
+                            <date when="1906">1906</date>
+                        </imprint>
+                        <extent>139 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W913" xml:id="E1270">
+                    <monogr>
+                        <author key="A358">Rivero, Amaranto T.</author>
+                        <title level="m" type="main">Guantes blancos y conciencias negras</title>
+                        <title level="m" type="sub">Novela histórica</title>
+                        <imprint>
+                            <publisher>Angel S. Maranta</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1899">1899</date>
+                        </imprint>
+                        <extent>95 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W914" xml:id="E1271">
+                    <analytic>
+                        <author key="A359">Rocha, José Victor</author>
+                        <title level="a" type="main">Aurelia</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j">El Nacional</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date from="1857-08-06" to="1857-08-11">1857</date>
+                        </imprint>
+                    </monogr>
+                    <note>en folletín</note>
+                </biblStruct>
+                <biblStruct corresp="W915" xml:id="E1272">
+                    <monogr>
+                        <author key="A359">Rocha, José Victor</author>
+                        <title level="m" type="main">Un drama de la vida</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1857">1857</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W916" xml:id="E1273">
+                    <monogr>
+                        <author key="A360">Rodriguez Alcala, José</author>
+                        <title level="m" type="main">Ignacia</title>
+                        <title level="m" type="sub">La hija del suburbio</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1906">1906</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W917" xml:id="E1274">
+                    <monogr>
+                        <author key="A361">Romano, Manuel</author>
+                        <title level="m" type="main">El isleño</title>
+                        <title level="m" type="sub">episodio de la guerra de la
+                            independencia</title>
+                        <imprint>
+                            <publisher>Imprenta Americana</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1857">1857</date>
+                        </imprint>
+                        <extent>95 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W918" xml:id="E1275">
+                    <monogr>
+                        <author key="A362">Rosas de Rivera, Mercedes</author>
+                        <title level="m" type="main">María de Montiel</title>
+                        <imprint>
+                            <publisher>Imprenta de la Revista</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1861">1861</date>
+                        </imprint>
+                    </monogr>
                 </biblStruct>
             </listBibl>
         </body>

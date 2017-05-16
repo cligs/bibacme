@@ -5312,6 +5312,392 @@
                     <term type="subgenre_title">páginas del primer amor</term>
                     <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
                 </bibl>
+                <bibl xml:id="W863">
+                    <author key="A335">Gutiérrez de Lara, Lázaro</author>
+                    <title>Los bribones</title>
+                    <term type="subgenre_title">novela mexicana de actualidad</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W864">
+                    <author key="A336">Gutiérrez Nájera, Manuel</author>
+                    <title>Aventuras de Manon</title>
+                    <term type="subgenre_title">recuerdos de ópera bufa</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                    <ref>http://www.lanovelacorta.com/1872-1922/manp.php</ref>
+                </bibl>
+                <bibl xml:id="W865">
+                    <author key="A336">Gutiérrez Nájera, Manuel</author>
+                    <title>Por donde se sube al cielo</title>
+                    <term type="subgenre_title">novela original</term>
+                    <bibl type="source"><ptr target="#ELEM"/></bibl>
+                    <!-- Resumen en ELEM -->
+                </bibl>
+                <bibl xml:id="W866">
+                    <author key="A337">Fernández de Lizardi, José Joaquín</author>
+                    <title>El Periquillo Sarniento</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W867">
+                    <author key="A337">Fernández de Lizardi, José Joaquín</author>
+                    <title>La Quijotita y su prima</title>
+                    <term type="subgenre_title">historia muy cierta con apariencias de novela</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W868">
+                    <author key="A337">Fernández de Lizardi, José Joaquín</author>
+                    <title>Noches tristes y día alegre</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                    <ref>http://www.cervantesvirtual.com/portales/fernandez_lizardi/obra/noches-tristes-y-dia-alegre/</ref>
+                </bibl>
+                <bibl xml:id="W869">
+                    <author key="A337">Fernández de Lizardi, José Joaquín</author>
+                    <title>Don Catrín de la Fachenda</title>
+                    <term type="subgenre_title">vida y hechos</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                    <ref>http://www.cervantesvirtual.com/portales/fernandez_lizardi/obra/vida-y-hechos-del-famoso-caballero-don-catrin-de-la-fachenda/</ref>
+                </bibl>
+                <bibl xml:id="W870">
+                    <author key="A338">Fernández Serrano, Tomás</author>
+                    <title>El robo al banco minero</title>
+                    <term type="subgenre_title">novela histórica original</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W871">
+                    <author key="A339">Ferrel y Félix, José</author>
+                    <title>Los de la mutua de elogios</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W872">
+                    <author key="A339">Ferrel y Félix, José</author>
+                    <title>La caída de un ángel</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W873">
+                    <author key="A339">Ferrel y Félix, José</author>
+                    <title>Reproducciones</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W874">
+                    <author key="A340">Flores Villar, Mariano</author>
+                    <title>La línea curva</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W875">
+                    <author key="A340">Flores Villar, Mariano</author>
+                    <title>La conquista de un dogal</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W876">
+                    <author key="A340">Flores Villar, Mariano</author>
+                    <title>Electra</title>
+                    <term type="subgenre_title">novela original</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W877">
+                    <author key="A341">Frías, Heriberto</author>
+                    <title>¡Tomochic!</title>
+                    <term type="subgenre_title">episodios</term>
+                    <term type="subgenre_title">novela histórica mexicana</term>
+                    <idno type="cligs">nh0022</idno>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W878">
+                    <author key="A341">Frías, Heriberto</author>
+                    <title>El último duelo</title>
+                    <term type="subgenre_title">novela social de costumbres mexicanas</term>
+                    <term type="subgenre_title">un crimen social</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W879">
+                    <author key="A341">Frías, Heriberto</author>
+                    <title>El amor de las sirenas</title>
+                    <term type="subgenre_title">vida social mexicana</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W880">
+                    <author key="A341">Frías, Heriberto</author>
+                    <title>Realidades del pueblo</title>
+                    <idno type="cligs">nh0123</idno>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W881">
+                    <author key="A342">Frías y Soto, Hilarión</author>
+                    <title>Vulcano</title>
+                    <term type="subgenre_title">novela realista</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W882">
+                    <author key="A343">Fuentes, Julio</author>
+                    <title>Estella</title>
+                    <term type="subgenre_title">novela original</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W883">
+                    <author key="A344">Paterson, Roberto G.</author>
+                    <title>Dueña y señora</title>
+                    <bibl type="source"><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W884">
+                    <author key="A344">Paterson, Roberto G.</author>
+                    <title>Por tu honra</title>
+                    <note type="subgenre_lithist" source="#Lichtblau">A gambler looks for redemption
+                        in the love of a young woman.</note>
+                    <bibl type="source"><ptr target="#Lichtblau"/></bibl>
+                    <!-- Resumen en Lichtblau -->
+                </bibl>
+                <bibl xml:id="W885">
+                    <author key="A344">Paterson, Roberto G.</author>
+                    <title>La venganza</title>
+                    <bibl type="source"><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W886">
+                    <author key="A345">Payró, Roberto</author>
+                    <title>Antes que te cases</title>
+                    <bibl type="source"><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W887">
+                    <author key="A345">Payró, Roberto</author>
+                    <title>Antígona</title>
+                    <note type="subgenre_lithist" source="#Lichtblau">tema del conventillo [...]
+                        influencia zolesca</note>
+                    <bibl type="source"><ptr target="#Lichtblau"/></bibl>
+                    <!-- Resumen en Lichtblau -->
+                </bibl>
+                <bibl xml:id="W888">
+                    <author key="A345">Payró, Roberto</author>
+                    <title>El casamiento de Laucha</title>
+                    <idno type="cligs">nh0003</idno>
+                    <term type="subgenre_lithist" resp="#Lichtblau">novela picaresca</term>
+                    <bibl type="source"><ptr target="#Lichtblau"/></bibl>
+                    <!-- Resumen en Lichtblau -->
+                </bibl>
+                <bibl xml:id="W889">
+                    <author key="A345">Payró, Roberto</author>
+                    <title>Las divertidas aventuras del nieto de Juan Moreira</title>
+                    <idno type="cligs">nh0002</idno>
+                    <note type="subgenre_lithist" source="#Lichtblau">Gómez Herrera es un político
+                        de avería que por actuar en sus planos superiores de la sociedad debe fingir
+                        una moral [...]</note>
+                    <bibl type="source"><ptr target="#Lichtblau"/></bibl>
+                    <!-- Resumen en Lichtblau -->
+                </bibl>
+                <bibl xml:id="W890">
+                    <author key="A345">Payró, Roberto</author>
+                    <title>El falso inca</title>
+                    <term type="subgenre_title">crónica novelesca de la conquista</term>
+                    <note type="subgenre_lithist" source="#Lichtblau">vemos reaparecer a nuestro
+                        pícaro</note>
+                    <idno type="cligs">nh0004</idno>
+                    <bibl type="source"><ptr target="#Lichtblau"/></bibl>
+                    <!-- Resumen en Lichtblau -->
+                </bibl>
+                <bibl xml:id="W891">
+                    <author key="A345">Payró, Roberto</author>
+                    <title>Pago Chico</title>
+                    <bibl type="source"><ptr target="#HathiTrust"/></bibl>
+                </bibl>
+                <bibl xml:id="W892">
+                    <author key="A346">Paz, Carlos Luis</author>
+                    <title>¡Santa y mártir de veinte años!</title>
+                    <term type="subgenre_title">novela original</term>
+                    <note type="subgenre_lithist" source="#Lichtblau">heroína romántica Isabel, a
+                        quien la mazorca prende</note>
+                    <bibl type="source"><ptr target="#Lichtblau"/></bibl>
+                    <!-- Resumen en Lichtblau -->
+                </bibl>
+                <bibl xml:id="W893">
+                    <author key="A347">Pearson, Isaac R.</author>
+                    <title>Las dos venganzas</title>
+                    <term type="subgenre_title">episodios de la vida argentina</term>
+                    <bibl type="source"><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W894">
+                    <author key="A347">Pearson, Isaac R.</author>
+                    <title>¡Patria!</title>
+                    <term type="subgenre_lithist" resp="#Lichtblau">historical novel</term>
+                    <bibl type="source"><ptr target="#Lichtblau"/></bibl>
+                    <!-- Resumen en Lichtblau -->
+                </bibl>
+                <bibl xml:id="W895">
+                    <author key="A347">Pearson, Isaac R.</author>
+                    <title>El triunfo del siglo</title>
+                    <note type="subgenre_lithist" source="#Lichtblau">about the failure of
+                        scientific and material progress</note>
+                    <bibl type="source"><ptr target="#Lichtblau"/></bibl>
+                    <!-- Resumen en Lichtblau -->
+                </bibl>
+                <bibl xml:id="W896">
+                    <author key="A348">Pelliza de Sagasta, Josefina</author>
+                    <title>El César</title>
+                    <bibl type="source"><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W897">
+                    <author key="A348">Pelliza de Sagasta, Josefina</author>
+                    <title>La chiriguana</title>
+                    <note type="subgenre_lithist" source="#Lichtblau">a sentimental and tragic story
+                        of love, hate and vengeance set among members of the Chiriguana
+                        Indians</note>
+                    <bibl type="source"><ptr target="#Lichtblau"/></bibl>
+                    <!-- Resumen en Lichtblau -->
+                </bibl>
+                <bibl xml:id="W898">
+                    <author key="A348">Pelliza de Sagasta, Josefina</author>
+                    <title>Margarita</title>
+                    <term type="subgenre_title">novela original</term>
+                    <term type="subgenre_lithist" resp="#Lichtblau">Banal romantic novel
+                        [...]</term>
+                    <idno type="cligs">nh0195</idno>
+                    <bibl type="source"><ptr target="#Lichtblau"/></bibl>
+                    <!-- Resumen en Lichtblau -->
+                </bibl>
+                <bibl xml:id="W899">
+                    <author key="A348">Pelliza de Sagasta, Josefina</author>
+                    <title>Palmira, o el héroe de Paysandú</title>
+                    <bibl type="source"><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W900">
+                    <author key="A349">Pérez y Pérez, Manuel</author>
+                    <title>El gobierno Rodriguista</title>
+                    <term type="subgenre_title">novela criolla</term>
+                    <bibl type="source"><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W901">
+                    <author key="A349">Pérez y Pérez, Manuel</author>
+                    <title>La Revolución Malezalera</title>
+                    <term type="subgenre_title">novela criolla</term>
+                    <bibl type="source"><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W902">
+                    <author key="A350">Podestá, Gerónimo</author>
+                    <title>La caída de Lucía</title>
+                    <bibl type="source"><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W903">
+                    <author key="A351">Podestá, Manuel T.</author>
+                    <title>Alma de niña</title>
+                    <note type="subgenre_lithist" source="#Lichtblau">una morosa descripción del
+                        mundo particular de la atormentada Adela</note>
+                    <bibl type="source"><ptr target="#Lichtblau"/></bibl>
+                    <!-- Resumen en Lichtblau -->
+                </bibl>
+                <bibl xml:id="W904">
+                    <author key="A351">Podestá, Manuel T.</author>
+                    <title>Irresponsable</title>
+                    <note type="subgenre_lithist" source="#Lichtblau">El innominado personaje
+                        central es visto primero en la quiebra de su vida académica, luego en la de
+                        su vida sentimental, en la de su personalidad moral más tarde; luego se
+                        marcaran nuevas quiebras; la de sus convicciones políticas, la de salud, la
+                        de sus relaciones con la sociedad. [...]</note>
+                    <term type="subgenre_lithist" resp="#Lichtblau">naturalistic novel</term>
+                    <bibl type="source"><ptr target="#Lichtblau"/></bibl>
+                    <!-- Resumen en Lichtblau -->
+                </bibl>
+                <bibl xml:id="W905">
+                    <author key="A352">Quesada, Vicente Gregorio</author>
+                    <title>Crimen y expiación</title>
+                    <term type="subgenre_title">crónica</term>
+                    <bibl type="source"><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W906">
+                    <author key="A353">Quiroga, Guillermo</author>
+                    <title>Una sanjuanina, o sea Carolina</title>
+                    <term type="subgenre_title">novela de costumbres</term>
+                    <bibl type="source"><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W907">
+                    <author key="A354">Quiroga, Horacio</author>
+                    <title>Historia de un amor turbio</title>
+                    <note type="subgenre_lithist" source="#Lichtblau">el tema de las complejidades
+                        del alma femenina</note>
+                    <bibl type="source"><ptr target="#Lichtblau"/></bibl>
+                    <!-- Resumen en Lichtblau -->
+                </bibl>
+                <bibl xml:id="W908">
+                    <author key="A355">Rave, María</author>
+                    <title>Babilonia</title>
+                    <term type="subgenre_title">memorias</term>
+                    <bibl type="source"><ptr target="#Lichtblau"/></bibl>
+                    <!-- Resumen en Lichtblau -->
+                </bibl>
+                <bibl xml:id="W909">
+                    <author key="A356">Reynal O'Connor, Arturo</author>
+                    <title>El monumento</title>
+                    <note type="subgenre_lithist" source="#Lichtblau">Digressions on art, Italy,
+                        France, and the values of life [...] Carlos dies in a duel with Donato
+                        Gianutti, who insulted his wife Sara. [...] Sara [...] wants to build a
+                        monument in his memory.</note>
+                    <bibl type="source"><ptr target="#Lichtblau"/></bibl>
+                    <!-- Resumen en Lichtblau -->
+                </bibl>
+                <bibl xml:id="W910">
+                    <author key="A357">Rivarola, Enrique E.</author>
+                    <title>El arma de Werther</title>
+                    <title type="alt">Amar al vuelo</title>
+                    <term type="subgenre_title">costumbres estudiantiles</term>
+                    <bibl type="source"><ptr target="#Lichtblau"/></bibl>
+                    <!-- Resumen en Lichtblau -->
+                </bibl>
+                <bibl xml:id="W911">
+                    <author key="A357">Rivarola, Enrique E.</author>
+                    <title>Mandinga</title>
+                    <note type="subgenre_lithist" source="#Lichtblau">a mixture of moral teachings
+                        and supernational happenings</note>
+                    <bibl type="source"><ptr target="#Lichtblau"/></bibl>
+                    <!-- Resumen en Lichtblau -->
+                </bibl>
+                <bibl xml:id="W912">
+                    <author key="A357">Rivarola, Enrique E.</author>
+                    <title>Meñique</title>
+                    <note type="subgenre_lithist" source="#Lichtblau">tiene como tema al realidad de
+                        la política electoralista en la provincia de Buenos Aires; es un cuadro
+                        costumbrista documentado y vivo de la época</note>
+                    <bibl type="source"><ptr target="#Lichtblau"/></bibl>
+                    <!-- Resumen en Lichtblau -->
+                </bibl>
+                <bibl xml:id="W913">
+                    <author key="A358">Rivero, Amaranto T.</author>
+                    <title>Guantes blancos y conciencias negras</title>
+                    <term type="subgenre_title">novela histórica</term>
+                    <bibl type="source"><ptr target="#Lichtblau"/></bibl>
+                    <!-- Resumen en Lichtblau -->
+                </bibl>
+                <bibl xml:id="W914">
+                    <author key="A359">Rocha, José Victor</author>
+                    <title>Aurelia</title>
+                    <note type="subgenre_lithist" source="#Lichtblau">El asunto está basado en
+                        nuestra historia contemporánea.</note>
+                    <bibl type="source"><ptr target="#Lichtblau"/></bibl>
+                    <!-- Resumen en Lichtblau -->
+                </bibl>
+                <bibl xml:id="W915">
+                    <author key="A359">Rocha, José Victor</author>
+                    <title>Un drama de la vida</title>
+                    <note type="subgenre_lithist" source="#Lichtblau">a complex but insipid plot
+                        around a young man's struggle to save his sister's honor</note>
+                    <bibl type="source"><ptr target="#Lichtblau"/></bibl>
+                    <!-- Resumen en Lichtblau -->
+                </bibl>
+                <bibl xml:id="W916">
+                    <author key="A360">Rodriguez Alcala, José</author>
+                    <title>Ignacia</title>
+                    <bibl type="source"><ptr target="#Lichtblau"/></bibl>
+                </bibl>
+                <bibl xml:id="W917">
+                    <author key="A361">Romano, Manuel</author>
+                    <title>El isleño</title>
+                    <term type="subgenre_title">episodio de la guerra de independencia</term>
+                    <bibl type="source"><ptr target="#Lichtblau"/></bibl>
+                    <note type="subgenre_lithist" source="#Lichtblau">one of the early Argentine novels 
+                    portraying the gaucho sympathetically</note>
+                    <!-- Resumen en Lichtblau -->
+                </bibl>
+                <bibl xml:id="W918">
+                    <author key="A362">Rosas de Rivera, Mercedes</author>
+                    <title>María de Montiel</title>
+                    <bibl type="source"><ptr target="#Lichtblau"/></bibl>
+                    <!-- Resumen en Lichtblau -->
+                    <ref>https://books.google.de/books?id=N3ivqgrvmyoC</ref>
+                </bibl>
             </listBibl>
         </body>
     </text>

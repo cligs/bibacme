@@ -194,19 +194,6 @@
                     <author key="A13">Castrejón, Eduardo A.</author>
                     <title>Los Cuarenta y Uno</title>
                 </bibl>
-                <bibl xml:id="W120">
-                    <author key="A26">Frías, Heriberto</author>
-                    <title>¡Tomochic!</title>
-                    <idno type="cligs">nh0022</idno>
-                </bibl>
-                <bibl xml:id="W121">
-                    <author key="A26">Frías, Heriberto</author>
-                    <title>El último duelo</title>
-                </bibl>
-                <bibl xml:id="W122">
-                    <author key="A26">Frías, Heriberto</author>
-                    <title>El amor de las sirenas</title>
-                </bibl>
                 <bibl xml:id="W129">
                     <author key="A23">Castillo, Rafael del</author>
                     <title>Doña Consuelo</title>
@@ -219,11 +206,6 @@
                     <author key="A41">Ángulo y Guridi, Alejandro</author>
                     <author key="A42">Blanchié, Francisco J.</author>
                     <title>La venganza de un hijo</title>
-                </bibl>
-                <bibl xml:id="W158">
-                    <author key="A44">Pelliza de Sagasta, Josefina</author>
-                    <title>Margarita</title>
-                    <idno type="cligs">nh0195</idno>
                 </bibl>
                 <bibl xml:id="W159">
                     <author key="A45">Zuñiga, Antonio R.</author>
@@ -382,150 +364,6 @@
                     <author key="A69">Stock, Guillelmo</author>
                     <title>El valor de la vida</title>
                 </bibl>
-                <bibl xml:id="W198">
-                    <author key="A70">Rave, María</author>
-                    <title>Babilonia: memorias del Gran Sacerdote de Ystar, la diosa de la noche y
-                        las estrellas</title>
-                </bibl>
-                <bibl xml:id="W199">
-                    <author key="A71">Reynal O'Connor, Arturo</author>
-                    <title>El monumento</title>
-                </bibl>
-                <bibl xml:id="W200">
-                    <author key="A72">Rivarola, Enrique E.</author>
-                    <title>El arma de Werther</title>
-                </bibl>
-                <bibl xml:id="W201">
-                    <author key="A72">Rivarola, Enrique E.</author>
-                    <title>Mandinga</title>
-                </bibl>
-                <bibl xml:id="W202">
-                    <author key="A72">Rivarola, Enrique E.</author>
-                    <title>Meñique</title>
-                </bibl>
-                <bibl xml:id="W203">
-                    <author key="A73">Rivero, Amaranto T.</author>
-                    <title>Guantes blancos y conciencias negras</title>
-                </bibl>
-                <bibl xml:id="W204">
-                    <author key="A74">Rocha, José Victor</author>
-                    <title>Aurelia</title>
-                </bibl>
-                <bibl xml:id="W205">
-                    <author key="A74">Rocha, José Victor</author>
-                    <title>Un drama de la vida</title>
-                </bibl>
-                <bibl xml:id="W206">
-                    <author key="A75">Rodriguez Alcala, José</author>
-                    <title>Ignacia</title>
-                </bibl>
-                <bibl xml:id="W207">
-                    <author key="A76">Romano, Manuel</author>
-                    <title>El isleño</title>
-                </bibl>
-                <bibl xml:id="W208">
-                    <author key="A77">Rosas de Rivera, Mercedes</author>
-                    <title>María de Montiel</title>
-                </bibl>
-                <bibl xml:id="W210">
-                    <author key="A79">Quesada, Vicente Gregorio</author>
-                    <title>Crimen y expiación</title>
-                </bibl>
-                <bibl xml:id="W211">
-                    <author key="A80">Quiroga, Guillermo</author>
-                    <title>Una sanjuanina, o sea Carolina</title>
-                </bibl>
-                <bibl xml:id="W212">
-                    <author key="A81">Quiroga, Horacio</author>
-                    <title>Historia de un amor turbio</title>
-                </bibl>
-                <bibl xml:id="W213">
-                    <author key="A82">Paterson, Roberto G.</author>
-                    <title>Dueña y señora</title>
-                </bibl>
-                <bibl xml:id="W214">
-                    <author key="A82">Paterson, Roberto G.</author>
-                    <title>Por tu honra</title>
-                </bibl>
-                <bibl xml:id="W215">
-                    <author key="A82">Paterson, Roberto G.</author>
-                    <title>La venganza</title>
-                </bibl>
-                <bibl xml:id="W216">
-                    <author key="A6">Payró, Roberto</author>
-                    <title>Antes que te cases</title>
-                </bibl>
-                <bibl xml:id="W217">
-                    <author key="A6">Payró, Roberto</author>
-                    <title>Antígona</title>
-                </bibl>
-                <bibl xml:id="W218">
-                    <author key="A6">Payró, Roberto</author>
-                    <title>El casamiento de Laucha</title>
-                    <idno type="cligs">nh0003</idno>
-                </bibl>
-                <bibl xml:id="W219">
-                    <author key="A6">Payró, Roberto</author>
-                    <title>Las divertidas aventuras del nieto de Juan Moreira</title>
-                    <idno type="cligs">nh0002</idno>
-                </bibl>
-                <bibl xml:id="W220">
-                    <author key="A6">Payró, Roberto</author>
-                    <title>El falso inca</title>
-                    <idno type="cligs">nh0004</idno>
-                </bibl>
-                <bibl xml:id="W221">
-                    <author key="A83">Paz, Carlos L.</author>
-                    <title>¡Santa y mártir de veinte años!</title>
-                </bibl>
-                <bibl xml:id="W222">
-                    <author key="A84">Pearson, Isaac R.</author>
-                    <title>Las dos venganzas</title>
-                </bibl>
-                <bibl xml:id="W223">
-                    <author key="A84">Pearson, Isaac R.</author>
-                    <title>¡Patria!</title>
-                </bibl>
-                <bibl xml:id="W224">
-                    <author key="A84">Pearson, Isaac R.</author>
-                    <title>El triunfo del siglo</title>
-                </bibl>
-                <!--<bibl xml:id="W225">
-                    <author key="A85">Pelissot, Felisberto</author>
-                    <title>Camila O'Gorman</title>
-                </bibl>-->
-                <bibl xml:id="W225">
-                    <author key="A44">Pelliza de Sagasta, Josefina</author>
-                    <title>El César</title>
-                </bibl>
-                <bibl xml:id="W226">
-                    <author key="A44">Pelliza de Sagasta, Josefina</author>
-                    <title>La chiriguana</title>
-                </bibl>
-                <bibl xml:id="W227">
-                    <author key="A44">Pelliza de Sagasta, Josefina</author>
-                    <title>Palmira, o el héroe de Paysandú</title>
-                </bibl>
-                <bibl xml:id="W228">
-                    <author key="A85">Pérez y Pérez, Manuel</author>
-                    <title>El gobierno Rodriguista</title>
-                </bibl>
-                <bibl xml:id="W229">
-                    <author key="A85">Pérez y Pérez, Manuel</author>
-                    <title>La Revolución Malezalera</title>
-                </bibl>
-                <bibl xml:id="W230">
-                    <author key="A86">Podestá, Gerónimo</author>
-                    <title>La caída de Lucía</title>
-                </bibl>
-                <bibl xml:id="W231">
-                    <author key="A87">Podestá, Manuel T.</author>
-                    <title>Alma de niña</title>
-                </bibl>
-                <bibl xml:id="W232">
-                    <author key="A87">Podestá, Manuel T.</author>
-                    <title>Irresponsable</title>
-                </bibl>
                 <bibl xml:id="W233">
                     <author key="A88">Puebla de Godoy, Rosario</author>
                     <title>La ciudad heroica</title>
@@ -641,18 +479,9 @@
                     <title>Hacia la justicia</title>
                     <idno type="cligs">nh0033</idno>
                 </bibl>
-                <bibl xml:id="W325">
-                    <author key="A26">Frías, Heriberto</author>
-                    <title>Realidades del pueblo</title>
-                    <idno type="cligs">nh0123</idno>
-                </bibl>
                 <bibl xml:id="W341">
                     <author key="A23">Castillo, Rafael del</author>
                     <title>La Carpeta Verde</title>
-                </bibl>
-                <bibl xml:id="W360">
-                    <author key="A6">Payró, Roberto</author>
-                    <title>Pago Chico</title>
                 </bibl>
                 <bibl xml:id="W361">
                     <author key="A131">Auber de Noya, Virginia Felicia</author>

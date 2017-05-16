@@ -73,6 +73,10 @@
                     - González, Lauro: Demófilo y sus hombres a las puertas del desengaño. Novela sui-generis..., 1880 (sólo 
                     se conocen las primeras entregas)
                     - Gutiérrez, Federico: La novela de Alicia. En La Novela Semanal de El Universal Ilustrado (cuándo?)
+                    - Fenochio, Arturo: El cielo de Oaxaca. Novela de costumbres (cuándo?)
+                    - Fernández de Lara, José: Novelas cortas. El sendero del crimen (cuándo?)
+                    - Flores Alatorre, Francisco. Leyendas, apólogos, episodios y novelitas, 1891 (muy cortos)
+                    https://archive.org/details/leyendasaplogos00alatgoog
                 -->
                 <!-- DLC: Fernando Urzáis, "novelas en La Aurora", ps. Úrsulo Fernández
                 - Noda, Tranquilino Sandalio de
@@ -5035,10 +5039,433 @@
                     </persName>
                     <birth>
                         <date when="1863">1863</date>
+                        <placeName>Ciudad de México</placeName>
+                        <placeName>México</placeName>
                     </birth>
                     <idno type="viaf">165474218</idno>
                     <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                </person>
+                <person xml:id="A335">
+                    <persName>
+                        <surname>Gutiérrez de Lara</surname>
+                        <forename>Lázaro</forename>
+                    </persName>
+                    <birth>
+                        <date when="1870">1870</date>
+                        <placeName>Monterrey</placeName>
+                        <placeName>Nuevo León</placeName>
+                        <placeName>México</placeName>
+                    </birth>
+                    <death>
+                        <date when="1918">1918</date>
+                        <placeName>Sáric</placeName>
+                        <placeName>Sonora</placeName>
+                        <placeName>México</placeName>
+                    </death>
+                    <idno type="viaf">51412817</idno>
+                    <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                </person>
+                <person xml:id="A336">
+                    <persName>
+                        <surname>Gutiérrez Nájera</surname>
+                        <forename>Manuel</forename>
+                    </persName>
+                    <birth>
+                        <date when="1859-12-22">22 de diciembre de 1859</date>
+                        <placeName>Ciudad de México</placeName>
+                        <placeName>México</placeName>
+                    </birth>
+                    <death>
+                        <date when="1895-02-03">3 de febrero de 1895</date>
+                        <placeName>Ciudad de México</placeName>
+                        <placeName>México</placeName>
+                    </death>
+                    <idno type="viaf">27095815</idno>
+                    <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                </person>
+                <person xml:id="A337">
+                    <persName>
+                        <surname>Fernández de Lizardi</surname>
+                        <forename>José Joaquín</forename>
+                        <addName type="pseudonym">El Pensador Mexicano</addName>
+                    </persName>
+                    <birth>
+                        <date when="1776">1776</date>
+                        <placeName>Ciudad de México</placeName>
+                        <placeName>México</placeName>
+                    </birth>
+                    <death>
+                        <date when="1827">1827</date>
+                        <placeName>Ciudad de México</placeName>
+                        <placeName>México</placeName>
+                    </death>
+                    <idno type="viaf">59113203</idno>
+                    <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                </person>
+                <person xml:id="A338">
+                    <persName>
+                        <surname>Fernández Serrano</surname>
+                        <forename>Tomás</forename>
+                    </persName>
+                    <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
+                </person>
+                <person xml:id="A339">
+                    <persName>
+                        <surname>Ferrel y Félix</surname>
+                        <forename>José</forename>
+                    </persName>
+                    <persName>
+                        <surname>Franco</surname>
+                        <forename>Ángel</forename>
+                    </persName>
+                    <birth>
+                        <date when="1865-09-16">16 de septiembre de 1865</date>
+                        <placeName>Hermosillo</placeName>
+                        <placeName>Sonora</placeName>
+                        <placeName>México</placeName>
+                    </birth>
+                    <death>
+                        <date when="1954-05-28">28 de mayo de 1954</date>
+                        <placeName>Ciudad de México</placeName>
+                        <placeName>México</placeName>
+                    </death>
+                    <idno type="viaf">210416638</idno>
+                    <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                </person>
+                <person xml:id="A340">
+                    <persName>
+                        <surname>Flores Villar</surname>
+                        <forename>Mariano</forename>
+                    </persName>
+                    <idno type="viaf">233094282</idno>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">mexicana/o</nationality>
+                </person>
+                <person xml:id="A341">
+                    <persName>
+                        <surname>Frías</surname>
+                        <forename>Heriberto</forename>
+                    </persName>
+                    <birth>
+                        <date when="1870">1870</date>
+                        <placeName>Querétaro</placeName>
+                        <placeName>México</placeName>
+                    </birth>
+                    <death>
+                        <date when="1925-11-12">12 de noviembre de 1925</date>
+                        <placeName>Tizapán</placeName>
+                        <placeName>D.F.</placeName>
+                        <placeName>México</placeName>
+                    </death>
+                    <idno type="viaf">56646663</idno>
+                    <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                </person>
+                <person xml:id="A342">
+                    <persName>
+                        <surname>Frías y Soto</surname>
+                        <forename>Hilarión</forename>
+                        <addName type="pseudonym">Safir</addName>
+                    </persName>
+                    <birth>
+                        <date when="1831">1831</date>
+                        <placeName>Querétaro</placeName>
+                        <placeName>Querétaro</placeName>
+                        <placeName>México</placeName>
+                    </birth>
+                    <death>
+                        <date when="1905">1905</date>
+                        <placeName>Ciudad de México</placeName>
+                        <placeName>México</placeName>
+                    </death>
+                    <idno type="viaf">228384147</idno>
+                    <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                </person>
+                <person xml:id="A343">
+                    <persName>
+                        <surname>Fuentes</surname>
+                        <forename>Julio</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">mexicana/o</nationality>
+                </person>
+                <person xml:id="A344">
+                    <persName>
+                        <surname>Paterson</surname>
+                        <forename>Roberto G.</forename>
+                        <addName type="pseudonym">Pater</addName>
+                    </persName>
+                    <birth>
+                        <date when="1875">1875</date>
+                    </birth>
+                    <death>
+                        <date when="1947">1947</date>
+                    </death>
+                    <idno type="viaf">308310804</idno>
+                    <sex>masculino</sex>
+                    <nationality>argentina/o</nationality>
+                </person>
+                <person xml:id="A345">
+                    <persName>
+                        <surname>Payró</surname>
+                        <forename>Roberto</forename>
+                    </persName>
+                    <birth>
+                        <date when="1867-04-19">19 de abril de 1867</date>
+                        <placeName>Mercedes</placeName>
+                        <placeName>Provincia de Buenos Aires</placeName>
+                        <placeName>Argentina</placeName>
+                    </birth>
+                    <death>
+                        <date when="1928-04-05">5 de abril de 1928</date>
+                        <placeName>Lomas de Zamora</placeName>
+                        <placeName>Argentina</placeName>
+                    </death>
+                    <idno type="viaf">17276107</idno>
+                    <sex>masculino</sex>
+                    <nationality>argentina/o</nationality>
+                    <!-- Violines y toneles (cortos, cuentos?) -->
+                </person>
+                <person xml:id="A346">
+                    <persName>
+                        <surname>Paz</surname>
+                        <forename>Carlos Luis</forename>
+                    </persName>
+                    <birth>
+                        <date when="1837">1837</date>
+                    </birth>
+                    <death>
+                        <date when="1874">1847</date>
+                    </death>
+                    <idno type="viaf">100787817</idno>
+                    <sex>masculino</sex>
+                    <nationality>argentina/o</nationality>
+                </person>
+                <person xml:id="A347">
+                    <persName>
+                        <surname>Pearson</surname>
+                        <forename>Isaac R.</forename>
+                    </persName>
+                    <birth>
+                        <date when="1872">1872</date>
+                    </birth>
+                    <death>
+                        <date when="1945">1945</date>
+                    </death>
+                    <idno type="viaf">220987508</idno>
+                    <sex>masculino</sex>
+                    <nationality>argentina/o</nationality>
+                </person>
+                <person xml:id="A348">
+                    <persName>
+                        <surname>Pelliza de Sagasta</surname>
+                        <forename>Josefina</forename>
+                    </persName>
+                    <birth>
+                        <date when="1844-04-04">4 de abril de 1844</date>
+                        <placeName>Concordia</placeName>
+                        <placeName>Argentina</placeName>
+                    </birth>
+                    <death>
+                        <date when="1888-08-18">18 de agosto de 1888</date>
+                        <placeName>Buenos Aires</placeName>
+                        <placeName>Argentina</placeName>
+                    </death>
+                    <idno type="viaf">278145856973322920819</idno>
+                    <sex>femenino</sex>
+                    <nationality>argentina/o</nationality>
+                </person>
+                <person xml:id="A349">
+                    <persName>
+                        <surname>Pérez y Pérez</surname>
+                        <forename>Manuel</forename>
+                    </persName>
+                    <birth>
+                        <date when="1862">1862</date>
+                        <placeName>España</placeName>
+                    </birth>
+                    <sex>masculino</sex>
+                    <nationality>español/a</nationality>
+                </person>
+                <person xml:id="A350">
+                    <persName>
+                        <surname>Podestá</surname>
+                        <forename>Gerónimo</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality cert="low">argentina/o</nationality>
+                </person>
+                <person xml:id="A351">
+                    <persName>
+                        <surname>Podestá</surname>
+                        <forename>Manuel Tomás</forename>
+                    </persName>
+                    <birth>
+                        <date when="1853">1853</date>
+                    </birth>
+                    <death>
+                        <date when="1920">1920</date>
+                    </death>
+                    <idno type="viaf">6600590</idno>
+                    <sex>masculino</sex>
+                    <nationality cert="low">argentina/o</nationality>
+                </person>
+                <person xml:id="A352">
+                    <persName>
+                        <surname>Quesada</surname>
+                        <forename>Vicente Gregorio</forename><!-- Gaspar? -->
+                    </persName>
+                    <birth>
+                        <date when="1830-04-05">5 de abril de 1830</date>
+                        <placeName>Buenos Aires</placeName>
+                        <placeName>Argentina</placeName>
+                    </birth>
+                    <death>
+                        <date when="1913-09-19">19 de septiembre de 1913</date>
+                        <placeName>Buenos Aires</placeName>
+                        <placeName>Argentina</placeName>
+                    </death>
+                    <idno type="viaf">89363593</idno>
+                    <sex>masculino</sex>
+                    <nationality>argentina/o</nationality>
+                </person>
+                <person xml:id="A353">
+                    <persName>
+                        <surname>Quiroga</surname>
+                        <forename>Guillermo</forename>
+                    </persName>
+                    <idno type="viaf">582145856974122920850</idno>
+                    <sex>masculino</sex>
+                    <nationality cert="low">argentina/o</nationality>
+                </person>
+                <person xml:id="A354">
+                    <persName>
+                        <surname>Quiroga</surname>
+                        <forename>Horacio</forename>
+                    </persName>
+                    <birth>
+                        <date when="1878-12-31">31 de diciembre de 1878</date>
+                        <placeName>Salto</placeName>
+                        <placeName>Uruguay</placeName>
+                    </birth>
+                    <death>
+                        <date when="1937-02-19">19 de febrero de 1937</date>
+                        <placeName>Buenos Aires</placeName>
+                        <placeName>Argentina</placeName>
+                    </death>
+                    <idno type="viaf">19689428</idno>
+                    <sex>masculino</sex>
+                    <nationality>uruguaya/o</nationality>
+                </person>
+                <person xml:id="A355">
+                    <persName>
+                        <surname>Rave</surname>
+                        <forename>María</forename>
+                    </persName>
+                    <sex>femenino</sex>
+                    <nationality cert="low">argentina/o</nationality>
+                </person>
+                <person xml:id="A356">
+                    <persName>
+                        <surname>Reynal O'Connor</surname>
+                        <forename>Arturo</forename>
+                    </persName>
+                    <birth>
+                        <date when="1854">1854</date>
+                    </birth>
+                    <death>
+                        <date when="1920">1920</date>
+                    </death>
+                    <idno type="viaf">179145856859822920275</idno>
+                    <sex>masculino</sex>
+                    <nationality cert="low">argentina/o</nationality>
+                </person>
+                <person xml:id="A357">
+                    <persName>
+                        <surname>Rivarola</surname>
+                        <forename>Enrique E.</forename>
+                    </persName>
+                    <birth>
+                        <date when="1862">1862</date>
+                    </birth>
+                    <death>
+                        <date when="1931">1931</date>
+                    </death>
+                    <idno type="viaf">38853622</idno>
+                    <sex>masculino</sex>
+                    <nationality>argentina/o</nationality>
+                </person>
+                <person xml:id="A358">
+                    <persName>
+                        <surname>Rivero</surname>
+                        <forename>Amaranto T.</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality cert="low">argentina/o</nationality>
+                </person>
+                <person xml:id="A359">
+                    <persName>
+                        <surname>Rocha</surname>
+                        <forename>José Victor</forename>
+                    </persName>
+                    <birth>
+                        <date when="1840">1840</date>
+                    </birth>
+                    <death>
+                        <date when="1898">1898</date>
+                    </death>
+                    <sex>masculino</sex>
+                    <nationality cert="low">argentina/o</nationality>
+                </person>
+                <person xml:id="A360">
+                    <persName>
+                        <surname>Rodríguez Alcalá</surname>
+                        <forename>José</forename>
+                    </persName>
+                    <birth>
+                        <date when="1883">1883</date>
+                        <placeName>Carmen de Patagones</placeName>
+                        <placeName>Argentina</placeName>
+                    </birth>
+                    <death>
+                        <date when="1959">1959</date>
+                        <placeName>Asunción</placeName>
+                        <placeName>Paraguay</placeName>
+                    </death>
+                    <idno type="viaf">21075236</idno>
+                    <sex>masculino</sex>
+                    <nationality>argentina/o</nationality>
+                </person>
+                <person xml:id="A361">
+                    <persName>
+                        <surname>Romano</surname>
+                        <forename>Manuel</forename>
+                    </persName>
+                    <birth>
+                        <date when="1825">1825</date>
+                    </birth>
+                    <death>
+                        <date when="1878">1878</date>
+                    </death>
+                    <sex>masculino</sex>
+                    <nationality cert="low">argentina/o</nationality>
+                </person>
+                <person xml:id="A362">
+                    <persName>
+                        <surname>Rosas de Rivera</surname>
+                        <forename>Mercedes</forename>
+                        <addName type="pseudonym">M. Sasor</addName>
+                    </persName>
+                    <idno type="viaf">170432280</idno>
+                    <sex>femenino</sex>
+                    <nationality cert="low">argentina/o</nationality>
                 </person>
             </listPerson>
         </body>
