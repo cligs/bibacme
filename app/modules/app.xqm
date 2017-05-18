@@ -576,14 +576,14 @@ declare function app:obras-por-ano(){
         "containerId" := "ChartObras_5",
         "xaxis-title" := "año",
         "yaxis-title" := "número de obras",
-        "y_range" := 20
+        "y_range" := 40
     }
     let $data := map {
         "x" := (1830 to 1910),
         "y" := $num-editions
     }
     return 
-    (<div id="ChartObras_5" style="width:900px;height:400px;margin: 0 auto;"></div>,
+    (<div id="ChartObras_5" style="width:900px;height:500px;margin: 0 auto;"></div>,
         overviews:bar-chart($params, $data)),
         
     (: number of works per year (by first edition & argentine authors):)
@@ -600,14 +600,14 @@ declare function app:obras-por-ano(){
         "xaxis-title" := "año",
         "yaxis-title" := "número de obras",
         "color" := "light blue",
-        "y_range" := 20
+        "y_range" := 40
     }
     let $data := map {
         "x" := (1830 to 1910),
         "y" := $num-editions
     }
     return 
-    (<div id="ChartObras_6" style="width:900px;height:400px;margin: 0 auto;"></div>,
+    (<div id="ChartObras_6" style="width:900px;height:500px;margin: 0 auto;"></div>,
         overviews:bar-chart($params, $data)),
         
     (: number of works per year (by first edition & cuban authors):)
@@ -624,7 +624,7 @@ declare function app:obras-por-ano(){
         "xaxis-title" := "año",
         "yaxis-title" := "número de obras",
         "color" := "#CC0000",
-        "y_range" := 20
+        "y_range" := 40
     }
     let $data := map {
         "x" := (1830 to 1910),
@@ -648,14 +648,14 @@ declare function app:obras-por-ano(){
         "xaxis-title" := "año",
         "yaxis-title" := "número de obras",
         "color" := "#006633",
-        "y_range" := 20
+        "y_range" := 40
     }
     let $data := map {
         "x" := (1830 to 1910),
         "y" := $num-editions
     }
     return 
-    (<div id="ChartObras_8" style="width:900px;height:400px;margin: 0 auto;"></div>,
+    (<div id="ChartObras_8" style="width:900px;height:500px;margin: 0 auto;"></div>,
         overviews:bar-chart($params, $data))
     )
 };
@@ -678,7 +678,7 @@ declare function app:obras-por-autor(){
         "legend-name" := "autores"
     }
     return
-    (<div id="ChartObras_4" style="width:900px;height:600px;margin: 0 auto;"></div>,
+    (<div id="ChartObras_4" style="width:900px;height:500px;margin: 0 auto;"></div>,
         overviews:histogram($params, $data)))
 };
 

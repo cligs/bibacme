@@ -19285,6 +19285,1802 @@
                         </imprint>
                     </monogr>
                 </biblStruct>
+                <biblStruct corresp="W919" xml:id="E1276">
+                    <monogr>
+                        <author key="A363">López, Jesús José</author>
+                        <title level="m" type="main">La leyenda de amor</title>
+                        <title level="m" type="main">Novela</title>
+                        <imprint>
+                            <publisher>Imprenta El Pilar</publisher>
+                            <pubPlace corresp="CU">La Habana</pubPlace>
+                            <date when="1910">1910</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W920" xml:id="E1277">
+                    <monogr>
+                        <author key="A364">López de Briñas, Felipe</author>
+                        <title level="m" type="main">La cruz del misionero</title>
+                        <title level="m" type="main">Tradición cubana</title>
+                        <imprint>
+                            <publisher>Tipografía de D. V. de Torres</publisher>
+                            <pubPlace corresp="CU">La Habana</pubPlace>
+                            <date when="1847">1847</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W921" xml:id="E1278">
+                    <monogr>
+                        <author key="A365">Lozano Casado, Miguel</author>
+                        <title level="m" type="main">Covadonga</title>
+                        <title level="m" type="main">Impresiones de un enfermo</title>
+                        <imprint>
+                            <publisher>Imprenta P. Fernández</publisher>
+                            <pubPlace corresp="CU">La Habana</pubPlace>
+                            <date when="1907">1907</date>
+                        </imprint>
+                        <extent>42 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W922" xml:id="E1279">
+                    <monogr>
+                        <author key="A366">Jústiz y del Valle, Tomás de</author>
+                        <title level="m" type="main">Carcajadas y sollozos</title>
+                        <imprint>
+                            <publisher>Imprenta El Trabajo, de Narciso López</publisher>
+                            <pubPlace corresp="CU">La Habana</pubPlace>
+                            <date when="1906">1906</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W923" xml:id="E1280">
+                    <monogr>
+                        <author key="A367">Iglesia, Álvaro de la</author>
+                        <title level="m" type="main">Adoración</title>
+                        <title level="m" type="sub">Novela original</title>
+                        <imprint>
+                            <publisher>Imprenta La Propaganda</publisher>
+                            <pubPlace corresp="CU">Matanzas</pubPlace>
+                            <date when="1894">1894</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W923" xml:id="E1281">
+                    <monogr>
+                        <author key="A367">Iglesia, Álvaro de la</author>
+                        <title level="m" type="main">Adoración</title>
+                        <title level="m" type="sub">Novela original</title>
+                        <edition>Segunda edición</edition>
+                        <imprint>
+                            <publisher>Tipografía Los Niños Huérfanos</publisher>
+                            <pubPlace corresp="CU">La Habana</pubPlace>
+                            <date when="1901">1901</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W924" xml:id="E1282">
+                    <monogr>
+                        <author key="A367">Iglesia, Álvaro de la</author>
+                        <title level="m" type="main">Manuel García</title>
+                        <title level="m" type="sub">(el rey de los campos de Cuba)</title>
+                        <title level="m" type="sub">Su vida y sus hechos</title>
+                        <imprint>
+                            <publisher>Imprenta La Comercial</publisher>
+                            <pubPlace corresp="CU">La Habana</pubPlace>
+                            <date when="1895">1895</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W924" xml:id="E1283">
+                    <monogr>
+                        <author key="A367">Iglesia, Álvaro de la</author>
+                        <title level="m" type="main">Manuel García, rey de los campos de
+                            Cuba</title>
+                        <title level="m" type="sub">Vida de este famoso bandido desde su infancia
+                            hasta su muerte</title>
+                        <imprint>
+                            <publisher>Imprenta La Moderna Poesía</publisher>
+                            <pubPlace corresp="CU">La Habana</pubPlace>
+                            <date when="1896">1896</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W925" xml:id="E1284">
+                    <monogr>
+                        <author key="A367">Iglesia, Álvaro de la</author>
+                        <title level="m" type="main">La alondra</title>
+                        <title level="m" type="sub">(El secreto de Estrovo)</title>
+                        <title level="m" type="sub">Novela original</title>
+                        <imprint>
+                            <publisher>Biblioteca de Follas Novas</publisher>
+                            <pubPlace corresp="CU">La Habana</pubPlace>
+                            <date when="1897">1897</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W926" xml:id="E1285">
+                    <monogr>
+                        <author key="A367">Iglesia, Álvaro de la</author>
+                        <title level="m" type="main">Amalia Bastista; o, El último danzón</title>
+                        <title level="m" type="sub">Novela cubana</title>
+                        <imprint>
+                            <publisher>Imprenta La Universal</publisher>
+                            <pubPlace corresp="CU">La Habana</pubPlace>
+                            <date when="1900">1900</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W927" xml:id="E1286">
+                    <monogr>
+                        <author key="A367">Iglesia, Álvaro de la</author>
+                        <title level="m" type="main">Una boda sangrienta; o, El fantasma de San
+                            Lázaro</title>
+                        <title level="m" type="sub">Novela cubana</title>
+                        <imprint>
+                            <publisher>Imprenta La Universal</publisher>
+                            <pubPlace corresp="CU">La Habana</pubPlace>
+                            <date when="1900">1900</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W927" xml:id="E1287">
+                    <monogr>
+                        <author key="A367">Iglesia, Álvaro de la</author>
+                        <title level="m" type="main">Una boda sangrienta; o, El fantasma de San
+                            Lázaro</title>
+                        <title level="m" type="sub">Novela cubana</title>
+                        <edition>Segunda edición</edition>
+                        <imprint>
+                            <publisher>Edición de El Mundo</publisher>
+                            <pubPlace corresp="CU">La Habana</pubPlace>
+                            <date when="1901">1901</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W928" xml:id="E1288">
+                    <monogr>
+                        <author key="A367">Iglesia, Álvaro de la</author>
+                        <title level="m" type="main">De Navidad</title>
+                        <title level="m" type="sub">Historia de un billete premiado</title>
+                        <imprint>
+                            <publisher>Imprenta La Universal</publisher>
+                            <pubPlace corresp="CU">La Habana</pubPlace>
+                            <date when="1900">1900</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W929" xml:id="E1289">
+                    <monogr>
+                        <author key="A367">Iglesia, Álvaro de la</author>
+                        <title level="m" type="main">La bruja de Atarés; o, Los bandidos de La Habana</title>
+                        <title level="m" type="sub">Novela cubana</title>
+                        <imprint>
+                            <publisher>Imprenta La Moderna Poesía</publisher>
+                            <pubPlace corresp="CU">La Habana</pubPlace>
+                            <date when="1901">1901</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W930" xml:id="E1290">
+                    <monogr>
+                        <author key="A367">Iglesia, Álvaro de la</author>
+                        <title level="m" type="main">Pepe Antonio</title>
+                        <edition>Pról. de Manuel Sanguily</edition>
+                        <imprint>
+                            <publisher>Biblioteca Selecta de El Mundo</publisher>
+                            <pubPlace corresp="CU">La Habana</pubPlace>
+                            <date when="1903">1903</date>
+                        </imprint>
+                        <extent>2 tomos</extent>
+                    </monogr>
+                    <series>
+                        <title level="s" type="main">Episodios cubanos</title>
+                    </series>
+                </biblStruct>
+                <biblStruct corresp="W931" xml:id="E1291">
+                    <monogr>
+                        <author key="A367">Iglesia, Álvaro de la</author>
+                        <title level="m" type="main">La factoría y la trata</title>
+                        <imprint>
+                            <publisher>Imprenta Avisador Comercial</publisher>
+                            <pubPlace corresp="CU">La Habana</pubPlace>
+                            <date when="1906">1906</date>
+                        </imprint>
+                    </monogr>
+                    <series>
+                        <title level="s" type="main">Episodios cubanos</title>
+                        <biblScope unit="volume">II</biblScope>
+                    </series>
+                </biblStruct>
+                <biblStruct corresp="W932" xml:id="E1292">
+                    <monogr>
+                        <author key="A368">Heredia, Nicolás</author>
+                        <title level="m" type="main">Un hombre de negocios</title>
+                        <title level="m" type="sub">Novela premiada en los Juegos Florales celebrados
+                        en el Liceo de Matanzas el 4 de noviembre de 1882</title>
+                        <imprint>
+                            <publisher>Imprenta La Nacional</publisher>
+                            <pubPlace corresp="CU">Matanzas</pubPlace>
+                            <date when="1882">1882</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W932" xml:id="E1293">
+                    <monogr>
+                        <author key="A368">Heredia, Nicolás</author>
+                        <title level="m" type="main">Un hombre de negocios</title>
+                        <title level="m" type="sub">Novela premiada en los Juegos Florales celebrados
+                            en el Liceo de Matanzas el 4 de noviembre de 1882</title>
+                        <edition>Segunda edición</edition>
+                        <imprint>
+                            <publisher>Imprenta La Nacional</publisher>
+                            <pubPlace corresp="CU">Matanzas</pubPlace>
+                            <date when="1883">1883</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W933" xml:id="E1294">
+                    <monogr>
+                        <author key="A368">Heredia, Nicolás</author>
+                        <title level="m" type="main">Leonela</title>
+                        <title level="m" type="sub">Narración cubana</title>
+                        <imprint>
+                            <publisher>Imprenta La Moderna</publisher>
+                            <pubPlace corresp="CU">La Habana</pubPlace>
+                            <date when="1893">1893</date>
+                        </imprint>
+                    </monogr>
+                    <ref>https://archive.org/details/leonelanarracin00heregoog</ref>
+                    <ref>http://bdh.bne.es/bnesearch/detalle/bdh0000105119</ref>
+                </biblStruct>
+                <biblStruct corresp="W934" xml:id="E1295">
+                    <analytic>
+                        <author key="A369">Paula Gelabert, Francisco de</author>
+                        <title type="main" level="a">María Luisa</title>
+                        <title type="sub" level="a">Novela</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j" type="main">El Alba</title>
+                        <imprint>
+                            <pubPlace corresp="CU">La Habana</pubPlace>
+                            <date when="1859">1859</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W935" xml:id="E1296">
+                    <analytic>
+                        <author key="A369">Paula Gelabert, Francisco de</author>
+                        <title type="main" level="a">Un secreto y un secretario</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j" type="main">El Siglo</title>
+                        <imprint>
+                            <pubPlace corresp="CU">La Habana</pubPlace>
+                            <date from="1867" to="1868">1867-1868</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W936" xml:id="E1297">
+                    <monogr>
+                        <author key="A370">Gómez de Avellaneda, Gertrudis</author>
+                        <title level="m" type="main">Sab</title>
+                        <title level="m" type="sub">Novela orijinal</title>
+                        <imprint>
+                            <publisher>Imp. calle del Barco num. 26</publisher>
+                            <pubPlace corresp="ES">Madrid</pubPlace>
+                            <date when="1841">1841</date>
+                        </imprint>
+                        <extent>2 volúmenes</extent>
+                    </monogr>
+                    <ref>http://www.cervantesvirtual.com/obra/sab--0/</ref>
+                </biblStruct>
+                <biblStruct corresp="W937" xml:id="E1298">
+                    <monogr>
+                        <author key="A370">Gómez de Avellaneda, Gertrudis</author>
+                        <title level="m" type="main">Dos mugeres</title>
+                        <imprint>
+                            <publisher>Gabinete Literario</publisher>
+                            <pubPlace corresp="ES">Madrid</pubPlace>
+                            <date from="1842" to="1843">1842-1843</date>
+                        </imprint>
+                        <extent>4 tomos</extent>
+                    </monogr>
+                    <ref>http://www.cervantesvirtual.com/obra/dos-mujeres-tomo-i--0/</ref>
+                    <ref>http://www.cervantesvirtual.com/obra/dos-mujerestomo-ii--0/</ref>
+                    <ref>http://www.cervantesvirtual.com/obra/dos-mujeres-tomo-iii--0/</ref>
+                    <ref>http://www.cervantesvirtual.com/obra/dos-mujeres-tomo-iv--0/</ref>
+                </biblStruct>
+                <biblStruct corresp="W938" xml:id="E1299">
+                    <monogr>
+                        <author key="A370">Gómez de Avellaneda, Gertrudis</author>
+                        <title level="m" type="main">La baronesa de Joux</title>
+                        <title level="m" type="sub">Novela original</title>
+                        <imprint>
+                            <publisher>Imprenta de <seg rend="italic">La Prensa</seg>
+                            </publisher>
+                            <pubPlace corresp="CU">La Habana</pubPlace>
+                            <date when="1844">1844</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W938" xml:id="E1300">
+                    <analytic>
+                        <author key="A370">Gómez de Avellaneda, Gertrudis</author>
+                        <title level="a" type="main">La baronesa de Joux</title>
+                        <title level="a" type="sub">Leyenda fundada en una tradición francesa</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Obras literarias de la Señora Doña Gertrudis Gómez 
+                        de Avellaneda</title>
+                        <title level="m" type="sub">Colección completa</title>
+                        <imprint>
+                            <publisher>Imprenta y Estereotipia de M. Rivadeneyra</publisher>
+                            <pubPlace corresp="ES">Madrid</pubPlace>
+                            <date when="1871">1871</date>
+                            <biblScope unit="volume">Tomo 5 b: Novelas y leyendas</biblScope>
+                            <biblScope unit="page">p. 183-226</biblScope>
+                        </imprint>
+                    </monogr>
+                    <ref>http://www.cervantesvirtual.com/obra/la-baronesa-de-joux-leyenda-fundada-en-una-tradicion-francesa--0/</ref>
+                </biblStruct>
+                <biblStruct corresp="W938" xml:id="E1330">
+                    <analytic>
+                        <author key="A370">Gómez de Avellaneda, Gertrudis</author>
+                        <title level="a" type="main">La baronesa de Joux</title>
+                        <title level="a" type="sub">Leyenda fundada en una tradición francesa</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Leyendas, novelas y artículos literarios</title>
+                        <title level="m" type="sub">Escritos por la señora Doña Gertrudis Gómez de Avellaneda</title>
+                        <imprint>
+                            <publisher>Librería de Leocadio López, editor</publisher>
+                            <pubPlace corresp="ES">Madrid</pubPlace>
+                            <date when="1877">1877</date>
+                            <biblScope unit="volume">II</biblScope>
+                            <biblScope unit="page">p. 183-226</biblScope>
+                        </imprint>
+                        <extent>438 p.</extent>
+                    </monogr>
+                    <ref>https://archive.org/details/leyendasnovelasy02gmuoft</ref>
+                </biblStruct>
+                <biblStruct corresp="W939" xml:id="E1301">
+                    <monogr>
+                        <author key="A370">Gómez de Avellaneda, Gertrudis</author>
+                        <title level="m" type="main">Espatolino</title>
+                        <title level="m" type="sub">Novela original</title>
+                        <imprint>
+                            <publisher>Imprenta de <seg rend="italic">La Prensa</seg>
+                            </publisher>
+                            <pubPlace corresp="CU">La Habana</pubPlace>
+                            <date when="1844">1844</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W939" xml:id="E1302">
+                    <monogr>
+                        <author key="A370">Gómez de Avellaneda, Gertrudis</author>
+                        <title level="m" type="main">Espatolino</title>
+                        <title level="m" type="sub">Novela original</title>
+                        <imprint>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1856">1856</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W939" xml:id="E1303">
+                    <monogr>
+                        <author key="A370">Gómez de Avellaneda, Gertrudis</author>
+                        <title level="m" type="main">Espatolino</title>
+                        <title level="m" type="sub">Novela original</title>
+                        <imprint>
+                            <publisher>Imprenta de Luis García</publisher>
+                            <pubPlace corresp="ES">Madrid</pubPlace>
+                            <date when="1858">1858</date>
+                        </imprint>
+                    </monogr>
+                    <ref>http://www.cervantesvirtual.com/obra/espatolino--0/</ref>
+                </biblStruct>
+                <biblStruct corresp="W939" xml:id="E1304">
+                    <analytic>
+                        <author key="A370">Gómez de Avellaneda, Gertrudis</author>
+                        <title level="a" type="main">Espatolino</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Obras literarias de la Señora Doña Gertrudis
+                        Gómez de Avellaneda</title>
+                        <title level="m" type="sub">Colección completa</title>
+                        <imprint>
+                            <publisher>Imprenta y Estereotipia de M. Rivadeneyra</publisher>
+                            <pubPlace corresp="ES">Madrid</pubPlace>
+                            <date when="1870">1870</date>
+                            <biblScope unit="volume">Tomo 4 b: Novelas y leyendas</biblScope>
+                            <biblScope unit="page">p. 215-364</biblScope>
+                        </imprint>
+                    </monogr>
+                    <ref>http://www.cervantesvirtual.com/obra/espatolino--1/</ref>
+                </biblStruct>
+                <biblStruct corresp="W939" xml:id="E1325">
+                    <analytic>
+                        <author key="A370">Gómez de Avellaneda, Gertrudis</author>
+                        <title level="a" type="main">Espatolino</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Leyendas, novelas y artículos literarios</title>
+                        <title level="m" type="sub">Escritos por la señora Doña Gertrudis Gómez de Avellaneda</title>
+                        <imprint>
+                            <publisher>Librería de Leocadio López, editor</publisher>
+                            <pubPlace corresp="ES">Madrid</pubPlace>
+                            <date when="1877">1877</date>
+                            <biblScope unit="volume">I</biblScope>
+                            <biblScope unit="page">p. 217-364</biblScope>
+                        </imprint>
+                        <extent>454 p.</extent>
+                    </monogr>
+                    <ref>https://archive.org/details/leyendasnovelasy01gmuoft</ref>
+                </biblStruct>
+                <biblStruct corresp="W940" xml:id="E1305">
+                    <monogr>
+                        <author key="A370">Gómez de Avellaneda, Gertrudis</author>
+                        <title level="m" type="main">Guatimozín, último emperador de Méjico</title>
+                        <title level="m" type="sub">Novela histórica</title>
+                        <imprint>
+                            <publisher>Imprenta de A. Espinosa</publisher>
+                            <pubPlace corresp="ES">Madrid</pubPlace>
+                            <date when="1846">1846</date>
+                        </imprint>
+                        <extent>4 volúmenes en dos</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W940" xml:id="E1306">
+                    <monogr>
+                        <author key="A370">Gómez de Avellaneda, Gertrudis</author>
+                        <title level="m" type="main">Guatimozín, último emperador de Méjico</title>
+                        <title level="m" type="sub">Novela histórica</title>
+                        <imprint>
+                            <publisher>Imprenta del Mercurio</publisher>
+                            <pubPlace corresp="CH">Valparaíso</pubPlace>
+                            <date when="1847">1847</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W940" xml:id="E1307">
+                    <monogr>
+                        <author key="A370">Gómez de Avellaneda, Gertrudis</author>
+                        <title level="m" type="main">Guatimozín, último emperador de Méjico</title>
+                        <title level="m" type="sub">Novela histórica</title>
+                        <imprint>
+                            <publisher>Imprenta de J. R. Navarro</publisher>
+                            <pubPlace corresp="MX">Méjico</pubPlace>
+                            <date when="1853">1853</date>
+                        </imprint>
+                    </monogr>
+                    <ref>http://www.cervantesvirtual.com/obra/guatimozin-ultimo-emperador-de-mejico-novela-historica--0/</ref>
+                </biblStruct>
+                <biblStruct corresp="W940" xml:id="E1308">
+                    <monogr>
+                        <author key="A370">Gómez de Avellaneda, Gertrudis</author>
+                        <title level="m" type="main">Guatimozín, último emperador de Méjico</title>
+                        <title level="m" type="sub">Novela histórica</title>
+                        <imprint>
+                            <publisher>P. Mata</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1887">1887</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W941" xml:id="E1309">
+                    <monogr>
+                        <author key="A370">Gómez de Avellaneda, Gertrudis</author>
+                        <title level="m" type="main">Dolores</title>
+                        <title level="m" type="sub">Novela histórica</title>
+                        <imprint>
+                            <publisher>Imprenta de V. G. Torres</publisher>
+                            <pubPlace corresp="MX">Méjico</pubPlace>
+                            <date when="1851">1851</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W941" xml:id="E1310">
+                    <monogr>
+                        <author key="A370">Gómez de Avellaneda, Gertrudis</author>
+                        <title level="m" type="main">Dolores</title>
+                        <title level="m" type="sub">Páginas de una crónica de familia</title>
+                        <imprint>
+                            <publisher>Imprenta del Diario de La Marina</publisher>
+                            <pubPlace corresp="CU">La Habana</pubPlace>
+                            <date when="1860">1860</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W941" xml:id="E1311">
+                    <analytic>
+                        <author key="A370">Gómez de Avellaneda, Gertrudis</author>
+                        <title level="a" type="main">Dolores</title>
+                        <title level="m" type="sub">Páginas de una crónica de familia</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Obras literarias de la Señora Doña Gertrudis
+                            Gómez de Avellaneda</title>
+                        <title level="m" type="sub">Colección completa</title>
+                        <imprint>
+                            <publisher>Imprenta y Estereotipia de M. Rivadeneyra</publisher>
+                            <pubPlace corresp="ES">Madrid</pubPlace>
+                            <date when="1870">1870</date>
+                            <biblScope unit="volume">Tomo 4 b: Novelas y leyendas</biblScope>
+                            <biblScope unit="page">p. 365-437</biblScope>
+                        </imprint>
+                    </monogr>
+                    <ref>http://www.cervantesvirtual.com/obra/dolores-pagina-de-una-cronica-de-familia--0/</ref>
+                </biblStruct>
+                <biblStruct corresp="W941" xml:id="E1324">
+                    <analytic>
+                        <author key="A370">Gómez de Avellaneda, Gertrudis</author>
+                        <title level="a" type="main">Dolores</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Leyendas, novelas y artículos literarios</title>
+                        <title level="m" type="sub">Escritos por la señora Doña Gertrudis Gómez de Avellaneda</title>
+                        <imprint>
+                            <publisher>Librería de Leocadio López, editor</publisher>
+                            <pubPlace corresp="ES">Madrid</pubPlace>
+                            <date when="1877">1877</date>
+                            <biblScope unit="volume">I</biblScope>
+                            <biblScope unit="page">p. 369-437</biblScope>
+                        </imprint>
+                        <extent>454 p.</extent>
+                    </monogr>
+                    <ref>https://archive.org/details/leyendasnovelasy01gmuoft</ref>
+                </biblStruct>
+                <biblStruct corresp="W942" xml:id="E1312">
+                    <monogr>
+                        <author key="A370">Gómez de Avellaneda, Gertrudis</author>
+                        <title level="m" type="main">La mano de Dios</title>
+                        <title level="m" type="sub">Novela</title>
+                        <imprint>
+                            <publisher>Imprenta del Gobierno por S. M.</publisher>
+                            <pubPlace corresp="CU">Matanzas</pubPlace>
+                            <date when="1853">1853</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W943" xml:id="E1313">
+                    <monogr>
+                        <author key="A370">Gómez de Avellaneda, Gertrudis</author>
+                        <title level="m" type="main">La flor del ángel</title>
+                        <title level="m" type="sub">(Tradición guipuzcoana)</title>
+                        <imprint>
+                            <publisher>A. M. Dávila</publisher>
+                            <pubPlace corresp="CU">Matanzas</pubPlace>
+                            <date when="1857">1857</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W943" xml:id="E1314">
+                    <monogr>
+                        <author key="A370">Gómez de Avellaneda, Gertrudis</author>
+                        <title level="m" type="main">La flor del ángel</title>
+                        <title level="m" type="sub">(Tradición guipuzcoana)</title>
+                        <imprint>
+                            <publisher>Imprenta del Diario de Cienfuegos</publisher>
+                            <pubPlace corresp="CU" cert="low">desconocido</pubPlace>
+                            <date when="1873">1873</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W943" xml:id="E1315">
+                    <analytic>
+                        <author key="A370">Gómez de Avellaneda, Gertrudis</author>
+                        <title level="a" type="main">La flor del ángel</title>
+                        <title level="a" type="sub">(Tradición vascongada)</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Obras literarias de la Señora Doña Gertrudis Gómez 
+                            de Avellaneda</title>
+                        <title level="m" type="sub">Colección completa</title>
+                        <imprint>
+                            <publisher>Imprenta y Estereotipia de M. Rivadeneyra</publisher>
+                            <pubPlace corresp="ES">Madrid</pubPlace>
+                            <date when="1871">1871</date>
+                            <biblScope unit="volume">Tomo 5 b: Novelas y leyendas</biblScope>
+                            <biblScope unit="page">p. 89-112</biblScope>
+                        </imprint>
+                    </monogr>
+                    <ref>http://www.cervantesvirtual.com/obra/la-flor-del-angel-tradicion-vascongada--0/</ref>
+                </biblStruct>
+                <biblStruct corresp="W943" xml:id="E1327">
+                    <analytic>
+                        <author key="A370">Gómez de Avellaneda, Gertrudis</author>
+                        <title level="a" type="main">La flor del ángel</title>
+                        <title level="a" type="sub">(Tradición vascongada)</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Leyendas, novelas y artículos literarios</title>
+                        <title level="m" type="sub">Escritos por la señora Doña Gertrudis Gómez de Avellaneda</title>
+                        <imprint>
+                            <publisher>Librería de Leocadio López, editor</publisher>
+                            <pubPlace corresp="ES">Madrid</pubPlace>
+                            <date when="1877">1877</date>
+                            <biblScope unit="volume">II</biblScope>
+                            <biblScope unit="page">p. 89-111</biblScope>
+                        </imprint>
+                        <extent>438 p.</extent>
+                    </monogr>
+                    <ref>https://archive.org/details/leyendasnovelasy02gmuoft</ref>
+                </biblStruct>
+                <biblStruct corresp="W944" xml:id="E1316">
+                    <monogr>
+                        <author key="A370">Gómez de Avellaneda, Gertrudis</author>
+                        <title level="m" type="main">El artista barquero; o Los cuatro cinco de
+                            junio</title>
+                        <title level="m" type="sub">por la Señora Doña G. G. de Avellaneda</title>
+                        <imprint>
+                            <publisher>Librería e Imp. El Iris</publisher>
+                            <pubPlace corresp="CU">La Habana</pubPlace>
+                            <date when="1861">1861</date>
+                        </imprint>
+                        <extent>en 8° M, 409 (3) p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W944" xml:id="E1317">
+                    <monogr>
+                        <author key="A370">Gómez de Avellaneda, Gertrudis</author>
+                        <title level="m" type="main">El artista barquero; o Los cuatro cinco de
+                            junio</title>
+                        <imprint>
+                            <publisher>Fidel Giró</publisher>
+                            <pubPlace corresp="ES">Barcelona</pubPlace>
+                            <date from="1885" to="1887">1885-1887</date>
+                        </imprint>
+                        <extent>2 volúmenes en 8° M, con 207-161 p.</extent>
+                    </monogr>
+                    <series>
+                        <title level="s">Biblioteca de La Ilustración Cubana</title>
+                    </series>
+                </biblStruct>
+                <biblStruct corresp="W944" xml:id="E1318">
+                    <monogr>
+                        <author key="A370">Gómez de Avellaneda, Gertrudis</author>
+                        <title level="m" type="main">El artista barquero; o Los cuatro cinco de
+                            junio</title>
+                        <imprint>
+                            <publisher>Imprenta El Pilar</publisher>
+                            <pubPlace corresp="CU">La Habana</pubPlace>
+                            <date when="1890">1890</date>
+                        </imprint>
+                        <extent>en 4°, 164 p.</extent>
+                    </monogr>
+                    <series>
+                        <title level="s">Biblioteca Selecta Habanera</title>
+                    </series>
+                </biblStruct>
+                <biblStruct corresp="W944" xml:id="E1319">
+                    <monogr>
+                        <author key="A370">Gómez de Avellaneda, Gertrudis</author>
+                        <title level="m" type="main">El artista barquero; o Los cuatro cinco de
+                            junio</title>
+                        <imprint>
+                            <publisher>Gorgas</publisher>
+                            <pubPlace corresp="ES">Barcelona</pubPlace>
+                            <date>desconocido</date>
+                        </imprint>
+                        <extent>2 volúmenes</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W944" xml:id="E1320">
+                    <analytic>
+                        <author key="A370">Gómez de Avellaneda, Gertrudis</author>
+                        <title level="a" type="main">El artista barquero; o Los cuatro cinco de
+                            junio</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Obras literarias de la Señora Doña Gertrudis
+                            Gómez de Avellaneda</title>
+                        <title level="m" type="sub">Colección completa</title>
+                        <imprint>
+                            <publisher>Imprenta y Estereotipia de M. Rivadeneyra</publisher>
+                            <pubPlace corresp="ES">Madrid</pubPlace>
+                            <date when="1870">1870</date>
+                            <biblScope unit="volume">Tomo 4 b: Novelas y leyendas</biblScope>
+                            <biblScope unit="page">p. 7-214</biblScope>
+                        </imprint>
+                    </monogr>
+                    <ref>http://www.cervantesvirtual.com/obra/el-artista-barquero-o-los-cuatro-cinco-de-junio--0/</ref>
+                </biblStruct>
+                <biblStruct corresp="W944" xml:id="E1321">
+                    <analytic>
+                        <author key="A370">Gómez de Avellaneda, Gertrudis</author>
+                        <title level="a" type="main">El artista barquero; o Los cuatro cinco de
+                            junio</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Leyendas, novelas y artículos literarios</title>
+                        <title level="m" type="sub">Escritos por la señora Doña Gertrudis Gómez de Avellaneda</title>
+                        <imprint>
+                            <publisher>Librería de Leocadio López, editor</publisher>
+                            <pubPlace corresp="ES">Madrid</pubPlace>
+                            <date when="1877">1877</date>
+                            <biblScope unit="volume">I</biblScope>
+                            <biblScope unit="page">p. 7-213</biblScope>
+                        </imprint>
+                        <extent>454 p.</extent>
+                    </monogr>
+                    <ref>https://archive.org/details/leyendasnovelasy01gmuoft</ref>
+                </biblStruct>
+                <!-- Obras literarias. Colección completa. Pról. de Juan Nicasio Gallego. 
+                    «Noticia biográfica», por Nicomedes Pastor Díaz. «Adición a los 
+                    anteriores apuntes», por Enrique Gil. Adición al tomo 5 con artículos 
+                    críticos sobre varias obras de la autora y cartas dirigidas a ella. 
+                    Madrid, Imp. y estereotipia de M. Rivadeneyra, 1869-1871. 5 t. WELCHE WERKE DARIN? -->
+                <biblStruct corresp="W945" xml:id="E1322">
+                    <monogr>
+                        <author key="A370">Gómez de Avellaneda, Gertrudis</author>
+                        <title level="m" type="main">La velada del helecho o El donativo del
+                            diablo</title>
+                        <title level="m" type="sub">Novela</title>
+                        <imprint>
+                            <publisher>Imprenta de las Novedades</publisher>
+                            <pubPlace corresp="ES">Madrid</pubPlace>
+                            <date when="1857">1857</date>
+                        </imprint>
+                    </monogr>
+                    <ref>http://www.cervantesvirtual.com/obra/la-velada-del-helecho-o-el-donativo-del-diablo-novela--0/</ref>
+                </biblStruct>
+                <biblStruct corresp="W945" xml:id="E1323">
+                    <analytic>
+                        <author key="A370">Gómez de Avellaneda, Gertrudis</author>
+                        <title level="a" type="main">La velada del helecho o El donativo del
+                            diablo</title>
+                        <title level="a" type="sub">Leyenda fundada sobre una tradición suiza</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Obras literarias de la Señora Doña Gertrudis Gómez 
+                            de Avellaneda</title>
+                        <title level="m" type="sub">Colección completa</title>
+                        <imprint>
+                            <publisher>Imprenta y Estereotipia de M. Rivadeneyra</publisher>
+                            <pubPlace corresp="ES">Madrid</pubPlace>
+                            <date when="1871">1871</date>
+                            <biblScope unit="volume">Tomo 5 b: Novelas y leyendas</biblScope>
+                            <biblScope unit="page">p. 1-58</biblScope>
+                        </imprint>
+                    </monogr>
+                    <ref>http://www.cervantesvirtual.com/obra/la-velada-del-helecho-o-el-donativo-del-diablo-leyenda-fundada-sobre-una-tradicion-suiza--0/</ref>
+                </biblStruct>
+                <biblStruct corresp="W945" xml:id="E1326">
+                    <analytic>
+                        <author key="A370">Gómez de Avellaneda, Gertrudis</author>
+                        <title level="a" type="main">La velada del helecho o El donativo del
+                            diablo</title>
+                        <title level="a" type="sub">Leyenda fundada sobre una tradición suiza</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Leyendas, novelas y artículos literarios</title>
+                        <title level="m" type="sub">Escritos por la señora Doña Gertrudis Gómez de Avellaneda</title>
+                        <imprint>
+                            <publisher>Librería de Leocadio López, editor</publisher>
+                            <pubPlace corresp="ES">Madrid</pubPlace>
+                            <date when="1877">1877</date>
+                            <biblScope unit="volume">II</biblScope>
+                            <biblScope unit="page">p. 3-57</biblScope>
+                        </imprint>
+                        <extent>438 p.</extent>
+                    </monogr>
+                    <ref>https://archive.org/details/leyendasnovelasy02gmuoft</ref>
+                </biblStruct>
+                <biblStruct corresp="W946" xml:id="E1328">
+                    <analytic>
+                        <author key="A370">Gómez de Avellaneda, Gertrudis</author>
+                        <title level="a" type="main">La ondina del lago azul</title>
+                        <title level="a" type="sub">Recuerdos de mi última excursión por los Pireneos</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Leyendas, novelas y artículos literarios</title>
+                        <title level="m" type="sub">Escritos por la señora Doña Gertrudis Gómez de Avellaneda</title>
+                        <imprint>
+                            <publisher>Librería de Leocadio López, editor</publisher>
+                            <pubPlace corresp="ES">Madrid</pubPlace>
+                            <date when="1877">1877</date>
+                            <biblScope unit="volume">II</biblScope>
+                            <biblScope unit="page">p. 113-145</biblScope>
+                        </imprint>
+                        <extent>438 p.</extent>
+                    </monogr>
+                    <ref>https://archive.org/details/leyendasnovelasy02gmuoft</ref>
+                </biblStruct>
+                <biblStruct corresp="W946" xml:id="E1329">
+                    <analytic>
+                        <author key="A370">Gómez de Avellaneda, Gertrudis</author>
+                        <title level="a" type="main">La ondina del lago azul</title>
+                        <title level="a" type="sub">Recuerdos de mi última excursión por los Pireneos</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Obras literarias de la Señora Doña Gertrudis Gómez 
+                            de Avellaneda</title>
+                        <title level="m" type="sub">Colección completa</title>
+                        <imprint>
+                            <publisher>Imprenta y Estereotipia de M. Rivadeneyra</publisher>
+                            <pubPlace corresp="ES">Madrid</pubPlace>
+                            <date when="1871">1871</date>
+                            <biblScope unit="volume">Tomo 5 b: Novelas y leyendas</biblScope>
+                            <biblScope unit="page">p. 113-146</biblScope>
+                        </imprint>
+                    </monogr>
+                    <ref>http://www.cervantesvirtual.com/obra/la-flor-del-angel-tradicion-vascongada--0/</ref>
+                </biblStruct>
+                <biblStruct corresp="W947" xml:id="E1331">
+                    <analytic>
+                        <author key="A370">Gómez de Avellaneda, Gertrudis</author>
+                        <title level="a" type="main">El cacique de Turmequé</title>
+                        <title level="a" type="sub">Leyenda americana</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Leyendas, novelas y artículos literarios</title>
+                        <title level="m" type="sub">Escritos por la señora Doña Gertrudis Gómez de Avellaneda</title>
+                        <imprint>
+                            <publisher>Librería de Leocadio López, editor</publisher>
+                            <pubPlace corresp="ES">Madrid</pubPlace>
+                            <date when="1877">1877</date>
+                            <biblScope unit="volume">II</biblScope>
+                            <biblScope unit="page">p. 227-281</biblScope>
+                        </imprint>
+                        <extent>438 p.</extent>
+                    </monogr>
+                    <ref>https://archive.org/details/leyendasnovelasy02gmuoft</ref>
+                </biblStruct>
+                <biblStruct corresp="W947" xml:id="E1332">
+                    <analytic>
+                        <author key="A370">Gómez de Avellaneda, Gertrudis</author>
+                        <title level="a" type="main">El cacique de Turmequé</title>
+                        <title level="a" type="sub">Leyenda americana</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Obras literarias de la Señora Doña Gertrudis Gómez 
+                            de Avellaneda</title>
+                        <title level="m" type="sub">Colección completa</title>
+                        <imprint>
+                            <publisher>Imprenta y Estereotipia de M. Rivadeneyra</publisher>
+                            <pubPlace corresp="ES">Madrid</pubPlace>
+                            <date when="1871">1871</date>
+                            <biblScope unit="volume">Tomo 5 b: Novelas y leyendas</biblScope>
+                            <biblScope unit="page">p. 227-282</biblScope>
+                        </imprint>
+                    </monogr>
+                    <ref>http://www.cervantesvirtual.com/obra/la-flor-del-angel-tradicion-vascongada--0/</ref>
+                </biblStruct>
+                <biblStruct corresp="W948" xml:id="E1333">
+                    <monogr>
+                        <author key="A371">González, Manuel Dionisio</author>
+                        <title level="m" type="main">El indio de Cubanacán; o, Las brujas de Peña Blanca</title>
+                        <title level="m" type="sub">Novela histórica</title>
+                        <imprint>
+                            <pubPlace corresp="CU">Villaclara</pubPlace>
+                            <date when="1848">1848</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W948" xml:id="E1334">
+                    <monogr>
+                        <author key="A371">González, Manuel Dionisio</author>
+                        <title level="m" type="main">El indio de Cubanacán; o, Las brujas de Peña Blanca</title>
+                        <title level="m" type="sub">Novela histórica</title>
+                        <edition>Segunda edición</edition>
+                        <imprint>
+                            <publisher>Imprenta El Siglo</publisher>
+                            <pubPlace corresp="CU">Villaclara</pubPlace>
+                            <date when="1860">1860</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W948" xml:id="E1335">
+                    <monogr>
+                        <author key="A371">González, Manuel Dionisio</author>
+                        <title level="m" type="main">El indio de Cubanacán; o, Las brujas de Peña Blanca</title>
+                        <title level="m" type="sub">Novela histórica</title>
+                        <edition>Tercera edición</edition>
+                        <imprint>
+                            <publisher>Imprenta J. Berenguer</publisher>
+                            <pubPlace corresp="CU">Villaclara</pubPlace>
+                            <date when="1908">1908</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W949" xml:id="E1336">
+                    <monogr>
+                        <author key="A372">González del Valle, José Zacarías</author>
+                        <title level="m" type="main">Luisa</title>
+                        <title level="m" type="sub">Novela cubana</title>
+                        <imprint>
+                            <publisher>Imprenta Literaria</publisher>
+                            <pubPlace corresp="CU">La Habana</pubPlace>
+                            <date when="1839">1839</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W949" xml:id="E1337">
+                    <monogr>
+                        <author key="A372">González del Valle, José Zacarías</author>
+                        <title level="m" type="main">Luisa</title>
+                        <title level="m" type="sub">Novela cubana</title>
+                        <imprint>
+                            <publisher>Imprenta Literaria</publisher>
+                            <pubPlace corresp="CU">La Habana</pubPlace>
+                            <date when="1846" cert="low">1846</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W950" xml:id="E1338">
+                    <monogr>
+                        <author key="A372">González del Valle, José Zacarías</author>
+                        <title level="m" type="main">Recuerdos del cólera</title>
+                        <imprint>
+                            <pubPlace corresp="CU" cert="low">La Habana</pubPlace>
+                            <date when="1838">1838</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W951" xml:id="E1339">
+                    <analytic>
+                        <author key="A373">Güell y Renté, José</author>
+                        <title level="a" type="main">Guacanajari</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Leyendas Americanas</title>
+                        <title level="m" type="sub">Escenas sociales</title>
+                        <imprint>
+                            <publisher>Imprenta de las Novedades e Ilustración</publisher>
+                            <pubPlace corresp="ES">Madrid</pubPlace>
+                            <date when="1856">1856</date>
+                            <biblScope unit="page">p. 3-85</biblScope>
+                        </imprint>
+                        <extent>en 8° M, 279 p.</extent>
+                    </monogr>
+                    <ref>https://books.google.se/books/about/Leyendas_americanas.html?id=xpKje58JXbEC</ref>
+                </biblStruct>
+                <biblStruct corresp="W951" xml:id="E1340">
+                    <monogr>
+                        <author key="A373">Güell y Renté, José</author>
+                        <title level="m" type="main">Guacanajari, rey de Marien</title>
+                        <imprint>
+                            <pubPlace corresp="ES">Madrid</pubPlace>
+                            <date when="1855">1855</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W952" xml:id="E1341">
+                    <monogr>
+                        <author key="A373">Güell y Renté, José</author>
+                        <title type="main" level="m">La Virgen de las Azucenas</title>
+                        <title type="sub" level="m">Leyenda histórica del siglo XII</title>
+                        <imprint>
+                            <publisher>Imprenta de las Novedades</publisher>
+                            <pubPlace corresp="ES">Madrid</pubPlace>
+                            <date when="1858">1858</date>
+                        </imprint>
+                        <extent>en 8° M., X-136 p.</extent>
+                    </monogr>
+                    <ref>http://bdh.bne.es/bnesearch/detalle/bdh0000147825</ref>
+                </biblStruct>
+                <biblStruct corresp="W953" xml:id="E1342">
+                    <monogr>
+                        <author key="A373">Güell y Renté, José</author>
+                        <title type="main" level="m">Nieta del Rey</title>
+                        <title type="sub" level="m">Leyenda histórica</title>
+                        <imprint>
+                            <publisher>Imprenta de Claye</publisher>
+                            <pubPlace corresp="FR">Paris</pubPlace>
+                            <date when="1858">1858</date>
+                        </imprint>
+                        <extent>en 8°</extent>
+                    </monogr>
+                    <ref>http://bdh.bne.es/bnesearch/detalle/bdh0000076471</ref>
+                </biblStruct>
+                <biblStruct corresp="W954" xml:id="E1343">
+                    <analytic>
+                        <author key="A373">Güell y Renté, José</author>
+                        <title level="a" type="main">Ottilia</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Leyendas de un alma triste</title>
+                        <imprint>
+                            <publisher>Imprente de Jules Claye</publisher>
+                            <pubPlace corresp="FR">París</pubPlace>
+                            <date when="1860">1860</date>
+                        </imprint>
+                        <biblScope unit="page">p. 3-180</biblScope>
+                        <extent>en 8° M, 278 p.</extent>
+                    </monogr>
+                    <ref>https://archive.org/details/leyendasdeunalm00rentgoog</ref>
+                </biblStruct>
+                <biblStruct corresp="W955" xml:id="E1344">
+                    <analytic>
+                        <author key="A373">Güell y Renté, José</author>
+                        <title level="a" type="main">El Hermano Lorenzo</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Leyendas de un alma triste</title>
+                        <imprint>
+                            <publisher>Imprente de Jules Claye</publisher>
+                            <pubPlace corresp="FR">París</pubPlace>
+                            <date when="1860">1860</date>
+                        </imprint>
+                        <biblScope unit="page">p. 181-278</biblScope>
+                        <extent>en 8° M, 278 p.</extent>
+                    </monogr>
+                    <ref>https://archive.org/details/leyendasdeunalm00rentgoog</ref>
+                    <ref>https://books.google.se/books/about/Leyendas_de_un_alma_triste.html?id=-IYCAAAAYAAJ</ref>
+                </biblStruct>
+                <biblStruct corresp="W956" xml:id="E1345">
+                    <analytic>
+                        <author key="A373">Güell y Renté, José</author>
+                        <title level="a" type="main">Anacaona, Reina de Xaragua</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Leyendas Americanas</title>
+                        <title level="m" type="sub">Escenas sociales</title>
+                        <imprint>
+                            <publisher>Imprenta de las Novedades e Ilustración</publisher>
+                            <pubPlace corresp="ES">Madrid</pubPlace>
+                            <date when="1856">1856</date>
+                            <biblScope unit="page">p. 87-183</biblScope>
+                        </imprint>
+                        <extent>en 8° M, 279 p.</extent>
+                    </monogr>
+                    <ref>https://books.google.se/books/about/Leyendas_americanas.html?id=xpKje58JXbEC</ref>
+                </biblStruct>
+                <biblStruct corresp="W957" xml:id="E1346">
+                    <analytic>
+                        <author key="A373">Güell y Renté, José</author>
+                        <title level="a" type="main">Quibiam, Rey de Veragoa</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Leyendas Americanas</title>
+                        <title level="m" type="sub">Escenas sociales</title>
+                        <imprint>
+                            <publisher>Imprenta de las Novedades e Ilustración</publisher>
+                            <pubPlace corresp="ES">Madrid</pubPlace>
+                            <date when="1856">1856</date>
+                            <biblScope unit="page">p. 185-283</biblScope>
+                        </imprint>
+                        <extent>en 8° M, 279 p.</extent>
+                    </monogr>
+                    <ref>https://books.google.se/books/about/Leyendas_americanas.html?id=xpKje58JXbEC</ref>
+                </biblStruct>
+                <biblStruct corresp="W958" xml:id="E1347">
+                    <analytic>
+                        <author key="A373">Güell y Renté, José</author>
+                        <title level="a" type="main">La leyenda de Tinima</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Tradiciones de América</title>
+                        <title level="m" type="sub">Por D. José Güell y Renté</title>
+                        <imprint>
+                            <publisher>Imprenta de Jules Claye</publisher>
+                            <pubPlace corresp="FR">Paris</pubPlace>
+                            <date when="1861">1861</date>
+                            <biblScope unit="page">p. 1-38</biblScope>
+                        </imprint>
+                        <extent>224 p.</extent>
+                    </monogr>
+                    <ref>http://bdh-rd.bne.es/viewer.vm?id=0000134693</ref>
+                </biblStruct>
+                <biblStruct corresp="W959" xml:id="E1348">
+                    <analytic>
+                        <author key="A373">Güell y Renté, José</author>
+                        <title level="a" type="main">Kena-Kena</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Tradiciones de América</title>
+                        <title level="m" type="sub">Por D. José Güell y Renté</title>
+                        <imprint>
+                            <publisher>Imprenta de Jules Claye</publisher>
+                            <pubPlace corresp="FR">Paris</pubPlace>
+                            <date when="1861">1861</date>
+                            <biblScope unit="page">p. 39-61</biblScope>
+                        </imprint>
+                        <extent>224 p.</extent>
+                    </monogr>
+                    <ref>http://bdh-rd.bne.es/viewer.vm?id=0000134693</ref>
+                </biblStruct>
+                <biblStruct corresp="W960" xml:id="E1349">
+                    <analytic>
+                        <author key="A373">Güell y Renté, José</author>
+                        <title level="a" type="main">Sterripa</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Tradiciones de América</title>
+                        <title level="m" type="sub">Por D. José Güell y Renté</title>
+                        <imprint>
+                            <publisher>Imprenta de Jules Claye</publisher>
+                            <pubPlace corresp="FR">Paris</pubPlace>
+                            <date when="1861">1861</date>
+                            <biblScope unit="page">p. 81-102</biblScope>
+                        </imprint>
+                        <extent>224 p.</extent>
+                    </monogr>
+                    <ref>http://bdh-rd.bne.es/viewer.vm?id=0000134693</ref>
+                </biblStruct>
+                <biblStruct corresp="W961" xml:id="E1350">
+                    <analytic>
+                        <author key="A373">Güell y Renté, José</author>
+                        <title level="a" type="main">El Cacique de Cibao</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Tradiciones de América</title>
+                        <title level="m" type="sub">Por D. José Güell y Renté</title>
+                        <imprint>
+                            <publisher>Imprenta de Jules Claye</publisher>
+                            <pubPlace corresp="FR">Paris</pubPlace>
+                            <date when="1861">1861</date>
+                            <biblScope unit="page">p. 103-129</biblScope>
+                        </imprint>
+                        <extent>224 p.</extent>
+                    </monogr>
+                    <ref>http://bdh-rd.bne.es/viewer.vm?id=0000134693</ref>
+                </biblStruct>
+                <biblStruct corresp="W962" xml:id="E1351">
+                    <analytic>
+                        <author key="A373">Güell y Renté, José</author>
+                        <title level="a" type="main">Izua</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Tradiciones de América</title>
+                        <title level="m" type="sub">Por D. José Güell y Renté</title>
+                        <imprint>
+                            <publisher>Imprenta de Jules Claye</publisher>
+                            <pubPlace corresp="FR">Paris</pubPlace>
+                            <date when="1861">1861</date>
+                            <biblScope unit="page">p. 131-166</biblScope>
+                        </imprint>
+                        <extent>224 p.</extent>
+                    </monogr>
+                    <ref>http://bdh-rd.bne.es/viewer.vm?id=0000134693</ref>
+                </biblStruct>
+                <biblStruct corresp="W963" xml:id="E1352">
+                    <analytic>
+                        <author key="A373">Güell y Renté, José</author>
+                        <title level="a" type="main">Vendedores de carne humana</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Tradiciones de América</title>
+                        <title level="m" type="sub">Por D. José Güell y Renté</title>
+                        <imprint>
+                            <publisher>Imprenta de Jules Claye</publisher>
+                            <pubPlace corresp="FR">Paris</pubPlace>
+                            <date when="1861">1861</date>
+                            <biblScope unit="page">p. 167-192</biblScope>
+                        </imprint>
+                        <extent>224 p.</extent>
+                    </monogr>
+                    <ref>http://bdh-rd.bne.es/viewer.vm?id=0000134693</ref>
+                </biblStruct>
+                <biblStruct corresp="W964" xml:id="E1353">
+                    <analytic>
+                        <author key="A373">Güell y Renté, José</author>
+                        <title level="a" type="main">El santo de Guanabacoa</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Tradiciones de América</title>
+                        <title level="m" type="sub">Por D. José Güell y Renté</title>
+                        <imprint>
+                            <publisher>Imprenta de Jules Claye</publisher>
+                            <pubPlace corresp="FR">Paris</pubPlace>
+                            <date when="1861">1861</date>
+                            <biblScope unit="page">p. 193-224</biblScope>
+                        </imprint>
+                        <extent>224 p.</extent>
+                    </monogr>
+                    <ref>http://bdh-rd.bne.es/viewer.vm?id=0000134693</ref>
+                </biblStruct>
+                <biblStruct corresp="W965" xml:id="E1354">
+                    <monogr>
+                        <author key="A374">Guerrero y Pallarés, Teodoro</author>
+                        <title level="m" type="main">La copa de ron</title>
+                        <title level="m" type="sub">Novela</title>
+                        <imprint>
+                            <publisher>Imprenta de La Unión</publisher>
+                            <pubPlace corresp="ES">Madrid</pubPlace>
+                            <date when="1843">1843</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W966" xml:id="E1355">
+                    <monogr>
+                        <author key="A374">Guerrero y Pallarés, Teodoro</author>
+                        <title level="m" type="main">Una historia del gran mundo</title>
+                        <title level="m" type="sub">Novela original de costumbres contemporáneas</title>
+                        <imprint>
+                            <publisher>F. de Serra y Madírolas</publisher>
+                            <pubPlace corresp="ES">Madrid</pubPlace>
+                            <date when="1851">1851</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W967" xml:id="E1356">
+                    <monogr>
+                        <author key="A374">Guerrero Pallarés, Teodoro</author>
+                        <title type="main" level="m">Anatomía del corazón</title>
+                        <title type="sub" level="m">Novela original</title>
+                        <edition>Segunda edición</edition>
+                        <imprint>
+                            <publisher>Imprenta Española</publisher>
+                            <pubPlace corresp="ES">Madrid</pubPlace>
+                            <date when="1856">1856</date>
+                        </imprint>
+                        <extent>en 8°, 374 p.</extent>
+                    </monogr>
+                    <note resp="#Trelles">En la cubierta se lee la fecha de 1857.</note>
+                    <ref>https://catalog.hathitrust.org/Record/008620018</ref>
+                </biblStruct>
+                <biblStruct corresp="W967" xml:id="E1357">
+                    <monogr>
+                        <author key="A374">Guerrero Pallarés, Teodoro</author>
+                        <title type="main" level="m">Anatomía del corazón</title>
+                        <title type="sub" level="m">Novela original</title>
+                        <edition>Tercera edición. Prólogo de Gertrudis Gómez de Avellaneda</edition>
+                        <imprint>
+                            <publisher>Imprenta de L. García</publisher>
+                            <pubPlace corresp="ES">Madrid</pubPlace>
+                            <date when="1857">1857</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W967" xml:id="E1358">
+                    <monogr>
+                        <author key="A374">Guerrero Pallarés, Teodoro</author>
+                        <title type="main" level="m">Anatomía del corazón</title>
+                        <title type="sub" level="m">Novela original</title>
+                        <edition>Cuarta edición</edition>
+                        <imprint>
+                            <publisher>Imp. del Tiempo</publisher>
+                            <pubPlace corresp="CU">Habana</pubPlace>
+                            <date when="1858">1858</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W967" xml:id="E1359">
+                    <monogr>
+                        <author key="A374">Guerrero Pallarés, Teodoro</author>
+                        <title type="main" level="m">Anatomía del corazón</title>
+                        <title type="sub" level="m">Novela original</title>
+                        <edition>Octava edición</edition>
+                        <imprint>
+                            <publisher>Imprenta del Gobierno</publisher>
+                            <pubPlace corresp="CU">La Habana</pubPlace>
+                            <date when="1863">1863</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W967" xml:id="E1360">
+                    <monogr>
+                        <author key="A374">Guerrero Pallarés, Teodoro</author>
+                        <title type="main" level="m">Anatomía del corazón</title>
+                        <title type="sub" level="m">Estudio social</title>
+                        <imprint>
+                            <publisher>Imp. El Iris</publisher>
+                            <pubPlace corresp="CU">Habana</pubPlace>
+                            <date when="1867">1867</date>
+                        </imprint>
+                        <extent>en 4°, 571 p.</extent>
+                    </monogr>
+                    <ref>https://catalog.hathitrust.org/Record/100882496</ref>
+                    <ref>https://catalog.hathitrust.org/Record/100138284</ref>
+                </biblStruct>
+                <biblStruct corresp="W967" xml:id="E1383">
+                    <monogr>
+                        <author key="A374">Guerrero Pallarés, Teodoro</author>
+                        <title type="main" level="m">Anatomía del corazón</title>
+                        <title type="sub" level="m">(segunda parte)</title>
+                        <imprint>
+                            <publisher>Imprenta de la Vida de Galiano</publisher>
+                            <pubPlace corresp="ES">Madrid</pubPlace>
+                            <date when="1873">1873</date>
+                        </imprint>
+                        <extent>en 4°, 280 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W967" xml:id="E1384">
+                    <!-- primera edición -->
+                    <analytic>
+                        <author key="A374">Guerrero Pallarés, Teodoro</author>
+                        <title type="main" level="a">Anatomía del corazón</title>
+                        <title type="sub" level="a">Novela original</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j">El Estado</title>
+                        <imprint>
+                            <pubPlace corresp="ES" cert="low">desconocido</pubPlace>
+                            <date>desconocido</date>
+                        </imprint>
+                    </monogr>
+                    <note>en folletín</note>
+                </biblStruct>
+                <biblStruct corresp="W968" xml:id="E1361">
+                    <monogr>
+                        <author key="A374">Guerrero Pallarés, Teodoro</author>
+                        <title type="main" level="m">Fea y pobre</title>
+                        <title type="sub" level="m">Novela</title>
+                        <imprint>
+                            <pubPlace corresp="CU" cert="low">Habana</pubPlace>
+                            <date when="1857" cert="low">1857</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W969" xml:id="E1362">
+                    <analytic>
+                        <author key="A374">Guerrero Pallarés, Teodoro</author>
+                        <title type="sub" level="a">Historia primera</title>
+                        <title type="main" level="a">Emma</title>
+                        <title type="sub" level="a">Relación del Gacetillero</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="m">Historia íntima de seis mujeres</title>
+                        <title type="sub" level="m">Cuadros sociales</title>
+                        <imprint>
+                            <publisher>Imprenta La Charanga</publisher>
+                            <pubPlace corresp="CU">Habana</pubPlace>
+                            <date when="1859">1859</date>
+                            <biblScope unit="page">p. 32-142</biblScope>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W969" xml:id="E1363">
+                    <analytic>
+                        <author key="A374">Guerrero Pallarés, Teodoro</author>
+                        <title type="sub" level="a">Historia primera</title>
+                        <title type="main" level="a">Emma</title>
+                        <title type="sub" level="a">Relación del Gacetillero</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="m">Historia íntima de seis mujeres</title>
+                        <title type="sub" level="m">Cuadros sociales</title>
+                        <edition>Segunda edición</edition>
+                        <imprint>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1862">1862</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W969" xml:id="E1364">
+                    <analytic>
+                        <author key="A374">Guerrero Pallarés, Teodoro</author>
+                        <title type="sub" level="a">Historia primera</title>
+                        <title type="main" level="a">Emma</title>
+                        <title type="sub" level="a">Relación del Gacetillero</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="m">Historia íntima de seis mujeres</title>
+                        <title type="sub" level="m">Cuadros sociales</title>
+                        <edition>Tercera edición</edition>
+                        <imprint>
+                            <publisher>Imprenta del Gobierno por S. M.</publisher>
+                            <pubPlace corresp="CU">La Habana</pubPlace>
+                            <date when="1863">1863</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W970" xml:id="E1365">
+                    <analytic>
+                        <author key="A374">Guerrero Pallarés, Teodoro</author>
+                        <title type="sub" level="a">Historia segunda</title>
+                        <title type="main" level="a">Mercedes</title>
+                        <title type="sub" level="a">Relación del Viajero</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="m">Historia íntima de seis mujeres</title>
+                        <title type="sub" level="m">Cuadros sociales</title>
+                        <imprint>
+                            <publisher>Imprenta La Charanga</publisher>
+                            <pubPlace corresp="CU">Habana</pubPlace>
+                            <date when="1859">1859</date>
+                            <biblScope unit="page">p. 143-213</biblScope>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W970" xml:id="E1366">
+                    <analytic>
+                        <author key="A374">Guerrero Pallarés, Teodoro</author>
+                        <title type="sub" level="a">Historia primera</title>
+                        <title type="main" level="a">Mercedes</title>
+                        <title type="sub" level="a">Relación del Viajero</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="m">Historia íntima de seis mujeres</title>
+                        <title type="sub" level="m">Cuadros sociales</title>
+                        <edition>Segunda edición</edition>
+                        <imprint>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1862">1862</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W970" xml:id="E1367">
+                    <analytic>
+                        <author key="A374">Guerrero Pallarés, Teodoro</author>
+                        <title type="sub" level="a">Historia primera</title>
+                        <title type="main" level="a">Mercedes</title>
+                        <title type="sub" level="a">Relación del Viajero</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="m">Historia íntima de seis mujeres</title>
+                        <title type="sub" level="m">Cuadros sociales</title>
+                        <edition>Tercera edición</edition>
+                        <imprint>
+                            <publisher>Imprenta del Gobierno por S. M.</publisher>
+                            <pubPlace corresp="CU">La Habana</pubPlace>
+                            <date when="1863">1863</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W971" xml:id="E1368">
+                    <analytic>
+                        <author key="A374">Guerrero Pallarés, Teodoro</author>
+                        <title type="sub" level="a">Historia tercera</title>
+                        <title type="main" level="a">Tula</title>
+                        <title type="sub" level="a">Relación del Capitán</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="m">Historia íntima de seis mujeres</title>
+                        <title type="sub" level="m">Cuadros sociales</title>
+                        <imprint>
+                            <publisher>Imprenta La Charanga</publisher>
+                            <pubPlace corresp="CU">Habana</pubPlace>
+                            <date when="1859">1859</date>
+                            <biblScope unit="page">p. 215-268</biblScope>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W971" xml:id="E1369">
+                    <analytic>
+                        <author key="A374">Guerrero Pallarés, Teodoro</author>
+                        <title type="sub" level="a">Historia primera</title>
+                        <title type="main" level="a">Tula</title>
+                        <title type="sub" level="a">Relación del Capitán</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="m">Historia íntima de seis mujeres</title>
+                        <title type="sub" level="m">Cuadros sociales</title>
+                        <edition>Segunda edición</edition>
+                        <imprint>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1862">1862</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W971" xml:id="E1370">
+                    <analytic>
+                        <author key="A374">Guerrero Pallarés, Teodoro</author>
+                        <title type="sub" level="a">Historia primera</title>
+                        <title type="main" level="a">Tula</title>
+                        <title type="sub" level="a">Relación del Capitán</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="m">Historia íntima de seis mujeres</title>
+                        <title type="sub" level="m">Cuadros sociales</title>
+                        <edition>Tercera edición</edition>
+                        <imprint>
+                            <publisher>Imprenta del Gobierno por S. M.</publisher>
+                            <pubPlace corresp="CU">La Habana</pubPlace>
+                            <date when="1863">1863</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W972" xml:id="E1371">
+                    <analytic>
+                        <author key="A374">Guerrero Pallarés, Teodoro</author>
+                        <title type="sub" level="a">Historia cuarta</title>
+                        <title type="main" level="a">Rosario</title>
+                        <title type="sub" level="a">Relación del Marino</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="m">Historia íntima de seis mujeres</title>
+                        <title type="sub" level="m">Cuadros sociales</title>
+                        <imprint>
+                            <publisher>Imprenta La Charanga</publisher>
+                            <pubPlace corresp="CU">Habana</pubPlace>
+                            <date when="1859">1859</date>
+                            <biblScope unit="page">p. 269-330</biblScope>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W972" xml:id="E1372">
+                    <analytic>
+                        <author key="A374">Guerrero Pallarés, Teodoro</author>
+                        <title type="sub" level="a">Historia primera</title>
+                        <title type="main" level="a">Rosario</title>
+                        <title type="sub" level="a">Relación del Marino</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="m">Historia íntima de seis mujeres</title>
+                        <title type="sub" level="m">Cuadros sociales</title>
+                        <edition>Segunda edición</edition>
+                        <imprint>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1862">1862</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W972" xml:id="E1373">
+                    <analytic>
+                        <author key="A374">Guerrero Pallarés, Teodoro</author>
+                        <title type="sub" level="a">Historia primera</title>
+                        <title type="main" level="a">Rosario</title>
+                        <title type="sub" level="a">Relación del Marino</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="m">Historia íntima de seis mujeres</title>
+                        <title type="sub" level="m">Cuadros sociales</title>
+                        <edition>Tercera edición</edition>
+                        <imprint>
+                            <publisher>Imprenta del Gobierno por S. M.</publisher>
+                            <pubPlace corresp="CU">La Habana</pubPlace>
+                            <date when="1863">1863</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W973" xml:id="E1374">
+                    <analytic>
+                        <author key="A374">Guerrero Pallarés, Teodoro</author>
+                        <title type="sub" level="a">Historia quinta</title>
+                        <title type="main" level="a">Belén</title>
+                        <title type="sub" level="a">Relación del Licenciado</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="m">Historia íntima de seis mujeres</title>
+                        <title type="sub" level="m">Cuadros sociales</title>
+                        <imprint>
+                            <publisher>Imprenta La Charanga</publisher>
+                            <pubPlace corresp="CU">Habana</pubPlace>
+                            <date when="1859">1859</date>
+                            <biblScope unit="page">p. 331-400</biblScope>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W973" xml:id="E1375">
+                    <analytic>
+                        <author key="A374">Guerrero Pallarés, Teodoro</author>
+                        <title type="sub" level="a">Historia primera</title>
+                        <title type="main" level="a">Belén</title>
+                        <title type="sub" level="a">Relación del Licenciado</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="m">Historia íntima de seis mujeres</title>
+                        <title type="sub" level="m">Cuadros sociales</title>
+                        <edition>Segunda edición</edition>
+                        <imprint>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1862">1862</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W973" xml:id="E1376">
+                    <analytic>
+                        <author key="A374">Guerrero Pallarés, Teodoro</author>
+                        <title type="sub" level="a">Historia primera</title>
+                        <title type="main" level="a">Belén</title>
+                        <title type="sub" level="a">Relación del Licenciado</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="m">Historia íntima de seis mujeres</title>
+                        <title type="sub" level="m">Cuadros sociales</title>
+                        <edition>Tercera edición</edition>
+                        <imprint>
+                            <publisher>Imprenta del Gobierno por S. M.</publisher>
+                            <pubPlace corresp="CU">La Habana</pubPlace>
+                            <date when="1863">1863</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W974" xml:id="E1377">
+                    <analytic>
+                        <author key="A374">Guerrero Pallarés, Teodoro</author>
+                        <title type="sub" level="a">Historia sesta</title>
+                        <title type="main" level="a">Virginia</title>
+                        <title type="sub" level="a">Relación del Comerciante</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="m">Historia íntima de seis mujeres</title>
+                        <title type="sub" level="m">Cuadros sociales</title>
+                        <imprint>
+                            <publisher>Imprenta La Charanga</publisher>
+                            <pubPlace corresp="CU">Habana</pubPlace>
+                            <date when="1859">1859</date>
+                            <biblScope unit="page">p. 401-446</biblScope>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W974" xml:id="E1378">
+                    <analytic>
+                        <author key="A374">Guerrero Pallarés, Teodoro</author>
+                        <title type="sub" level="a">Historia primera</title>
+                        <title type="main" level="a">Virginia</title>
+                        <title type="sub" level="a">Relación del Comerciante</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="m">Historia íntima de seis mujeres</title>
+                        <title type="sub" level="m">Cuadros sociales</title>
+                        <edition>Segunda edición</edition>
+                        <imprint>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1862">1862</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W974" xml:id="E1379">
+                    <analytic>
+                        <author key="A374">Guerrero Pallarés, Teodoro</author>
+                        <title type="sub" level="a">Historia primera</title>
+                        <title type="main" level="a">Virginia</title>
+                        <title type="sub" level="a">Relación del Comerciante</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="m">Historia íntima de seis mujeres</title>
+                        <title type="sub" level="m">Cuadros sociales</title>
+                        <edition>Tercera edición</edition>
+                        <imprint>
+                            <publisher>Imprenta del Gobierno por S. M.</publisher>
+                            <pubPlace corresp="CU">La Habana</pubPlace>
+                            <date when="1863">1863</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W975" xml:id="E1380">
+                    <monogr>
+                        <author key="A374">Guerrero Pallarés, Teodoro</author>
+                        <title type="main" level="m">Madrid por dentro</title>
+                        <title type="sub" level="m">Cuadros de la vida cortesana</title>
+                        <imprint>
+                            <publisher>Imp. El Iris</publisher>
+                            <pubPlace corresp="CU">Habana</pubPlace>
+                            <date when="1865">1865</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W975" xml:id="E1381">
+                    <monogr>
+                        <author key="A374">Guerrero Pallarés, Teodoro</author>
+                        <title type="main" level="m">Madrid por dentro</title>
+                        <title type="sub" level="m">Cuento de salón</title>
+                        <edition>Tercera edición</edition>
+                        <imprint>
+                            <publisher>Cárlos Bailly-Bailliere</publisher>
+                            <pubPlace corresp="ES">Madrid</pubPlace>
+                            <date when="1872">1872</date>
+                        </imprint>
+                        <extent>2 tomos, 632 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W976" xml:id="E1382">
+                    <monogr>
+                        <author key="A374">Guerrero Pallarés, Teodoro</author>
+                        <title type="main" level="m">La nube negra</title>
+                        <title type="sub" level="m">Novela original</title>
+                        <imprint>
+                            <publisher>La Propaganda Literaria</publisher>
+                            <pubPlace corresp="CU">La Habana</pubPlace>
+                            <date when="1874">1874</date>
+                        </imprint>
+                    </monogr>
+                    <ref>https://catalog.hathitrust.org/Record/100344906</ref>
+                    <ref>https://catalog.hathitrust.org/Record/100859962</ref>
+                </biblStruct>
+                <biblStruct corresp="W977" xml:id="E1385">
+                    <monogr>
+                        <author key="A374">Guerrero Pallarés, Teodoro</author>
+                        <title type="main" level="m">El escabel de la fortuna</title>
+                        <title type="sub" level="m">Novela original</title>
+                        <imprint>
+                            <publisher>Imprenta de M. Tello</publisher>
+                            <pubPlace corresp="ES">Madrid</pubPlace>
+                            <date when="1876">1876</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W977" xml:id="E1386">
+                    <monogr>
+                        <author key="A374">Guerrero Pallarés, Teodoro</author>
+                        <title type="main" level="m">El escabel de la fortuna</title>
+                        <title type="sub" level="m">Novela original</title>
+                        <edition>Segunda edición</edition>
+                        <imprint>
+                            <pubPlace corresp="ES">Madrid</pubPlace>
+                            <date when="1877">1877</date>
+                        </imprint>
+                    </monogr>
+                    <ref>https://catalog.hathitrust.org/Record/100561916</ref>
+                </biblStruct>
+                <biblStruct corresp="W978" xml:id="E1387">
+                    <monogr>
+                        <author key="A374">Guerrero Pallarés, Teodoro</author>
+                        <title type="main" level="m">Los mártires del amor</title>
+                        <title type="sub" level="m">Novela original</title>
+                        <imprint>
+                            <publisher>Imprenta de M. Tello</publisher>
+                            <pubPlace corresp="ES">Madrid</pubPlace>
+                            <date when="1876">1876</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W978" xml:id="E1388">
+                    <monogr>
+                        <author key="A374">Guerrero Pallarés, Teodoro</author>
+                        <title type="main" level="m">Los mártires del amor</title>
+                        <title type="sub" level="m">Novela original</title>
+                        <edition>Segunda edición</edition>
+                        <imprint>
+                            <publisher>Imprenta de M. Tello</publisher>
+                            <pubPlace corresp="ES">Madrid</pubPlace>
+                            <date when="1877">1877</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W979" xml:id="E1389">
+                    <monogr>
+                        <author key="A374">Guerrero Pallarés, Teodoro</author>
+                        <title type="main" level="m">Las huellas del crimen</title>
+                        <title type="sub" level="m">Novela cubana</title>
+                        <imprint>
+                            <publisher>Est. Tip. del Boletín</publisher>
+                            <pubPlace corresp="PR">Puerto Rico</pubPlace>
+                            <date when="1879">1879</date>
+                        </imprint>
+                        <extent>2 volúmenes</extent>
+                    </monogr>
+                    <ref>https://catalog.hathitrust.org/Record/100561503</ref>
+                </biblStruct>
+                <biblStruct corresp="W980" xml:id="E1390">
+                    <monogr>
+                        <author key="A374">Guerrero Pallarés, Teodoro</author>
+                        <title type="main" level="m">Las llaves</title>
+                        <title type="sub" level="m">Sátira social</title>
+                        <imprint>
+                            <publisher>Imprenta y Fundición de Manuel Tello</publisher>
+                            <pubPlace corresp="ES">Madrid</pubPlace>
+                            <date when="1876">1876</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W980" xml:id="E1391">
+                    <monogr>
+                        <author key="A374">Guerrero Pallarés, Teodoro</author>
+                        <title type="main" level="m">Las llaves</title>
+                        <title type="sub" level="m">Sátira social</title>
+                        <edition>Segunda edición</edition>
+                        <imprint>
+                            <publisher>Imprenta y Fundición de Manuel Tello</publisher>
+                            <pubPlace corresp="ES">Madrid</pubPlace>
+                            <date when="1877">1877</date>
+                        </imprint>
+                    </monogr>
+                    <ref>https://archive.org/details/lasllavesstiras00pallgoog</ref>
+                </biblStruct>
+                <biblStruct corresp="W981" xml:id="E1392">
+                    <monogr>
+                        <author key="A375">Guiteras y Font, Eusebio</author>
+                        <title type="main" level="m">Irene Albar</title>
+                        <title type="sub" level="m">Novela cubana</title>
+                        <imprint>
+                            <publisher>Imprenta de L. Tasso</publisher>
+                            <pubPlace corresp="ES">Barcelona</pubPlace>
+                            <date from="1885" to="1886">1885-1886</date>
+                        </imprint>
+                        <extent>2 volúmenes</extent>
+                    </monogr>
+                    <ref>https://archive.org/details/irenealbarnovel00guitgoog</ref>
+                    <ref>https://catalog.hathitrust.org/Record/100329667</ref>
+                </biblStruct>
+                <biblStruct corresp="W982" xml:id="E1393">
+                    <analytic>
+                        <author key="A375">Guiteras y Font, Eusebio</author>
+                        <title type="main" level="a">Gabriel Reyes</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j" type="main">Cuba y América</title>
+                        <imprint>
+                            <pubPlace corresp="US" cert="low">New York</pubPlace>
+                            <date>desconocido</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
             </listBibl>
         </body>
     </text>

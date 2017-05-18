@@ -443,22 +443,6 @@
                     <title>Memorias de un Alférez</title>
                     <idno type="cligs">nh0182</idno>
                 </bibl>
-                <bibl xml:id="W314">
-                    <author key="A107">Guerrero Pallarés, Teodoro</author>
-                    <title>Anatomía del corazón</title>
-                </bibl>
-                <bibl xml:id="W315">
-                    <author key="A107">Guerrero Pallarés, Teodoro</author>
-                    <title>Fea y pobre</title>
-                </bibl>
-                <bibl xml:id="W316">
-                    <author key="A107">Guerrero Pallarés, Teodoro</author>
-                    <title>Madrid por dentro</title>
-                </bibl>
-                <bibl xml:id="W317">
-                    <author key="A107">Guerrero Pallarés, Teodoro</author>
-                    <title>La nube negra</title>
-                </bibl>
                 <bibl xml:id="W321">
                     <author key="A63">Sicardi, Francisco A.</author>
                     <title>Genaro</title>
@@ -1086,47 +1070,6 @@
                     <author key="A189">Zamacois, Eduardo</author>
                     <title>Incesto</title>
                 </bibl>
-                <bibl xml:id="W571">
-                    <author key="A190">Gómez de Avellaneda, Gertrudis</author>
-                    <title>Sab</title>
-                </bibl>
-                <bibl xml:id="W572">
-                    <author key="A190">Gómez de Avellaneda, Gertrudis</author>
-                    <title>Dos mujeres</title>
-                </bibl>
-                <bibl xml:id="W573">
-                    <author key="A190">Gómez de Avellaneda, Gertrudis</author>
-                    <title>La baronesa de Joux</title>
-                </bibl>
-                <bibl xml:id="W574">
-                    <author key="A190">Gómez de Avellaneda, Gertrudis</author>
-                    <title>Espatolino</title>
-                </bibl>
-                <bibl xml:id="W575">
-                    <author key="A190">Gómez de Avellaneda, Gertrudis</author>
-                    <title>Guatimozín, último emperador de Méjico</title>
-                </bibl>
-                <bibl xml:id="W576">
-                    <author key="A190">Gómez de Avellaneda, Gertrudis</author>
-                    <title>Dolores</title>
-                </bibl>
-                <bibl xml:id="W577">
-                    <author key="A190">Gómez de Avellaneda, Gertrudis</author>
-                    <title>La mano de Dios</title>
-                </bibl>
-                <bibl xml:id="W578">
-                    <author key="A190">Gómez de Avellaneda, Gertrudis</author>
-                    <title>La flor del ángel</title>
-                </bibl>
-                <bibl xml:id="W579">
-                    <author key="A190">Gómez de Avellaneda, Gertrudis</author>
-                    <title>El artista barquero; o Los cuatro cinco de junio</title>
-                </bibl>
-                <bibl xml:id="W580">
-                    <author key="A190">Gómez de Avellaneda, Gertrudis</author>
-                    <title>La velada del helecho o El donativo del diablo</title>
-                    <idno type="cligs">nh0116</idno>
-                </bibl>
                 <bibl xml:id="W581">
                     <author key="AX">anónimo</author>
                     <title>Horas de un soltero</title>
@@ -1139,10 +1082,7 @@
                     <author key="A192">Costales, Manuel</author>
                     <title>Florentina</title>
                 </bibl>
-                <bibl xml:id="W584">
-                    <author key="A193">Güell y Renté, José</author>
-                    <title>Guacanajari</title>
-                </bibl>
+                
                 <bibl xml:id="W588">
                     <author key="A195">Arenosa, Antonio L.</author>
                     <title>María</title>
@@ -1164,14 +1104,6 @@
                     <author key="A197">Balmaseda, Francisco Javier</author>
                     <title>Clementina</title>
                 </bibl>
-                <bibl xml:id="W595">
-                    <author key="A193">Güell y Renté, José</author>
-                    <title>La Virgen de las Azucenas</title>
-                </bibl>
-                <bibl xml:id="W596">
-                    <author key="A193">Güell y Renté, José</author>
-                    <title>Nieta de Rey</title>
-                </bibl>
                 <bibl xml:id="W598">
                     <author key="A199">Pichardo, Emilio</author>
                     <title>Don Carlos de Montalvan</title>
@@ -1192,10 +1124,6 @@
                     <author key="A201">Monte y Portillo, Domingo del</author>
                     <title>Serafina</title>
                 </bibl>
-                <bibl xml:id="W603">
-                    <author key="A202">Paula Gelabert, Francisco de</author>
-                    <title>María Luisa</title>
-                </bibl>
                 <bibl xml:id="W604">
                     <author key="A107">Guerrero Pallarés, Teodoro</author>
                     <title>Historia íntima de seis mujeres</title>
@@ -1211,14 +1139,6 @@
                 <bibl xml:id="W607">
                     <author key="A201">Monte y Portillo, Domingo del</author>
                     <title>Vivir por amor</title>
-                </bibl>
-                <bibl xml:id="W608">
-                    <author key="A193">Güell y Renté, José</author>
-                    <title>Ottilia</title>
-                </bibl>
-                <bibl xml:id="W609">
-                    <author key="A193">Güell y Renté, José</author>
-                    <title>El Hermano Lorenzo</title>
                 </bibl>
                 <bibl xml:id="W610">
                     <author key="A205">Macía, Federico</author>
@@ -1239,16 +1159,6 @@
                 <bibl xml:id="W614">
                     <author key="A207">Pasarón y Lastra, Ubaldo P.</author>
                     <title>Un amor de montaña o Memorias de un muerto</title>
-                </bibl>
-                <!-- Güell y Rente, 1861, Tradiciones de América; http://bdh-rd.bne.es/viewer.vm?id=0000134693 
-                jeweils zwischen etwa 20 und 30 Seiten; siehe Trelles, XIX, t. 4, p. 149 -->
-                <bibl xml:id="W616">
-                    <author key="A193">Güell y Renté, José</author>
-                    <title>Anacona, Reina Xaragua</title>
-                </bibl>
-                <bibl xml:id="W617">
-                    <author key="A193">Güell y Renté, José</author>
-                    <title>Quibiam, Rey de Veragoa</title>
                 </bibl>
                 <bibl xml:id="W618">
                     <author key="A208">Hernández Hernández, José</author>

@@ -5698,6 +5698,409 @@
                     <!-- Resumen en Lichtblau -->
                     <ref>https://books.google.de/books?id=N3ivqgrvmyoC</ref>
                 </bibl>
+                <bibl xml:id="W919">
+                    <author key="A363">López, Jesús José</author>
+                    <title>La leyenda de amor</title>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W920">
+                    <author key="A364">López de Briñas, Felipe</author>
+                    <title>La cruz del misionero</title>
+                    <term type="subgenre_title">tradición cubana</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W921">
+                    <author key="A365">Lozano Casado, Miguel</author>
+                    <title>Covadonga</title>
+                    <term type="subgenre_title">impresiones de un enfermo</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W922">
+                    <author key="A366">Jústiz y del Valle, Tomás de</author>
+                    <title>Carcajadas y sollozos</title>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W923">
+                    <author key="A367">Iglesia, Álvaro de la</author>
+                    <title>Adoración</title>
+                    <term type="subgenre_title">novela original</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                    <!-- tercera edición en Barcelona, Editorial F. Granada, 1906 -->
+                </bibl>
+                <bibl xml:id="W924">
+                    <author key="A367">Iglesia, Álvaro de la</author>
+                    <title>Manuel García</title>
+                    <term type="subgenre_title">vida y hechos</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W925">
+                    <author key="A367">Iglesia, Álvaro de la</author>
+                    <title>La alondra</title>
+                    <term type="subgenre_title">novela original</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W926">
+                    <author key="A367">Iglesia, Álvaro de la</author>
+                    <title>Amalia Bastista; o, El último danzón</title>
+                    <term type="subgenre_title">novela cubana</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W927">
+                    <author key="A367">Iglesia, Álvaro de la</author>
+                    <title>Una boda sangrienta; o, El fantasma de San Lázaro</title>
+                    <term type="subgenre_title">novela cubana</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W928">
+                    <author key="A367">Iglesia, Álvaro de la</author>
+                    <title>De Navidad</title>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W929">
+                    <author key="A367">Iglesia, Álvaro de la</author>
+                    <title>La bruja de Atarés; o, Los bandidos de La Habana</title>
+                    <term type="subgenre_title">novela cubana</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W930">
+                    <author key="A367">Iglesia, Álvaro de la</author>
+                    <title>Pepe Antonio</title>
+                    <term type="subgenre_title">episodio cubano</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W931">
+                    <author key="A367">Iglesia, Álvaro de la</author>
+                    <title>La factoría y la trata</title>
+                    <term type="subgenre_title">episodio cubano</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W932">
+                    <author key="A368">Heredia, Nicolás</author>
+                    <title>Un hombre de negocios</title>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W933">
+                    <author key="A368">Heredia, Nicolás</author>
+                    <title>Leonela</title>
+                    <term type="subgenre_title">narración cubana</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W934">
+                    <author key="A369">Paula Gelabert, Francisco de</author>
+                    <title>María Luisa</title>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W935">
+                    <author key="A369">Paula Gelabert, Francisco de</author>
+                    <title>Un secreto y un secretario</title>
+                    <term type="subgenre_lithist" resp="#DLC">novela de costumbres cubanas</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W936">
+                    <author key="A370">Gómez de Avellaneda, Gertrudis</author>
+                    <title>Sab</title>
+                    <term type="subgenre_title">novela original</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W937">
+                    <author key="A370">Gómez de Avellaneda, Gertrudis</author>
+                    <title>Dos mujeres</title>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W938">
+                    <author key="A370">Gómez de Avellaneda, Gertrudis</author>
+                    <title>La baronesa de Joux</title>
+                    <term type="subgenre_title">novela original</term>
+                    <term type="subgenre_title">leyenda fundada en una tradición francesa</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W939">
+                    <author key="A370">Gómez de Avellaneda, Gertrudis</author>
+                    <title>Espatolino</title>
+                    <term type="subgenre_title">novela original</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W940">
+                    <author key="A370">Gómez de Avellaneda, Gertrudis</author>
+                    <title>Guatimozín, último emperador de Méjico</title>
+                    <term type="subgenre_title">novela histórica</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W941">
+                    <author key="A370">Gómez de Avellaneda, Gertrudis</author>
+                    <title>Dolores</title>
+                    <term type="subgenre_title">novela histórica</term>
+                    <term type="subgenre_title">páginas de una crónica de familia</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W942">
+                    <author key="A370">Gómez de Avellaneda, Gertrudis</author>
+                    <title>La mano de Dios</title>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W943">
+                    <author key="A370">Gómez de Avellaneda, Gertrudis</author>
+                    <title>La flor del ángel</title>
+                    <term type="subgenre_title">Tradición guipuzcoana</term>
+                    <term type="subgenre_title">Tradición vascongada</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W944">
+                    <author key="A370">Gómez de Avellaneda, Gertrudis</author>
+                    <title>El artista barquero; o Los cuatro cinco de junio</title>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                    <!-- comentario en Trelles -->
+                </bibl>
+                <bibl xml:id="W945">
+                    <author key="A370">Gómez de Avellaneda, Gertrudis</author>
+                    <title>La velada del helecho o El donativo del diablo</title>
+                    <term type="subgenre_title">leyenda fundada sobre una tradición suiza</term>
+                    <idno type="cligs">nh0116</idno>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W946">
+                    <author key="A370">Gómez de Avellaneda, Gertrudis</author>
+                    <title>La ondina del lago azul</title>
+                    <term type="subgenre_title">recuerdos</term>
+                    <bibl type="source"><ptr target="#CervantesVirtual"/></bibl>
+                </bibl>
+                <bibl xml:id="W947">
+                    <author key="A370">Gómez de Avellaneda, Gertrudis</author>
+                    <title>El cacique de Turmequé</title>
+                    <term type="subgenre_title">leyenda americana</term>
+                    <bibl type="source"><ptr target="#CervantesVirtual"/></bibl>
+                </bibl>
+                <bibl xml:id="W948">
+                    <author key="A371">González, Manuel Dionisio</author>
+                    <title>El indio de Cubanacán; o, Las brujas de Peña Blanca</title>
+                    <term type="subgenre_title">novela histórica</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W949">
+                    <author key="A372">González del Valle, José Zacarías</author>
+                    <title>Luisa</title>
+                    <term type="subgenre_title">novela cubana</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W950">
+                    <author key="A372">González del Valle, José Zacarías</author>
+                    <title>Recuerdos del cólera</title>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W951">
+                    <author key="A373">Güell y Renté, José</author>
+                    <title>Guacanajari, rey de Marien</title>
+                    <term type="subgenre_title">leyenda americana</term>
+                    <term type="subgenre_title">escena social</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                    <!-- comentario en Trelles -->
+                </bibl>
+                <bibl xml:id="W952">
+                    <author key="A373">Güell y Renté, José</author>
+                    <title>La Virgen de las Azucenas</title>
+                    <term type="subgenre_title">leyenda histórica</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W953">
+                    <author key="A373">Güell y Renté, José</author>
+                    <title>Nieta del Rey</title>
+                    <term type="subgenre_title">leyenda histórica</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W954">
+                    <author key="A373">Güell y Renté, José</author>
+                    <title>Ottilia</title>
+                    <term type="subgenre_title">leyenda</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W955">
+                    <author key="A373">Güell y Renté, José</author>
+                    <title>El Hermano Lorenzo</title>
+                    <term type="subgenre_title">leyenda</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W956">
+                    <author key="A373">Güell y Renté, José</author>
+                    <title>Anacaona, Reina de Xaragua</title>
+                    <term type="subgenre_title">leyenda americana</term>
+                    <term type="subgenre_title">escena social</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W957">
+                    <author key="A373">Güell y Renté, José</author>
+                    <title>Quibiam, Rey de Veragoa</title>
+                    <term type="subgenre_title">leyenda americana</term>
+                    <term type="subgenre_title">escena social</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W958">
+                    <author key="A373">Güell y Renté, José</author>
+                    <title>La leyenda de Tinima</title>
+                    <term type="subgenre_title">leyenda</term>
+                    <term type="subgenre_title">tradición de América</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W959">
+                    <author key="A373">Güell y Renté, José</author>
+                    <title>Kena-Kena</title>
+                    <term type="subgenre_title">leyenda</term>
+                    <term type="subgenre_title">tradición de América</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W960">
+                    <author key="A373">Güell y Renté, José</author>
+                    <title>Sterripa</title>
+                    <term type="subgenre_title">leyenda</term>
+                    <term type="subgenre_title">tradición de América</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W961">
+                    <author key="A373">Güell y Renté, José</author>
+                    <title>El Cacique de Cibao</title>
+                    <term type="subgenre_title">leyenda</term>
+                    <term type="subgenre_title">tradición de América</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W962">
+                    <author key="A373">Güell y Renté, José</author>
+                    <title>Izua</title>
+                    <term type="subgenre_title">leyenda</term>
+                    <term type="subgenre_title">tradición de América</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W963">
+                    <author key="A373">Güell y Renté, José</author>
+                    <title>Vendedores de carne humana</title>
+                    <term type="subgenre_title">leyenda</term>
+                    <term type="subgenre_title">tradición de América</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W964">
+                    <author key="A373">Güell y Renté, José</author>
+                    <title>El Santo de Guanabacoa</title>
+                    <term type="subgenre_title">leyenda</term>
+                    <term type="subgenre_title">tradición de América</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W965">
+                    <author key="A374">Guerrero y Pallarés, Teodoro</author>
+                    <title>La copa de rom</title>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W966">
+                    <author key="A374">Guerrero y Pallarés, Teodoro</author>
+                    <title>Una historia del gran mundo</title>
+                    <term type="subgenre_title">Novela original de costumbres contemporáneas</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W967">
+                    <author key="A374">Guerrero y Pallarés, Teodoro</author>
+                    <title>Anatomía del corazón</title>
+                    <term type="subgenre_title">novela original</term>
+                    <term type="subgenre_title">estudio social</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W968">
+                    <author key="A374">Guerrero y Pallarés, Teodoro</author>
+                    <title>Fea y pobre</title>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W969">
+                    <author key="A374">Guerrero y Pallarés, Teodoro</author>
+                    <title>Emma</title>
+                    <term type="subgenre_title">historia íntima</term>
+                    <term type="subgenre_title">relación</term>
+                    <term type="subgenre_title">cuadro social</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W970">
+                    <author key="A374">Guerrero y Pallarés, Teodoro</author>
+                    <title>Mercedes</title>
+                    <term type="subgenre_title">historia íntima</term>
+                    <term type="subgenre_title">relación</term>
+                    <term type="subgenre_title">cuadro social</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W971">
+                    <author key="A374">Guerrero y Pallarés, Teodoro</author>
+                    <title>Tula</title>
+                    <term type="subgenre_title">historia íntima</term>
+                    <term type="subgenre_title">relación</term>
+                    <term type="subgenre_title">cuadro social</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W972">
+                    <author key="A374">Guerrero y Pallarés, Teodoro</author>
+                    <title>Rosario</title>
+                    <term type="subgenre_title">historia íntima</term>
+                    <term type="subgenre_title">relación</term>
+                    <term type="subgenre_title">cuadro social</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W973">
+                    <author key="A374">Guerrero y Pallarés, Teodoro</author>
+                    <title>Belén</title>
+                    <term type="subgenre_title">historia íntima</term>
+                    <term type="subgenre_title">relación</term>
+                    <term type="subgenre_title">cuadro social</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W974">
+                    <author key="A374">Guerrero y Pallarés, Teodoro</author>
+                    <title>Virginia</title>
+                    <term type="subgenre_title">historia íntima</term>
+                    <term type="subgenre_title">relación</term>
+                    <term type="subgenre_title">cuadro social</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W975">
+                    <author key="A374">Guerrero y Pallarés, Teodoro</author>
+                    <title>Madrid por dentro</title>
+                    <term type="subgenre_title">cuadros de la vida cortesana</term>
+                    <term type="subgenre_title">cuento de salón</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W976">
+                    <author key="A374">Guerrero y Pallarés, Teodoro</author>
+                    <title>La nube negra</title>
+                    <term type="subgenre_title">novela original</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W977">
+                    <author key="A374">Guerrero y Pallarés, Teodoro</author>
+                    <title>El escabel de la fortuna</title>
+                    <term type="subgenre_title">novela original</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W978">
+                    <author key="A374">Guerrero y Pallarés, Teodoro</author>
+                    <title>Los mártires del amor</title>
+                    <term type="subgenre_title">novela original</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W979">
+                    <author key="A374">Guerrero y Pallarés, Teodoro</author>
+                    <title>Las huellas del crimen</title>
+                    <term type="subgenre_title">novela cubana</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W980">
+                    <author key="A374">Guerrero y Pallarés, Teodoro</author>
+                    <title>Las llaves</title>
+                    <term type="subgenre_title">sátira social</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W981">
+                    <author key="A375">Guiteras y Font, Eusebio</author>
+                    <title>Irene Albar</title>
+                    <term type="subgenre_title">novela cubana</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W982">
+                    <author key="A375">Guiteras y Font, Eusebio</author>
+                    <title>Gabriel Reyes</title>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
             </listBibl>
         </body>
     </text>

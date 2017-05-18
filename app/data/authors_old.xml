@@ -657,26 +657,6 @@
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">54234356</idno>
                 </person>
-                <person xml:id="A107">
-                    <persName>
-                        <surname>Guerrero Pallarés</surname>
-                        <forename>Teodoro</forename>
-                    </persName>
-                    <birth>
-                        <date when="1824-11-09">9 de noviembre de 1824</date>
-                        <placeName>La Habana</placeName>
-                        <placeName>Cuba</placeName>
-                    </birth>
-                    <death>
-                        <date when="1904-10-06">6 de octubre de 1904</date>
-                        <placeName>Madrid</placeName>
-                        <placeName>España</placeName>
-                    </death>
-                    <sex>masculino</sex>
-                    <nationality>cubana/o</nationality>
-                    <idno type="viaf">39156046</idno>
-                    <!-- Roman ? : La pasión de los celos. Cuadros de la vida íntima. La Habana, Imp. del Gobierno..., 1888. | -->
-                </person>
                 <person xml:id="A131">
                     <persName>
                         <surname>Auber de Noya</surname>
@@ -1455,26 +1435,6 @@
                     <sex>masculino</sex>
                     <nationality cert="medium">español/a</nationality>
                 </person>
-                <person xml:id="A190">
-                    <persName>
-                        <surname>Gómez de Avellaneda</surname>
-                        <forename>Gertrudis</forename>
-                        <addName type="pseudonym">La peregrina</addName>
-                    </persName>
-                    <birth>
-                        <date when="1814-03-23">23 de marzo de 1814</date>
-                        <placeName>Puerto Príncipe</placeName>
-                        <placeName>Cuba</placeName>
-                    </birth>
-                    <death>
-                        <date when="1873-02-01">primero de febrero de 1873</date>
-                        <placeName>Madrid</placeName>
-                        <placeName>España</placeName>
-                    </death>
-                    <idno type="viaf">76328537</idno>
-                    <sex>femenino</sex>
-                    <nationality>cubana/o</nationality>
-                </person>
                 <person xml:id="A191">
                     <persName>
                         <surname>Betancourt y Betancourt</surname>
@@ -1511,26 +1471,6 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
-                </person>
-                <person xml:id="A193">
-                    <persName>
-                        <surname>Güell y Renté</surname>
-                        <forename>José</forename>
-                    </persName>
-                    <birth>
-                        <date when="1818-09-14">14 de septiembre de 1818</date>
-                        <placeName>La Habana</placeName>
-                        <placeName>Cuba</placeName>
-                    </birth>
-                    <death>
-                        <date when="1884-01-23">23 de enero de 1884</date>
-                        <!-- Wikipedia; https://www.ecured.cu/Jos%C3%A9_G%C3%BCell_y_Rent%C3%A9 andere Daten -->
-                        <placeName>La Habana</placeName>
-                        <placeName>Cuba</placeName>
-                    </death>
-                    <sex>masculino</sex>
-                    <nationality>español/a</nationality>
-                    <!-- bei Trelles gelistet, aber Nationalität Spanier, Grenzfall? -->
                 </person>
                 <person xml:id="A195">
                     <persName>
@@ -1618,24 +1558,6 @@
                     <death>
                         <date when="1883-12-19">19 de diciembre de 1883</date>
                         <placeName>Matanzas</placeName>
-                        <placeName>Cuba</placeName>
-                    </death>
-                    <sex>masculino</sex>
-                    <nationality>cubana/o</nationality>
-                </person>
-                <person xml:id="A202">
-                    <persName>
-                        <surname>Paula Gelabert</surname>
-                        <forename>Francisco de</forename>
-                    </persName>
-                    <birth>
-                        <date when="1834-09-14">14 de septiembre de 1834</date>
-                        <placeName>La Habana</placeName>
-                        <placeName>Cuba</placeName>
-                    </birth>
-                    <death>
-                        <date when="1894-08-03">3 de agosto de 1894</date>
-                        <placeName>La Habana</placeName>
                         <placeName>Cuba</placeName>
                     </death>
                     <sex>masculino</sex>

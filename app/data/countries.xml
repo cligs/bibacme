@@ -66,6 +66,9 @@
                 <place xml:id="MX">
                     <placeName>México</placeName>
                 </place>
+                <place xml:id="PR">
+                    <placeName>Puerto Rico</placeName>
+                </place>
                 <place xml:id="UR">
                     <placeName>Uruguay</placeName>
                 </place>
