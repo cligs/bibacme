@@ -241,41 +241,6 @@
                     <sex>masculino</sex>
                     <nationality>español/a</nationality>
                 </person>
-                <person xml:id="A41">
-                    <persName>
-                        <surname>Ángulo y Guridi</surname>
-                        <forename>Alejandro</forename>
-                    </persName>
-                    <birth>
-                        <date when="1822-05-03">3 de mayo de 1822</date>
-                        <placeName>Santo Domingo</placeName>
-                        <placeName>Repúblicana Dominicana</placeName>
-                    </birth>
-                    <death>
-                        <date when="1906-01-17">17 de enero de 1906</date>
-                        <placeName>Santo Domingo</placeName>
-                        <placeName>Repúblicana Dominicana</placeName>
-                    </death>
-                    <sex>masculino</sex>
-                    <nationality>dominicana/o</nationality>
-                </person>
-                <person xml:id="A42">
-                    <persName>
-                        <surname>Blanchié</surname>
-                        <forename>Francisco J.</forename>
-                    </persName>
-                    <birth>
-                        <date when="1822-11-25">25 de noviembre de 1822</date>
-                        <placeName>La Habana</placeName>
-                        <placeName>Cuba</placeName>
-                    </birth>
-                    <death>
-                        <date when="1847-01-27">27 de enero de 1847</date>
-                    </death>
-                    <idno type="viaf">87374211</idno>
-                    <sex>masculino</sex>
-                    <nationality>cubana/o</nationality>
-                </person>
                 <person xml:id="A45">
                     <persName>
                         <surname>Zuñiga</surname>
@@ -675,29 +640,6 @@
                     <sex>femenino</sex>
                     <nationality>español/a</nationality>
                 </person>
-                <person xml:id="A132">
-                    <persName>
-                        <surname>Calcagno</surname>
-                        <forename>Francisco</forename>
-                        <addName type="pseudonym">Narciso Blanco</addName>
-                        <addName type="pseudonym">Un desocupado</addName>
-                        <addName type="pseudonym">Ignoto</addName>
-                        <addName type="pseudonym">Claude La Marche</addName>
-                        <addName type="pseudonym">Schochiklofkfwerhpruchisk</addName>
-                    </persName>
-                    <birth>
-                        <date when="1827">1827</date>
-                        <placeName>Güines</placeName>
-                        <placeName>La Habana</placeName>
-                    </birth>
-                    <death>
-                        <date when="1903-03-22">22 de marzo de 1903</date>
-                        <placeName>Barcelona</placeName>
-                        <placeName>España</placeName>
-                    </death>
-                    <sex>masculino</sex>
-                    <nationality>cubana/o</nationality>
-                </person>
                 <person xml:id="A134">
                     <persName>
                         <surname>Arriaga</surname>
@@ -1015,25 +957,6 @@
                     </persName>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
-                </person>
-                <person xml:id="A160">
-                    <persName>
-                        <surname>Castellanos</surname>
-                        <forename>Jesús</forename>
-                    </persName>
-                    <birth>
-                        <date when="1879-08-08">8 de agosto de 1879</date>
-                        <placeName>La Habana</placeName>
-                        <placeName>Cuba</placeName>
-                    </birth>
-                    <death>
-                        <date when="1912-05-29">29 de mayo de 1912</date>
-                        <placeName>La Habana</placeName>
-                        <placeName>Cuba</placeName>
-                    </death>
-                    <sex>masculino</sex>
-                    <nationality>cubana/o</nationality>
-                    <idno type="viaf">169901980</idno>
                 </person>
                 <person xml:id="A161">
                     <persName>
@@ -1435,43 +1358,6 @@
                     <sex>masculino</sex>
                     <nationality cert="medium">español/a</nationality>
                 </person>
-                <person xml:id="A191">
-                    <persName>
-                        <surname>Betancourt y Betancourt</surname>
-                        <forename>José Ramón</forename>
-                        <addName type="pseudonym">El Estudiante</addName>
-                    </persName>
-                    <birth>
-                        <date when="1823-10-18">18 de octubre de 1823</date>
-                        <placeName>Puerto Príncipe</placeName>
-                        <placeName>Cuba</placeName>
-                    </birth>
-                    <death>
-                        <date when="1890-06-23">23 de junio de 1890</date>
-                        <placeName>Puerto Príncipe</placeName>
-                        <placeName>Cuba</placeName>
-                    </death>
-                    <sex>masculino</sex>
-                    <nationality>cubana/o</nationality>
-                </person>
-                <person xml:id="A192">
-                    <persName>
-                        <surname>Costales</surname>
-                        <forename>Manuel</forename>
-                    </persName>
-                    <birth>
-                        <date when="1815-06-24">24 de junio de 1815</date>
-                        <placeName>La Habana</placeName>
-                        <placeName>Cuba</placeName>
-                    </birth>
-                    <death>
-                        <date when="1866-03-22">22 de marzo de 1866</date>
-                        <placeName>La Habana</placeName>
-                        <placeName>Cuba</placeName>
-                    </death>
-                    <sex>masculino</sex>
-                    <nationality>cubana/o</nationality>
-                </person>
                 <person xml:id="A195">
                     <persName>
                         <surname>Arenosa</surname>
@@ -1490,25 +1376,6 @@
                     <nationality>cubana/o</nationality>
                 </person>
                 <!-- Domingo del Monte y Portillo; Tradiciones matanceras; Trelles XIX, t. 4, p. 39 -->
-                <person xml:id="A197">
-                    <persName>
-                        <surname>Balmaseda</surname>
-                        <forename>Francisco Javier</forename>
-                    </persName>
-                    <birth>
-                        <date when="1823-03-31">31 de marzo de 1823</date>
-                        <placeName>Remedios, Las Villas</placeName>
-                        <placeName>Cuba</placeName>
-                    </birth>
-                    <death>
-                        <date when="1907-02-17">17 de febrero de 1907</date>
-                        <placeName>La Habana</placeName>
-                        <placeName>Cuba</placeName>
-                    </death>
-                    <idno type="viaf">99347477</idno>
-                    <sex>masculino</sex>
-                    <nationality>cubana/o</nationality>
-                </person>
                 <person xml:id="A199">
                     <persName>
                         <surname>Pichardo</surname>

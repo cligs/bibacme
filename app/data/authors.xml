@@ -87,6 +87,8 @@
                  - Horta, Eulogio, Bronces y rosas (Prosa), 1908
                  - GARCÍA, José de Jesús Quintiliano, Es autor de la narración «Dos padres para una hija», publicada en la 
                  Colección de novelas, cuentos, leyendas &, de autores cubanos (La Habana, Imp. del Tiempo, 1855).
+                 - Blanchet, Emilio. Cuadros y narraciones 1870, 1885?
+                 - Boti, Regino. Prosas emotivas, 1910; Rumbo a Jauco, 1910 (?)
                 -->
                 <person xml:id="A0">
                     <persName>
@@ -5760,6 +5762,401 @@
                     <idno type="viaf">90698223</idno>
                     <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
+                </person>
+                <person xml:id="A376">
+                    <persName>
+                        <surname>Echeverría</surname>
+                        <forename>José Antonio</forename>
+                    </persName>
+                    <birth>
+                        <date>desconocido</date>
+                        <placeName>Barcelona</placeName>
+                        <placeName>Venezuela</placeName>
+                    </birth>
+                    <death>
+                        <date when="1885-03-11">11 de marzo de 1885</date>
+                        <placeName>Nueva York</placeName>
+                        <placeName>Estados Unidos</placeName>
+                    </death>
+                    <sex>masculino</sex>
+                    <nationality cert="low">cubana/o</nationality>
+                    <note source="#DLC">Emigró a Cuba con su familia durante su primera
+                        infancia.</note>
+                </person>
+                <person xml:id="A377">
+                    <persName>
+                        <surname>Cabrera y Bosch</surname>
+                        <forename>Raimundo</forename>
+                    </persName>
+                    <birth>
+                        <date when="1852-03-09">9 de marzo de 1852</date>
+                        <placeName>La Habana</placeName>
+                        <placeName>Cuba</placeName>
+                    </birth>
+                    <death>
+                        <date when="1923-05-21">21 de mayo de 1923</date>
+                        <placeName>La Habana</placeName>
+                        <placeName>Cuba</placeName>
+                    </death>
+                    <idno type="viaf">38294080</idno>
+                    <sex>masculino</sex>
+                    <nationality>cubana/o</nationality>
+                    <!-- Mis buenos tiempos (Memorias de estudiante). La Habana, Imp. 
+                    de A. Álvarez, 1891; 2ª ed. Pról. de Rafael Montoro. Filadelfia, La Compañía Levytype, 1892;
+                    París, Librería Paul Ollendorff [1913?]: 4ª ed. La Habana, Ricardo Veloso editor, 1.922. (autobiografía) -->
+                </person>
+                <person xml:id="A378">
+                    <persName>
+                        <surname>Calcagno</surname>
+                        <forename>Francisco</forename>
+                        <addName type="pseudonym">Narciso Blanco</addName>
+                        <addName type="pseudonym">Un desocupado</addName>
+                        <addName type="pseudonym">Ignoto</addName>
+                        <addName type="pseudonym">Claude La Marche</addName>
+                        <addName type="pseudonym">Schochiklofkfwerhpruchisk</addName>
+                    </persName>
+                    <birth>
+                        <date when="1827">1827</date>
+                        <placeName>Güines</placeName>
+                        <placeName>La Habana</placeName>
+                        <placeName>Cuba</placeName>
+                    </birth>
+                    <death>
+                        <date when="1903-03-22">22 de marzo de 1903</date>
+                        <placeName>Barcelona</placeName>
+                        <placeName>España</placeName>
+                    </death>
+                    <idno type="viaf">56453354</idno>
+                    <sex>masculino</sex>
+                    <nationality>cubana/o</nationality>
+                    <!-- Recuerdos de antes de ayer... (1893, episodios cortos) https://archive.org/details/recuerdosdeante00calcgoog
+                    El Coburgo, novela (en Mesa revuelta I & II)
+                    El Fatalismo. Novela de costumbres (en Mesa revuelta II)
+                    Las mil y una mujeres. Novela (en Mesa revuelta II)
+                    Amirail. Novela india (en Mesa revuelta II)
+                    Tras la luna de miel. Novela. Continuación de Mis primeros amores (en Mesa revuelta II)
+                    La mulata. Novela de costumbres (en Mesa revuelta II)
+                    - Escenas cubanas. Güines, 1863.
+                    - Mesa revuelta; o sea, Recopilación de composiciones antiguas y modernas; 
+                    entre las cuales figuran picantes agudezas, cuentos, chistes, epigramas, chascarrillos, 
+                    anécdotas & muy útiles para los enfermos, enamorados, perseguidos de los ingleses, amigos 
+                    de velorios & e indispensable para los que han llevado calabazas o que padecen arranquitis. 
+                    Cuaderno tercero. La Habana, Imp. Militar, 1863.
+                    - Calcañotipos o sea retratos a la pluma, por un nuevo sistema de mi invención. Güines, Imp. La Antillana, 1864
+                    - Aponte. Barcelona, Tip. de Francisco Costa, 1901. 2 t. (?)
+                    - El aprendiz de zapatero. Monólogo. La Habana, Imp. El Pilar, 1891 (?)
+                    - Apuntes biográficos del ilustre sabio cubano D. Tranquilino Sandalio de Noda. Matanzas, Imp. Galería Literaria, 1891 (?)
+                    -->
+                </person>
+                <person xml:id="A379">
+                    <persName>
+                        <surname>Cárdenas y Rodríguez</surname>
+                        <forename>Nicolás de</forename>
+                        <addName type="pseudonym">Un cubano ausente de su patria</addName>
+                        <addName type="pseudonym">Teodemófilo</addName>
+                    </persName>
+                    <birth>
+                        <date when="1814">1814</date>
+                        <placeName>Limonar</placeName>
+                        <placeName>Matanzas</placeName>
+                        <placeName>Cuba</placeName>
+                    </birth>
+                    <death>
+                        <date when="1868-07-04">4 de julio de 1868</date>
+                        <placeName>La Habana</placeName>
+                        <placeName>Cuba</placeName>
+                    </death>
+                    <sex>masculino</sex>
+                    <nationality>cubana/o</nationality>
+                    <!-- Hatuey (leyenda, inédita, inconclusa) 
+                    D. Juan (novela, fragmentos) -->
+                </person>
+                <person xml:id="A380">
+                    <persName>
+                        <surname>Carricante</surname>
+                        <forename>Arturo R. de</forename>
+                        <addName type="pseudonym">C. de Arracerit</addName>
+                        <addName type="pseudonym">A. R. de Castro</addName>
+                        <addName type="pseudonym">Blas Gil</addName>
+                        <addName type="pseudonym">Segundo Valbuena</addName>
+                    </persName>
+                    <birth>
+                        <date when="1880-11-06">6 de noviembre de 1880</date>
+                        <placeName>La Habana</placeName>
+                        <placeName>Cuba</placeName>
+                    </birth>
+                    <death>
+                        <date when="1948-11-08">8 de noviembre de 1948</date>
+                        <placeName>Marianao</placeName>
+                        <placeName>La Habana</placeName>
+                        <placeName>Cuba</placeName>
+                    </death>
+                    <sex>masculino</sex>
+                    <nationality>cubana/o</nationality>
+                </person>
+                <person xml:id="A381">
+                    <persName>
+                        <surname>Carrillo y O'Farrill</surname>
+                        <forename>Isaac</forename>
+                    </persName>
+                    <birth>
+                        <date when="1844-05-11">11 de mayo de 1844</date>
+                        <placeName>La Habana</placeName>
+                        <placeName>Cuba</placeName>
+                    </birth>
+                    <death>
+                        <date when="1901-11-13">13 de noviembre de 1901</date>
+                        <placeName>La Habana</placeName>
+                        <placeName>Cuba</placeName>
+                    </death>
+                    <sex>masculino</sex>
+                    <nationality>cubana/o</nationality>
+                </person>
+                <person xml:id="A382">
+                    <persName>
+                        <surname>Carrión</surname>
+                        <forename>Miguel de</forename>
+                    </persName>
+                    <birth>
+                        <date when="1875-04-09">9 de abril de 1875</date>
+                        <placeName>La Habana</placeName>
+                        <placeName>Cuba</placeName>
+                    </birth>
+                    <death>
+                        <date when="1929-07-30">30 de julio de 1929</date>
+                        <placeName>La Habana</placeName>
+                        <placeName>Cuba</placeName>
+                    </death>
+                    <idno type="viaf">66475635</idno>
+                    <sex>masculino</sex>
+                    <nationality>cubana/o</nationality>
+                    <!-- El principio de autoridad (inconclusa)
+                    La última voluntad y otros relatos, 1903, http://online-db.iai.spk-berlin.de/han/789408953 -->
+                </person>
+                <person xml:id="A383">
+                    <persName>
+                        <surname>Castellanos</surname>
+                        <forename>Jesús</forename>
+                        <addName type="pseudonym">Scarpia</addName>
+                    </persName>
+                    <birth>
+                        <date when="1879-08-08">8 de agosto de 1879</date>
+                        <placeName>La Habana</placeName>
+                        <placeName>Cuba</placeName>
+                    </birth>
+                    <death>
+                        <date when="1912-05-29">29 de mayo de 1912</date>
+                        <placeName>La Habana</placeName>
+                        <placeName>Cuba</placeName>
+                    </death>
+                    <idno type="viaf">169901980</idno>
+                    <sex>masculino</sex>
+                    <nationality>cubana/o</nationality>
+                    <!-- De tierra adentro, 1906 (cuentos) -->
+                </person>
+                <person xml:id="A384">
+                    <persName>
+                        <surname>Costales y Govantes</surname>
+                        <forename>Manuel</forename>
+                    </persName>
+                    <birth>
+                        <date when="1815-06-24">24 de junio de 1815</date>
+                        <placeName>La Habana</placeName>
+                        <placeName>Cuba</placeName>
+                    </birth>
+                    <death>
+                        <date when="1866-03-22">22 de marzo de 1866</date>
+                        <placeName>La Habana</placeName>
+                        <placeName>Cuba</placeName>
+                    </death>
+                    <sex>masculino</sex>
+                    <nationality>cubana/o</nationality>
+                </person>
+                <person xml:id="A385">
+                    <persName>
+                        <surname>Cruz</surname>
+                        <forename>Manuel de la</forename>
+                    </persName>
+                    <birth>
+                        <date when="1861-09-17">17 de septiembre de 1861</date>
+                        <placeName>La Habana</placeName>
+                        <placeName>Cuba</placeName>
+                    </birth>
+                    <death>
+                        <date when="1896-02-19">19 de febrero de 1896</date>
+                        <placeName>Nueva York</placeName>
+                        <placeName>Estados Unidos</placeName>
+                    </death>
+                    <idno type="viaf">25996054</idno>
+                    <sex>masculino</sex>
+                    <nationality>cubana/o</nationality>
+                </person>
+                <person xml:id="A386">
+                    <persName>
+                        <surname>Bacardi Moreau</surname>
+                        <forename>Emilio</forename>
+                    </persName>
+                    <birth>
+                        <date when="1844-06-05">5 de junio de 1844</date>
+                        <placeName>Santiago de Cuba</placeName>
+                        <placeName>Cuba</placeName>
+                    </birth>
+                    <death>
+                        <date when="1922-08-28">28 de agosto de 1922</date>
+                        <placeName>Santiago de Cuba</placeName>
+                        <placeName>Cuba</placeName>
+                    </death>
+                    <idno type="viaf">28495747</idno>
+                    <sex>masculino</sex>
+                    <nationality>cubana/o</nationality>
+                    <!-- novelas inéditas: La hija del Hatuey, Filigrana, El Doctor Boileau -->
+                </person>
+                <person xml:id="A387">
+                    <persName>
+                        <surname>Bachiller y Morales</surname>
+                        <forename>Antonio</forename>
+                    </persName>
+                    <birth>
+                        <date when="1812-06-07">7 de junio de 1812</date>
+                        <placeName>La Habana</placeName>
+                        <placeName>Cuba</placeName>
+                    </birth>
+                    <death>
+                        <date when="1889-01-10">10 de enero de 1889</date>
+                        <placeName>La Habana</placeName>
+                        <placeName>Cuba</placeName>
+                    </death>
+                    <idno type="viaf">33462777</idno>
+                    <sex>masculino</sex>
+                    <nationality>cubana/o</nationality>
+                </person>
+                <person xml:id="A388">
+                    <persName>
+                        <surname>Balmaseda</surname>
+                        <forename>Francisco Javier</forename>
+                    </persName>
+                    <birth>
+                        <date when="1823-03-31">31 de marzo de 1823</date>
+                        <placeName>Remedios, Las Villas</placeName>
+                        <placeName>Cuba</placeName>
+                    </birth>
+                    <death>
+                        <date when="1907-02-17">17 de febrero de 1907</date>
+                        <placeName>La Habana</placeName>
+                        <placeName>Cuba</placeName>
+                    </death>
+                    <idno type="viaf">99347477</idno>
+                    <sex>masculino</sex>
+                    <nationality>cubana/o</nationality>
+                    <!-- Obras. Primer volumen. Cartagena de Colombia, Ruiz e hijos, editores, 1874. (poemas, etc.)
+                Monólogos. Amor y honor. Edmundo Dantés. La Habana, Imp. de E. F. Casona, 1889. ? -->
+                </person>
+                <person xml:id="A389">
+                    <persName>
+                        <surname>Betancourt y Betancourt</surname>
+                        <forename>José Ramón</forename>
+                        <addName type="pseudonym">El Estudiante</addName>
+                    </persName>
+                    <birth>
+                        <date when="1823-10-17">17 de octubre de 1823</date>
+                        <placeName>Camagüey</placeName>
+                        <placeName>Cuba</placeName>
+                    </birth>
+                    <death>
+                        <date when="1890-06-23">23 de junio de 1890</date>
+                        <placeName>La Habana</placeName>
+                        <placeName>Cuba</placeName>
+                    </death>
+                    <idno type="viaf">28643072</idno>
+                    <sex>masculino</sex>
+                    <nationality>cubana/o</nationality>
+                </person>
+                <person xml:id="A390">
+                    <persName>
+                        <surname>Blanchié</surname>
+                        <forename>Francisco Javier</forename>
+                    </persName>
+                    <birth>
+                        <date when="1822-11-25">25 de noviembre de 1822</date>
+                        <placeName>La Habana</placeName>
+                        <placeName>Cuba</placeName>
+                    </birth>
+                    <death>
+                        <date when="1847-01-27">27 de enero de 1847</date>
+                        <placeName>La Habana</placeName>
+                        <placeName>Cuba</placeName>
+                    </death>
+                    <idno type="viaf">87374211</idno>
+                    <sex>masculino</sex>
+                    <nationality>cubana/o</nationality>
+                </person>
+                <person xml:id="A391">
+                    <persName>
+                        <surname>Ángulo y Guridi</surname>
+                        <forename>Alejandro</forename>
+                    </persName>
+                    <birth>
+                        <date when="1822-05-03">3 de mayo de 1822</date>
+                        <placeName>Santo Domingo</placeName>
+                        <placeName>Repúblicana Dominicana</placeName>
+                    </birth>
+                    <death>
+                        <date when="1906-01-17">17 de enero de 1906</date>
+                        <placeName>Santo Domingo</placeName>
+                        <placeName>Repúblicana Dominicana</placeName>
+                    </death>
+                    <sex>masculino</sex>
+                    <nationality>dominicana/o</nationality>
+                </person>
+                <person xml:id="A392">
+                    <persName>
+                        <surname>Bobadilla</surname>
+                        <forename>Emilio</forename>
+                        <addName type="pseudonym">Fray Candil</addName>
+                    </persName>
+                    <birth>
+                        <date when="1862-07-24">24 de julio de 1862</date>
+                        <placeName>Cárdenas</placeName>
+                        <placeName>Matanzas</placeName>
+                        <placeName>Cuba</placeName>
+                    </birth>
+                    <death>
+                        <date when="1921-01-01">1 de enero de 1921</date>
+                        <placeName>Biarritz</placeName>
+                        <placeName>Francia</placeName>
+                    </death>
+                    <idno type="viaf">86959601</idno>
+                    <sex>masculino</sex>
+                    <nationality>cubana/o</nationality>
+                    <!-- Novelas en germen, Dos crepúsculos (10 páginas, sin capítulos) -->
+                </person>
+                <person xml:id="A393">
+                    <persName>
+                        <surname>Borrero Echeverría</surname>
+                        <forename>Esteban</forename>
+                    </persName>
+                    <birth>
+                        <date when="1849-06-26">26 de junio de 1849</date>
+                        <placeName>Puerto Príncipe</placeName>
+                        <placeName>Camagüey</placeName>
+                        <placeName>Cuba</placeName>
+                    </birth>
+                    <death>
+                        <date when="1906-03-29">29 de marzo de 1906</date>
+                        <placeName>San Diego de los Baños</placeName>
+                        <placeName>Pinar del Río</placeName>
+                        <placeName>Cuba</placeName>
+                    </death>
+                    <idno type="viaf">12664942</idno>
+                    <sex>masculino</sex>
+                    <nationality>cubana/o</nationality>
+                    <!-- Aventuras de las hormigas (novela inconclusa)
+                    - Una novelita, en Lectura de Pascuas
+                    (muy corta, http://www.prosamodernista.com/prosa-premodernista/esteban-borrero-echeverria
+                    https://drive.google.com/file/d/0B7tp3AozQe8KbjZjREtLcHBPclk/view)
+                    - Machito Pichón (en Lectura de Pascuas, muy corto)
+                    - Cuestión de Moneas (en Lectura de Pascuas, muy corto)
+                    -->
                 </person>
             </listPerson>
         </body>

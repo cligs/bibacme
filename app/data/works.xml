@@ -6101,6 +6101,250 @@
                     <title>Gabriel Reyes</title>
                     <bibl type="source"><ptr target="#DLC"/></bibl>
                 </bibl>
+                <bibl xml:id="W983">
+                    <author key="A376">Echeverría, José Antonio</author>
+                    <title>Antonelli</title>
+                    <term type="subgenre_lithist" resp="#DLC">novela histórica</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W984">
+                    <author key="A377">Cabrera y Bosch, Raimundo</author>
+                    <title>Episodios de la guerra. Mi vida en la manigua.</title>
+                    <term type="subgenre_title">episodios</term>
+                    <term type="subgenre_title">relato</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W985">
+                    <author key="A378">Calcagno, Francisco</author>
+                    <title>Historia de un muerto y noticias del otro mundo</title>
+                    <term type="subgenre_title">historia</term>
+                    <term type="subgenre_title">noticias</term>
+                    <term type="subgenre_title">meditaciones</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W986">
+                    <author key="A378">Calcagno, Francisco</author>
+                    <title>Uno de tantos</title>
+                    <title type="alt">Romualdo</title>
+                    <term type="subgenre_title">novela cubana</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                    <idno type="cligs">nh0016</idno>
+                    <ref>http://www.encaribe.org/es/Book?idTexto=496&amp;idRegistro=1429</ref>
+                </bibl>
+                <bibl xml:id="W987">
+                    <author key="A378">Calcagno, Francisco</author>
+                    <title>En busca del eslabón</title>
+                    <term type="subgenre_title">historia de monos</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W988">
+                    <author key="A378">Calcagno, Francisco</author>
+                    <title>Las Lazo</title>
+                    <title type="alt">Mina</title>
+                    <term type="subgenre_title">novela cubana histórica</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W989">
+                    <author key="A378">Calcagno, Francisco</author>
+                    <title>Don Enriquito</title>
+                    <title type="alt">Un casamiento misterioso</title>
+                    <term type="subgenre_title">novela histórica cubana</term>
+                    <term type="subgenre_title">novela cubana</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W990">
+                    <author key="A378">Calcagno, Francisco</author>
+                    <title>El emisario</title>
+                    <term type="subgenre_title">novela cubana</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W991">
+                    <author key="A378">Calcagno, Francisco</author>
+                    <title>S. I.</title>
+                    <term type="subgenre_title">novela histórica cubana</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W992">
+                    <author key="A378">Calcagno, Francisco</author>
+                    <title>Los crímenes de Concha</title>
+                    <term type="subgenre_title">escenas cubanas</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W993">
+                    <author key="A378">Calcagno, Francisco</author>
+                    <title>Mis primeros amores</title>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W994">
+                    <author key="A378">Calcagno, Francisco</author>
+                    <title>Tretas mercantiles</title>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W995">
+                    <author key="A379">Cárdenas y Rodríguez, Nicolás de</author>
+                    <title>Las dos bodas</title>
+                    <term type="subgenre_title">novela original</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W996">
+                    <author key="A379">Cárdenas y Rodríguez, Nicolás de</author>
+                    <title>Escenas de la vida en Cuba</title>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                    <!-- novela? -->
+                </bibl>
+                <bibl xml:id="W997">
+                    <author key="A380">Carricante, Arturo R. de</author>
+                    <title>Noche trágica, esbozo de novela</title>
+                    <term type="subgenre_title">esbozo de novela</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                    <!-- novela? -->
+                </bibl>
+                <bibl xml:id="W998">
+                    <author key="A381">Carrillo y O'Farrill, Isaac</author>
+                    <title>María</title>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W999">
+                    <author key="A382">Carrión, Miguel de</author>
+                    <title>El milagro</title>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W1000">
+                    <author key="A383">Castellanos, Jesús</author>
+                    <title>La conjura</title>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                    <idno type="cligs">nh0044</idno>
+                </bibl>
+                <bibl xml:id="W1001">
+                    <author key="A383">Castellanos, Jesús</author>
+                    <title>La manigua sentimental</title>
+                    <term type="subgenre_title">novela corta</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                    <idno type="cligs">nh0101</idno>
+                </bibl>
+                <bibl xml:id="W1002">
+                    <author key="A383">Castellanos, Jesús</author>
+                    <title>Una heroina</title>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                    <idno type="cligs">nh0051</idno>
+                </bibl>
+                <bibl xml:id="W1003">
+                    <author key="A383">Castellanos, Jesús</author>
+                    <title>Cabeza de familia</title>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W1004">
+                    <author key="A384">Costales y Govantes, Manuel</author>
+                    <title>Florentina</title>
+                    <term type="subgenre_title">escencas sociales</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W1005">
+                    <author key="A385">Cruz, Manuel de la</author>
+                    <title>La hija del montero</title>
+                    <term type="subgenre_title">cuento</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W1006">
+                    <author key="A385">Cruz, Manuel de la</author>
+                    <title>El capitán Córdova</title>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W1007">
+                    <author key="A385">Cruz, Manuel de la</author>
+                    <title>Juan Media Risa</title>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W1008">
+                    <author key="A386">Bacardi Moreau, Emilio</author>
+                    <title>Vía Crucis</title>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                    <ref>http://www.encaribe.org/es/Book?idTexto=544&amp;idRegistro=1620</ref>
+                </bibl>
+                <bibl xml:id="W1009">
+                    <author key="A387">Bachiller y Morales, Antonio</author>
+                    <title>Matilde o los bandidos de Cuba</title>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W1010">
+                    <author key="A387">Bachiller y Morales, Antonio</author>
+                    <title>La Habana en dos cuadros; o, La Seiba y el Templete</title>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W1011">
+                    <author key="A388">Balmaseda, Francisco Javier</author>
+                    <title>Los misterios de una cabaña</title>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W1012">
+                    <author key="A388">Balmaseda, Francisco Javier</author>
+                    <title>Historia de una iguana</title>
+                    <title type="alt">Los ebrios; o, La familia de Juan Candaya</title>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W1013">
+                    <author key="A388">Balmaseda, Francisco Javier</author>
+                    <title>Clementina</title>
+                    <term type="subgenre_title">novela política</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W1014">
+                    <author key="A389">Betancourt y Betancourt, José Ramón</author>
+                    <title>Una feria de la Caridad en 183…</title>
+                    <term type="subgenre_title">cuento camagüeyano</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                    <!-- comentario en Trelles XIX, Tomo IV, p. 8 -->
+                </bibl>
+                <bibl xml:id="W1015">
+                    <author key="A391">Ángulo y Guridi, Alejandro</author>
+                    <author key="A390">Blanchié, Francisco J.</author>
+                    <title>La venganza de un hijo</title>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W1016">
+                    <author key="A392">Bobadilla, Emilio</author>
+                    <title>A fuego lento</title>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                    <ref>http://www.cervantesvirtual.com/obra/a-fuego-lento--0/</ref>
+                </bibl>
+                <bibl xml:id="W1017">
+                    <author key="A392">Bobadilla, Emilio</author>
+                    <title>La fuga</title>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W1018">
+                    <author key="A392">Bobadilla, Emilio</author>
+                    <title>Las larvas</title>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W1019">
+                    <author key="A392">Bobadilla, Emilio</author>
+                    <title>La negra</title>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W1020">
+                    <author key="A392">Bobadilla, Emilio</author>
+                    <title>Quico el Sapo</title>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W1021">
+                    <author key="A392">Bobadilla, Emilio</author>
+                    <title>Fiebre de análisis</title>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W1022">
+                    <author key="A393">Borrero Echeverría, Esteban</author>
+                    <title>Calófilo</title>
+                    <bibl type="source"><ptr target="#ProsaModernista"/></bibl>
+                    <ref>http://bdigital.bnjm.cu/secciones/literatura/autores/30/obras/30_345.pdf</ref>
+                </bibl>
+                <bibl xml:id="W1023">
+                    <author key="A393">Borrero Echeverría, Esteban</author>
+                    <title>El ciervo encantado</title>
+                    <term type="subgenre_title">cuento prehistórico</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                    <ref>http://bdigital.bnjm.cu/secciones/literatura/autores/30/obras/30_525.pdf</ref>
+                </bibl>
             </listBibl>
         </body>
     </text>

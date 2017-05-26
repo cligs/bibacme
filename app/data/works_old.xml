@@ -202,11 +202,6 @@
                     <author key="A40">Andueza, José María de</author>
                     <title>La heredera de Almazán; o, Los Caballeros de la Banda</title>
                 </bibl>
-                <bibl xml:id="W146">
-                    <author key="A41">Ángulo y Guridi, Alejandro</author>
-                    <author key="A42">Blanchié, Francisco J.</author>
-                    <title>La venganza de un hijo</title>
-                </bibl>
                 <bibl xml:id="W159">
                     <author key="A45">Zuñiga, Antonio R.</author>
                     <title>Ebano vivo</title>
@@ -537,44 +532,6 @@
                     <author key="A131">Auber de Noya, Virginia Felicia</author>
                     <title>Un amor misterioso</title><!-- wann & wo publiziert? -->
                 </bibl>
-                <bibl xml:id="W378">
-                    <author key="A132">Calcagno, Francisco</author>
-                    <title>Romualdo. Uno de tantos</title>
-                    <idno type="cligs">nh0016</idno>
-                </bibl>
-                <bibl xml:id="W379">
-                    <author key="A132">Calcagno, Francisco</author>
-                    <title>Historia de un muerto y noticias del otro mundo</title>
-                </bibl>
-                <bibl xml:id="W380">
-                    <author key="A132">Calcagno, Francisco</author>
-                    <title>En busca del eslabón</title>
-                </bibl>
-                <bibl xml:id="W381">
-                    <author key="A132">Calcagno, Francisco</author>
-                    <title>Las Lazo</title>
-                </bibl>
-                <bibl xml:id="W382">
-                    <author key="A132">Calcagno, Francisco</author>
-                    <title>Mina. La hija del presidiario</title>
-                </bibl>
-                <bibl xml:id="W383">
-                    <author key="A132">Calcagno, Francisco</author>
-                    <title>Don Enriquito</title>
-                </bibl>
-                <bibl xml:id="W384">
-                    <author key="A132">Calcagno, Francisco</author>
-                    <title>El emisario</title>
-                </bibl>
-                <bibl xml:id="W385">
-                    <author key="A132">Calcagno, Francisco</author>
-                    <title>S. I.</title>
-                </bibl>
-                <bibl xml:id="W386">
-                    <author key="A132">Calcagno, Francisco</author>
-                    <title>Los crímenes de Concha</title>
-                </bibl>
-                <!-- Mesa revuelta? -->
                 <bibl xml:id="W390">
                     <author key="A1">Agüeros, Victoriano</author>
                     <title>Dos leyendas</title>
@@ -860,21 +817,6 @@
                     <author key="A153">Castellot, José Felipe</author>
                     <title>La Cuna de Piedra</title>
                 </bibl>
-                <bibl xml:id="W484">
-                    <author key="A160">Castellanos, Jesús</author>
-                    <title>La conjura</title>
-                    <idno type="cligs">nh0044</idno>
-                </bibl>
-                <bibl xml:id="W485">
-                    <author key="A160">Castellanos, Jesús</author>
-                    <title>La manigua sentimental</title>
-                    <idno type="cligs">nh0101</idno>
-                </bibl>
-                <bibl xml:id="W486">
-                    <author key="A160">Castellanos, Jesús</author>
-                    <title>Una heroina</title>
-                    <idno type="cligs">nh0051</idno>
-                </bibl>
                 <bibl xml:id="W487">
                     <author key="A167">Castro, Juan S.</author>
                     <title>Fray Antonio de la Concepción</title>
@@ -1074,35 +1016,9 @@
                     <author key="AX">anónimo</author>
                     <title>Horas de un soltero</title>
                 </bibl>
-                <bibl xml:id="W582">
-                    <author key="A191">Betancourt y Betancourt, José Ramón</author>
-                    <title>Una feria de la Caridad en 183…</title>
-                </bibl>
-                <bibl xml:id="W583">
-                    <author key="A192">Costales, Manuel</author>
-                    <title>Florentina</title>
-                </bibl>
-                
                 <bibl xml:id="W588">
                     <author key="A195">Arenosa, Antonio L.</author>
                     <title>María</title>
-                </bibl>
-                <bibl xml:id="W591">
-                    <author key="A197">Balmaseda, Francisco Javier</author>
-                    <title>Los misterios de una cabaña</title>
-                </bibl>
-                <bibl xml:id="W592">
-                    <author key="A197">Balmaseda, Francisco Javier</author>
-                    <title>Historia de una iguana</title>
-                </bibl>
-                <bibl xml:id="W593">
-                    <author key="A197">Balmaseda, Francisco Javier</author>
-                    <title>Los ebrios; o, La familia de Juan Candaya</title>
-                </bibl>
-                <!-- Obras. Primer volumen. Cartagena de Colombia, Ruiz e hijos, editores, 1874. WAS DARIN? -->
-                <bibl xml:id="W594">
-                    <author key="A197">Balmaseda, Francisco Javier</author>
-                    <title>Clementina</title>
                 </bibl>
                 <bibl xml:id="W598">
                     <author key="A199">Pichardo, Emilio</author>

@@ -394,20 +394,6 @@
                         <extent>4 t.</extent>
                     </monogr>
                 </biblStruct>
-                <biblStruct corresp="W146" xml:id="E115">
-                    <analytic>
-                        <author key="A41">Ángulo y Guridi, Alejandro</author>
-                        <author key="A42">Blanchié, Francisco J.</author>
-                        <title level="a" type="main">La venganza de un hijo</title>
-                    </analytic>
-                    <monogr>
-                        <title level="j" type="main">El Eco de Villa Clara</title>
-                        <imprint>
-                            <pubPlace corresp="CU">Santa Clara</pubPlace>
-                            <date when="1842">1842</date>
-                        </imprint>
-                    </monogr>
-                </biblStruct>
                 <biblStruct corresp="W159" xml:id="E128">
                     <monogr>
                         <author key="A45">Zuñiga, Antonio R.</author>
@@ -1479,153 +1465,6 @@
                     </monogr>
                     <ref>http://www.cervantesvirtual.com/obra/ambarina-tomo-i-historia-domestica-cubana--0/</ref>
                 </biblStruct>
-                <biblStruct corresp="W378" xml:id="E360">
-                    <monogr>
-                        <author key="A132">Calcagno, Francisco</author>
-                        <title level="m" type="main">Uno de tantos</title>
-                        <title level="m" type="sub">Novela cubana</title>
-                        <imprint>
-                            <publisher>Imprenta del Avisador Comercial</publisher>
-                            <pubPlace corresp="CU">La Habana</pubPlace>
-                            <date when="1881">1881</date>
-                        </imprint>
-                    </monogr>
-                </biblStruct>
-                <biblStruct corresp="W378" xml:id="E361">
-                    <monogr>
-                        <author key="A132">Calcagno, Francisco</author>
-                        <title level="m" type="main">Romualdo</title>
-                        <title level="m" type="sub">Uno de tantos</title>
-                        <imprint>
-                            <publisher>Est. Tip. El Pilar</publisher>
-                            <pubPlace corresp="CU">La Habana</pubPlace>
-                            <date when="1891">1891</date>
-                        </imprint>
-                    </monogr>
-                </biblStruct>
-                <biblStruct corresp="W379" xml:id="E362">
-                    <monogr>
-                        <author key="A132">Calcagno, Francisco</author>
-                        <title level="m" type="main">Historia de un muerto y noticias del otro
-                            mundo</title>
-                        <imprint>
-                            <publisher>Imprenta del Directorio</publisher>
-                            <pubPlace corresp="CU">La Habana</pubPlace>
-                            <date when="1875">1875</date>
-                        </imprint>
-                    </monogr>
-                    <ref>https://catalog.hathitrust.org/Record/100561137</ref>
-                </biblStruct>
-                <biblStruct corresp="W379" xml:id="E363">
-                    <monogr>
-                        <author key="A132">Calcagno, Francisco</author>
-                        <title level="m" type="main">Historia de un muerto</title>
-                        <title level="m" type="sub">Meditaciones sobre las ruinas de un
-                            hombre</title>
-                        <imprint>
-                            <publisher>Casa Editorial Maucci</publisher>
-                            <pubPlace corresp="ES">Barcelona</pubPlace>
-                            <date when="1898">1898</date>
-                        </imprint>
-                    </monogr>
-                </biblStruct>
-                <biblStruct corresp="W380" xml:id="E364">
-                    <monogr>
-                        <author key="A132">Calcagno, Francisco</author>
-                        <title level="m" type="main">En busca del eslabón</title>
-                        <title level="m" type="sub">Historia de monos</title>
-                        <imprint>
-                            <publisher>Imp. de S. Manero</publisher>
-                            <pubPlace corresp="ES">Barcelona</pubPlace>
-                            <date when="1888">1888</date>
-                        </imprint>
-                    </monogr>
-                </biblStruct>
-                <biblStruct corresp="W381" xml:id="E365">
-                    <monogr>
-                        <author key="A132">Calcagno, Francisco</author>
-                        <title level="m" type="main">Las Lazo</title>
-                        <imprint>
-                            <publisher>Imprenta El Aerolito</publisher>
-                            <pubPlace corresp="CU">La Habana</pubPlace>
-                            <date when="1893">1893</date>
-                        </imprint>
-                    </monogr>
-                </biblStruct>
-                <biblStruct corresp="W382" xml:id="E366">
-                    <monogr>
-                        <author key="A132">Calcagno, Francisco</author>
-                        <title level="m" type="main">Mina</title>
-                        <title level="m" type="sub">La hija del presidiario</title>
-                        <title level="m" type="sub">Novela cubana histórica</title>
-                        <imprint>
-                            <publisher>Est. Tip. de J. Famades</publisher>
-                            <pubPlace corresp="ES">Barcelona</pubPlace>
-                            <date when="1896">1896</date>
-                        </imprint>
-                    </monogr>
-                </biblStruct>
-                <biblStruct corresp="W383" xml:id="E367">
-                    <monogr>
-                        <author key="A132">Calcagno, Francisco</author>
-                        <title level="m" type="main">Don Enriquito</title>
-                        <title level="m" type="sub">Novela histórica cubana</title>
-                        <imprint>
-                            <publisher>Imprenta El Pilar</publisher>
-                            <pubPlace corresp="CU">La Habana</pubPlace>
-                            <date when="1895">1895</date>
-                        </imprint>
-                    </monogr>
-                </biblStruct>
-                <biblStruct corresp="W383" xml:id="E368">
-                    <monogr>
-                        <author key="A132">Calcagno, Francisco</author>
-                        <title level="m" type="main">Un casamiento misterioso</title>
-                        <title level="m" type="sub">(Musiú Enriquito)</title>
-                        <title level="m" type="sub">Novela cubana</title>
-                        <imprint>
-                            <publisher>Imprenta de T. Lozano</publisher>
-                            <pubPlace corresp="ES">Barcelona</pubPlace>
-                            <date when="1897">1897</date>
-                        </imprint>
-                    </monogr>
-                </biblStruct>
-                <biblStruct corresp="W384" xml:id="E369">
-                    <monogr>
-                        <author key="A132">Calcagno, Francisco</author>
-                        <title level="m" type="main">El emisario</title>
-                        <title level="m" type="sub">Novela cubana</title>
-                        <imprint>
-                            <publisher>Librería Ed. Maucci</publisher>
-                            <pubPlace corresp="ES">Barcelona</pubPlace>
-                            <date when="1896">1896</date>
-                        </imprint>
-                    </monogr>
-                </biblStruct>
-                <biblStruct corresp="W385" xml:id="E370">
-                    <monogr>
-                        <author key="A132">Calcagno, Francisco</author>
-                        <title level="m" type="main">S. I.</title>
-                        <title level="m" type="sub">Novela cubana histórica</title>
-                        <imprint>
-                            <publisher>Est. Tip. de J. Famades</publisher>
-                            <pubPlace corresp="ES">Barcelona</pubPlace>
-                            <date when="1896">1896</date>
-                        </imprint>
-                    </monogr>
-                </biblStruct>
-                <biblStruct corresp="W386" xml:id="E371">
-                    <monogr>
-                        <author key="A132">Calcagno, Francisco</author>
-                        <title level="m" type="main">Los crímenes de Concha</title>
-                        <title level="m" type="sub">Escenas cubanas</title>
-                        <imprint>
-                            <publisher>Imprenta de E. L. Casona</publisher>
-                            <pubPlace corresp="CU">La Habana</pubPlace>
-                            <date when="1887">1887</date>
-                        </imprint>
-                    </monogr>
-                </biblStruct>
                 <biblStruct corresp="W391" xml:id="E375">
                     <analytic>
                         <author key="A11">Ancona, Eligio</author>
@@ -2522,44 +2361,6 @@
                     </monogr>
                     <note resp="Iguiniz">subscripta en 1903</note>
                     <ref>https://archive.org/details/lacunadepiedra00castgoog</ref>
-                </biblStruct>
-                <biblStruct corresp="W484" xml:id="E469">
-                    <monogr>
-                        <author key="A160">Castellanos, Jesús</author>
-                        <title level="m" type="main">La conjura</title>
-                        <title level="m" type="sub">Novela</title>
-                        <imprint>
-                            <publisher>Tipografía de la Revista de Archivos</publisher>
-                            <pubPlace corresp="ES">Madrid</pubPlace>
-                            <date when="1909">1909</date>
-                        </imprint>
-                    </monogr>
-                </biblStruct>
-                <biblStruct corresp="W485" xml:id="E470">
-                    <monogr>
-                        <author key="A160">Castellanos, Jesús</author>
-                        <title level="m" type="main">La manigua sentimental</title>
-                        <title level="m" type="sub">Novela corta</title>
-                        <imprint>
-                            <pubPlace corresp="ES">Madrid</pubPlace>
-                            <date when="1910">1910</date>
-                        </imprint>
-                    </monogr>
-                </biblStruct>
-                <biblStruct corresp="W486" xml:id="E471">
-                    <analytic>
-                        <author key="A160">Castellanos, Jesús</author>
-                        <title level="a" type="main">Una heroina</title>
-                    </analytic>
-                    <monogr>
-                        <title level="m" type="main">La conjura</title>
-                        <title level="m" type="sub">Novela</title>
-                        <imprint>
-                            <publisher>Tipografía de la Revista de Archivos</publisher>
-                            <pubPlace corresp="ES">Madrid</pubPlace>
-                            <date when="1909">1909</date>
-                        </imprint>
-                    </monogr>
                 </biblStruct>
                 <biblStruct corresp="W488" xml:id="E472">
                     <monogr>
@@ -3823,54 +3624,6 @@
                         <extent>en 8° M, 71 p.</extent>
                     </monogr>
                 </biblStruct>
-                <biblStruct corresp="W582" xml:id="E711">
-                    <monogr>
-                        <author key="A191">Betancourt y Betancourt, José Ramón</author>
-                        <title level="m" type="main">Una feria de la Caridad en 183…</title>
-                        <title level="m" type="sub">Cuento camagüeyano escrito en 1841</title>
-                        <imprint>
-                            <publisher>Imprenta del "Fanal"</publisher>
-                            <pubPlace corresp="CU">Puerto Príncipe</pubPlace>
-                            <date when="1856">1856</date>
-                        </imprint>
-                        <extent>en 4° M, 107 p.</extent>
-                    </monogr>
-                </biblStruct>
-                <biblStruct corresp="W582" xml:id="E712">
-                    <!-- comentario en Trelles XIX, Tomo IV, p. 8 -->
-                    <monogr>
-                        <author key="A191">Betancourt y Betancourt, José Ramón</author>
-                        <title level="m" type="main">Una feria de la Caridad en 183…</title>
-                        <title level="m" type="sub">cuento camagüeyano, escrito en 1841, por J.
-                            Ramón de Betancourt</title>
-                        <imprint>
-                            <publisher>Imprenta Militar del Soler</publisher>
-                            <pubPlace corresp="CU">La Habana</pubPlace>
-                            <date when="1858">1858</date>
-                        </imprint>
-                        <extent>en 8° M, 237 p. y 4 láminas</extent>
-                    </monogr>
-                    <note resp="#Trelles">Es una edición muy corregida.</note>
-                </biblStruct>
-                <biblStruct corresp="W582" xml:id="E713">
-                    <monogr>
-                        <author key="A191">Betancourt y Betancourt, José Ramón</author>
-                        <title level="m" type="main">Una feria de la Caridad en 183…</title>
-                        <title level="m" type="sub">Cuento camagüeyano</title>
-                        <title level="m" type="sub">Precedido de un juicio crítico por D. Cirilo
-                            Villaverde</title>
-                        <edition>Tercera edición ilustrada y notablemente aumentada</edition>
-                        <imprint>
-                            <publisher>Imprenta de L. Tasso</publisher>
-                            <pubPlace corresp="ES">Barcelona</pubPlace>
-                            <date when="1885">1885</date>
-                        </imprint>
-                        <extent>dos volúmenes en 8° M, con 212-200 p.</extent>
-                    </monogr>
-                    <series>
-                        <title level="s">Biblioteca de la Ilustración Cubana</title>
-                    </series>
-                </biblStruct>
                 <biblStruct corresp="W583" xml:id="E714">
                     <monogr>
                         <author key="A192">Costales, Manuel</author>
@@ -3909,69 +3662,6 @@
                         </imprint>
                         <extent>en 12°, 95 p.</extent>
                     </monogr>
-                </biblStruct>
-                <biblStruct corresp="W591" xml:id="E729">
-                    <monogr>
-                        <author key="A197">Balmaseda, Francisco Javier</author>
-                        <title type="main" level="m">Los misterios de una cabaña</title>
-                        <title type="sub" level="m">Novela</title>
-                        <imprint>
-                            <publisher>Imp. de Frank</publisher>
-                            <pubPlace corresp="CU">Remedios (Las Villas)</pubPlace>
-                            <date when="1866">1866</date>
-                        </imprint>
-                        <extent>2 volúmenes</extent>
-                    </monogr>
-                </biblStruct>
-                <biblStruct corresp="W592" xml:id="E730">
-                    <monogr>
-                        <author key="A197">Balmaseda, Francisco Javier</author>
-                        <title type="main" level="m">Historia de una iguana</title>
-                        <title type="sub" level="m">Novela</title>
-                        <edition>segunda edición</edition>
-                        <imprint>
-                            <publisher>Imp. de Domingo González Rubio</publisher>
-                            <pubPlace corresp="CO">Barranquilla (Colombia)</pubPlace>
-                            <date when="1874">1874</date>
-                        </imprint>
-                    </monogr>
-                </biblStruct>
-                <biblStruct corresp="W593" xml:id="E731">
-                    <monogr>
-                        <author key="A197">Balmaseda, Francisco Javier</author>
-                        <title type="main" level="m">Los ebrios; o, La familia de Juan
-                            Candaya</title>
-                        <title type="sub" level="m">Novela</title>
-                        <imprint>
-                            <publisher>Imp. de J. A. Casanova</publisher>
-                            <pubPlace corresp="CU">La Habana</pubPlace>
-                            <date when="1903">1903</date>
-                        </imprint>
-                    </monogr>
-                </biblStruct>
-                <biblStruct corresp="W594" xml:id="E732">
-                    <monogr>
-                        <author key="A197">Balmaseda, Francisco Javier</author>
-                        <title type="main" level="m">Clementina</title>
-                        <title type="sub" level="m">Novela política</title>
-                        <title type="sub" level="m">Primera parte</title>
-                        <imprint>
-                            <publisher>Tipografía de García</publisher>
-                            <pubPlace corresp="CO">Cartagena de Indias (Colombia)</pubPlace>
-                            <date from="1896" to="1897">1896-1897</date>
-                        </imprint>
-                    </monogr>
-                    <monogr>
-                        <title type="main" level="m">Quince años después</title>
-                        <title type="sub" level="m">Continuación de esta novela por el mismo
-                            autor</title>
-                        <imprint>
-                            <publisher>Tipografía de García</publisher>
-                            <pubPlace corresp="CO">Cartagena de Indias (Colombia)</pubPlace>
-                            <date from="1896" to="1897">1896-1897</date>
-                        </imprint>
-                    </monogr>
-                    <note>2 tomos en uno</note>
                 </biblStruct>
                 <biblStruct corresp="W598" xml:id="E736">
                     <monogr>
