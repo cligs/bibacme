@@ -162,46 +162,6 @@
                         <term type="subgenre_title">novela histórica</term>
                     </note>
                 </bibl>
-                <bibl xml:id="W26">
-                    <author key="A9">Castillo, Florencio M. del</author>
-                    <title>Amor y desgracia</title>
-                </bibl>
-                <bibl xml:id="W48">
-                    <author key="A9">Castillo, Florencio M. del</author>
-                    <title>La Corona de Azucenas</title>
-                </bibl>
-                <bibl xml:id="W57">
-                    <author key="A9">Castillo, Florencio M. del</author>
-                    <title>¡Hasta el cielo!</title>
-                </bibl>
-                <bibl xml:id="W64">
-                    <author key="A9">Castillo, Florencio M. del</author>
-                    <title>Dolores ocultos</title>
-                </bibl>
-                <bibl xml:id="W66">
-                    <author key="A9">Castillo, Florencio M. del</author>
-                    <title>Hermana de los ángeles</title>
-                </bibl>
-                <bibl xml:id="W71">
-                    <author key="A9">Castillo, Florencio M. del</author>
-                    <title>Dos horas en el Hospital de San Andrés</title>
-                </bibl>
-                <bibl xml:id="W100">
-                    <author key="A9">Castillo, Florencio M. del</author>
-                    <title>Culpa</title>
-                </bibl>
-                <bibl xml:id="Wxxx">
-                    <author key="A13">Castrejón, Eduardo A.</author>
-                    <title>Los Cuarenta y Uno</title>
-                </bibl>
-                <bibl xml:id="W129">
-                    <author key="A23">Castillo, Rafael del</author>
-                    <title>Doña Consuelo</title>
-                </bibl>
-                <bibl xml:id="W145">
-                    <author key="A40">Andueza, José María de</author>
-                    <title>La heredera de Almazán; o, Los Caballeros de la Banda</title>
-                </bibl>
                 <bibl xml:id="W159">
                     <author key="A45">Zuñiga, Antonio R.</author>
                     <title>Ebano vivo</title>
@@ -425,10 +385,6 @@
                     <title>La noche buena</title>
                     <idno type="cligs">nh0130</idno>
                 </bibl>
-                <bibl xml:id="W300">
-                    <author key="A23">Castillo, Rafael del</author>
-                    <title>Los que Lloran</title>
-                </bibl>
                 <bibl xml:id="W312">
                     <author key="A11">Ancona, Eligio</author>
                     <title>La Mestiza</title>
@@ -458,80 +414,6 @@
                     <title>Hacia la justicia</title>
                     <idno type="cligs">nh0033</idno>
                 </bibl>
-                <bibl xml:id="W341">
-                    <author key="A23">Castillo, Rafael del</author>
-                    <title>La Carpeta Verde</title>
-                </bibl>
-                <bibl xml:id="W361">
-                    <author key="A131">Auber de Noya, Virginia Felicia</author>
-                    <title>Un aria de Bellini</title>
-                </bibl>
-                <bibl xml:id="W362">
-                    <author key="A131">Auber de Noya, Virginia Felicia</author>
-                    <title>Wilhelmina</title>
-                </bibl>
-                <bibl xml:id="W363">
-                    <author key="A131">Auber de Noya, Virginia Felicia</author>
-                    <title>Leoncio</title>
-                    <idno type="cligs">nh0014</idno>
-                </bibl>
-                <bibl xml:id="W364">
-                    <author key="A131">Auber de Noya, Virginia Felicia</author>
-                    <title>Un casamiento original</title>
-                    <idno type="cligs">nh0015</idno>
-                </bibl>
-                <bibl xml:id="W365">
-                    <author key="A131">Auber de Noya, Virginia Felicia</author>
-                    <title>El castillo de la loca</title>
-                </bibl>
-                <bibl xml:id="W366">
-                    <author key="A131">Auber de Noya, Virginia Felicia</author>
-                    <title>Mauricio</title>
-                </bibl>
-                <bibl xml:id="W367">
-                    <author key="A131">Auber de Noya, Virginia Felicia</author>
-                    <title>Una falta</title>
-                </bibl>
-                <bibl xml:id="W368">
-                    <author key="A131">Auber de Noya, Virginia Felicia</author>
-                    <title>Úrsula</title>
-                </bibl>
-                <bibl xml:id="W369">
-                    <author key="A131">Auber de Noya, Virginia Felicia</author>
-                    <title>Una venganza</title>
-                </bibl>
-                <bibl xml:id="W370">
-                    <author key="A131">Auber de Noya, Virginia Felicia</author>
-                    <title>Una habanera</title>
-                </bibl>
-                <bibl xml:id="W371">
-                    <author key="A131">Auber de Noya, Virginia Felicia</author>
-                    <title>Perseverancia</title>
-                </bibl>
-                <bibl xml:id="W372">
-                    <author key="A131">Auber de Noya, Virginia Felicia</author>
-                    <title>Otros tiempos</title>
-                </bibl>
-                <bibl xml:id="W373">
-                    <author key="A131">Auber de Noya, Virginia Felicia</author>
-                    <title>Ambarina</title>
-                </bibl>
-                <bibl xml:id="W374">
-                    <author key="A131">Auber de Noya, Virginia Felicia</author>
-                    <title>Los dos castillos</title><!-- wann & wo publiziert? -->
-                </bibl>
-                <bibl xml:id="W375">
-                    <author key="A131">Auber de Noya, Virginia Felicia</author>
-                    <title>Teresa</title><!-- wann & wo publiziert? -->
-                </bibl>
-                <bibl xml:id="W376">
-                    <author key="A131">Auber de Noya, Virginia Felicia</author>
-                    <title>Una historia bajo los árboles</title><!-- wann & wo publiziert? -->
-                </bibl>
-                <bibl xml:id="W377">
-                    <author key="A131">Auber de Noya, Virginia Felicia</author>
-                    <title>Un amor misterioso</title><!-- wann & wo publiziert? -->
-                </bibl>
                 <bibl xml:id="W390">
                     <author key="A1">Agüeros, Victoriano</author>
                     <title>Dos leyendas</title>
@@ -545,10 +427,6 @@
                     <author key="A11">Ancona, Eligio</author>
                     <title>Uno de tantos</title>
                     <idno type="cligs">nh0021</idno>
-                </bibl>
-                <bibl xml:id="W392">
-                    <author key="A23">Castillo, Rafael del</author>
-                    <title>La Muerte de una Copa</title>
                 </bibl>
                 <bibl xml:id="W393">
                     <author key="AX">anómimo</author>
@@ -766,61 +644,6 @@
                     <author key="A145">Bravo López, Bernabé</author>
                     <title>A muerte</title>
                 </bibl>
-                <bibl xml:id="W442">
-                    <author key="A146">Calderón, Luis</author>
-                    <title>Los novios</title>
-                </bibl>
-                <bibl xml:id="W443">
-                    <author key="A147">Calderón de Becerra, Pablo</author>
-                    <title>Margarita</title>
-                </bibl>
-                <bibl xml:id="W444">
-                    <author key="A148">Camberos, Manuela G. de</author>
-                    <title>La Venganza de una Madre</title>
-                </bibl>
-                <bibl xml:id="W445">
-                    <author key="A149">Campo y Valle, Ángel de</author>
-                    <title>La Rumba</title>
-                    <idno type="cligs">nh0133</idno>
-                </bibl>
-                <bibl xml:id="W446">
-                    <author key="A149">Campo y Valle, Ángel de</author>
-                    <title>El de los claveles dobles</title>
-                    <idno type="cligs">nh0148</idno>
-                </bibl>
-                <bibl xml:id="W447">
-                    <author key="A149">Campo y Valle, Ángel de</author>
-                    <title>Apuntes sobre Perico Vera</title>
-                </bibl>
-                <bibl xml:id="W448">
-                    <author key="A150">Campos, Rubén M.</author>
-                    <title>Claudio Oronoz</title>
-                </bibl>
-                <bibl xml:id="W449">
-                    <author key="A151">Carrillo y Ancona, Crescencio</author>
-                    <title>Historia de Welinna</title>
-                    <idno type="cligs">nh0179</idno>
-                </bibl>
-                <bibl xml:id="W450">
-                    <author key="A151">Carrillo y Ancona, Crescencio</author>
-                    <title>El santuario de la aldea</title>
-                </bibl>
-                <bibl xml:id="W451">
-                    <author key="A151">Carrillo y Ancona, Crescencio</author>
-                    <title>El rayo de sol</title>
-                </bibl>
-                <bibl xml:id="W452">
-                    <author key="A152">Carrión, Antonio</author>
-                    <title>Doña Violante de Ávila</title>
-                </bibl>
-                <bibl xml:id="W453">
-                    <author key="A153">Castellot, José Felipe</author>
-                    <title>La Cuna de Piedra</title>
-                </bibl>
-                <bibl xml:id="W487">
-                    <author key="A167">Castro, Juan S.</author>
-                    <title>Fray Antonio de la Concepción</title>
-                </bibl>
                 <bibl xml:id="W488">
                     <author key="A161">González, Joaquín Víctor</author>
                     <title>Mis montañas</title>
@@ -834,48 +657,6 @@
                 <bibl xml:id="W497">
                     <author key="A165">Álvarez Prieto, Fernando</author>
                     <title>La Virgen del Tepeyac</title>
-                </bibl>
-                <bibl xml:id="W498">
-                    <author key="A166">Castera, Pedro</author>
-                    <title>Carmen</title>
-                    <term type="subgenre_lithist" resp="Iguiniz">novela sentimental</term>
-                </bibl>
-                <bibl xml:id="W499">
-                    <author key="A166">Castera, Pedro</author>
-                    <title>Impresiones y recuerdos</title>
-                </bibl>
-                <bibl xml:id="W500">
-                    <author key="A166">Castera, Pedro</author>
-                    <title>Los Maduros</title>
-                </bibl>
-                <bibl xml:id="W501">
-                    <author key="A166">Castera, Pedro</author>
-                    <title>Dramas de un Corazón</title>
-                </bibl>
-                <bibl xml:id="W502">
-                    <author key="A166">Castera, Pedro</author>
-                    <title>Querens</title>
-                </bibl>
-                <bibl xml:id="W503">
-                    <author key="A168">Ceballos, Ciro B.</author>
-                    <title>Monografía</title>
-                </bibl>
-                <bibl xml:id="W504">
-                    <author key="A168">Ceballos, Ciro B.</author>
-                    <title>Un Adulterio</title>
-                </bibl>
-                <bibl xml:id="W505">
-                    <author key="A168">Ceballos, Ciro B.</author>
-                    <title>El delito</title>
-                </bibl>
-                <bibl xml:id="W506">
-                    <author key="A169">Ceniceros y Villarreal, Rafael</author>
-                    <title>La Siega</title>
-                    <term type="subgenre_title">novela de costumbres</term>
-                </bibl>
-                <bibl xml:id="W507">
-                    <author key="A169">Ceniceros y Villarreal, Rafael</author>
-                    <title>El hombre nuevo</title>
                 </bibl>
                 <bibl xml:id="W508">
                     <author key="A170">Cordero, Juan N.</author>

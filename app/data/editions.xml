@@ -21906,6 +21906,2125 @@
                         </imprint>
                     </monogr>
                 </biblStruct>
+                <biblStruct corresp="W1024" xml:id="E1450">
+                    <monogr>
+                        <author key="A394">Andueza, José María de</author>
+                        <title type="main" level="m">La heredera de Almazán; o, Los Caballeros de la
+                            Banda</title>
+                        <title type="sub" level="m">Novela histórica del siglo XIV</title>
+                        <imprint>
+                            <publisher>Imp. de Palmer</publisher>
+                            <pubPlace corresp="CU">La Habana</pubPlace>
+                            <date when="1837">1837</date>
+                        </imprint>
+                        <extent>4 t.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1025" xml:id="E1451">
+                    <analytic>
+                        <author key="A394">Andueza, José María de</author>
+                        <title level="a" type="main">Abul Hacem</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="j">El Plantel</title>
+                        <imprint>
+                            <pubPlace corresp="CU">La Habana</pubPlace>
+                            <date from="1838" to="1839">1838-1839</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1026" xml:id="E1452">
+                    <analytic>
+                        <author key="A394">Andueza, José María de</author>
+                        <title level="a" type="main">Espatolino</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="j">El Plantel</title>
+                        <imprint>
+                            <pubPlace corresp="CU">La Habana</pubPlace>
+                            <date from="1838" to="1839">1838-1839</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1027" xml:id="E1453">
+                    <analytic>
+                        <author key="A394">Andueza, José María de</author>
+                        <title level="a" type="main">Margarita</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="j">El Plantel</title>
+                        <imprint>
+                            <pubPlace corresp="CU">La Habana</pubPlace>
+                            <date from="1838" to="1839">1838-1839</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1028" xml:id="E1454">
+                    <monogr>
+                        <author key="A391">Ángulo y Guridi, Alejandro</author>
+                        <title level="m" type="main">Los amores de los indios</title>
+                        <imprint>
+                            <publisher>Imprenta El Eco</publisher>
+                            <pubPlace corresp="CU">Villa Clara</pubPlace>
+                            <date when="1843">1843</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1029" xml:id="E1455">
+                    <monogr>
+                        <author key="A395">Aramburu, Joaquín N.</author>
+                        <title level="m" type="main">Un detallista feliz</title>
+                        <title level="m" type="sub">Novela festiva de costumbres cubanas</title>
+                        <imprint>
+                            <publisher>Imprenta La América</publisher>
+                            <pubPlace corresp="CU">Guanajay (Pinar del Río)</pubPlace>
+                            <date when="1892">1892</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1030" xml:id="E1456">
+                    <monogr>
+                        <author key="A396">Armas y Céspedes, José de</author>
+                        <title level="m" type="main">Frasquito</title>
+                        <title level="m" type="sub">Novela original</title>
+                        <imprint>
+                            <publisher>Imprenta y Papelería la Universal</publisher>
+                            <pubPlace corresp="CU">La Habana</pubPlace>
+                            <date when="1894">1894</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1031" xml:id="E1457">
+                    <analytic>
+                        <author key="A397">Auber de Noya, Virginia Felicia</author>
+                        <title level="a" type="main">Un aria de Bellini</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m">Entretenimientos literarios</title>
+                        <imprint>
+                            <publisher>Imprenta del Gobierno por S.M.</publisher>
+                            <pubPlace corresp="CU">La Habana</pubPlace>
+                            <date from="1843" to="1844">1843-1844</date>
+                        </imprint>
+                        <biblScope unit="volume">T. 1</biblScope>
+                    </monogr>
+                    <ref>https://catalog.hathitrust.org/Record/011556273</ref>
+                </biblStruct>
+                <biblStruct corresp="W1032" xml:id="E1458">
+                    <analytic>
+                        <author key="A397">Auber de Noya, Virginia Felicia</author>
+                        <title level="a" type="main">Wilhelmina</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m">Entretenimientos literarios</title>
+                        <imprint>
+                            <publisher>Imprenta del Gobierno por S.M.</publisher>
+                            <pubPlace corresp="CU">La Habana</pubPlace>
+                            <date from="1843" to="1844">1843-1844</date>
+                        </imprint>
+                        <biblScope unit="volume">T. 1</biblScope>
+                    </monogr>
+                    <ref>https://catalog.hathitrust.org/Record/011556273</ref>
+                </biblStruct>
+                <biblStruct corresp="W1033" xml:id="E1459">
+                    <analytic>
+                        <author key="A397">Auber de Noya, Virginia Felicia</author>
+                        <title level="a" type="main">Leoncio</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m">Entretenimientos literarios</title>
+                        <imprint>
+                            <publisher>Imprenta del Gobierno por S.M.</publisher>
+                            <pubPlace corresp="CU">La Habana</pubPlace>
+                            <date from="1843" to="1844">1843-1844</date>
+                        </imprint>
+                        <biblScope unit="volume">T. 2</biblScope>
+                        <extent>2 tomos</extent>
+                    </monogr>
+                    <ref>https://catalog.hathitrust.org/Record/011556273</ref>
+                </biblStruct>
+                <biblStruct corresp="W1034" xml:id="E1460">
+                    <analytic>
+                        <author key="A397">Auber de Noya, Virginia Felicia</author>
+                        <title level="a" type="main">Un casamiento original</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m">Entretenimientos literarios</title>
+                        <imprint>
+                            <publisher>Imprenta del Gobierno por S.M.</publisher>
+                            <pubPlace corresp="CU">La Habana</pubPlace>
+                            <date from="1843" to="1844">1843-1844</date>
+                        </imprint>
+                        <extent>2 tomos</extent>
+                        <biblScope unit="volume">T. 2</biblScope>
+                    </monogr>
+                    <ref>https://catalog.hathitrust.org/Record/011556273</ref>
+                </biblStruct>
+                <biblStruct corresp="W1035" xml:id="E1461">
+                    <monogr>
+                        <author key="A397">Auber de Noya, Virginia Felicia</author>
+                        <title level="m" type="main">El castillo de la loca</title>
+                        <title level="m" type="sub">Tradición siciliana</title>
+                        <imprint>
+                            <publisher>Imprenta del Gobierno por S.M.</publisher>
+                            <pubPlace corresp="CU">La Habana</pubPlace>
+                            <date when="1844">1844</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1036" xml:id="E1462">
+                    <monogr>
+                        <author key="A397">Auber de Noya, Virginia Felicia</author>
+                        <title level="m" type="main">Mauricio</title>
+                        <imprint>
+                            <publisher>Imprenta del Gobierno por S.M.</publisher>
+                            <pubPlace corresp="CU">La Habana</pubPlace>
+                            <date when="1845">1845</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1037" xml:id="E1463">
+                    <monogr>
+                        <author key="A397">Auber de Noya, Virginia Felicia</author>
+                        <title level="m" type="main">Una falta</title>
+                        <title level="m" type="sub">Novela original</title>
+                        <imprint>
+                            <publisher>Imprenta del Gobierno por S.M.</publisher>
+                            <pubPlace corresp="CU">La Habana</pubPlace>
+                            <date when="1846">1846</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1038" xml:id="E1464">
+                    <monogr>
+                        <author key="A397">Auber de Noya, Virginia Felicia</author>
+                        <title level="m" type="main">Úrsula</title>
+                        <title level="m" type="sub">Novela</title>
+                        <imprint>
+                            <pubPlace corresp="CU">La Habana</pubPlace>
+                            <date when="1846">1846</date>
+                        </imprint>
+                    </monogr>
+                    <ref>https://catalog.hathitrust.org/Record/100882611</ref>
+                </biblStruct>
+                <biblStruct corresp="W1039" xml:id="E1465">
+                    <monogr>
+                        <author key="A397">Auber de Noya, Virginia Felicia</author>
+                        <title level="m" type="main">Una venganza</title>
+                        <title level="m" type="sub">Novela</title>
+                        <imprint>
+                            <pubPlace corresp="CU">La Habana</pubPlace>
+                            <date when="1850">1850</date>
+                        </imprint>
+                        <extent>3 tomos</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1040" xml:id="E1466">
+                    <monogr>
+                        <author key="A397">Auber de Noya, Virginia Felicia</author>
+                        <title level="m" type="main">Una habanera; caprichos del corazón</title>
+                        <title level="m" type="sub">Novela</title>
+                        <imprint>
+                            <publisher>Imp. del Gobierno y Capitanía General por S.M.</publisher>
+                            <pubPlace corresp="CU">La Habana</pubPlace>
+                            <date when="1851">1851</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1041" xml:id="E1467">
+                    <monogr>
+                        <author key="A397">Auber de Noya, Virginia Felicia</author>
+                        <title level="m" type="main">Perseverancia</title>
+                        <title level="m" type="sub">Algunas páginas de la vida de un gran
+                            poeta</title>
+                        <title level="m" type="sub">Novela orijinal</title>
+                        <imprint>
+                            <publisher>Imp. del Gobierno y Capitanía General por S.M.</publisher>
+                            <pubPlace corresp="CU">La Habana</pubPlace>
+                            <date when="1853">1853</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1042" xml:id="E1468">
+                    <monogr>
+                        <author key="A397">Auber de Noya, Virginia Felicia</author>
+                        <title level="m" type="main">Otros tiempos</title>
+                        <title level="m" type="sub">Novela histórica por Felicia</title>
+                        <imprint>
+                            <publisher>Imp. del Diario de la Marina</publisher>
+                            <pubPlace corresp="CU">La Habana</pubPlace>
+                            <date when="1856">1856</date>
+                        </imprint>
+                        <extent>en 12°, 305 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1043" xml:id="E1469">
+                    <monogr>
+                        <author key="A397">Auber de Noya, Virginia Felicia</author>
+                        <title level="m" type="main">Ambarina</title>
+                        <title level="m" type="sub">Historia doméstica cubana</title>
+                        <imprint>
+                            <publisher>Imp. del Diario de la Marina</publisher>
+                            <pubPlace corresp="CU">La Habana</pubPlace>
+                            <date when="1858">1858</date>
+                        </imprint>
+                        <extent>en 12°, 401 p.</extent>
+                    </monogr>
+                    <ref>http://www.cervantesvirtual.com/obra/ambarina-tomo-i-historia-domestica-cubana--0/</ref>
+                </biblStruct>
+                <biblStruct corresp="W1044" xml:id="E1470">
+                    <monogr>
+                        <author key="A397">Auber de Noya, Virginia Felicia</author>
+                        <title type="main" level="m">Los dos castillos</title>
+                        <title type="sub" level="m">Leyenda alemana</title>
+                        <imprint>
+                            <publisher>desconocido</publisher>
+                            <pubPlace corresp="CU" cert="low">desconocido</pubPlace>
+                            <date>desconocido</date>
+                        </imprint>
+                    </monogr>
+                    <note resp="#uh">No he encontrado informaciones sobre una edición. La obra se
+                        menciona en el Diccionario de la literatura cubana.</note>
+                </biblStruct>
+                <biblStruct corresp="W1045" xml:id="E1471">
+                    <monogr>
+                        <author key="A397">Auber de Noya, Virginia Felicia</author>
+                        <title type="main" level="m">Teresa</title>
+                        <imprint>
+                            <publisher>desconocido</publisher>
+                            <pubPlace corresp="CU" cert="low">desconocido</pubPlace>
+                            <date>desconocido</date>
+                        </imprint>
+                    </monogr>
+                    <note resp="#uh">No he encontrado informaciones sobre una edición. La obra se
+                        menciona en el Diccionario de la literatura cubana.</note>
+                </biblStruct>
+                <biblStruct corresp="W1046" xml:id="E1472">
+                    <monogr>
+                        <author key="A397">Auber de Noya, Virginia Felicia</author>
+                        <title type="main" level="m">Una historia bajo los árboles</title>
+                        <imprint>
+                            <publisher>desconocido</publisher>
+                            <pubPlace corresp="CU" cert="low">desconocido</pubPlace>
+                            <date>desconocido</date>
+                        </imprint>
+                    </monogr>
+                    <note resp="#uh">No he encontrado informaciones sobre una edición. La obra se
+                        menciona en el Diccionario de la literatura cubana.</note>
+                </biblStruct>
+                <biblStruct corresp="W1047" xml:id="E1473">
+                    <monogr>
+                        <author key="A397">Auber de Noya, Virginia Felicia</author>
+                        <title type="main" level="m">Un amor misterioso</title>
+                        <imprint>
+                            <publisher>desconocido</publisher>
+                            <pubPlace corresp="CU" cert="low">desconocido</pubPlace>
+                            <date>desconocido</date>
+                        </imprint>
+                    </monogr>
+                    <note resp="#uh">No he encontrado informaciones sobre una edición. La obra se
+                        menciona en el Diccionario de la literatura cubana.</note>
+                </biblStruct>
+                <biblStruct corresp="W1048" xml:id="E1474">
+                    <monogr>
+                        <author key="A398">Echáiz, Jesús</author>
+                        <title type="main" level="m">El paladín extranjero</title>
+                        <title type="sub" level="m">Crónicas de la Independencia</title>
+                        <title type="sub" level="m">1817</title>
+                        <title type="sub" level="m">Ensayo de una novela histórica</title>
+                        <edition>Edición del siglo XIX</edition>
+                        <imprint>
+                            <publisher>Imprenta de Ignacio Cumplido</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1871">1871</date>
+                        </imprint>
+                        <extent>En 8°, de 420 p.</extent>
+                    </monogr>
+                    <ref>http://132.248.9.32:8080/fondoantiguo2/1481716-170241/JPEG/Index.html</ref>
+                </biblStruct>
+                <biblStruct corresp="W1049" xml:id="E1475">
+                    <monogr>
+                        <author key="A398">Echáiz, Jesús</author>
+                        <title type="main" level="m">La envenenadora</title>
+                        <title type="sub" level="m">Crónicas de la Independencia</title>
+                        <title type="sub" level="m">(1812-1813)</title>
+                        <title type="sub" level="m">Novela histórica</title>
+                        <imprint>
+                            <publisher>Imprenta de El Porvenir</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1875">1875</date>
+                        </imprint>
+                        <extent>En 8°, de 616 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1050" xml:id="E1476">
+                    <monogr>
+                        <author key="A399">Elízaga, Lorenzo</author>
+                        <title type="main" level="m">Mauricio el ajusticiado o una persecución
+                            masónica</title>
+                        <title type="sub" level="m">Novela original</title>
+                        <imprint>
+                            <publisher>P. Ollendorff / Imprenta de La Constitución
+                                Social</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1869">1869</date>
+                        </imprint>
+                        <extent>En 4°, de XIX, 523, (3) p., con láminas</extent>
+                    </monogr>
+                    <ref>http://cdigital.dgb.uanl.mx/la/1020005218/1020005218.html</ref>
+                </biblStruct>
+                <biblStruct corresp="W1051" xml:id="E1477">
+                    <monogr>
+                        <author key="A400">Enziso, Cenobio I.</author>
+                        <title type="main" level="m">Camelias rojas</title>
+                        <title type="sub" level="m">Ensayo publicado en El Litigante, núm 51, t.
+                            VII</title>
+                        <imprint>
+                            <publisher>Tipografía del Litigante</publisher>
+                            <pubPlace corresp="MX">Guadalajara, Jalisco</pubPlace>
+                            <date when="1894">1894</date>
+                        </imprint>
+                        <extent>En 4°, de (2), 34 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1052" xml:id="E1478">
+                    <monogr>
+                        <author key="A400">Enziso, Cenobio I.</author>
+                        <title type="main" level="m">Herlinda</title>
+                        <imprint>
+                            <publisher>Imprenta del Autor</publisher>
+                            <pubPlace corresp="MX">Guadalajara, Jalisco</pubPlace>
+                            <date when="1901">1901</date>
+                        </imprint>
+                        <extent>En 8°, de XV, 151, (3) p., más una lámina</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1053" xml:id="E1479">
+                    <monogr>
+                        <author key="A401">Escobar, Manuel María</author>
+                        <title type="main" level="m">Cerca del trono</title>
+                        <title type="sub" level="m">Algo del pasado</title>
+                        <title type="sub" level="m">Episodio original fantástico</title>
+                        <imprint>
+                            <publisher>Imprenta de Villanueva</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1875">1875</date>
+                        </imprint>
+                        <extent>En 4°</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1054" xml:id="E1480">
+                    <monogr>
+                        <author key="A402">Espinoza, Julio</author>
+                        <title type="main" level="m">Esperanza</title>
+                        <edition>Edición de El Nacional</edition>
+                        <imprint>
+                            <publisher>Tipografía de Gonzalo A. Esteva</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1883">1883</date>
+                        </imprint>
+                        <extent>En 4°, de 256 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1055" xml:id="E1481">
+                    <monogr>
+                        <author key="A403">Esteva, José María</author>
+                        <title type="main" level="m">La campana de la misión</title>
+                        <title type="sub" level="m">Novela mexicana</title>
+                        <imprint>
+                            <publisher>Enríquez</publisher>
+                            <pubPlace corresp="MX">Xalapa</pubPlace>
+                            <date when="1894">1894</date>
+                        </imprint>
+                        <extent>En 16°, de 306 p.</extent>
+                    </monogr>
+                    <ref>https://archive.org/details/lacampanadelamai00este</ref>
+                </biblStruct>
+                <biblStruct corresp="W1056" xml:id="E1482">
+                    <monogr>
+                        <author key="A404">Esteva, Roberto A.</author>
+                        <title type="main" level="m">Una mujer sin corazón</title>
+                        <title type="sub" level="m">Episodio de una novela inédita</title>
+                        <imprint>
+                            <publisher>Roberto A. Esteva</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1868">1868</date>
+                        </imprint>
+                        <extent>En 8°, de 22 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1057" xml:id="E1483">
+                    <monogr>
+                        <author key="A404">Esteva, Roberto A.</author>
+                        <title type="main" level="m">Juana de Armendáriz</title>
+                        <imprint>
+                            <publisher>León y White</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1868">1868</date>
+                        </imprint>
+                        <extent>En 8°, de 108 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1058" xml:id="E1484">
+                    <monogr>
+                        <author key="A404">Esteva, Roberto A.</author>
+                        <title type="main" level="m">Una pasión italiana</title>
+                        <imprint>
+                            <pubPlace corresp="MX" cert="low">desconocido</pubPlace>
+                            <date when="1869">1869</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1059" xml:id="E1485">
+                    <monogr>
+                        <author key="A404">Esteva, Roberto A.</author>
+                        <title type="main" level="m">El fruto prohibido</title>
+                        <title type="sub" level="m">Novela original</title>
+                        <edition>Edición del Monitor</edition>
+                        <imprint>
+                            <publisher>Imprenta de V. G. Torres, a cargo de M. García</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1873">1873</date>
+                        </imprint>
+                        <extent>En 4°, de 84 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1060" xml:id="E1486">
+                    <monogr>
+                        <author key="A404">Esteva, Roberto A.</author>
+                        <title type="main" level="m">Plumadas sueltas</title>
+                        <edition>Edición del Monitor</edition>
+                        <imprint>
+                            <publisher>Imprenta de V. G. Torres, a cargo de M. García</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1873">1873</date>
+                        </imprint>
+                        <extent>En 8°, de 56 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1061" xml:id="E1487">
+                    <monogr>
+                        <author key="A404">Esteva, Roberto A.</author>
+                        <title type="main" level="m">El violín de White</title>
+                        <title type="sub" level="m">Cuento leído en el concierto que tuvo lugar en
+                            el Casino Jalapeño el 30 de junio de 1875, y en que tomó parte el
+                            célebre violinista José White</title>
+                        <imprint>
+                            <publisher>Imprenta de A. N. Rebolledo</publisher>
+                            <pubPlace corresp="MX">Coatepec</pubPlace>
+                            <date when="1873">1873</date>
+                        </imprint>
+                        <extent>En 8°, de 31 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1062" xml:id="E1488">
+                    <monogr>
+                        <author key="A405">Ezeta, Carlos</author>
+                        <title type="main" level="m">Hija y esposa</title>
+                        <title type="sub" level="m">Novela original</title>
+                        <imprint>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1904">1904</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1063" xml:id="E1489">
+                    <analytic>
+                        <author key="A406">Delgado, Rafael</author>
+                        <title type="main" level="a">La Calandria</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j" type="main">Revista Nacional de Letras y Ciencias</title>
+                        <imprint>
+                            <pubPlace corresp="MX">México, D. F.</pubPlace>
+                            <date when="1890">1890</date>
+                        </imprint>
+                    </monogr>
+                    <note resp="#ELEM">fue publicada por entregas en 1890</note>
+                </biblStruct>
+                <biblStruct corresp="W1063" xml:id="E1490">
+                    <monogr>
+                        <author key="A406">Delgado, Rafael</author>
+                        <title type="main" level="m">La Calandria</title>
+                        <imprint>
+                            <publisher>Pablo Franch, ed.</publisher>
+                            <pubPlace corresp="MX">Orizaba</pubPlace>
+                            <date when="1891">1891</date>
+                        </imprint>
+                        <extent>En 4°, de VIII, 358 p.</extent>
+                    </monogr>
+                    <note resp="#TorresRioseco">(Con un prólogo de D. Francisco Sosa.)</note>
+                    <ref>http://132.248.9.32:8080/fondoantiguo2/1481887-656194/JPEG/Index.html</ref>
+                    <ref>https://clasicos.librosmexico.mx/sites/default/files/pdf_libros/17920-2-95439.pdf</ref>
+                </biblStruct>
+                <biblStruct corresp="W1064" xml:id="E1491">
+                    <monogr>
+                        <author key="A406">Delgado, Rafael</author>
+                        <title type="main" level="m">Angelina</title>
+                        <edition>Primera edición</edition>
+                        <imprint>
+                            <publisher>Imprenta de El Tiempo</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1893">1893</date>
+                        </imprint>
+                        <extent>En 8°, de 544 p.</extent>
+                    </monogr>
+                    <ref>http://cdigital.dgb.uanl.mx/la/1020028208/1020028208.html</ref>
+                </biblStruct>
+                <biblStruct corresp="W1064" xml:id="E1492">
+                    <monogr>
+                        <author key="A406">Delgado, Rafael</author>
+                        <title type="main" level="m">Angelina</title>
+                        <imprint>
+                            <publisher>Tipografía Católica de Pablo Franch</publisher>
+                            <pubPlace corresp="MX">Orizaba, Veracruz</pubPlace>
+                            <date when="1893">1893</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1064" xml:id="E1493">
+                    <monogr>
+                        <author key="A406">Delgado, Rafael</author>
+                        <title type="main" level="m">Angelina</title>
+                        <edition cert="low">Segunda edición</edition>
+                        <imprint>
+                            <publisher>Antigua Imprenta de Eduardo Murguía</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1895">1895</date>
+                        </imprint>
+                        <extent>En 8°, de 544 p.</extent>
+                    </monogr>
+                    <ref>https://archive.org/details/angelina00delggoog</ref>
+                    <ref>https://catalog.hathitrust.org/Record/101402612</ref>
+                </biblStruct>
+                <biblStruct corresp="W1065" xml:id="E1494">
+                    <monogr>
+                        <author key="A406">Delgado, Rafael</author>
+                        <title type="main" level="m">Los parientes ricos</title>
+                        <edition>Primera edición</edition>
+                        <imprint>
+                            <publisher>Semanario Literario Ilustrado</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1901">1901</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1065" xml:id="E1495">
+                    <monogr>
+                        <author key="A406">Delgado, Rafael</author>
+                        <title type="main" level="m">Los parientes ricos</title>
+                        <imprint>
+                            <publisher>Imprenta de Victoriano Agüeros</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1903">1903</date>
+                        </imprint>
+                        <extent>En 8°, de (4), 656 p.</extent>
+                    </monogr>
+                    <series>
+                        <title level="s" type="main">Obras de don Rafael Delgado</title>
+                        <title level="s" type="sub">Miembro correspondiente de la Real Academia
+                            Española e individuo de número de la Mexicana</title>
+                        <biblScope unit="volume">Tomo II</biblScope>
+                    </series>
+                    <series>
+                        <title level="s" type="main">Biblioteca de Autores Mexicanos</title>
+                        <biblScope unit="volume">47</biblScope>
+                    </series>
+                    <note resp="#TorresRioseco">(Subscrita en Jalapa, noviembre, 1902.)</note>
+                    <ref>http://www.cervantesvirtual.com/obra/obras-de-don-rafael-delgado-los-parientes-ricos/</ref>
+                    <ref>https://archive.org/details/obrasdelg00delg</ref>
+                    <ref>https://archive.org/details/3676983_2</ref>
+                    <ref>https://catalog.hathitrust.org/Record/100779599</ref>
+                    <ref>https://catalog.hathitrust.org/Record/101402616</ref>
+                </biblStruct>
+                <biblStruct corresp="W1066" xml:id="E1496">
+                    <analytic>
+                        <author key="A406">Delgado, Rafael</author>
+                        <title type="main" level="m">Historia vulgar</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="j">El País</title>
+                        <imprint>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date from="1904-10-31" to="1904-11-18">31 de octubre a 18 de noviembre
+                                de 1904</date>
+                        </imprint>
+                    </monogr>
+                    <series>
+                        <title level="s" type="main">Biblioteca de El País</title>
+                    </series>
+                    <ref>http://www.lanovelacorta.com/1872-1922/hvp.php</ref>
+                </biblStruct>
+                <biblStruct corresp="W1066" xml:id="E1497">
+                    <monogr>
+                        <author key="A406">Delgado, Rafael</author>
+                        <title type="main" level="m">Historia vulgar</title>
+                        <title type="sub" level="m">Novela escrita expresamente para El País</title>
+                        <imprint>
+                            <publisher>Tipografía de la Compañía Editorial Católica</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1904">1904</date>
+                        </imprint>
+                        <extent>En 4°, de 63 p.</extent>
+                    </monogr>
+                    <series>
+                        <title level="s" type="main">Biblioteca de El País</title>
+                    </series>
+                    <ref>http://www.lanovelacorta.com/1872-1922/hvp.php</ref>
+                </biblStruct>
+                <biblStruct corresp="W1067" xml:id="E1498">
+                    <monogr>
+                        <author key="A406">Delgado, Rafael</author>
+                        <title type="main" level="m">La apostasía del padre Arteaga</title>
+                        <imprint>
+                            <publisher>Agüeros</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1902">1902</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1068" xml:id="E1499">
+                    <monogr>
+                        <author key="A407">Díaz Covarrubias, Juan</author>
+                        <title type="main" level="m">La clase media</title>
+                        <title type="sub" level="m">Novela de costumbres mexicanas</title>
+                        <imprint>
+                            <publisher>Imprenta de Manuel Castro</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1858">1858</date>
+                        </imprint>
+                        <extent>En 8°</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1068" xml:id="E1500">
+                    <monogr>
+                        <author key="A407">Díaz Covarrubias, Juan</author>
+                        <title type="main" level="m">La clase media</title>
+                        <title type="sub" level="m">Novela de costumbres mexicanas</title>
+                        <imprint>
+                            <publisher>Tipografía de Manuel Castro</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1859">1859</date>
+                        </imprint>
+                        <extent>En 4°, de 109 p.</extent>
+                    </monogr>
+                    <ref>https://catalog.hathitrust.org/Record/010882807</ref>
+                </biblStruct>
+                <biblStruct corresp="W1069" xml:id="E1501">
+                    <monogr>
+                        <author key="A407">Díaz Covarrubias, Juan</author>
+                        <title type="main" level="m">Gil Gómez el insurgente o la hija del
+                            médico</title>
+                        <imprint>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1858">1858</date>
+                        </imprint>
+                    </monogr>
+                    <ref>https://catalog.hathitrust.org/Record/008618575</ref>
+                    <ref>https://catalog.hathitrust.org/Record/008715549</ref>
+                </biblStruct>
+                <biblStruct corresp="W1069" xml:id="E1502">
+                    <monogr>
+                        <author key="A407">Díaz Covarrubias, Juan</author>
+                        <title type="main" level="m">Gil Gómez el insurgente o la hija del
+                            médico</title>
+                        <title type="sub" level="m">Novela histórica mexicana</title>
+                        <imprint>
+                            <publisher>Tipografía de Manuel Castro</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1859">1859</date>
+                        </imprint>
+                        <extent>En 4°, de 271 p.</extent>
+                    </monogr>
+                    <ref>https://catalog.hathitrust.org/Record/008731860</ref>
+                </biblStruct>
+                <biblStruct corresp="W1069" xml:id="E1503">
+                    <monogr>
+                        <author key="A407">Díaz Covarrubias, Juan</author>
+                        <title type="main" level="m">Gil Gómez el insurgente o la hija del
+                            médico</title>
+                        <title type="sub" level="m">Novela histórica mexicana</title>
+                        <edition>Edición de El Tiempo</edition>
+                        <imprint>
+                            <publisher>Imprenta de Victoriano Agüeros</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1902">1902</date>
+                        </imprint>
+                        <extent>En 4°, de 418 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1069" xml:id="E1504">
+                    <monogr>
+                        <author key="A407">Díaz Covarrubias, Juan</author>
+                        <title type="main" level="m">Gil Gómez el insurgente</title>
+                        <title type="sub" level="m">Novela histórica</title>
+                        <imprint>
+                            <publisher>Imprenta de Victoriano Agüeros</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1902">1902</date>
+                        </imprint>
+                        <extent>En 8°, de XVI, 442 p. más el retrato del autor</extent>
+                    </monogr>
+                    <series>
+                        <title level="s" type="main">Obras de D. Juan Díaz Covarrubias</title>
+                        <biblScope unit="volume">Tomo I</biblScope>
+                    </series>
+                    <series>
+                        <title level="s" type="main">Biblioteca de Autores Mexicanos</title>
+                        <biblScope unit="volume">43</biblScope>
+                    </series>
+                    <note resp="#TorresRioseco">(Precedida de una biografía del mismo por D.
+                        Alejandro Villaseñor y Villaseñor.)</note>
+                </biblStruct>
+                <biblStruct corresp="W1070" xml:id="E1505">
+                    <monogr>
+                        <author key="A407">Díaz Covarrubias, Juan</author>
+                        <title type="main" level="m">El diablo en México</title>
+                        <title type="sub" level="m">Novela de costumbres</title>
+                        <imprint>
+                            <publisher>Tipografía de Manuel Castro</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1860">1860</date>
+                        </imprint>
+                        <extent>En 4°, de 61 p.</extent>
+                    </monogr>
+                    <ref>https://catalog.hathitrust.org/Record/100637638</ref>
+                </biblStruct>
+                <biblStruct corresp="W1071" xml:id="E1506">
+                    <monogr>
+                        <author key="A407">Díaz Covarrubias, Juan</author>
+                        <title type="main" level="m">La sensitiva</title>
+                        <imprint>
+                            <publisher>Tipografía de Manuel Castro</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1859">1859</date>
+                        </imprint>
+                        <extent>En 8°, de 15 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1072" xml:id="E1507">
+                    <monogr>
+                        <author key="A408">Didapp, Juan Pedro</author>
+                        <title type="main" level="m">Proceso</title>
+                        <title type="sub" level="m">Novela histórica</title>
+                        <title type="sub" level="m">Época actual</title>
+                        <imprint>
+                            <publisher>Imprenta, Litografía y Encuadernación de Blanchard y
+                                Arce</publisher>
+                            <pubPlace corresp="ES">Santander</pubPlace>
+                            <date when="1907">1907</date>
+                            <biblScope unit="volume">Tomo I</biblScope>
+                        </imprint>
+                        <extent>2 volúmenes en 8°, XV, 432, (2) y 414, (2) p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1073" xml:id="E1508">
+                    <monogr>
+                        <author key="A409">Domínguez, Juan de Dios</author>
+                        <title type="main" level="m">Doña Esperanza de Haro</title>
+                        <title type="sub" level="m">Leyenda del siglo XVIII</title>
+                        <title type="sub" level="m">Por Gumesindo Díaz de Juno</title>
+                        <imprint>
+                            <publisher>Francisco J. Carrasco, ed.; Imprenta de Félix
+                                Márquez</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1871">1871</date>
+                        </imprint>
+                        <extent>En 4°, de 111 p.</extent>
+                    </monogr>
+                    <series>
+                        <title level="s" type="main">Leyendas Mexicanas</title>
+                    </series>
+                </biblStruct>
+                <biblStruct corresp="W1074" xml:id="E1509">
+                    <monogr>
+                        <author key="A409">Domínguez, Juan de Dios</author>
+                        <title type="main" level="m">El embaidor y la sevillana</title>
+                        <title type="sub" level="m">Leyenda del siglo XVI</title>
+                        <imprint>
+                            <publisher>Imprenta de El Eco</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1875">1875</date>
+                        </imprint>
+                        <extent>En 8°, de 188 p.</extent>
+                    </monogr>
+                    <series>
+                        <title level="s" type="main">Biblioteca de El Eco de Ambos Mundos</title>
+                    </series>
+                </biblStruct>
+                <biblStruct corresp="W1075" xml:id="E1510">
+                    <monogr>
+                        <author key="A410">Domínguez, Manuel</author>
+                        <title type="main" level="m">El Capitán Fantasma</title>
+                        <title type="sub" level="m">Leyenda mexicana</title>
+                        <imprint>
+                            <publisher>Tipografía Literaria de Filomena Mata</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1903">1903</date>
+                        </imprint>
+                        <extent>En 4°, de 61 p.</extent>
+                    </monogr>
+                    <note resp="#TorresRioseco">(Subscrita en Tacubaya, 1° de julio, 1903.)</note>
+                    <ref>https://catalog.hathitrust.org/Record/101402647</ref>
+                </biblStruct>
+                <biblStruct corresp="W1075" xml:id="E1511">
+                    <analytic>
+                        <author key="A410">Domínguez, Manuel</author>
+                        <title type="main" level="a">El Capitán Fantasma</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Obras del Dr. Manuel Domínguez</title>
+                        <title level="m" type="sub">Leyendas históricas</title>
+                        <imprint>
+                            <publisher>Imprenta de Victoriano Agüeros</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1909">1909</date>
+                            <biblScope unit="page">p. 173-268</biblScope>
+                        </imprint>
+                        <extent>En 8°, de XXII, 447 p. más el retrato del autor</extent>
+                    </monogr>
+                    <series>
+                        <title level="s" type="main">Biblioteca de Autores Mexicanos</title>
+                        <biblScope unit="volume">67</biblScope>
+                    </series>
+                    <ref>https://archive.org/details/obrasdeldrmanuel00domi</ref>
+                    <note resp="#TorresRioseco">(Precedida de una biografía anónima del
+                        mismo.)</note>
+                </biblStruct>
+                <biblStruct corresp="W1076" xml:id="E1512">
+                    <analytic>
+                        <author key="A410">Domínguez, Manuel</author>
+                        <title type="main" level="a">Peñastlán</title>
+                        <title type="sub" level="a">Leyenda histórica</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Obras del Dr. Manuel Domínguez</title>
+                        <title level="m" type="sub">Leyendas históricas</title>
+                        <imprint>
+                            <publisher>Imprenta de Victoriano Agüeros</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1909">1909</date>
+                            <biblScope unit="page">p. 1-172</biblScope>
+                        </imprint>
+                        <extent>En 8°, de XXII, 447 p. más el retrato del autor</extent>
+                    </monogr>
+                    <series>
+                        <title level="s" type="main">Biblioteca de Autores Mexicanos</title>
+                        <biblScope unit="volume">67</biblScope>
+                    </series>
+                    <ref>https://archive.org/details/obrasdeldrmanuel00domi</ref>
+                    <note resp="#TorresRioseco">(Precedida de una biografía anónima del
+                        mismo.)</note>
+                </biblStruct>
+                <biblStruct corresp="W1077" xml:id="E1513">
+                    <analytic>
+                        <author key="A410">Domínguez, Manuel</author>
+                        <title type="main" level="a">Cuautla</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Obras del Dr. Manuel Domínguez</title>
+                        <title level="m" type="sub">Leyendas históricas</title>
+                        <imprint>
+                            <publisher>Imprenta de Victoriano Agüeros</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1909">1909</date>
+                            <biblScope unit="page">p. 269-394</biblScope>
+                        </imprint>
+                        <extent>En 8°, de XXII, 447 p. más el retrato del autor</extent>
+                    </monogr>
+                    <series>
+                        <title level="s" type="main">Biblioteca de Autores Mexicanos</title>
+                        <biblScope unit="volume">67</biblScope>
+                    </series>
+                    <ref>https://archive.org/details/obrasdeldrmanuel00domi</ref>
+                    <note resp="#TorresRioseco">(Precedida de una biografía anónima del
+                        mismo.)</note>
+                </biblStruct>
+                <biblStruct corresp="W1078" xml:id="E1514">
+                    <analytic>
+                        <author key="A410">Domínguez, Manuel</author>
+                        <title type="main" level="a">Fátima</title>
+                        <title type="sub" level="a">Leyenda árabe</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Obras del Dr. Manuel Domínguez</title>
+                        <title level="m" type="sub">Leyendas históricas</title>
+                        <imprint>
+                            <publisher>Imprenta de Victoriano Agüeros</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1909">1909</date>
+                            <biblScope unit="page">p. 395-420</biblScope>
+                        </imprint>
+                        <extent>En 8°, de XXII, 447 p. más el retrato del autor</extent>
+                    </monogr>
+                    <series>
+                        <title level="s" type="main">Biblioteca de Autores Mexicanos</title>
+                        <biblScope unit="volume">67</biblScope>
+                    </series>
+                    <ref>https://archive.org/details/obrasdeldrmanuel00domi</ref>
+                    <note resp="#TorresRioseco">(Precedida de una biografía anónima del
+                        mismo.)</note>
+                </biblStruct>
+                <biblStruct corresp="W1078" xml:id="E1515">
+                    <monogr>
+                        <author key="A410">Domínguez, Manuel</author>
+                        <title type="main" level="a">Fátima</title>
+                        <title type="sub" level="a">Leyenda árabe</title>
+                        <imprint>
+                            <publisher>Tipografía de la Vda. de Francisco Díaz de León</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1907">1907</date>
+                        </imprint>
+                        <extent>En 8°, de 13 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1079" xml:id="E1516">
+                    <monogr>
+                        <author key="A411">Calderón, Luis</author>
+                        <title level="m" type="main">Los novios</title>
+                        <title level="m" type="sub">Novela original de Luis Calderón</title>
+                        <imprint>
+                            <publisher>Juan E. Barbero y compañía, editores</publisher>
+                            <publisher>Neve Hermanos Impresores</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1872">1872</date>
+                        </imprint>
+                        <extent>En 8°, de 270 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1080" xml:id="E1517">
+                    <monogr>
+                        <author key="A412">Calderón de Becerra, Pablo</author>
+                        <title level="m" type="main">Margarita</title>
+                        <title level="m" type="sub">Leyenda de Costumbres por Pablo Calderón de
+                            Becerra</title>
+                        <imprint>
+                            <publisher>Tipografía "El Gran Libro."</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1887">1887</date>
+                        </imprint>
+                        <extent>En 4°, de 59 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1081" xml:id="E1518">
+                    <monogr>
+                        <author key="A413">Camberos, Manuela G. de</author>
+                        <title level="m" type="main">La Venganza de una Madre</title>
+                        <imprint>
+                            <publisher>Talleres de "El Correo"</publisher>
+                            <pubPlace corresp="MX">Chihuahua</pubPlace>
+                            <date when="1908">1908</date>
+                        </imprint>
+                        <extent>En 4°, de 71 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1082" xml:id="E1519">
+                    <analytic>
+                        <author key="A414">Campo y Valle, Ángel de</author>
+                        <title level="a" type="main">La Rumba</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j">El Nacional</title>
+                        <imprint>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date from="1890" to="1891">1890-1891</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1083" xml:id="E1520">
+                    <analytic>
+                        <author key="A414">Campo y Valle, Ángel de</author>
+                        <title level="a" type="main">El de los claveles dobles</title>
+                        <title level="a" type="sub">Entretenimiento novelesco de buen humor en
+                            varios cuadros y varios coloquios a manera de apuntes para un libreto
+                            del género mediano</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j">Cómico</title>
+                        <imprint>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date from="1908-09-17" to="1908-11-05">17 de septiembre a 5 de
+                                noviembre 1908</date>
+                        </imprint>
+                    </monogr>
+                    <ref>http://www.lanovelacorta.com/1872-1922/cdp.php</ref>
+                </biblStruct>
+                <biblStruct corresp="W1084" xml:id="E1521">
+                    <analytic>
+                        <author key="A414">Campo y Valle, Ángel de</author>
+                        <title level="a" type="main">Apuntes sobre Perico Vera</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j">Revista Azul</title>
+                        <imprint>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date from="1896-09-13" to="1896-09-27">13 de septiembre a 27 de
+                                septiembre de 1896</date>
+                        </imprint>
+                        <biblScope unit="volume">tomo V</biblScope>
+                        <biblScope unit="issue">número 20-22</biblScope>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1085" xml:id="E1522">
+                    <monogr>
+                        <author key="A415">Campos, Rubén M.</author>
+                        <title level="m" type="main">Claudio Oronoz</title>
+                        <title level="m" type="sub">(Novela)</title>
+                        <imprint>
+                            <publisher>J. Ballescá y Compañía, ed.; Imprenta Moderna de Guinart y
+                                Pujolar</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <pubPlace corresp="ES">Barcelona</pubPlace>
+                            <date when="1906">1906</date>
+                        </imprint>
+                        <extent>En 8°, de 351 p.</extent>
+                    </monogr>
+                    <ref>https://catalog.hathitrust.org/Record/100509263</ref>
+                </biblStruct>
+                <biblStruct corresp="W1086" xml:id="E1523">
+                    <monogr>
+                        <author key="A416">Candelas, El tío</author>
+                        <title level="m" type="main">Los dos amantes o la venganza del rey</title>
+                        <title level="m" type="sub">Novela humorística y de costumbres</title>
+                        <imprint>
+                            <publisher>Imprenta de Fin de Siglo</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1898">1898</date>
+                        </imprint>
+                        <extent>13.5 X 9.5, de 160 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1087" xml:id="E1524">
+                    <monogr>
+                        <author key="A417">Carrillo, Álvaro</author>
+                        <title level="m" type="main">Xochitl, La reina azteca</title>
+                        <title level="m" type="sub">Aventuras maravillosas de los antiguos
+                            mexicanos</title>
+                        <title level="m" type="sub">Novela histórica</title>
+                        <imprint>
+                            <publisher>Ballescá y Compañía; Impr. en Barcelona</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date>desconocido</date>
+                        </imprint>
+                        <extent>2 vol en 4°: I, 948 p.; vol. II, 803 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1088" xml:id="E1525">
+                    <monogr>
+                        <author key="A418">Carrillo, Miguel</author>
+                        <title level="m" type="main">Rosaura</title>
+                        <title level="m" type="sub">Fragmentos de un libro de memorias</title>
+                        <imprint>
+                            <publisher>Imprenta de la Escuela Correccional</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1889">1889</date>
+                        </imprint>
+                        <extent>15 X 10.5, de 151 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1089" xml:id="E1526">
+                    <monogr>
+                        <author key="A419">Carrillo y Ancona, Crescencio</author>
+                        <title level="m" type="main">Historia de Welinna</title>
+                        <title level="m" type="sub">leyenda yucateca en dos partes y un apéndice de
+                            notas históricas y críticas</title>
+                        <imprint>
+                            <publisher>Imprenta de J. D. Espinosa</publisher>
+                            <pubPlace corresp="MX">Mérida</pubPlace>
+                            <date when="1862">1862</date>
+                        </imprint>
+                        <extent>En 8°, de 4 p. 1, 7, 18 p.</extent>
+                    </monogr>
+                    <ref>http://dgb.conaculta.gob.mx/coleccion_sep/libro_pdf/11000020032.pdf</ref>
+                </biblStruct>
+                <biblStruct corresp="W1089" xml:id="E1527">
+                    <monogr>
+                        <author key="A419">Carrillo y Ancona, Crescencio</author>
+                        <title level="m" type="main">Historia de Welinna</title>
+                        <title level="m" type="sub">Leyenda Yucateca por Don Crescencio Carrillo y
+                            Ancona Presbítero</title>
+                        <edition>segunda edición</edition>
+                        <imprint>
+                            <publisher>Imprenta de la Revista de Mérida</publisher>
+                            <pubPlace corresp="MX">Mérida</pubPlace>
+                            <date when="1883">1883</date>
+                        </imprint>
+                        <extent>En 4°, de 52 p.</extent>
+                    </monogr>
+                    <ref>https://archive.org/details/3670842</ref>
+                </biblStruct>
+                <biblStruct corresp="W1090" xml:id="E1528">
+                    <monogr>
+                        <author key="A419">Carrillo y Ancona, Crescencio</author>
+                        <title level="m" type="main">El Santuario de la Aldea</title>
+                        <title level="m" type="sub">(Tradición popular)</title>
+                        <title level="m" type="sub">Van añadidas: "<seg rend="italic" part="N">La
+                                lámpara de tres siglos</seg>" y "<seg rend="italic" part="N">Las
+                                doce estrellas</seg>," del propio autor</title>
+                        <imprint>
+                            <publisher>Imprenta a cargo de José Gamboa Guzmán</publisher>
+                            <pubPlace corresp="MX">Mérida</pubPlace>
+                            <date when="1886">1886</date>
+                        </imprint>
+                        <extent>En 4°, de 45 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1091" xml:id="E1529">
+                    <monogr>
+                        <author key="A419">Carrillo y Ancona, Crescencio</author>
+                        <title level="m" type="main">El rayo de sol</title>
+                        <title level="m" type="sub">Leyenda yucateca</title>
+                        <imprint>
+                            <publisher>Imprenta Gamboa Guzmán</publisher>
+                            <pubPlace corresp="MX">Mérida</pubPlace>
+                            <date when="1892">1892</date>
+                        </imprint>
+                        <extent>25 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1092" xml:id="E1530">
+                    <monogr>
+                        <author key="A419">Carrillo y Ancona, Crescencio</author>
+                        <title level="m" type="main">El árbol de luz</title>
+                        <title level="m" type="sub">Tradición popular</title>
+                        <imprint>
+                            <publisher>Imprenta Mercantil</publisher>
+                            <pubPlace corresp="MX">Mérida</pubPlace>
+                            <date when="1887">1887</date>
+                        </imprint>
+                        <extent>24 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1093" xml:id="E1531">
+                    <monogr>
+                        <author key="A419">Carrillo y Ancona, Crescencio</author>
+                        <title level="m" type="main">El fraile de la calavera o la centuria de un
+                            gran pelado, 1792-1892</title>
+                        <imprint>
+                            <publisher>Imprenta Gamboa Guzmán</publisher>
+                            <pubPlace corresp="MX">Mérida de Yucatán</pubPlace>
+                            <date when="1892">1892</date>
+                        </imprint>
+                        <extent>53 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1094" xml:id="E1532">
+                    <monogr>
+                        <author key="A420">Carrión, Antonio</author>
+                        <title level="m" type="main">Doña Violante de Ávila</title>
+                        <title level="m" type="sub">Leyenda histórica</title>
+                        <imprint>
+                            <pubPlace corresp="MX">desconocido</pubPlace>
+                            <date>desconocido</date>
+                        </imprint>
+                        <extent>En 8°, de 70 p.</extent>
+                    </monogr>
+                    <note resp="#Iguiniz">Sin pie de imprenta.</note>
+                </biblStruct>
+                <biblStruct corresp="W1095" xml:id="E1533">
+                    <monogr>
+                        <author key="A421">Castellot, José Felipe</author>
+                        <title level="m" type="main">La Cuna de Piedra</title>
+                        <title level="m" type="sub">Por José Felipe Castellot</title>
+                        <imprint>
+                            <publisher>Tipografía El Fénix</publisher>
+                            <pubPlace corresp="MX">Campeche</pubPlace>
+                            <date cert="low" when="1903">1903</date>
+                        </imprint>
+                        <extent>En 4°, de (6), 102 p.</extent>
+                    </monogr>
+                    <note resp="#Iguiniz">Subscripta en 1903.</note>
+                    <ref>https://archive.org/details/lacunadepiedra00castgoog</ref>
+                </biblStruct>
+                <biblStruct corresp="W1096" xml:id="E1534">
+                    <monogr>
+                        <author key="A422">Castera, Pedro</author>
+                        <title type="main" level="m">Carmen</title>
+                        <title type="sub" level="m">(Memorias de un Corazón)</title>
+                        <edition>Edición de "La República."</edition>
+                        <imprint>
+                            <publisher>Tipografía de "La República"</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1882">1882</date>
+                        </imprint>
+                        <extent>En 8°, de (4), 411, 41 p.</extent>
+                    </monogr>
+                    <note resp="#Iguiniz">Le precede un prólogo del Gral. Vicente Riva Palacio, y
+                        lleva un apéndice con juicios críticos de D. Juan de Dios Peza, D. Joaquín
+                        Trejo, D. Juan Cordero R. y D. M. Lizarrturri.</note>
+                </biblStruct>
+                <biblStruct corresp="W1096" xml:id="E1535">
+                    <monogr>
+                        <author key="A422">Castera, Pedro</author>
+                        <title type="main" level="m">Carmen</title>
+                        <title type="sub" level="m">(Memorias de un Corazón)</title>
+                        <imprint>
+                            <publisher>Eufemio Abadiano, Editor</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1887">1887</date>
+                        </imprint>
+                        <extent>En 4°, de (2), VII, 301 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1096" xml:id="E1536">
+                    <monogr>
+                        <author key="A422">Castera, Pedro</author>
+                        <title type="main" level="m">Carmen</title>
+                        <title type="sub" level="m">(Memorias de un Corazón)</title>
+                        <imprint>
+                            <publisher>Librería de la Viuda de Ch. Bouret</publisher>
+                            <pubPlace corresp="FR">París</pubPlace>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1896">1896</date>
+                        </imprint>
+                    </monogr>
+                    <ref>http://impresosmexicanos.conaculta.gob.mx/libros/BDM/81282_1.pdf</ref>
+                </biblStruct>
+                <biblStruct corresp="W1096" xml:id="E1537">
+                    <monogr>
+                        <author key="A422">Castera, Pedro</author>
+                        <title type="main" level="m">Carmen</title>
+                        <title type="sub" level="m">(Memorias de un Corazón)</title>
+                        <imprint>
+                            <publisher>Imprenta del Comercio</publisher>
+                            <pubPlace corresp="GU">Guatemala</pubPlace>
+                            <date when="1896">1896</date>
+                        </imprint>
+                        <extent>En 8°, de VI, 262 p.</extent>
+                    </monogr>
+                    <note resp="#Iguiniz">Edición clandestina, impresa en Guadalajara (Jal.), en la
+                        Imprenta de D. Tomás Ramírez.</note>
+                </biblStruct>
+                <biblStruct corresp="W1096" xml:id="E1538">
+                    <monogr>
+                        <author key="A422">Castera, Pedro</author>
+                        <title type="main" level="m">Carmen</title>
+                        <title type="sub" level="m">(Memorias de un Corazón)</title>
+                        <edition>Tercera edición</edition>
+                        <imprint>
+                            <publisher>Librería de la Vda. de Ch. Bouret</publisher>
+                            <pubPlace corresp="FR">París</pubPlace>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1910">1910</date>
+                        </imprint>
+                        <extent>En 8°, de IX, 277 p.</extent>
+                    </monogr>
+                    <ref>https://catalog.hathitrust.org/Record/100510528</ref>
+                    <ref>https://catalog.hathitrust.org/Record/101402444</ref>
+                </biblStruct>
+                <biblStruct corresp="W1097" xml:id="E1539">
+                    <monogr>
+                        <author key="A422">Castera, Pedro</author>
+                        <title type="main" level="m">Los Maduros</title>
+                        <edition>Edición del "La República"</edition>
+                        <imprint>
+                            <publisher>Tipografía de "La República"</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1882">1882</date>
+                        </imprint>
+                        <extent>En 8°, de 120 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1098" xml:id="E1540">
+                    <monogr>
+                        <author key="A422">Castera, Pedro</author>
+                        <title type="main" level="m">Dramas de un Corazón</title>
+                        <imprint>
+                            <publisher>Tipografía de E. Dublán y Compañía</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1890">1890</date>
+                        </imprint>
+                        <extent>En 8°, de 207 p.</extent>
+                    </monogr>
+                    <ref>http://impresosmexicanos.conaculta.gob.mx/libros/CJM/32587_1.pdf</ref>
+                    <ref>http://dgb.conaculta.gob.mx/coleccion_sep/libro_pdf/21000026874.pdf</ref>
+                </biblStruct>
+                <biblStruct corresp="W1099" xml:id="E1541">
+                    <monogr>
+                        <author key="A422">Castera, Pedro</author>
+                        <title type="main" level="m">Querens</title>
+                        <title type="sub" level="m">Novela original de Pedro Castera</title>
+                        <imprint>
+                            <publisher>Imprenta Escalerillas núm. 11</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1890">1890</date>
+                        </imprint>
+                        <extent>en 8°, de 145 p.</extent>
+                    </monogr>
+                    <series>
+                        <title level="s">Biblioteca de "El Universal"</title>
+                    </series>
+                    <ref>http://cd.dgb.uanl.mx/handle/201504211/9733</ref>
+                </biblStruct>
+                <biblStruct corresp="W1100" xml:id="E1542">
+                    <analytic>
+                        <author key="A423">Castillo, Florencio M. del</author>
+                        <title type="main" level="a">Amor y desgracia</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="m">Horas de Tristeza</title>
+                        <title type="sub" level="m">Novelas cortas</title>
+                        <imprint>
+                            <publisher>Imprenta de Vicente García Torres</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1849">1849</date>
+                        </imprint>
+                        <extent>VIII, 149 p.</extent>
+                    </monogr>
+                    <note>Prólogo de Guillermo Prieto Pradillo.</note>
+                </biblStruct>
+                <biblStruct corresp="W1100" xml:id="E1543">
+                    <analytic>
+                        <author key="A423">Castillo, Florencio M. del</author>
+                        <title type="main" level="a">Amor y desgracia</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="m">Horas de Tristeza</title>
+                        <title type="sub" level="m">Colección de novelas por D. Florencio M. del
+                            Castillo</title>
+                        <title type="sub" level="m">Primera serie. Amor y desgracia. La Corona de
+                            Azucenas. ¡Hasta el cielo! Dolores ocultos</title>
+                        <imprint>
+                            <publisher>Manuel Ituarte, editor</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1850">1850</date>
+                            <biblScope unit="page">p. 3-35</biblScope>
+                        </imprint>
+                        <extent>En 4°, de (4), VIII, 149 p.</extent>
+                    </monogr>
+                    <note resp="#Iguiniz">Precedidas de dos cartas de D. Guillermo Prieto y D.
+                        Manuel Ituarte.</note>
+                    <ref>http://132.248.9.32:8080/fondoantiguo2/1570933-16212/JPEG/Index.html</ref>
+                </biblStruct>
+                <biblStruct corresp="W1100" xml:id="E1544">
+                    <analytic>
+                        <author key="A423">Castillo, Florencio M. del</author>
+                        <title type="main" level="a">Amor y desgracia</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="m">Horas de Tristeza</title>
+                        <title type="sub" level="m">Colección de novelas</title>
+                        <imprint>
+                            <publisher>Tipografía del comercio, a cargo de Joaquín
+                                Moreno</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1864">1864</date>
+                        </imprint>
+                        <extent>XI, 118 p.</extent>
+                    </monogr>
+                    <note>Prólogo por Guillermo Prieto.</note>
+                </biblStruct>
+                <biblStruct corresp="W1100" xml:id="E1545">
+                    <analytic>
+                        <author key="A423">Castillo, Florencio M. del</author>
+                        <title level="a" type="main">Amor y desgracia</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="m">Obras Completas de Florencio M. del
+                            Castillo</title>
+                        <edition>Primera edición precedida de algunos rasgos biográficos por
+                            L.G.O.</edition>
+                        <imprint>
+                            <publisher>Imprenta en la calle cerrada de Santa Teresa, número
+                                3</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1872">1872</date>
+                            <biblScope unit="page">p. 3-51</biblScope>
+                        </imprint>
+                        <extent>En 4°, de XXXVII, 449 p.</extent>
+                    </monogr>
+                    <note resp="#Iguiniz">El autor de la biografía preliminar, cuya iniciales
+                        aparecen en la portada, es D. Luis G. Ortiz.</note>
+                    <ref>http://cd.dgb.uanl.mx/handle/201504211/9734</ref>
+                    <ref>http://132.248.9.32:8080/fondoantiguo2/1481791-16213/JPEG/Index.html</ref>
+                </biblStruct>
+                <biblStruct corresp="W1100" xml:id="E1546">
+                    <analytic>
+                        <author key="A9">Castillo, Florencio M. del</author>
+                        <title type="main" level="a">Amor y desgracia</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="m">Obras de Don Florencio M. del Castillo</title>
+                        <title type="sub" level="m">Novelas cortas</title>
+                        <imprint>
+                            <publisher>Imprenta de V. Agüeros</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1902">1902</date>
+                            <biblScope unit="page">p. 1-56</biblScope>
+                        </imprint>
+                        <extent>En 8°, de XXII, 501 p. más el retrato del autor</extent>
+                    </monogr>
+                    <series>
+                        <title level="s" type="main">Biblioteca de Autores Mexicanos</title>
+                        <biblScope unit="volume">44</biblScope>
+                    </series>
+                    <note resp="#Iguiniz">Precedidas de una biografía del mismo por D. Alejandro
+                        Villaseñor y Villaseñor.</note>
+                    <ref>http://www.cervantesvirtual.com/obra/obras-de-don-florencio-m-del-castillo-novelas-cortas/</ref>
+                    <ref>http://cd.dgb.uanl.mx/handle/201504211/14794</ref>
+                </biblStruct>
+                <biblStruct corresp="W1101" xml:id="E1547">
+                    <analytic>
+                        <author key="A423">Castillo, Florencio M. del</author>
+                        <title type="main" level="a">La corona de azucenas</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="m">Horas de Tristeza</title>
+                        <title type="sub" level="m">Novelas cortas</title>
+                        <imprint>
+                            <publisher>Imprenta de Vicente García Torres</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1849">1849</date>
+                        </imprint>
+                        <extent>VIII, 149 p.</extent>
+                    </monogr>
+                    <note>Prólogo de Guillermo Prieto Pradillo.</note>
+                </biblStruct>
+                <biblStruct corresp="W1101" xml:id="E1548">
+                    <analytic>
+                        <author key="A423">Castillo, Florencio M. del</author>
+                        <title type="main" level="a">La corona de azucenas</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="m">Horas de Tristeza</title>
+                        <title type="sub" level="m">Colección de novelas por D. Florencio M. del
+                            Castillo</title>
+                        <title type="sub" level="m">Primera serie. Amor y desgracia. La Corona de
+                            Azucenas. ¡Hasta el cielo! Dolores ocultos</title>
+                        <imprint>
+                            <publisher>Manuel Ituarte, editor</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1850">1850</date>
+                            <biblScope unit="page">p. 37-78</biblScope>
+                        </imprint>
+                        <extent>En 4°, de (4), VIII, 149 p.</extent>
+                    </monogr>
+                    <note resp="#Iguiniz">Precedidas de dos cartas de D. Guillermo Prieto y D.
+                        Manuel Ituarte.</note>
+                    <ref>http://132.248.9.32:8080/fondoantiguo2/1570933-16212/JPEG/Index.html</ref>
+                </biblStruct>
+                <biblStruct corresp="W1101" xml:id="E1549">
+                    <analytic>
+                        <author key="A423">Castillo, Florencio M. del</author>
+                        <title type="main" level="a">La corona de azucenas</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="m">Horas de Tristeza</title>
+                        <title type="sub" level="m">Colección de novelas</title>
+                        <imprint>
+                            <publisher>Tipografía del comercio, a cargo de Joaquín
+                                Moreno</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1864">1864</date>
+                        </imprint>
+                        <extent>XI, 118 p.</extent>
+                    </monogr>
+                    <note>Prólogo por Guillermo Prieto.</note>
+                </biblStruct>
+                <biblStruct corresp="W1101" xml:id="E1550">
+                    <analytic>
+                        <author key="A423">Castillo, Florencio M. del</author>
+                        <title level="a" type="main">La corona de azucenas</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="m">Obras Completas de Florencio M. del
+                            Castillo</title>
+                        <edition>Primera edición precedida de algunos rasgos biográficos por
+                            L.G.O.</edition>
+                        <imprint>
+                            <publisher>Imprenta en la calle cerrada de Santa Teresa, número
+                                3</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1872">1872</date>
+                            <biblScope unit="page">p. 52-113</biblScope>
+                        </imprint>
+                        <extent>En 4°, de XXXVII, 449 p.</extent>
+                    </monogr>
+                    <note resp="#Iguiniz">El autor de la biografía preliminar, cuya iniciales
+                        aparecen en la portada, es D. Luis G. Ortiz.</note>
+                    <ref>http://cd.dgb.uanl.mx/handle/201504211/9734</ref>
+                    <ref>http://132.248.9.32:8080/fondoantiguo2/1481791-16213/JPEG/Index.html</ref>
+                </biblStruct>
+                <biblStruct corresp="W1101" xml:id="E1551">
+                    <analytic>
+                        <author key="A9">Castillo, Florencio M. del</author>
+                        <title type="main" level="a">La corona de azucenas</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="m">Obras de Don Florencio M. del Castillo</title>
+                        <title type="sub" level="m">Novelas cortas</title>
+                        <imprint>
+                            <publisher>Imprenta de V. Agüeros</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1902">1902</date>
+                            <biblScope unit="page">p. 57-131</biblScope>
+                        </imprint>
+                        <extent>En 8°, de XXII, 501 p. más el retrato del autor</extent>
+                    </monogr>
+                    <series>
+                        <title level="s" type="main">Biblioteca de Autores Mexicanos</title>
+                        <biblScope unit="volume">44</biblScope>
+                    </series>
+                    <note resp="#Iguiniz">Precedidas de una biografía del mismo por D. Alejandro
+                        Villaseñor y Villaseñor.</note>
+                    <ref>http://www.cervantesvirtual.com/obra/obras-de-don-florencio-m-del-castillo-novelas-cortas/</ref>
+                    <ref>http://cd.dgb.uanl.mx/handle/201504211/14794</ref>
+                </biblStruct>
+                <biblStruct corresp="W1102" xml:id="E1552">
+                    <analytic>
+                        <author key="A423">Castillo, Florencio M. del</author>
+                        <title type="main" level="a">¡Hasta el cielo!</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="m">Horas de Tristeza</title>
+                        <title type="sub" level="m">Novelas cortas</title>
+                        <imprint>
+                            <publisher>Imprenta de Vicente García Torres</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1849">1849</date>
+                        </imprint>
+                        <extent>VIII, 149 p.</extent>
+                    </monogr>
+                    <note>Prólogo de Guillermo Prieto Pradillo.</note>
+                </biblStruct>
+                <biblStruct corresp="W1102" xml:id="E1553">
+                    <analytic>
+                        <author key="A423">Castillo, Florencio M. del</author>
+                        <title type="main" level="a">¡Hasta el cielo!</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="m">Horas de Tristeza</title>
+                        <title type="sub" level="m">Colección de novelas por D. Florencio M. del
+                            Castillo</title>
+                        <title type="sub" level="m">Primera serie. Amor y desgracia. La Corona de
+                            Azucenas. ¡Hasta el cielo! Dolores ocultos</title>
+                        <imprint>
+                            <publisher>Manuel Ituarte, editor</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1850">1850</date>
+                            <biblScope unit="page">p. 79-113</biblScope>
+                        </imprint>
+                        <extent>En 4°, de (4), VIII, 149 p.</extent>
+                    </monogr>
+                    <note resp="#Iguiniz">Precedidas de dos cartas de D. Guillermo Prieto y D.
+                        Manuel Ituarte.</note>
+                    <ref>http://132.248.9.32:8080/fondoantiguo2/1570933-16212/JPEG/Index.html</ref>
+                </biblStruct>
+                <biblStruct corresp="W1102" xml:id="E1554">
+                    <analytic>
+                        <author key="A423">Castillo, Florencio M. del</author>
+                        <title type="main" level="a">¡Hasta el cielo!</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="m">Horas de Tristeza</title>
+                        <title type="sub" level="m">Colección de novelas</title>
+                        <imprint>
+                            <publisher>Tipografía del comercio, a cargo de Joaquín
+                                Moreno</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1864">1864</date>
+                        </imprint>
+                        <extent>XI, 118 p.</extent>
+                    </monogr>
+                    <note>Prólogo por Guillermo Prieto.</note>
+                </biblStruct>
+                <biblStruct corresp="W1102" xml:id="E1555">
+                    <monogr>
+                        <author key="A423">Castillo, Florencio M. del</author>
+                        <title type="main" level="m">¡Hasta el cielo!</title>
+                        <imprint>
+                            <publisher>Imprenta de Vicente Torres</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1862">1862</date>
+                        </imprint>
+                        <extent>75 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1102" xml:id="E1556">
+                    <analytic>
+                        <author key="A423">Castillo, Florencio M. del</author>
+                        <title level="a" type="main">¡Hasta el cielo!</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="m">Obras Completas de Florencio M. del
+                            Castillo</title>
+                        <edition>Primera edición precedida de algunos rasgos biográficos por
+                            L.G.O.</edition>
+                        <imprint>
+                            <publisher>Imprenta en la calle cerrada de Santa Teresa, número
+                                3</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1872">1872</date>
+                            <biblScope unit="page">p. 115-163</biblScope>
+                        </imprint>
+                        <extent>En 4°, de XXXVII, 449 p.</extent>
+                    </monogr>
+                    <note resp="#Iguiniz">El autor de la biografía preliminar, cuya iniciales
+                        aparecen en la portada, es D. Luis G. Ortiz.</note>
+                    <ref>http://cd.dgb.uanl.mx/handle/201504211/9734</ref>
+                    <ref>http://132.248.9.32:8080/fondoantiguo2/1481791-16213/JPEG/Index.html</ref>
+                </biblStruct>
+                <biblStruct corresp="W1102" xml:id="E1557">
+                    <analytic>
+                        <author key="A9">Castillo, Florencio M. del</author>
+                        <title type="main" level="a">¡Hasta el cielo!</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="m">Obras de Don Florencio M. del Castillo</title>
+                        <title type="sub" level="m">Novelas cortas</title>
+                        <imprint>
+                            <publisher>Imprenta de V. Agüeros</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1902">1902</date>
+                            <biblScope unit="page">p. 133-190</biblScope>
+                        </imprint>
+                        <extent>En 8°, de XXII, 501 p. más el retrato del autor</extent>
+                    </monogr>
+                    <series>
+                        <title level="s" type="main">Biblioteca de Autores Mexicanos</title>
+                        <biblScope unit="volume">44</biblScope>
+                    </series>
+                    <note resp="#Iguiniz">Precedidas de una biografía del mismo por D. Alejandro
+                        Villaseñor y Villaseñor.</note>
+                    <ref>http://www.cervantesvirtual.com/obra/obras-de-don-florencio-m-del-castillo-novelas-cortas/</ref>
+                    <ref>http://cd.dgb.uanl.mx/handle/201504211/14794</ref>
+                </biblStruct>
+                <biblStruct corresp="W1103" xml:id="E1558">
+                    <monogr>
+                        <author key="A423">Castillo, Florencio M. del</author>
+                        <title type="main" level="m">Hermana de los ángeles</title>
+                        <imprint>
+                            <publisher>Establecimiento Tipográfico de Andrés Boix</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1854">1854</date>
+                        </imprint>
+                        <extent>153 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1103" xml:id="E1559">
+                    <analytic>
+                        <author key="A423">Castillo, Florencio M. del</author>
+                        <title level="a" type="main">Hermana de los ángeles</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="m">Obras Completas de Florencio M. del
+                            Castillo</title>
+                        <edition>Primera edición precedida de algunos rasgos biográficos por
+                            L.G.O.</edition>
+                        <imprint>
+                            <publisher>Imprenta en la calle cerrada de Santa Teresa, número
+                                3</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1872">1872</date>
+                            <biblScope unit="page">p. 215-348</biblScope>
+                        </imprint>
+                        <extent>En 4°, de XXXVII, 449 p.</extent>
+                    </monogr>
+                    <note resp="#Iguiniz">El autor de la biografía preliminar, cuya iniciales
+                        aparecen en la portada, es D. Luis G. Ortiz.</note>
+                    <ref>http://cd.dgb.uanl.mx/handle/201504211/9734</ref>
+                    <ref>http://132.248.9.32:8080/fondoantiguo2/1481791-16213/JPEG/Index.html</ref>
+                </biblStruct>
+                <biblStruct corresp="W1103" xml:id="E1560">
+                    <analytic>
+                        <author key="A423">Castillo, Florencio M. del</author>
+                        <title type="main" level="a">Hermana de los ángeles</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="m">Obras de Don Florencio M. del Castillo</title>
+                        <title type="sub" level="m">Novelas cortas</title>
+                        <imprint>
+                            <publisher>Imprenta de V. Agüeros</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1902">1902</date>
+                            <biblScope unit="page">p. 247-397</biblScope>
+                        </imprint>
+                        <extent>En 8°, de XXII, 501 p. más el retrato del autor</extent>
+                    </monogr>
+                    <series>
+                        <title level="s" type="main">Biblioteca de Autores Mexicanos</title>
+                        <biblScope unit="volume">44</biblScope>
+                    </series>
+                    <note resp="#Iguiniz">Precedidas de una biografía del mismo por D. Alejandro
+                        Villaseñor y Villaseñor.</note>
+                    <ref>http://www.cervantesvirtual.com/obra/obras-de-don-florencio-m-del-castillo-novelas-cortas/</ref>
+                    <ref>http://cd.dgb.uanl.mx/handle/201504211/14794</ref>
+                </biblStruct>
+                <biblStruct corresp="W1104" xml:id="E1561">
+                    <analytic>
+                        <author key="A423">Castillo, Florencio M. del</author>
+                        <title type="main" level="a">Dos horas en el Hospital de San Andrés</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="m">Horas de Tristeza</title>
+                        <title type="sub" level="m">Novelas cortas</title>
+                        <imprint>
+                            <publisher>Imprenta de Vicente García Torres</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1849">1849</date>
+                        </imprint>
+                        <extent>VIII, 149 p.</extent>
+                    </monogr>
+                    <note>Prólogo de Guillermo Prieto Pradillo.</note>
+                </biblStruct>
+                <biblStruct corresp="W1104" xml:id="E1562">
+                    <analytic>
+                        <author key="A423">Castillo, Florencio M. del</author>
+                        <title level="a" type="main">Dos horas en el Hospital de San Andrés</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="m">Obras Completas de Florencio M. del
+                            Castillo</title>
+                        <edition>Primera edición precedida de algunos rasgos biográficos por
+                            L.G.O.</edition>
+                        <imprint>
+                            <publisher>Imprenta en la calle cerrada de Santa Teresa, número
+                                3</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1872">1872</date>
+                            <biblScope unit="page">p. 171-214</biblScope>
+                        </imprint>
+                        <extent>En 4°, de XXXVII, 449 p.</extent>
+                    </monogr>
+                    <note resp="#Iguiniz">El autor de la biografía preliminar, cuya iniciales
+                        aparecen en la portada, es D. Luis G. Ortiz.</note>
+                    <ref>http://cd.dgb.uanl.mx/handle/201504211/9734</ref>
+                </biblStruct>
+                <biblStruct corresp="W1104" xml:id="E1563">
+                    <analytic>
+                        <author key="A9">Castillo, Florencio M. del</author>
+                        <title type="main" level="a">Dos horas en el Hospital de San Andrés</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="m">Obras de Don Florencio M. del Castillo</title>
+                        <title type="sub" level="m">Novelas cortas</title>
+                        <imprint>
+                            <publisher>Imprenta de V. Agüeros</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1902">1902</date>
+                            <biblScope unit="page">p. 197-245</biblScope>
+                        </imprint>
+                        <extent>En 8°, de XXII, 501 p. más el retrato del autor</extent>
+                    </monogr>
+                    <series>
+                        <title level="s" type="main">Biblioteca de Autores Mexicanos</title>
+                        <biblScope unit="volume">44</biblScope>
+                    </series>
+                    <note resp="#Iguiniz">Precedidas de una biografía del mismo por D. Alejandro
+                        Villaseñor y Villaseñor.</note>
+                    <ref>http://www.cervantesvirtual.com/obra/obras-de-don-florencio-m-del-castillo-novelas-cortas/</ref>
+                    <ref>http://cd.dgb.uanl.mx/handle/201504211/14794</ref>
+                </biblStruct>
+                <biblStruct corresp="W1105" xml:id="E1564">
+                    <analytic>
+                        <author key="A423">Castillo, Florencio M. del</author>
+                        <title level="a" type="main">Culpa</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="m">Obras Completas de Florencio M. del
+                            Castillo</title>
+                        <edition>Primera edición precedida de algunos rasgos biográficos por
+                            L.G.O.</edition>
+                        <imprint>
+                            <publisher>Imprenta en la calle cerrada de Santa Teresa, número
+                                3</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1872">1872</date>
+                            <biblScope unit="page">p. 351-407</biblScope>
+                        </imprint>
+                        <extent>En 4°, de XXXVII, 449 p.</extent>
+                    </monogr>
+                    <note resp="#Iguiniz">El autor de la biografía preliminar, cuya iniciales
+                        aparecen en la portada, es D. Luis G. Ortiz.</note>
+                    <ref>http://cd.dgb.uanl.mx/handle/201504211/9734</ref>
+                    <ref>http://132.248.9.32:8080/fondoantiguo2/1481791-16213/JPEG/Index.html</ref>
+                </biblStruct>
+                <biblStruct corresp="W1105" xml:id="E1565">
+                    <analytic>
+                        <author key="A423">Castillo, Florencio M. del</author>
+                        <title type="main" level="a">Culpa</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="m">Obras de Don Florencio M. del Castillo</title>
+                        <title type="sub" level="m">Novelas cortas</title>
+                        <imprint>
+                            <publisher>Imprenta de V. Agüeros</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1902">1902</date>
+                            <biblScope unit="page">p. 399-463</biblScope>
+                        </imprint>
+                        <extent>En 8°, de XXII, 501 p. más el retrato del autor</extent>
+                    </monogr>
+                    <series>
+                        <title level="s" type="main">Biblioteca de Autores Mexicanos</title>
+                        <biblScope unit="volume">44</biblScope>
+                    </series>
+                    <note resp="#Iguiniz">Precedidas de una biografía del mismo por D. Alejandro
+                        Villaseñor y Villaseñor.</note>
+                    <ref>http://www.cervantesvirtual.com/obra/obras-de-don-florencio-m-del-castillo-novelas-cortas/</ref>
+                    <ref>http://cd.dgb.uanl.mx/handle/201504211/14794</ref>
+                </biblStruct>
+                <biblStruct corresp="W1106" xml:id="E1566">
+                    <monogr>
+                        <author key="A424">Castillo, I. D. del</author>
+                        <title type="main" level="m">La prostitución o consecuencias de un mal
+                            ejemplo</title>
+                        <title type="sub" level="m">Novela original</title>
+                        <imprint>
+                            <publisher>Imprenta por Agustín Contreras</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1836">1836</date>
+                        </imprint>
+                        <extent>En 16°, de 131 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1107" xml:id="E1567">
+                    <monogr>
+                        <author key="A425">Castillo, Rafael del</author>
+                        <title type="main" level="m">Doña Consuelo</title>
+                        <imprint>
+                            <publisher>Imprenta, Litografía y Encuadernación de Esquivel y
+                                Salas</publisher>
+                            <pubPlace corresp="MX">San Luis Potosí</pubPlace>
+                            <date when="1886">1886</date>
+                        </imprint>
+                        <extent>En 16°, de 34 p.</extent>
+                    </monogr>
+                    <series>
+                        <title level="s" type="main">Tipos sociales</title>
+                        <title level="s" type="sub">Leyendas de costumbres</title>
+                        <title level="s" type="sub">Escritas por Rafael del Castillo</title>
+                    </series>
+                </biblStruct>
+                <biblStruct corresp="W1108" xml:id="E1568">
+                    <monogr>
+                        <author key="A425">Castillo, Rafael del</author>
+                        <title type="main" level="m">Los que lloran</title>
+                        <imprint>
+                            <publisher>Imprenta y Litografía de Esquivel y Salas</publisher>
+                            <pubPlace corresp="MX">San Luis Potosí</pubPlace>
+                            <date when="1886">1886</date>
+                        </imprint>
+                        <extent>En 16°, de 63 p.</extent>
+                    </monogr>
+                    <series>
+                        <title level="s" type="main">Tipos sociales</title>
+                        <title level="s" type="sub">Leyendas de costumbres</title>
+                        <title level="s" type="sub">Escritas por Rafael del Castillo</title>
+                    </series>
+                </biblStruct>
+                <biblStruct corresp="W1109" xml:id="E1569">
+                    <monogr>
+                        <author key="A425">Castillo, Rafael del</author>
+                        <title type="main" level="m">La carpeta verde</title>
+                        <title type="sub" level="m">3ª leyenda</title>
+                        <imprint>
+                            <publisher>Imprenta y Litografía de Esquivel y Salas</publisher>
+                            <pubPlace corresp="MX">San Luis Potosí</pubPlace>
+                            <date when="1886">1886</date>
+                        </imprint>
+                        <extent>En 16°, de 64 p.</extent>
+                    </monogr>
+                    <series>
+                        <title level="s" type="main">Tipos sociales</title>
+                        <title level="s" type="sub">Leyendas de costumbres</title>
+                        <title level="s" type="sub">Escritas por Rafael del Castillo</title>
+                    </series>
+                </biblStruct>
+                <biblStruct corresp="W1110" xml:id="E1570">
+                    <monogr>
+                        <author key="A425">Castillo, Rafael del</author>
+                        <title type="main" level="m">La muerte de una copa</title>
+                        <title type="sub" level="m">4ª leyenda</title>
+                        <imprint>
+                            <publisher>Imprenta y Litografía de Esquivel y Salas</publisher>
+                            <pubPlace corresp="MX">San Luis Potosí</pubPlace>
+                            <date when="1886">1886</date>
+                        </imprint>
+                        <extent>en 16°, de 67 p.</extent>
+                    </monogr>
+                    <series>
+                        <title level="s" type="main">Tipos sociales</title>
+                        <title level="s" type="sub">Leyendas de costumbres</title>
+                        <title level="s" type="sub">Escritas por Rafael del Castillo</title>
+                    </series>
+                </biblStruct>
+                <biblStruct corresp="W1111" xml:id="E1571">
+                    <monogr>
+                        <author key="A425">Castrejón, Eduardo A.</author>
+                        <title type="main" level="m">Los cuarenta y uno</title>
+                        <title type="sub" level="m">Novela crítico-social por Eduardo A.
+                            Castrejón</title>
+                        <imprint>
+                            <publisher>Tipografía 1ª calle de Guerrero, núm. 8</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1906">1906</date>
+                        </imprint>
+                        <extent>En 8°, de 167 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1112" xml:id="E1572">
+                    <monogr>
+                        <author key="A426">Castro, Juan S.</author>
+                        <title type="main" level="m">Fray Antonio de la Concepción</title>
+                        <title type="sub" level="m">(Apuntes para una novela)</title>
+                        <title type="sub" level="m">Por Juan S. Castro</title>
+                        <imprint>
+                            <publisher>Imprenta de "El Campesino"</publisher>
+                            <pubPlace corresp="MX">Unión de San Antonio</pubPlace>
+                            <date when="1888">1888</date>
+                        </imprint>
+                        <extent>En 8°, de XI, 71 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1113" xml:id="E1573">
+                    <analytic>
+                        <author key="A427">Ceballos, Ciro B.</author>
+                        <title type="main" level="a">Monografía</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Croquis y Sepias</title>
+                        <title type="sub" level="m">(Retrato por Julio Ruelas)</title>
+                        <imprint>
+                            <publisher>Eduardo Dublán</publisher>
+                            <pubPlace corresp="MX">México, D.F.</pubPlace>
+                            <date when="1898">1898</date>
+                            <biblScope unit="page">p. 47-107</biblScope>
+                        </imprint>
+                        <extent>En 8°, de (2), IV, 212 p. más el retrato del autor</extent>
+                    </monogr>
+                    <ref>http://www.lanovelacorta.com/1872-1922/monoin.php</ref>
+                    <ref>http://cd.dgb.uanl.mx/handle/201504211/9737</ref>
+                </biblStruct>
+                <biblStruct corresp="W1114" xml:id="E1574">
+                    <analytic>
+                        <author key="A427">Ceballos, Ciro B.</author>
+                        <title type="main" level="a">Un adulterio</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j">Biblioteca de El Universal</title>
+                        <imprint>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date from="1901-09-30" to="1901-10-06">30 de septiembre a 6 de octubre
+                                de 1901</date>
+                        </imprint>
+                    </monogr>
+                    <note>por entregas</note>
+                    <ref>http://www.lanovelacorta.com/1872-1922/uap.php</ref>
+                </biblStruct>
+                <biblStruct corresp="W1114" xml:id="E1575">
+                    <monogr>
+                        <author key="A427">Ceballos, Ciro B.</author>
+                        <title type="main" level="m">Un adulterio</title>
+                        <imprint>
+                            <publisher>Eduardo Dublán</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1903">1903</date>
+                        </imprint>
+                        <extent>En 8°, de 186, II p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1115" xml:id="E1576">
+                    <analytic>
+                        <author key="A427">Ceballos, Ciro B.</author>
+                        <title type="main" level="a">El delito</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="m">Claro-obscuro</title>
+                        <imprint>
+                            <publisher>Librería Madrileña</publisher>
+                            <pubPlace corresp="ES">Madrid</pubPlace>
+                            <date when="1896">1896</date>
+                            <biblScope unit="page">p. 33-131</biblScope>
+                        </imprint>
+                        <extent>En 8°, de 219 p.</extent>
+                    </monogr>
+                    <ref>http://cd.dgb.uanl.mx/handle/201504211/9736</ref>
+                </biblStruct>
+                <biblStruct corresp="W1116" xml:id="E1577">
+                    <monogr>
+                        <author key="A428">Ceniceros y Villarreal, Rafael</author>
+                        <title type="main" level="m">La siega</title>
+                        <title type="sub" level="m">Novela de costumbres por el Sr. Lic. D. Rafael
+                            Ceniceros y Villarreal</title>
+                        <imprint>
+                            <publisher>Talleres de Nazario Espinosa</publisher>
+                            <pubPlace corresp="MX">Zacatecas</pubPlace>
+                            <date when="1905">1905</date>
+                        </imprint>
+                        <extent>En 8°, de 300 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1116" xml:id="E1578">
+                    <monogr>
+                        <author key="A428">Ceniceros y Villarreal, Rafael</author>
+                        <title type="main" level="m">La siega</title>
+                        <title type="sub" level="m">Novela de costumbres regionales</title>
+                        <imprint>
+                            <publisher>Talleres de Nazario Espinosa</publisher>
+                            <pubPlace corresp="MX">Zacatecas</pubPlace>
+                            <date when="1904">1904</date>
+                        </imprint>
+                    </monogr>
+                    <ref>http://dgb.conaculta.gob.mx/coleccion_sep/libro_pdf/11000026240.pdf</ref>
+                </biblStruct>
+                <biblStruct corresp="W1116" xml:id="E1579">
+                    <analytic>
+                        <author key="A428">Ceniceros y Villarreal, Rafael</author>
+                        <title level="a" type="main">La siega</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="m">Obras del Lic. Rafael Ceniceros y
+                            Villarreal</title>
+                        <title type="sub" level="m">Tomo I</title>
+                        <title type="sub" level="m">Novelas</title>
+                        <imprint>
+                            <publisher>Imprenta de V. Agüeros, Editor</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1908">1908</date>
+                            <biblScope unit="page">p. 1-280</biblScope>
+                        </imprint>
+                        <extent>En 8°, de XXIII, 518 p. mas el retrato del autor, y precedida de la
+                            bibliografía del mismo</extent>
+                    </monogr>
+                    <note resp="#Iguiniz">Contiene <seg rend="italic">La Siega</seg> y <seg
+                        rend="italic">El hombre nuevo</seg>.</note>
+                    <ref>https://archive.org/details/obrasceni01ceni</ref>
+                </biblStruct>
+                <biblStruct corresp="W1117" xml:id="E1580">
+                    <monogr>
+                        <author key="A428">Ceniceros y Villarreal, Rafael</author>
+                        <title type="main" level="m">Hombre nuevo</title>
+                        <imprint>
+                            <publisher>s.e.r.</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1908">1908</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1117" xml:id="E1581">
+                    <analytic>
+                        <author key="A428">Ceniceros y Villarreal, Rafael</author>
+                        <title level="a" type="main">El hombre nuevo</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="m">Obras del Lic. Rafael Ceniceros y
+                            Villarreal</title>
+                        <title type="sub" level="m">Tomo I</title>
+                        <title type="sub" level="m">Novelas</title>
+                        <imprint>
+                            <publisher>Imprenta de V. Agüeros, Editor</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1908">1908</date>
+                            <biblScope unit="page">p. 281-518</biblScope>
+                        </imprint>
+                        <extent>En 8°, de XXIII, 518 p. mas el retrato del autor, y precedida de la
+                            bibliografía del mismo</extent>
+                    </monogr>
+                    <note resp="#Iguiniz">Contiene <seg rend="italic">La Siega</seg> y <seg
+                        rend="italic">El hombre nuevo</seg>.</note>
+                    <ref>https://archive.org/details/obrasceni01ceni</ref>
+                </biblStruct>
             </listBibl>
         </body>
     </text>

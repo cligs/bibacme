@@ -1133,6 +1133,7 @@
                     <title>Antón Pérez</title>
                     <ref>http://www.archivos.ujat.mx/2011/difusion/libros/27.pdf</ref>
                     <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                    <idno type="cligs">nh0208</idno>
                 </bibl>
                 <bibl xml:id="W163">
                     <author key="A84">Sánchez Mármol, Manuel</author>
@@ -5687,8 +5688,8 @@
                     <title>El isleño</title>
                     <term type="subgenre_title">episodio de la guerra de independencia</term>
                     <bibl type="source"><ptr target="#Lichtblau"/></bibl>
-                    <note type="subgenre_lithist" source="#Lichtblau">one of the early Argentine novels 
-                    portraying the gaucho sympathetically</note>
+                    <note type="subgenre_lithist" source="#Lichtblau">one of the early Argentine
+                        novels portraying the gaucho sympathetically</note>
                     <!-- Resumen en Lichtblau -->
                 </bibl>
                 <bibl xml:id="W918">
@@ -6344,6 +6345,552 @@
                     <term type="subgenre_title">cuento prehistórico</term>
                     <bibl type="source"><ptr target="#DLC"/></bibl>
                     <ref>http://bdigital.bnjm.cu/secciones/literatura/autores/30/obras/30_525.pdf</ref>
+                </bibl>
+                <bibl xml:id="W1024">
+                    <author key="A394">Andueza, José María de</author>
+                    <title>La heredera de Almazán; o, Los Caballeros de la Banda</title>
+                    <term type="subgenre_title">novela histórica</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W1025">
+                    <author key="A394">Andueza, José María de</author>
+                    <title>Abul Hacem</title>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W1026">
+                    <author key="A394">Andueza, José María de</author>
+                    <title>Espatolino</title>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W1027">
+                    <author key="A394">Andueza, José María de</author>
+                    <title>Margarita</title>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W1028">
+                    <author key="A391">Ángulo y Guridi, Alejandro</author>
+                    <title>Los amores de los indios</title>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W1029">
+                    <author key="A395">Aramburu, Joaquín N.</author>
+                    <title>Un detallista feliz</title>
+                    <term type="subgenre_title">novela festiva de costumbres cubanas</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W1030">
+                    <author key="A396">Armas y Céspedes, José de</author>
+                    <title>Frasquito</title>
+                    <term type="subgenre_title">novela original</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W1031">
+                    <author key="A397">Auber de Noya, Virginia Felicia</author>
+                    <title>Un aria de Bellini</title>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W1032">
+                    <author key="A397">Auber de Noya, Virginia Felicia</author>
+                    <title>Wilhelmina</title>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W1033">
+                    <author key="A397">Auber de Noya, Virginia Felicia</author>
+                    <title>Leoncio</title>
+                    <idno type="cligs">nh0014</idno>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W1034">
+                    <author key="A397">Auber de Noya, Virginia Felicia</author>
+                    <title>Un casamiento original</title>
+                    <idno type="cligs">nh0015</idno>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W1035">
+                    <author key="A397">Auber de Noya, Virginia Felicia</author>
+                    <title>El castillo de la loca</title>
+                    <term type="subgenre_title">tradición siciliana</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W1036">
+                    <author key="A397">Auber de Noya, Virginia Felicia</author>
+                    <title>Mauricio</title>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W1037">
+                    <author key="A397">Auber de Noya, Virginia Felicia</author>
+                    <title>Una falta</title>
+                    <term type="subgenre_title">novela original</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W1038">
+                    <author key="A397">Auber de Noya, Virginia Felicia</author>
+                    <title>Úrsula</title>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W1039">
+                    <author key="A397">Auber de Noya, Virginia Felicia</author>
+                    <title>Una venganza</title>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W1040">
+                    <author key="A397">Auber de Noya, Virginia Felicia</author>
+                    <title>Una habanera; caprichos del corazón</title>
+                    <term type="subgenre_title">caprichos del corazón</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W1041">
+                    <author key="A397">Auber de Noya, Virginia Felicia</author>
+                    <title>Perseverancia</title>
+                    <term type="subgenre_title">algunas páginas de la vida de un gran poeta</term>
+                    <term type="subgenre_title">novela original</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W1042">
+                    <author key="A397">Auber de Noya, Virginia Felicia</author>
+                    <title>Otros tiempos</title>
+                    <term type="subgenre_title">novela histórica</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W1043">
+                    <author key="A397">Auber de Noya, Virginia Felicia</author>
+                    <title>Ambarina</title>
+                    <term type="subgenre_title">historia doméstica cubana</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W1044">
+                    <author key="A397">Auber de Noya, Virginia Felicia</author>
+                    <title>Los dos castillos</title>
+                    <term type="subgenre_title">leyenda alemana</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W1045">
+                    <author key="A397">Auber de Noya, Virginia Felicia</author>
+                    <title>Teresa</title>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W1046">
+                    <author key="A397">Auber de Noya, Virginia Felicia</author>
+                    <title>Una historia bajo los árboles</title>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W1047">
+                    <author key="A397">Auber de Noya, Virginia Felicia</author>
+                    <title>Un amor misterioso</title>
+                    <term type="subgenre_title">episodio de la revolución francesa de 1793</term>
+                    <bibl type="source"><ptr target="#DLC"/></bibl>
+                </bibl>
+                <bibl xml:id="W1048">
+                    <author key="A398">Echáiz, Jesús</author>
+                    <title>El paladín extranjero</title>
+                    <term type="subgenre_title">crónicas de la independencia</term>
+                    <term type="subgenre_title">ensayo de una novela histórica</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1049">
+                    <author key="A398">Echáiz, Jesús</author>
+                    <title>La envenenadora</title>
+                    <term type="subgenre_title">crónicas de la independencia</term>
+                    <term type="subgenre_title">novela histórica</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1050">
+                    <author key="A399">Elízaga, Lorenzo</author>
+                    <title>Mauricio el ajusticiado o una persecución masónica</title>
+                    <term type="subgenre_title">novela original</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1051">
+                    <author key="A400">Enziso, Cenobio I.</author>
+                    <title>Camelias rojas</title>
+                    <term type="subgenre_title">ensayo</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1052">
+                    <author key="A400">Enziso, Cenobio I.</author>
+                    <title>Herlinda</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1053">
+                    <author key="A401">Escobar, Manuel María</author>
+                    <title>Cerca del trono</title>
+                    <term type="subgenre_title">algo del pasado</term>
+                    <term type="subgenre_title">episodio original fantástico</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1054">
+                    <author key="A402">Espinoza, Julio</author>
+                    <title>Esperanza</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1055">
+                    <author key="A403">Esteva, José María</author>
+                    <title>La campana de la misión</title>
+                    <term type="subgenre_title">novela mexicana</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1056">
+                    <author key="A404">Esteva, Roberto A.</author>
+                    <title>Una mujer sin corazón</title>
+                    <term type="subgenre_title">episodio de una novela inédita</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1057">
+                    <author key="A404">Esteva, Roberto A.</author>
+                    <title>Juana de Armendáriz</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1058">
+                    <author key="A404">Esteva, Roberto A.</author>
+                    <title>Una pasión italiana</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1059">
+                    <author key="A404">Esteva, Roberto A.</author>
+                    <title>El fruto prohibido</title>
+                    <term type="subgenre_title">novela original</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1060">
+                    <author key="A404">Esteva, Roberto A.</author>
+                    <title>Plumadas sueltas</title><!-- novela? -->
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1061">
+                    <author key="A404">Esteva, Roberto A.</author>
+                    <title>El violín de White</title>
+                    <term type="subgenre_title">cuento</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1062">
+                    <author key="A405">Ezeta, Carlos</author>
+                    <title>Hija y esposa</title>
+                    <term type="subgenre_title">novela original</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1063">
+                    <author key="A406">Delgado, Rafael</author>
+                    <title>La Calandria</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                    <ref>https://archive.org/details/lacalandrianovel00delg_0</ref>
+                </bibl>
+                <bibl xml:id="W1064">
+                    <author key="A406">Delgado, Rafael</author>
+                    <title>Angelina</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1065">
+                    <author key="A406">Delgado, Rafael</author>
+                    <title>Los parientes ricos</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                    <ref>http://dgb.conaculta.gob.mx/coleccion_sep/libro_pdf/11000023791.pdf</ref>
+                </bibl>
+                <bibl xml:id="W1066">
+                    <author key="A406">Delgado, Rafael</author>
+                    <title>Historia vulgar</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1067">
+                    <author key="A406">Delgado, Rafael</author>
+                    <title>La apostasía del padre Arteaga</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1068">
+                    <author key="A407">Díaz Covarrubias, Juan</author>
+                    <title>La clase media</title>
+                    <term type="subgenre_title">novela de costumbres mexicanas</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1069">
+                    <author key="A407">Díaz Covarrubias, Juan</author>
+                    <title>Gil Gómez el insurgente o la hija del médico</title>
+                    <term type="subgenre_title">novela histórica mexicanas</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1070">
+                    <author key="A407">Díaz Covarrubias, Juan</author>
+                    <title>El diablo en México</title>
+                    <term type="subgenre_title">novela de costumbres</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1071">
+                    <author key="A407">Díaz Covarrubias, Juan</author>
+                    <title>La sensitiva</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1072">
+                    <author key="A408">Didapp, Juan Pedro</author>
+                    <title>Proceso</title>
+                    <term type="subgenre_title">novela histórica</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1073">
+                    <author key="A409">Domínguez, Juan de Dios</author>
+                    <title>Doña Esperanza de Haro</title>
+                    <term type="subgenre_title">leyenda del siglo XVIII</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1074">
+                    <author key="A409">Domínguez, Juan de Dios</author>
+                    <title>El embajador y la sevillana</title>
+                    <term type="subgenre_title">leyenda del siglo XVI</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1075">
+                    <author key="A410">Domínguez, Manuel</author>
+                    <title>El Capitán Fantasma</title>
+                    <term type="subgenre_title">leyenda mexicana</term>
+                    <term type="subgenre_title">leyenda histórica</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1076">
+                    <author key="A410">Domínguez, Manuel</author>
+                    <title>Peñastlán</title>
+                    <term type="subgenre_title">leyenda histórica</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1077">
+                    <author key="A410">Domínguez, Manuel</author>
+                    <title>Cuautla</title>
+                    <term type="subgenre_title">leyenda histórica</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1078">
+                    <author key="A410">Domínguez, Manuel</author>
+                    <title>Fátima</title>
+                    <term type="subgenre_title">leyenda árabe</term>
+                    <term type="subgenre_title">leyenda histórica</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1079">
+                    <author key="A411">Calderón, Luis</author>
+                    <title>Los novios</title>
+                    <term type="subgenre_title">novela original</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1080">
+                    <author key="A412">Calderón de Becerra, Pablo</author>
+                    <title>Margarita</title>
+                    <term type="subgenre_title">leyenda de costumbres</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1081">
+                    <author key="A413">Camberos, Manuela G. de</author>
+                    <title>La Venganza de una Madre</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1082">
+                    <author key="A414">Campo y Valle, Ángel de</author>
+                    <title>La Rumba</title>
+                    <idno type="cligs">nh0133</idno>
+                    <bibl type="source"><ptr target="#ELEM"/></bibl>
+                    <ref>http://dgb.conaculta.gob.mx/coleccion_sep/libro_pdf/11000014708.pdf</ref>
+                </bibl>
+                <bibl xml:id="W1083">
+                    <author key="A414">Campo y Valle, Ángel de</author>
+                    <title>El de los claveles dobles</title>
+                    <term type="subgenre_title">entretenimiento novelesco de buen humor en varios
+                        cuadros y varios coloquios a manera de apuntes para un libreto del género
+                        mediano</term>
+                    <idno type="cligs">nh0148</idno>
+                    <bibl type="source"><ptr target="#NovelaCorta"/></bibl>
+                </bibl>
+                <bibl xml:id="W1084">
+                    <author key="A414">Campo y Valle, Ángel de</author>
+                    <title>Apuntes sobre Perico Vera</title>
+                    <bibl type="source"><ptr target="#ELEM"/></bibl>
+                    <ref>https://catalog.hathitrust.org/Record/006712529</ref>
+                </bibl>
+                <bibl xml:id="W1085">
+                    <author key="A415">Campos, Rubén M.</author>
+                    <title>Claudio Oronoz</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1086">
+                    <author key="A416">Candelas, El tío</author>
+                    <title>Los dos amantes o la venganza del rey</title>
+                    <term type="subgenre_title">novela humorística y de costumbres</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1087">
+                    <author key="A417">Carrillo, Álvaro</author>
+                    <title>Xochitl, La reina azteca</title>
+                    <term type="subgenre_title">aventuras maravillosas de los antiguos
+                        mexicanos</term>
+                    <term type="subgenre_title">novela histórica</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1088">
+                    <author key="A418">Carrillo, Miguel</author>
+                    <title>Rosaura</title>
+                    <term type="subgenre_title">fragmentos de un libro de memorias</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1089">
+                    <author key="A419">Carrillo y Ancona, Crescencio</author>
+                    <title>Historia de Welinna</title>
+                    <idno type="cligs">nh0179</idno>
+                    <term type="subgenre_title">leyenda yucateca</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1090">
+                    <author key="A419">Carrillo y Ancona, Crescencio</author>
+                    <title>El santuario de la aldea</title>
+                    <term type="subgenre_title">tradición popular</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1091">
+                    <author key="A419">Carrillo y Ancona, Crescencio</author>
+                    <title>El rayo de sol</title>
+                    <term type="subgenre_title">leyenda yucateca</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1092">
+                    <author key="A419">Carrillo y Ancona, Crescencio</author>
+                    <title>El árbol de luz</title>
+                    <term type="subgenre_title">tradición popular</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1093">
+                    <author key="A419">Carrillo y Ancona, Crescencio</author>
+                    <title>El fraile de la calavera o la centuria de un gran pelado,
+                        1792-1892</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1094">
+                    <author key="A420">Carrión, Antonio</author>
+                    <title>Doña Violante de Ávila</title>
+                    <term type="subgenre_title">leyenda histórica</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1095">
+                    <author key="A421">Castellot, José Felipe</author>
+                    <title>La Cuna de Piedra</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1096">
+                    <author key="A422">Castera, Pedro</author>
+                    <title>Carmen</title>
+                    <term type="subgenre_title">memorias de un corazón</term>
+                    <term type="subgenre_lithist" resp="#Iguiniz">novela sentimental</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1097">
+                    <author key="A422">Castera, Pedro</author>
+                    <title>Los Maduros</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                    <ref>http://www.lanovelacorta.com/1872-1922/lmin.php</ref>
+                </bibl>
+                <bibl xml:id="W1098">
+                    <author key="A422">Castera, Pedro</author>
+                    <title>Dramas en un corazón</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1099">
+                    <author key="A422">Castera, Pedro</author>
+                    <title>Querens</title>
+                    <term type="subgenre_title">novela original</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                    <ref>http://online-db.iai.spk-berlin.de/han/750992883</ref>
+                </bibl>
+                <bibl xml:id="W1100">
+                    <author key="A423">Castillo, Florencio M. del</author>
+                    <title>Amor y desgracia</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1101">
+                    <author key="A423">Castillo, Florencio M. del</author>
+                    <title>La Corona de Azucenas</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1102">
+                    <author key="A423">Castillo, Florencio M. del</author>
+                    <title>¡Hasta el cielo!</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1103">
+                    <author key="A423">Castillo, Florencio M. del</author>
+                    <title>Hermana de los ángeles</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1104">
+                    <author key="A423">Castillo, Florencio M. del</author>
+                    <title>Dos horas en el Hospital de San Andrés</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1105">
+                    <author key="A423">Castillo, Florencio M. del</author>
+                    <title>Culpa</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1106">
+                    <author key="A424">Castillo, I. D. del</author>
+                    <title>La prostitución o consecuencias de un mal ejemplo</title>
+                    <term type="subgenre_title">novela original</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1107">
+                    <author key="A425">Castillo, Rafael del</author>
+                    <title>Doña Consuelo</title>
+                    <term type="subgenre_title">leyenda de costumbres</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1108">
+                    <author key="A425">Castillo, Rafael del</author>
+                    <title>Los que lloran</title>
+                    <term type="subgenre_title">leyenda de costumbres</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1109">
+                    <author key="A425">Castillo, Rafael del</author>
+                    <title>La carpeta verde</title>
+                    <term type="subgenre_title">leyenda de costumbres</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1110">
+                    <author key="A425">Castillo, Rafael del</author>
+                    <title>La muerte de una copa</title>
+                    <term type="subgenre_title">leyenda de costumbres</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1111">
+                    <author key="A426">Montañes, Mariano Ruiz</author>
+                    <title>Los cuarenta y uno</title>
+                    <term type="subgenre_title">novela crítico-social</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1112">
+                    <author key="A427">Castro, Juan S.</author>
+                    <title>Fray Antonio de la Concepción</title>
+                    <term type="subgenre_title">apuntes para una novela</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1113">
+                    <author key="A428">Ceballos, Ciro B.</author>
+                    <title>Monografía</title>
+                    <bibl type="source"><ptr target="#NovelaCorta"/></bibl>
+                </bibl>
+                <bibl xml:id="W1114">
+                    <author key="A428">Ceballos, Ciro B.</author>
+                    <title>Un adulterio</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1115">
+                    <author key="A428">Ceballos, Ciro B.</author>
+                    <title>El delito</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1116">
+                    <author key="A429">Ceniceros y Villarreal, Rafael</author>
+                    <title>La siega</title>
+                    <term type="subgenre_title">novela de costumbres</term>
+                    <term type="subgenre_title">novela de costumbres regionales</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1117">
+                    <author key="A429">Ceniceros y Villarreal, Rafael</author>
+                    <title>El hombre nuevo</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
                 </bibl>
             </listBibl>
         </body>
