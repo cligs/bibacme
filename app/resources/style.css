@@ -27,7 +27,8 @@ footer {
     clear: both;
     border-radius: 5px;
 }
-footer section {
+footer section, footer p {
+    padding-left: 0;
 }
 footer aside {
     float: right;

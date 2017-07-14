@@ -198,13 +198,16 @@ declare function data:get-author-name($author-key as xs:string+, $order as xs:st
     (: order: surname or forename :)
     let $authors := $app:authors/id($author-key)
     let $author-names := for $author in $authors
+                        let $forename := ($author//tei:forename)[1]
+                        let $surname := ($author//tei:surname)[1]
+                        let $name := ($author//tei:name/text())[1]
                         return
                         if ($author//tei:surname)
                         then 
                             if ($order = "forename")
-                            then string-join(($author//tei:forename, $author//tei:surname), " ")
-                            else string-join(($author//tei:surname, $author//tei:forename), ", ")
-                        else $author//tei:name/text()
+                            then string-join(($forename, $surname), " ")
+                            else string-join(($surname, $forename), ", ")
+                        else $name
     return $author-names
 };
 
