@@ -36,13 +36,13 @@
         </span>
     </xsl:template>
     <xsl:template match="note | title[@type='sub']"/>
-    <xsl:template match="publisher">
+    <xsl:template match="pubPlace">
         <xsl:apply-templates/>
         <xsl:if test="following-sibling::pubPlace">
             <xsl:text>: </xsl:text>
         </xsl:if>
     </xsl:template>
-    <xsl:template match="pubPlace">
+    <xsl:template match="publisher">
         <xsl:apply-templates/>
         <xsl:choose>
             <xsl:when test="following-sibling::date">

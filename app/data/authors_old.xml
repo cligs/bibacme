@@ -532,24 +532,6 @@
                     <sex>indefinido</sex>
                     <nationality cert="low">cubana/o</nationality>
                 </person>
-                <person xml:id="A103">
-                    <persName>
-                        <surname>Cuéllar</surname>
-                        <forename>José Tomás de</forename>
-                        <addName type="pseudonym">Facundo</addName>
-                    </persName>
-                    <birth>
-                        <date when="1830-09-18">18 de septiembre de 1830</date>
-                        <placeName>México</placeName>
-                    </birth>
-                    <death>
-                        <date when="1894-02-11">11 de febrero de 1894</date>
-                        <placeName>México</placeName>
-                    </death>
-                    <sex>masculino</sex>
-                    <nationality>mexicana/o</nationality>
-                    <idno type="viaf">54234356</idno>
-                </person>
                 <person xml:id="A134">
                     <persName>
                         <surname>Arriaga</surname>
@@ -789,51 +771,6 @@
                         <surname>Álvarez Prieto</surname>
                         <forename>Fernando</forename>
                     </persName>
-                    <sex>masculino</sex>
-                    <nationality>mexicana/o</nationality>
-                </person>
-                <person xml:id="A170">
-                    <persName>
-                        <surname>Cordero</surname>
-                        <forename>Juan N.</forename>
-                    </persName>
-                    <birth>
-                        <date when="1851-08-20">20 de agosto de 1851</date>
-                        <placeName>Ciudad de México</placeName>
-                        <placeName>México</placeName>
-                    </birth>
-                    <death>
-                        <date>desconocido</date>
-                        <placeName>desconocido</placeName>
-                    </death>
-                    <sex>masculino</sex>
-                    <nationality>mexicana/o</nationality>
-                </person>
-                <person xml:id="A171">
-                    <persName>
-                        <surname>Cordero</surname>
-                        <forename>Salvador</forename>
-                    </persName>
-                    <birth>
-                        <date when="1876-08-10">10 de agosto de 1876</date>
-                        <placeName>Ciudad de México</placeName>
-                        <placeName>México</placeName>
-                    </birth>
-                    <death>
-                        <date when="1951">1951</date>
-                        <placeName>Ciudad de México</placeName>
-                        <placeName>México</placeName>
-                    </death>
-                    <idno type="viaf">138804479</idno>
-                    <sex>masculino</sex>
-                    <nationality>mexicana/o</nationality>
-                </person>
-                <person xml:id="A172">
-                    <persName>
-                        <surname>Covarrubias y Acevedo</surname>
-                        <forename>Manuel</forename>
-                    </persName>
-                    <idno type="viaf">66207741</idno>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                 </person>

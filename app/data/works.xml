@@ -10,7 +10,7 @@
                 <title level="m" type="main">Bibliografía digital de novelas argentinas, cubanas y
                     mexicanas (1830-1910)</title>
                 <title level="a">Obras</title>
-                <principal xml:id="uh">Ulrike Henny</principal>
+                <principal xml:id="uh">Ulrike Henny-Krahmer</principal>
             </titleStmt>
             <publicationStmt>
                 <publisher>
@@ -308,6 +308,7 @@
                     <title>Perico</title>
                     <term type="subgenre_title">esbozos a la brocha</term>
                     <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                    <ref>http://www.bicentenario.gob.mx/bdb/bdbpdf/laMatraca/PERICO-1885.pdf</ref>
                 </bibl>
                 <bibl xml:id="W38">
                     <author key="A19">Zambrana y Vázquez, Antonio</author>
@@ -1140,6 +1141,7 @@
                     <title>Previvida</title>
                     <ref>http://www.archivos.ujat.mx/2011/difusion/libros/27.pdf</ref>
                     <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                    <idno type="cligs">nh0209</idno>
                 </bibl>
                 <bibl xml:id="W164">
                     <author key="A84">Sánchez Mármol, Manuel</author>
@@ -1147,6 +1149,7 @@
                     <term type="subgenre_title">novela episódica</term>
                     <ref>http://www.archivos.ujat.mx/2011/difusion/libros/26.pdf</ref>
                     <bibl type="source"><ptr target="#SanchezMarmolI"/></bibl>
+                    <idno type="cligs">nh0210</idno>
                 </bibl>
                 <bibl xml:id="W165">
                     <author key="A84">Sánchez Mármol, Manuel</author>
@@ -1154,12 +1157,14 @@
                     <term type="subgenre_title">relación fantástica</term>
                     <ref>http://www.archivos.ujat.mx/2011/difusion/libros/26.pdf</ref>
                     <bibl type="source"><ptr target="#SanchezMarmolI"/></bibl>
+                    <idno type="cligs">nh0211</idno>
                 </bibl>
                 <bibl xml:id="W166">
                     <author key="A84">Sánchez Mármol, Manuel</author>
                     <title>Juanita Sousa</title>
                     <ref>http://www.archivos.ujat.mx/2011/difusion/libros/26.pdf</ref>
                     <bibl type="source"><ptr target="#SanchezMarmolI"/></bibl>
+                    <idno type="cligs">nh0212</idno>
                 </bibl>
                 <bibl xml:id="W167">
                     <author key="A84">Sánchez Mármol, Manuel</author>
@@ -4032,6 +4037,7 @@
                     <author key="A246">Peón y Contreras, José</author>
                     <title>Veleidosa</title>
                     <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                    <idno type="cligs">nh0213</idno>
                     <ref>http://www.bicentenario.gob.mx/bdb/bdbpdf/laMatraca/VELEIDOSA-1891.pdf</ref>
                 </bibl>
                 <bibl xml:id="W635">
@@ -6891,6 +6897,143 @@
                     <author key="A429">Ceniceros y Villarreal, Rafael</author>
                     <title>El hombre nuevo</title>
                     <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1118">
+                    <author key="A430">Cordero, Juan N.</author>
+                    <title>Inri</title>
+                    <term type="subgenre_title">novela de costumbres</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1119">
+                    <author key="A431">Cordero, Salvador</author>
+                    <title>Memorias de un Juez de Paz</title>
+                    <term type="subgenre_title">memorias</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                    <ref>https://archive.org/details/3671829</ref>
+                    <ref>https://catalog.hathitrust.org/Record/101402529</ref>
+                    <ref>https://catalog.hathitrust.org/Record/008715221</ref>
+                </bibl>
+                <bibl xml:id="W1120">
+                    <author key="A432">Covarrubias y Acevedo, Manuel</author>
+                    <title>La Capilla de los Alamos</title>
+                    <term type="subgenre_title">colección de novelas cortas</term>
+                    <!-- pero conectadas -->
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1121">
+                    <author key="A432">Covarrubias y Acevedo, Manuel</author>
+                    <title>Narración humorística I</title>
+                    <term type="subgenre_title">narración humorística</term>
+                    <!-- no lleva título -->
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1122">
+                    <author key="A432">Covarrubias y Acevedo, Manuel</author>
+                    <title>El lirio negro</title>
+                    <term type="subgenre_title">narración humorística</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1123">
+                    <author key="A432">Covarrubias y Acevedo, Manuel</author>
+                    <title>Cien leguas de buen camino</title>
+                    <term type="subgenre_title">narración humorística</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1124">
+                    <author key="A433">Cuéllar, José Tomás de</author>
+                    <title>El Pecado del Siglo</title>
+                    <term type="subgenre_title">novela histórica</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1125">
+                    <author key="A433">Cuéllar, José Tomás de</author>
+                    <title>Ensalada de pollos</title>
+                    <term type="subgenre_title">novela de estos tiempos que corren</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                    <idno type="cligs">nh0050</idno>
+                </bibl>
+                <bibl xml:id="W1126">
+                    <author key="A433">Cuéllar, José Tomás de</author>
+                    <title>Historia de Chucho el Ninfo</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                    <idno type="cligs">nh0197</idno>
+                </bibl>
+                <bibl xml:id="W1127">
+                    <author key="A433">Cuéllar, José Tomás de</author>
+                    <title>Isolina la ex-figurante</title>
+                    <term type="subgenre_title">apuntes de un apuntador</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1128">
+                    <author key="A433">Cuéllar, José Tomás de</author>
+                    <title>Las jamonas</title>
+                    <term type="subgenre_title">secretos íntimos del tocador y del confidente</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1129">
+                    <author key="A433">Cuéllar, José Tomás de</author>
+                    <title>Las gentes que "son así"</title>
+                    <term type="subgenre_title">perfiles de hoy</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1130">
+                    <author key="A433">Cuéllar, José Tomás de</author>
+                    <title>Gabriel el cerrajero o las hijas de mi papá o las hijas de mi
+                        papá</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1131">
+                    <author key="A433">Cuéllar, José Tomás de</author>
+                    <title>Baile y Cochino</title>
+                    <term type="subgenre_title">novela de costumbres mexicanas</term>
+                    <idno type="cligs">nh0131</idno>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1132">
+                    <author key="A433">Cuéllar, José Tomás de</author>
+                    <title>Los Mariditos</title>
+                    <term type="subgenre_title">relato de actualidad y de muchos alcances</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                    <idno type="cligs">nh0199</idno>
+                    <ref>http://www.bicentenario.gob.mx/bdb/bdbpdf/laMatraca/losMariditos-1890.pdf</ref>
+                </bibl>
+                <bibl xml:id="W1133">
+                    <author key="A433">Cuéllar, José Tomás de</author>
+                    <title>Los fuereños</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                    <idno type="cligs">nh0129</idno>
+                    <ref>http://www.lanovelacorta.com/1872-1922/fuep.php</ref>
+                </bibl>
+                <bibl xml:id="W1134">
+                    <author key="A433">Cuéllar, José Tomás de</author>
+                    <title>La noche buena</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                    <idno type="cligs">nh0130</idno>
+                </bibl>
+                <bibl xml:id="W1135">
+                    <author key="A433">Cuéllar, José Tomás de</author>
+                    <title>El carnaval</title>
+                    <term type="subgenre_title">novela corta</term>
+                    <bibl type="source"><ptr target="#ELEM"/></bibl>
+                </bibl>
+                <bibl xml:id="W1136">
+                    <author key="A433">Cuéllar, José Tomás de</author>
+                    <title>Novela por vapor</title>
+                    <term type="subgenre_title">novela corta</term>
+                    <bibl type="source"><ptr target="#ELEM"/></bibl>
+                </bibl>
+                <bibl xml:id="W1137">
+                    <author key="A433">Cuéllar, José Tomás de</author>
+                    <title>Las posadas</title>
+                    <term type="subgenre_title">novela corta</term>
+                    <bibl type="source"><ptr target="#ELEM"/></bibl>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1138">
+                    <author key="A433">Cuéllar, José Tomás de</author>
+                    <title>El hombre-mujer</title>
+                    <term type="subgenre_title">novela corta</term>
+                    <bibl type="source"><ptr target="#ELEM"/></bibl>
                 </bibl>
             </listBibl>
         </body>

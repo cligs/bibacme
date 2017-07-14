@@ -10,7 +10,7 @@
                 <title level="m" type="main">Bibliografía digital de novelas argentinas, cubanas y
                     mexicanas (1830-1910)</title>
                 <title level="a">Ediciones</title>
-                <principal xml:id="uh">Ulrike Henny</principal>
+                <principal xml:id="uh">Ulrike Henny-Krahmer</principal>
             </titleStmt>
             <publicationStmt>
                 <publisher>
@@ -749,7 +749,7 @@
                         <title type="sub" level="m">Novela</title>
                         <title type="sub" level="m">Los escapularios de la virgen de
                             Cunduacán</title>
-                        <edition>segunda edición</edition>
+                        <edition>Segunda edición</edition>
                         <imprint>
                             <publisher>La Universidad</publisher>
                             <pubPlace corresp="MX">San Juan Bautista</pubPlace>
@@ -765,14 +765,13 @@
                         <title type="sub" level="m">(Esbozos a la brocha)</title>
                         <title type="sub" level="m">por Z.</title>
                         <title type="sub" level="m">Perico</title>
-                        <edition>segunda edición</edition>
+                        <edition>Segunda edición</edition>
                         <imprint>
                             <publisher>Tip. Lit. de Ramón González</publisher>
                             <pubPlace corresp="MX">San Juan Baustista, Tabasco</pubPlace>
                             <date when="1906">1906</date>
                         </imprint>
                     </monogr>
-                    <ref>http://www.bicentenario.gob.mx/bdb/bdbpdf/laMatraca/PERICO-1885.pdf</ref>
                 </biblStruct>
                 <biblStruct corresp="W38" xml:id="E48">
                     <monogr>
@@ -12984,7 +12983,7 @@
                         <author key="A245">Peña y Troncoso, Gonzalo</author>
                         <title level="m" type="main">Blanca, hija de la luz</title>
                         <title level="m" type="sub">Novela original</title>
-                        <edition>segunda edición</edition>
+                        <edition>Segunda edición</edition>
                         <imprint>
                             <publisher>Imp., Lit. y Enc. de I. Paz</publisher>
                             <pubPlace corresp="MX">México</pubPlace>
@@ -12994,12 +12993,25 @@
                     </monogr>
                     <note>Con prólogo del profesor José M. Silva.</note>
                 </biblStruct>
+                <biblStruct corresp="W632" xml:id="E1582">
+                    <monogr>
+                        <author key="A245">Peña y Troncoso, Gonzalo</author>
+                        <title level="m" type="main">Celeste</title>
+                        <title level="m" type="sub">(Nuevos ideales)</title>
+                        <edition>Segunda edición</edition>
+                        <imprint>
+                            <publisher>Imp., Lit. y Enc. de I. Paz</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1902">1902</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
                 <biblStruct corresp="W632" xml:id="E890">
                     <monogr>
                         <author key="A245">Peña y Troncoso, Gonzalo</author>
                         <title level="m" type="main">Celeste</title>
                         <title level="m" type="sub">(Nuevos ideales)</title>
-                        <edition>tercera edición</edition>
+                        <edition>Tercera edición</edition>
                         <imprint>
                             <publisher>Imp., Lit. y Enc. de I. Paz</publisher>
                             <pubPlace corresp="MX">México</pubPlace>
@@ -23988,7 +24000,7 @@
                             bibliografía del mismo</extent>
                     </monogr>
                     <note resp="#Iguiniz">Contiene <seg rend="italic">La Siega</seg> y <seg
-                        rend="italic">El hombre nuevo</seg>.</note>
+                            rend="italic">El hombre nuevo</seg>.</note>
                     <ref>https://archive.org/details/obrasceni01ceni</ref>
                 </biblStruct>
                 <biblStruct corresp="W1117" xml:id="E1580">
@@ -24022,8 +24034,557 @@
                             bibliografía del mismo</extent>
                     </monogr>
                     <note resp="#Iguiniz">Contiene <seg rend="italic">La Siega</seg> y <seg
-                        rend="italic">El hombre nuevo</seg>.</note>
+                            rend="italic">El hombre nuevo</seg>.</note>
                     <ref>https://archive.org/details/obrasceni01ceni</ref>
+                </biblStruct>
+                <biblStruct corresp="W1118" xml:id="E1584">
+                    <monogr>
+                        <author key="A430">Cordero, Juan N.</author>
+                        <title type="main" level="m">Inri</title>
+                        <title type="sub" level="m">Novela de costumbres</title>
+                        <title type="sub" level="m">Primera parte</title>
+                        <title type="sub" level="m">La Triple Alianza</title>
+                        <imprint>
+                            <publisher>Tipografía de "El Tiempo"</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1898">1898</date>
+                        </imprint>
+                        <extent>En 8°, de 494 p. más una lámina</extent>
+                    </monogr>
+                    <note resp="#Iguiniz">El resto de la obra no ha sido publicado.</note>
+                    <ref>https://catalog.hathitrust.org/Record/100104637</ref>
+                </biblStruct>
+                <biblStruct corresp="W1119" xml:id="E1585">
+                    <monogr>
+                        <author key="A431">Cordero, Salvador</author>
+                        <title type="main" level="m">Memorias de un Juez de Paz</title>
+                        <title type="sub" level="m">Puestas en orden y escritas por Salvador
+                            Cordero, Profesor Titular de Lengua Nacional en la Escuela
+                            Preparatoria</title>
+                        <imprint>
+                            <publisher>Tipografía de la Escuela Correccional para Varones
+                                Menores</publisher>
+                            <pubPlace corresp="MX">Tlalpam, D.F.</pubPlace>
+                            <date when="1910">1910</date>
+                        </imprint>
+                        <extent>En 4°, de 55 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1120" xml:id="E1586">
+                    <monogr>
+                        <author key="A432">Covarrubias y Acevedo, Manuel</author>
+                        <title type="sub" level="m">Colección de Novelas Cortas</title>
+                        <title type="main" level="m">La Capilla de los Alamos</title>
+                        <title type="sub" level="m">Por Manuel Covarrubias y Acevedo</title>
+                        <imprint>
+                            <publisher>Eduardo Rodríguez y Compañía</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1892">1892</date>
+                        </imprint>
+                        <extent>En 8°, de 123 p.</extent>
+                    </monogr>
+                    <ref>http://dgb.conaculta.gob.mx/coleccion_sep/libro_pdf/21000026865.pdf</ref>
+                </biblStruct>
+                <biblStruct corresp="W1121" xml:id="E1587">
+                    <analytic>
+                        <title level="a" type="main">Narración humorística I</title>
+                    </analytic>
+                    <monogr>
+                        <author key="A432">Covarrubias y Acevedo, Manuel</author>
+                        <title type="main" level="m">Narraciones humorísticas y cuentos
+                            infantiles</title>
+                        <edition>Ed. de La República</edition>
+                        <imprint>
+                            <publisher>Imprenta Poliglota</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1885">1885</date>
+                            <biblScope unit="page">p. 5-36</biblScope>
+                        </imprint>
+                        <extent>En 4°, de 236 p.</extent>
+                    </monogr>
+                    <ref>http://dgb.conaculta.gob.mx/coleccion_sep/libro_pdf/12000026312.pdf</ref>
+                </biblStruct>
+                <biblStruct corresp="W1122" xml:id="E1588">
+                    <analytic>
+                        <title level="a" type="main">El lirio negro</title>
+                    </analytic>
+                    <monogr>
+                        <author key="A432">Covarrubias y Acevedo, Manuel</author>
+                        <title type="main" level="m">Narraciones humorísticas y cuentos
+                            infantiles</title>
+                        <edition>Ed. de La República</edition>
+                        <imprint>
+                            <publisher>Imprenta Poliglota</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1885">1885</date>
+                            <biblScope unit="page">p. 112-165</biblScope>
+                        </imprint>
+                        <extent>En 4°, de 236 p.</extent>
+                    </monogr>
+                    <ref>http://dgb.conaculta.gob.mx/coleccion_sep/libro_pdf/12000026312.pdf</ref>
+                </biblStruct>
+                <biblStruct corresp="W1123" xml:id="E1589">
+                    <analytic>
+                        <title level="a" type="main">Cien leguas de buen camino</title>
+                    </analytic>
+                    <monogr>
+                        <author key="A432">Covarrubias y Acevedo, Manuel</author>
+                        <title type="main" level="m">Narraciones humorísticas y cuentos
+                            infantiles</title>
+                        <edition>Ed. de La República</edition>
+                        <imprint>
+                            <publisher>Imprenta Poliglota</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1885">1885</date>
+                            <biblScope unit="page">p. 191-221</biblScope>
+                        </imprint>
+                        <extent>En 4°, de 236 p.</extent>
+                    </monogr>
+                    <ref>http://dgb.conaculta.gob.mx/coleccion_sep/libro_pdf/12000026312.pdf</ref>
+                </biblStruct>
+                <biblStruct corresp="W1124" xml:id="E1590">
+                    <monogr>
+                        <author key="A433">Cuéllar, José Tomás de</author>
+                        <title level="m" type="main">El Pecado del Siglo</title>
+                        <title level="m" type="sub">Novela histórica (Época de Revillagigedo,
+                            1789)</title>
+                        <title level="m" type="sub">Por José T. de Cuéllar</title>
+                        <imprint>
+                            <publisher>Tipografía del Colegio Polimático</publisher>
+                            <pubPlace corresp="MX">San Luis Potosí</pubPlace>
+                            <date when="1869">1869</date>
+                        </imprint>
+                        <extent>En 4°, 580 (2) p.</extent>
+                    </monogr>
+                    <ref>https://archive.org/details/elpecadodelsiglo00cuel</ref>
+                    <ref>http://cd.dgb.uanl.mx/handle/201504211/8419</ref>
+                </biblStruct>
+                <biblStruct corresp="W1125" xml:id="E1591">
+                    <monogr>
+                        <author key="A433">Cuéllar, José Tomás de</author>
+                        <title level="m" type="main">Ensalada de pollos</title>
+                        <title level="m" type="sub">Novela de estos tiempos que corren</title>
+                        <imprint>
+                            <publisher>Ignacio Cumplido</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1871">1871</date>
+                        </imprint>
+                        <extent>274 p.</extent>
+                    </monogr>
+                    <series>
+                        <title level="s" type="main">La Linterna Mágica</title>
+                        <title level="s" type="sub">Colección de pequeñas novelas, escritas por
+                            Facundo (José Tomás de Cuéllar)</title>
+                        <biblScope unit="volume">T. I</biblScope>
+                    </series>
+                    <ref>http://cd.dgb.uanl.mx/handle/201504211/8412</ref>
+                </biblStruct>
+                <biblStruct corresp="W1125" xml:id="E1592">
+                    <monogr>
+                        <author key="A433">Cuéllar, José Tomás de</author>
+                        <title level="m" type="main">Ensalada de pollos</title>
+                        <title level="m" type="sub">Novela de estos tiempos que corren</title>
+                        <title level="m" type="sub">(1872)</title>
+                        <imprint>
+                            <publisher cert="low">Tipolitografía de Espasa y Compañía</publisher>
+                            <pubPlace corresp="ES" cert="low">Barcelona</pubPlace>
+                            <date when="1890">1890</date>
+                        </imprint>
+                        <extent>2 partes de 199 y 247 p.</extent>
+                    </monogr>
+                    <series>
+                        <title level="s" type="main">La Linterna Mágica</title>
+                        <title level="s" type="sub">Segunda Época</title>
+                        <biblScope unit="volume">T. II-III</biblScope>
+                    </series>
+                </biblStruct>
+                <biblStruct corresp="W1126" xml:id="E1593">
+                    <monogr>
+                        <author key="A433">Cuéllar, José Tomás de</author>
+                        <title level="m" type="main">Historia de Chucho el Ninfo</title>
+                        <imprint>
+                            <publisher>Ignacio Cumplido</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1871">1871</date>
+                        </imprint>
+                        <extent>354 p.</extent>
+                    </monogr>
+                    <series>
+                        <title level="s" type="main">La Linterna Mágica</title>
+                        <title level="s" type="sub">Colección de pequeñas novelas, escritas por
+                            Facundo (José Tomás de Cuéllar)</title>
+                        <biblScope unit="volume">T. II</biblScope>
+                    </series>
+                    <ref>http://cd.dgb.uanl.mx/handle/201504211/8415</ref>
+                </biblStruct>
+                <biblStruct corresp="W1126" xml:id="E1594">
+                    <monogr>
+                        <author key="A433">Cuéllar, José Tomás de</author>
+                        <title level="m" type="main">Historia de Chucho el Ninfo</title>
+                        <imprint>
+                            <publisher>Tipolitografía de Hermenegildo Miralles</publisher>
+                            <pubPlace corresp="ES">Barcelona</pubPlace>
+                            <date when="1890">1890</date>
+                        </imprint>
+                        <extent>2 partes, de 316 (2) y 248 (2) p.</extent>
+                    </monogr>
+                    <series>
+                        <title level="s" type="main">La Linterna Mágica</title>
+                        <title level="s" type="sub">Segunda Época</title>
+                        <biblScope unit="volume">T. V-VI</biblScope>
+                    </series>
+                    <ref>http://dgb.conaculta.gob.mx/coleccion_sep/libro_pdf/41000019554.pdf</ref>
+                </biblStruct>
+                <biblStruct corresp="W1127" xml:id="E1595">
+                    <monogr>
+                        <author key="A433">Cuéllar, José Tomás de</author>
+                        <title level="m" type="main">Isolina la ex-figurante</title>
+                        <title level="m" type="sub">(Apuntes de un apuntador)</title>
+                        <imprint>
+                            <publisher>Ignacio Cumplido</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1871">1871</date>
+                        </imprint>
+                        <extent>372 p.</extent>
+                    </monogr>
+                    <series>
+                        <title level="s" type="main">La Linterna Mágica</title>
+                        <title level="s" type="sub">Colección de pequeñas novelas, escritas por
+                            Facundo (José Tomás de Cuéllar)</title>
+                        <biblScope unit="volume">T. III</biblScope>
+                    </series>
+                    <ref>http://cd.dgb.uanl.mx/handle/201504211/8417</ref>
+                </biblStruct>
+                <biblStruct corresp="W1127" xml:id="E1604">
+                    <monogr>
+                        <author key="A433">Cuéllar, José Tomás de</author>
+                        <title level="m" type="main">Isolina la ex-figurante</title>
+                        <title level="m" type="sub">(Apuntes de un apuntador)</title>
+                        <imprint>
+                            <publisher>Imprenta y Litografía de "El Atlántico", Blanchard y
+                                Compañía</publisher>
+                            <pubPlace corresp="ES">Santander</pubPlace>
+                            <date when="1891">1891</date>
+                        </imprint>
+                        <extent>2 partes, de 267 (2) y 250 (3) p.</extent>
+                    </monogr>
+                    <series>
+                        <title level="s" type="main">La Linterna Mágica</title>
+                        <title level="s" type="sub">Segunda Época</title>
+                        <biblScope unit="volume">T. XI-XII</biblScope>
+                    </series>
+                    <ref>http://dgb.conaculta.gob.mx/coleccion_sep/libro_pdf/11000032202.pdf</ref>
+                </biblStruct>
+                <biblStruct corresp="W1128" xml:id="E1596">
+                    <monogr>
+                        <author key="A433">Cuéllar, José Tomás de</author>
+                        <title level="m" type="main">Las jamonas</title>
+                        <title level="m" type="sub">Secretos íntimos del tocador y del
+                            confidente</title>
+                        <imprint>
+                            <publisher>Ignacio Cumplido</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1871">1871</date>
+                        </imprint>
+                        <extent>351 p.</extent>
+                    </monogr>
+                    <series>
+                        <title level="s" type="main">La Linterna Mágica</title>
+                        <title level="s" type="sub">Colección de pequeñas novelas, escritas por
+                            Facundo (José Tomás de Cuéllar)</title>
+                        <biblScope unit="volume">T. IV</biblScope>
+                    </series>
+                    <ref>http://cd.dgb.uanl.mx/handle/201504211/8418</ref>
+                </biblStruct>
+                <biblStruct corresp="W1128" xml:id="E1605">
+                    <monogr>
+                        <author key="A433">Cuéllar, José Tomás de</author>
+                        <title level="m" type="main">Las jamonas</title>
+                        <title level="m" type="sub">Secretos íntimos del tocador y del
+                            confidente</title>
+                        <imprint>
+                            <publisher>Imprenta y Litografía de "El Atlántico", Blanchard y
+                                Compañía</publisher>
+                            <pubPlace corresp="ES">Santander</pubPlace>
+                            <date when="1891">1891</date>
+                        </imprint>
+                        <extent>2 partes, de 239 y 249 (3) p.</extent>
+                    </monogr>
+                    <series>
+                        <title level="s" type="main">La Linterna Mágica</title>
+                        <title level="s" type="sub">Segunda Época</title>
+                        <biblScope unit="volume">T. XIV</biblScope>
+                    </series>
+                    <ref>http://dgb.conaculta.gob.mx/coleccion_sep/libro_pdf/11000032201.pdf</ref>
+                </biblStruct>
+                <biblStruct corresp="W1129" xml:id="E1597">
+                    <monogr>
+                        <author key="A433">Cuéllar, José Tomás de</author>
+                        <title level="m" type="main">Las gentes que "son así"</title>
+                        <title level="m" type="sub">(Perfiles de hoy)</title>
+                        <imprint>
+                            <publisher>Ignacio Cumplido</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1871">1872</date>
+                        </imprint>
+                        <extent>2 tomos, de 353 y 358 p.</extent>
+                    </monogr>
+                    <series>
+                        <title level="s" type="main">La Linterna Mágica</title>
+                        <title level="s" type="sub">Colección de pequeñas novelas, escritas por
+                            Facundo (José Tomás de Cuéllar)</title>
+                        <biblScope unit="volume">T. V-VI</biblScope>
+                    </series>
+                    <ref>http://cd.dgb.uanl.mx/handle/201504211/8414</ref>
+                </biblStruct>
+                <biblStruct corresp="W1129" xml:id="E1606">
+                    <monogr>
+                        <author key="A433">Cuéllar, José Tomás de</author>
+                        <title level="m" type="main">Las gentes que "son así"</title>
+                        <title level="m" type="sub">(Perfiles de hoy)</title>
+                        <imprint>
+                            <publisher>Imprenta y Litografía de "El Atlántico", Blanchard y
+                                Compañía</publisher>
+                            <pubPlace corresp="ES">Santander</pubPlace>
+                            <date from="1891" to="1892">1891-1892</date>
+                        </imprint>
+                        <extent>4 partes, de 260 (2), 253 (2), 249 y 246 p.</extent>
+                    </monogr>
+                    <series>
+                        <title level="s" type="main">La Linterna Mágica</title>
+                        <title level="s" type="sub">Segunda Época</title>
+                        <biblScope unit="volume">T. XVI-XIX</biblScope>
+                    </series>
+                </biblStruct>
+                <biblStruct corresp="W1130" xml:id="E1598">
+                    <monogr>
+                        <author key="A433">Cuéllar, José Tomás de</author>
+                        <title level="m" type="main">Gabriel el cerrajero o las hijas de mi
+                            papá</title>
+                        <imprint>
+                            <publisher>Ignacio Cumplido</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1871">1872</date>
+                        </imprint>
+                    </monogr>
+                    <series>
+                        <title level="s" type="main">La Linterna Mágica</title>
+                        <title level="s" type="sub">Colección de pequeñas novelas, escritas por
+                            Facundo (José Tomás de Cuéllar)</title>
+                        <biblScope unit="volume">T. VII</biblScope>
+                    </series>
+                    <ref>http://cd.dgb.uanl.mx/handle/201504211/8413</ref>
+                </biblStruct>
+                <biblStruct corresp="W1130" xml:id="E1615">
+                    <monogr>
+                        <author key="A433">Cuéllar, José Tomás de</author>
+                        <title level="m" type="main">Gabriel el cerrajero o las hijas de mi
+                            papá</title>
+                        <imprint>
+                            <publisher>Imprenta y Litografía de "El Atlántico", Blanchard y
+                                Compañía</publisher>
+                            <pubPlace corresp="ES">Santander</pubPlace>
+                            <pubPlace corresp="ES">Sevilla</pubPlace>
+                            <date when="1892">1892</date>
+                        </imprint>
+                        <extent>2 partes, de 259 y 201 p.</extent>
+                    </monogr>
+                    <series>
+                        <title level="s" type="main">La Linterna Mágica</title>
+                        <title level="s" type="sub">Segunda Época</title>
+                        <biblScope unit="volume">T. XXIII-XXIV</biblScope>
+                    </series>
+                </biblStruct>
+                <biblStruct corresp="W1131" xml:id="E1599">
+                    <monogr>
+                        <author key="A433">Cuéllar, José Tomás de</author>
+                        <title level="m" type="main">Baile y Cochino</title>
+                        <title level="m" type="sub">Novela de costumbres mexicanas escrita por
+                            Facundo</title>
+                        <edition>tercera edición ilustrada con magníficos grabados</edition>
+                        <imprint>
+                            <publisher>Tipolitografía de Espasa y Cía.</publisher>
+                            <pubPlace corresp="ES">Barcelona</pubPlace>
+                            <date when="1889">1889</date>
+                        </imprint>
+                        <extent>En 8° de XII, 268 p.</extent>
+                    </monogr>
+                    <series>
+                        <title level="s" type="main">La Linterna Mágica</title>
+                        <title level="s" type="sub">Segunda época</title>
+                        <biblScope unit="volume">T. I</biblScope>
+                    </series>
+                    <ref>https://archive.org/details/3680924_1</ref>
+                </biblStruct>
+                <biblStruct corresp="W1131" xml:id="E1616">
+                    <monogr>
+                        <author key="A433">Cuéllar, José Tomás de</author>
+                        <title level="m" type="main">Baile y Cochino</title>
+                        <title level="m" type="sub">Novela de costumbres mexicanas escrita por
+                            Facundo (José T. Cuéllar)</title>
+                        <imprint>
+                            <publisher>Tip. Literaria de Filomeno Mata</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1886">1886</date>
+                        </imprint>
+                        <extent>En 8° de 270 p., con láminas</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1132" xml:id="E1600">
+                    <monogr>
+                        <author key="A433">Cuéllar, José Tomás de</author>
+                        <title level="m" type="main">Los Mariditos</title>
+                        <title level="m" type="sub">Relato de actualidad y de muchos
+                            alcances</title>
+                        <imprint>
+                            <publisher>Tipolitografía de Hermenegildo Miralles</publisher>
+                            <pubPlace corresp="ES">Barcelona</pubPlace>
+                            <date when="1890">1890</date>
+                        </imprint>
+                        <extent>243 p.</extent>
+                    </monogr>
+                    <series>
+                        <title level="s" type="main">La Linterna Mágica</title>
+                        <title level="s" type="sub">Segunda Época</title>
+                        <biblScope unit="volume">T. IV</biblScope>
+                    </series>
+                    <ref>https://archive.org/details/3680924_4</ref>
+                </biblStruct>
+                <biblStruct corresp="W1133" xml:id="E1601">
+                    <analytic>
+                        <author key="A433">Cuéllar, José Tomás de</author>
+                        <title level="a" type="main">Los fuereños</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Los fuereños y la noche buena</title>
+                        <imprint>
+                            <publisher>Imp. El Atlántico</publisher>
+                            <pubPlace corresp="ES">Santander</pubPlace>
+                            <date when="1890">1890</date>
+                        </imprint>
+                        <extent>1 vol. en 8°, de 187 p.</extent>
+                    </monogr>
+                    <series>
+                        <title level="s" type="main">La Linterna Mágica</title>
+                        <title level="s" type="sub">Segunda época</title>
+                        <biblScope unit="volume">T. VII</biblScope>
+                    </series>
+                    <ref>https://archive.org/details/3680924_7</ref>
+                </biblStruct>
+                <biblStruct corresp="W1133" xml:id="E1602">
+                    <analytic>
+                        <author key="A433">Cuéllar, José Tomás de</author>
+                        <title level="a" type="main">Los fuereños</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j" type="main">El Diaro del Hogar</title>
+                        <imprint>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date from="1883-03-11" to="1883-06-10">11 de marzo hasta 10 de junio de
+                                1883</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1134" xml:id="E1603">
+                    <analytic>
+                        <author key="A433">Cuéllar, José Tomás de</author>
+                        <title level="a" type="main">La noche buena</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Los fuereños y la noche buena</title>
+                        <imprint>
+                            <publisher>Imp. El Atlántico</publisher>
+                            <pubPlace corresp="ES">Santander</pubPlace>
+                            <date when="1890">1890</date>
+                        </imprint>
+                        <extent>1 vol. en 8°, de 187 p.</extent>
+                    </monogr>
+                    <series>
+                        <title level="s" type="main">La Linterna Mágica</title>
+                        <title level="s" type="sub">Segunda época</title>
+                        <biblScope unit="volume">T. VII</biblScope>
+                    </series>
+                    <ref>https://archive.org/details/3680924_7</ref>
+                </biblStruct>
+                <biblStruct corresp="W1135" xml:id="E1608">
+                    <analytic>
+                        <author key="A433">Cuéllar, José Tomás de</author>
+                        <title level="a" type="main">El carnaval</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j" type="main">La Ilustración Mexicana</title>
+                        <imprint>
+                            <publisher>Ignacio Cumplido</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1851">1851</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1136" xml:id="E1609">
+                    <analytic>
+                        <author key="A433">Cuéllar, José Tomás de</author>
+                        <title level="a" type="main">Novela por vapor</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j" type="main">La Ilustración Potosina</title>
+                        <imprint>
+                            <pubPlace corresp="MX">desconocido</pubPlace>
+                            <date when="1869">1869</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1137" xml:id="E1610">
+                    <monogr>
+                        <author key="A433">Cuéllar, José Tomás de</author>
+                        <title level="a" type="main">Las posadas</title>
+                        <imprint>
+                            <pubPlace corresp="MX" cert="low">desconocido</pubPlace>
+                            <date when="1871">1871</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1137" xml:id="E1611">
+                    <monogr>
+                        <author key="A433">Cuéllar, José Tomás de</author>
+                        <title level="a" type="main">Las posadas</title>
+                        <imprint>
+                            <pubPlace corresp="MX" cert="low">desconocido</pubPlace>
+                            <date when="1872">1872</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1137" xml:id="E1612">
+                    <monogr>
+                        <author key="A433">Cuéllar, José Tomás de</author>
+                        <title level="a" type="main">Las posadas</title>
+                        <imprint>
+                            <pubPlace corresp="MX" cert="low">desconocido</pubPlace>
+                            <date when="1882">1882</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1137" xml:id="E1613">
+                    <monogr>
+                        <author key="A433">Cuéllar, José Tomás de</author>
+                        <title level="a" type="main">Las posadas</title>
+                        <imprint>
+                            <pubPlace corresp="MX" cert="low">desconocido</pubPlace>
+                            <date when="1892">1892</date>
+                        </imprint>
+                        <extent>41 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1138" xml:id="E1614">
+                    <analytic>
+                        <author key="A433">Cuéllar, José Tomás de</author>
+                        <title level="a" type="main">El hombre-mujer</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <pubPlace corresp="MX" cert="low">desconocido</pubPlace>
+                            <date when="1872">1872</date>
+                        </imprint>
+                    </monogr>
                 </biblStruct>
             </listBibl>
         </body>

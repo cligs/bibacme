@@ -225,7 +225,7 @@ return
             </main>
             <footer>
                 <section>
-                    <p>Ulrike Henny (ed). <em>Bib-ACMé. Bibliografía digital de novelas
+                    <p>Ulrike Henny-Krahmer (ed). <em>Bib-ACMé. Bibliografía digital de novelas
                             argentinas, cubanas y mexicanas (1830-1910).</em> Würzburg, 2017.</p>
                     <p><strong>Contacto</strong>: ulrike.henny /at/ uni-wuerzburg.de</p>
                 </section>

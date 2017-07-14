@@ -10,7 +10,7 @@
                 <title level="m" type="main">Bibliografía digital de novelas argentinas, cubanas y
                     mexicanas (1830-1910)</title>
                 <title level="a">Autores</title>
-                <principal xml:id="uh">Ulrike Henny</principal>
+                <principal xml:id="uh">Ulrike Henny-Krahmer</principal>
             </titleStmt>
             <publicationStmt>
                 <publisher>
@@ -79,6 +79,9 @@
                     https://archive.org/details/leyendasaplogos00alatgoog
                     - Carpio, Manuel: Cartas de Don Caralampio, 1860 (?)
                     - José R. del Castillo: Nick Carter en México. La hermandad del águila roja. (cuándo?)
+                    - Collantes y Buenrostro, Juan: Leyendas fantásticas, 1877 (cuentos?)
+                    - Cortada, Juan: El libro de la familia. Colección de leyendas, 1883 (cuentos?)
+                    - Couto Castillo, José Bernardo: Asfódelos, 1897 (cuentos?)
                 -->
                 <!-- DLC: Fernando Urzáis, "novelas en La Aurora", ps. Úrsulo Fernández
                 - Noda, Tranquilino Sandalio de
@@ -6812,7 +6815,71 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                 </person>
-                <!-- weiter bei: Collantes y Buenrostro, Juan... -->
+                <person xml:id="A430">
+                    <persName>
+                        <surname>Cordero</surname>
+                        <forename>Juan N.</forename>
+                    </persName>
+                    <birth>
+                        <date when="1851-08-20">20 de agosto de 1851</date>
+                        <placeName>Ciudad de México</placeName>
+                        <placeName>México</placeName>
+                    </birth>
+                    <death>
+                        <date>desconocido</date>
+                        <placeName>desconocido</placeName>
+                    </death>
+                    <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                </person>
+                <person xml:id="A431">
+                    <persName>
+                        <surname>Cordero</surname>
+                        <forename>Salvador</forename>
+                    </persName>
+                    <birth>
+                        <date when="1876-08-10">10 de agosto de 1876</date>
+                        <placeName>Ciudad de México</placeName>
+                        <placeName>México</placeName>
+                    </birth>
+                    <death>
+                        <date when="1951">1951</date>
+                        <placeName>Ciudad de México</placeName>
+                        <placeName>México</placeName>
+                    </death>
+                    <idno type="viaf">138804479</idno>
+                    <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                </person>
+                <person xml:id="A432">
+                    <persName>
+                        <surname>Covarrubias y Acevedo</surname>
+                        <forename>Manuel</forename>
+                    </persName>
+                    <idno type="viaf">66207741</idno>
+                    <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                </person>
+                <person xml:id="A433">
+                    <persName>
+                        <surname>Cuéllar</surname>
+                        <forename>José Tomás de</forename>
+                        <addName type="pseudonym">Facundo</addName>
+                    </persName>
+                    <birth>
+                        <date when="1830-09-18">18 de septiembre de 1830</date>
+                        <placeName>México</placeName>
+                    </birth>
+                    <death>
+                        <date when="1894-02-11">11 de febrero de 1894</date>
+                        <placeName>México</placeName>
+                    </death>
+                    <idno type="viaf">54234356</idno>
+                    <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                    <!-- La linterna mágica. Segunda época. T. XX. Vistazos. Estudios sociales -->
+                </person>
+                <!-- weiter bei Eusebio de la Cueva -->
             </listPerson>
         </body>
     </text>

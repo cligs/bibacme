@@ -335,56 +335,6 @@
                     <author key="A101">Bachiller</author>
                     <title>Matilde o los bandidos de Cuba</title><!-- Roman? -->
                 </bibl>
-                <bibl xml:id="W269">
-                    <author key="A103">Cuéllar, José Tomás de</author>
-                    <title>Los Mariditos</title>
-                    <idno type="cligs">nh0199</idno>
-                </bibl>
-                <bibl xml:id="W270">
-                    <author key="A103">Cuéllar, José Tomás de</author>
-                    <title>El Pecado del Siglo</title>
-                </bibl>
-                <bibl xml:id="W271">
-                    <author key="A103">Cuéllar, José Tomás de</author>
-                    <title>Ensalada de pollos</title>
-                    <idno type="cligs">nh0050</idno>
-                </bibl>
-                <bibl xml:id="W272">
-                    <author key="A103">Cuéllar, José Tomás de</author>
-                    <title>Historia de Chucho el Ninfo</title>
-                    <idno type="cligs">nh0197</idno>
-                </bibl>
-                <bibl xml:id="W273">
-                    <author key="A103">Cuéllar, José Tomás de</author>
-                    <title>Isolina la ex-figurante</title>
-                </bibl>
-                <bibl xml:id="W274">
-                    <author key="A103">Cuéllar, José Tomás de</author>
-                    <title>Las jamonas</title>
-                </bibl>
-                <bibl xml:id="W275">
-                    <author key="A103">Cuéllar, José Tomás de</author>
-                    <title>Las gentes que "son así"</title>
-                </bibl>
-                <bibl xml:id="W276">
-                    <author key="A103">Cuéllar, José Tomás de</author>
-                    <title>Gabriel el cerrajero o las hijas de mi papá</title>
-                </bibl>
-                <bibl xml:id="W277">
-                    <author key="A103">Cuéllar, José Tomás de</author>
-                    <title>Baile y Cochino</title>
-                    <idno type="cligs">nh0131</idno>
-                </bibl>
-                <bibl xml:id="W278">
-                    <author key="A103">Cuéllar, José Tomás de</author>
-                    <title>Los fuereños</title>
-                    <idno type="cligs">nh0129</idno>
-                </bibl>
-                <bibl xml:id="W279">
-                    <author key="A103">Cuéllar, José Tomás de</author>
-                    <title>La noche buena</title>
-                    <idno type="cligs">nh0130</idno>
-                </bibl>
                 <bibl xml:id="W312">
                     <author key="A11">Ancona, Eligio</author>
                     <title>La Mestiza</title>
@@ -657,20 +607,6 @@
                 <bibl xml:id="W497">
                     <author key="A165">Álvarez Prieto, Fernando</author>
                     <title>La Virgen del Tepeyac</title>
-                </bibl>
-                <bibl xml:id="W508">
-                    <author key="A170">Cordero, Juan N.</author>
-                    <title>Inri</title>
-                    <term type="subgenre_title">novela de costumbres</term>
-                </bibl>
-                <bibl xml:id="W509">
-                    <author key="A171">Cordero, Salvador</author>
-                    <title>Memorias de un Juez de Paz</title>
-                    <term type="subgenre_title">memorias</term>
-                </bibl>
-                <bibl xml:id="W510">
-                    <author key="A172">Covarrubias y Acevedo, Manuel</author>
-                    <title>La Capilla de los Alamos</title>
                 </bibl>
                 <bibl xml:id="W511">
                     <author key="A173">Pedroso de Arriaza, A.</author>
