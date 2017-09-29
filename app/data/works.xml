@@ -3204,6 +3204,7 @@
                     <title type="alt">Arturo Sierra</title>
                     <bibl type="source"><ptr target="#Lichtblau"/></bibl>
                     <!-- resumen en LB -->
+                    <idno type="cligs">nh0218</idno>
                 </bibl>
                 <bibl xml:id="W506">
                     <author key="A199">Llanos, Julio</author>
@@ -5355,6 +5356,7 @@
                     <title>Noches tristes y día alegre</title>
                     <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
                     <ref>http://www.cervantesvirtual.com/portales/fernandez_lizardi/obra/noches-tristes-y-dia-alegre/</ref>
+                    <idno type="cligs">nh0219</idno>
                 </bibl>
                 <bibl xml:id="W869">
                     <author key="A337">Fernández de Lizardi, José Joaquín</author>
@@ -5362,6 +5364,7 @@
                     <term type="subgenre_title">vida y hechos</term>
                     <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
                     <ref>http://www.cervantesvirtual.com/portales/fernandez_lizardi/obra/vida-y-hechos-del-famoso-caballero-don-catrin-de-la-fachenda/</ref>
+                    <idno type="cligs">nh0220</idno>
                 </bibl>
                 <bibl xml:id="W870">
                     <author key="A338">Fernández Serrano, Tomás</author>
@@ -7034,6 +7037,246 @@
                     <title>El hombre-mujer</title>
                     <term type="subgenre_title">novela corta</term>
                     <bibl type="source"><ptr target="#ELEM"/></bibl>
+                </bibl>
+                <bibl xml:id="W1139">
+                    <author key="A434">Curtis, Carlos Daniel</author>
+                    <title>Mirtilo</title>
+                    <term type="subgenre_title">datos para una novela</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1140">
+                    <author key="A434">Curtis, Carlos Daniel</author>
+                    <title>La niña del baldoquín</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1141">
+                    <author key="A435">Chavero, Alfredo</author>
+                    <title>El Conde Palákis</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1142">
+                    <author key="A436">Balbontín, Manuel</author>
+                    <title>Los torpedos</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1143">
+                    <author key="A436">Balbontín, Manuel</author>
+                    <title>El Invierno</title>
+                    <term type="subgenre_title">historia</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1144">
+                    <author key="A436">Balbontín, Manuel</author>
+                    <title>Memorias de un Muerto</title>
+                    <term type="subgenre_title">memorias</term>
+                    <term type="subgenre_title">cuento fantástico</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1145">
+                    <author key="A436">Balbontín, Manuel</author>
+                    <title>Inés</title>
+                    <term type="subgenre_title">novela militar</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1146">
+                    <author key="A436">Balbontín, Manuel</author>
+                    <title>Tulitas la Pelona</title>
+                    <term type="subgenre_title">novela militar</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1147">
+                    <author key="A437">Barragán de Toscano, Refugio</author>
+                    <title>Premio del Bien y Castigo del Mal</title>
+                    <term type="subgenre_title">novela original</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1148">
+                    <author key="A437">Barragán de Toscano, Refugio</author>
+                    <title>La Hija del Bandido o los Subterráneos del Nevado</title>
+                    <term type="subgenre_title">novela original</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1149">
+                    <author key="A438">Barrera, Pantaleón</author>
+                    <title>Los Misterios de Chan Santa Cruz</title>
+                    <term type="subgenre_title">historia verdadera con episodios de novela</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1150">
+                    <author key="A439">Barrera Peniche, Alfonso</author>
+                    <title>La noche de Bodas</title>
+                    <term type="subgenre_title">episodio novelesco</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1151">
+                    <author key="A439">Barrera Peniche, Alfonso</author>
+                    <title>La Gruta de los Enamorados</title>
+                    <term type="subgenre_title">episodio novelesco</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1152">
+                    <author key="A439">Barrera Peniche, Alfonso</author>
+                    <title>La Reconciliación</title>
+                    <term type="subgenre_title">episodio novelesco</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1153">
+                    <author key="A440">Barrios de los Ríos, José María</author>
+                    <title>El País de las Perlas</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1154">
+                    <author key="A441">Betanzo, Francisca</author>
+                    <title>La Modelo</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1155">
+                    <author key="A441">Betanzo, Francisca</author>
+                    <title>La Insaciable</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1156">
+                    <author key="A441">Betanzo, Francisca</author>
+                    <title>La Peña del Infortunio</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1157">
+                    <author key="A441">Betanzo, Francisca</author>
+                    <title>Con casaca roja</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1158">
+                    <author key="A441">Betanzo, Francisca</author>
+                    <title>La exaltada</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1159">
+                    <author key="A441">Betanzo, Francisca</author>
+                    <title>Simona Martínez</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1160">
+                    <author key="A441">Betanzo, Francisca</author>
+                    <title>Amada Quiñones</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1161">
+                    <author key="A441">Betanzo, Francisca</author>
+                    <title>El Ojo de Huitzolopoxle</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1162">
+                    <author key="A441">Betanzo, Francisca</author>
+                    <title>Fray Raymundo</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1163">
+                    <author key="A441">Betanzo, Francisca</author>
+                    <title>Flor de Retama</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1164">
+                    <author key="A441">Betanzo, Francisca</author>
+                    <title>Oh funesto fin de...</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1165">
+                    <author key="A441">Betanzo, Francisca</author>
+                    <title>Brumas alcohólicas</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1166">
+                    <author key="A442">Blanco, Manuel</author>
+                    <title>El Capitán Armando</title>
+                    <term type="subgenre_title">memorias</term>
+                    <term type="subgenre_title">novela histórico-política</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1167">
+                    <author key="A442">Blanco, Manuel</author>
+                    <title>El Secreto de una Crónica</title>
+                    <term type="subgenre_title">novela realista</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1168">
+                    <author key="A442">Blanco, Manuel</author>
+                    <title>Páginas Íntimas</title>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1169">
+                    <author key="A443">Bravo López, Bernabé</author>
+                    <title>Variaciones sobre temas de Costumbres Mexicanas</title>
+                    <term type="subgenre_title">variaciones sobre temas de costumbres</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1170">
+                    <author key="A443">Bravo López, Bernabé</author>
+                    <title>A muerte</title>
+                    <term type="subgenre_title">ensayo social</term>
+                    <bibl type="source"><ptr target="#Iguiniz"/></bibl>
+                </bibl>
+                <bibl xml:id="W1171">
+                    <author key="A444">Agüeros, Victoriano</author>
+                    <title>Leyenda de navidad</title>
+                    <term type="subgenre_title">leyenda</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1172">
+                    <author key="A445">Alegría, Adolfo Isaac</author>
+                    <title>La luz en las tinieblas</title>
+                    <term type="subgenre_title">novela filosófica</term>
+                    <term type="subgenre_title">novela de costumbres</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1173">
+                    <author key="A445">Alegría, Adolfo Isaac</author>
+                    <title>El libro de Satanás</title>
+                    <term type="subgenre_title">algo que parece novela y no es</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1174">
+                    <author key="A446">Alfaro, Anselmo</author>
+                    <title>Leona</title>
+                    <term type="subgenre_title">leyenda</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1175">
+                    <author key="A447">Alfaro, Jesús</author>
+                    <author key="A448">Manrique, F.</author>
+                    <title>El tribunal de la Compañía de Jesús</title>
+                    <term type="subgenre_title">novela histórica</term>
+                    <bibl type="source"><ptr target="#TorresRioseco"/></bibl>
+                </bibl>
+                <bibl xml:id="W1176">
+                    <author key="A449">Altamirano, Ignacio Manuel</author>
+                    <title>Julia</title>
+                    <idno type="cligs">nh0072</idno>
+                </bibl>
+                <bibl xml:id="W1177">
+                    <author key="A449">Altamirano, Ignacio Manuel</author>
+                    <title>Clemencia</title>
+                    <idno type="cligs">nh0006</idno>
+                </bibl>
+                <bibl xml:id="W1178">
+                    <author key="A449">Altamirano, Ignacio Manuel</author>
+                    <title>La navidad en las montañas</title>
+                    <idno type="cligs">nh0005</idno>
+                </bibl>
+                <bibl xml:id="W1179">
+                    <author key="A449">Altamirano, Ignacio Manuel</author>
+                    <title>Las tres flores</title>
+                    <idno type="cligs">nh0505</idno>
+                </bibl>
+                <bibl xml:id="W1180">
+                    <author key="A449">Altamirano, Ignacio Manuel</author>
+                    <title>Antonia</title>
+                    <idno type="cligs">nh0066</idno>
+                </bibl>
+                <bibl xml:id="W1181">
+                    <author key="A449">Altamirano, Ignacio Manuel</author>
+                    <title>El zarco</title>
+                    <term type="subgenre_title">episodios</term>
+                    <idno type="cligs">nh0007</idno>
                 </bibl>
             </listBibl>
         </body>

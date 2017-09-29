@@ -30,69 +30,6 @@
     <text>
         <body>
             <listBibl>
-                <bibl xml:id="W2">
-                    <author key="A2">Alegría, Adolfo Isaac</author>
-                    <title>La luz en las tinieblas</title>
-                    <note>
-                        <term type="subgenre_title">novela filosófica</term>
-                        <term type="subgenre_title">novela de costumbres</term>
-                    </note>
-                </bibl>
-                <bibl xml:id="W3">
-                    <author key="A2">Alegría, Adolfo Isaac</author>
-                    <title>Satanás</title>
-                    <note>
-                        <term type="genre_lithist" resp="Brushwood">novela</term>
-                    </note>
-                </bibl>
-                <bibl xml:id="W6">
-                    <author key="A1">Agüeros, Victoriano</author>
-                    <title>Leyenda de navidad</title>
-                    <note>
-                        <term type="genre_title">leyenda</term>
-                        <term type="genre_lithist" resp="Wikisource">cuento</term>
-                        <term type="genre_lithist" resp="elem">novela</term>
-                        <term type="genre_lithist" resp="Brushwood">novela</term>
-                    </note>
-                </bibl>
-                <bibl xml:id="W7">
-                    <author key="A3">Alfaro, Anselmo</author>
-                    <title>Leona</title>
-                    <note>
-                        <term type="genre_title">leyenda</term>
-                        <term type="genre_lithist" resp="elem">cuento</term>
-                    </note>
-                </bibl>
-                <bibl xml:id="W9">
-                    <author key="A5">Altamirano, Ignacio Manuel</author>
-                    <title>Julia</title>
-                    <idno type="cligs">nh0072</idno>
-                </bibl>
-                <bibl xml:id="W10">
-                    <author key="A5">Altamirano, Ignacio Manuel</author>
-                    <title>Clemencia</title>
-                    <idno type="cligs">nh0006</idno>
-                </bibl>
-                <bibl xml:id="W11">
-                    <author key="A5">Altamirano, Ignacio Manuel</author>
-                    <title>La navidad en las montañas</title>
-                    <idno type="cligs">nh0005</idno>
-                </bibl>
-                <bibl xml:id="W12">
-                    <author key="A5">Altamirano, Ignacio Manuel</author>
-                    <title>Las tres flores</title>
-                    <idno type="cligs">nh0505</idno>
-                </bibl>
-                <bibl xml:id="W13">
-                    <author key="A5">Altamirano, Ignacio Manuel</author>
-                    <title>Antonia</title>
-                    <idno type="cligs">nh0066</idno>
-                </bibl>
-                <bibl xml:id="W14">
-                    <author key="A5">Altamirano, Ignacio Manuel</author>
-                    <title>El zarco</title>
-                    <idno type="cligs">nh0007</idno>
-                </bibl>
                 <bibl xml:id="W15">
                     <author key="A8">Alva, Manuel</author>
                     <title>La trinitaria</title>
@@ -364,15 +301,6 @@
                     <title>Hacia la justicia</title>
                     <idno type="cligs">nh0033</idno>
                 </bibl>
-                <bibl xml:id="W390">
-                    <author key="A1">Agüeros, Victoriano</author>
-                    <title>Dos leyendas</title>
-                    <!-- nicht eigentlich zwei Werke? -->
-                    <note>
-                        <term type="genre_lithist" resp="Brushwood">novela</term>
-                    </note>
-                    <idno type="viaf">185946116</idno>
-                </bibl>
                 <bibl xml:id="W391">
                     <author key="A11">Ancona, Eligio</author>
                     <title>Uno de tantos</title>
@@ -456,153 +384,10 @@
                     <author key="A137">Azuela, Mariano</author>
                     <title>La casa</title><!-- Edition prüfen -->
                 </bibl>
-                <bibl xml:id="W412">
-                    <author key="A138">Balbontín, Manuel</author>
-                    <title>Memorias de un Muerto</title>
-                </bibl>
-                <bibl xml:id="W413">
-                    <author key="A138">Balbontín, Manuel</author>
-                    <title>El Invierno. Un día del mes de enero a los 40 grados de latitud
-                        Norte</title>
-                </bibl>
-                <bibl xml:id="W414">
-                    <author key="A138">Balbontín, Manuel</author>
-                    <title>Inés</title>
-                </bibl>
-                <bibl xml:id="W415">
-                    <author key="A138">Balbontín, Manuel</author>
-                    <title>Tulitas la Pelona</title>
-                </bibl>
-                <bibl xml:id="W416">
-                    <author key="A138">Balbontín, Manuel</author>
-                    <title>Los torpedos</title>
-                </bibl>
-                <bibl xml:id="W417">
-                    <author key="A138">Balbontín, Manuel</author>
-                    <title>Cuentos de Colores</title>
-                    <note>
-                        <term type="genre_title">cuentos</term>
-                        <term type="genre_lithist" resp="elem">novela</term>
-                        <term type="genre_lithist" resp="elem">cuentos</term>
-                    </note>
-                </bibl>
-                <bibl xml:id="W418">
-                    <author key="A139">Barragán de Toscano, Refugio</author>
-                    <title>Premio del Bien y Castigo del Mal</title>
-                </bibl>
-                <bibl xml:id="W419">
-                    <author key="A139">Barragán de Toscano, Refugio</author>
-                    <title>La Hija del Bandido o los Subterráneos del Nevado</title>
-                </bibl>
-                <bibl xml:id="W420">
-                    <author key="A140">Barrera, Pantaleón</author>
-                    <title>Los Misterios de Chan Santa Cruz</title>
-                </bibl>
-                <bibl xml:id="W421">
-                    <author key="A141">Barrera Peniche, Alfonso</author>
-                    <title>La noche de Bodas</title>
-                    <note>
-                        <term type="genre_lithist" resp="elem">cuento</term>
-                        <term type="genre_title">episodio novelesco</term>
-                    </note>
-                </bibl>
-                <bibl xml:id="W422">
-                    <author key="A141">Barrera Peniche, Alfonso</author>
-                    <title>La Gruta de los Enamorados</title>
-                    <note>
-                        <term type="genre_lithist" resp="elem">cuento</term>
-                        <term type="genre_title">episodio novelesco</term>
-                    </note>
-                </bibl>
-                <bibl xml:id="W423">
-                    <author key="A141">Barrera Peniche, Alfonso</author>
-                    <title>La Reconciliación</title>
-                    <note>
-                        <term type="genre_lithist" resp="elem">cuento</term>
-                        <term type="genre_title">episodio novelesco</term>
-                    </note>
-                </bibl>
-                <bibl xml:id="W424">
-                    <author key="A142">Barrios de los Ríos, José María</author>
-                    <title>El País de las Perlas</title>
-                </bibl>
-                <bibl xml:id="W425">
-                    <author key="A143">Betanzo, Francisca</author>
-                    <title>La Modelo</title>
-                </bibl>
-                <bibl xml:id="W426">
-                    <author key="A143">Betanzo, Francisca</author>
-                    <title>La Insaciable</title>
-                </bibl>
-                <bibl xml:id="W427">
-                    <author key="A143">Betanzo, Francisca</author>
-                    <title>La Peña del Infortunio</title>
-                </bibl>
-                <bibl xml:id="W428">
-                    <author key="A143">Betanzo, Francisca</author>
-                    <title>Con casaca roja</title>
-                </bibl>
-                <bibl xml:id="W429">
-                    <author key="A143">Betanzo, Francisca</author>
-                    <title>La exaltada</title>
-                </bibl>
-                <bibl xml:id="W430">
-                    <author key="A143">Betanzo, Francisca</author>
-                    <title>Simona Martínez</title>
-                </bibl>
-                <bibl xml:id="W431">
-                    <author key="A143">Betanzo, Francisca</author>
-                    <title>Amada Quiñones</title>
-                </bibl>
-                <bibl xml:id="W432">
-                    <author key="A143">Betanzo, Francisca</author>
-                    <title>El Ojo de Huitzolopoxle</title>
-                </bibl>
-                <bibl xml:id="W433">
-                    <author key="A143">Betanzo, Francisca</author>
-                    <title>Fray Raymundo</title>
-                </bibl>
-                <bibl xml:id="W434">
-                    <author key="A143">Betanzo, Francisca</author>
-                    <title>Flor de Retama</title>
-                </bibl>
-                <bibl xml:id="W435">
-                    <author key="A143">Betanzo, Francisca</author>
-                    <title>Oh funesto fin de...</title>
-                </bibl>
-                <bibl xml:id="W436">
-                    <author key="A143">Betanzo, Francisca</author>
-                    <title>Brumas alcohólicas</title>
-                </bibl>
-                <bibl xml:id="W437">
-                    <author key="A144">Blanco, Manuel</author>
-                    <title>El Capitán Armando</title>
-                </bibl>
-                <bibl xml:id="W438">
-                    <author key="A144">Blanco, Manuel</author>
-                    <title>El Secreto de una Crónica</title>
-                </bibl>
-                <bibl xml:id="W439">
-                    <author key="A144">Blanco, Manuel</author>
-                    <title>Páginas Íntimas</title>
-                </bibl>
-                <bibl xml:id="W440">
-                    <author key="A145">Bravo López, Bernabé</author>
-                    <title>Variaciones sobre temas de Costumbres Mexicanas</title>
-                </bibl>
-                <bibl xml:id="W441">
-                    <author key="A145">Bravo López, Bernabé</author>
-                    <title>A muerte</title>
-                </bibl>
                 <bibl xml:id="W488">
                     <author key="A161">González, Joaquín Víctor</author>
                     <title>Mis montañas</title>
                     <idno type="cligs">nh0045</idno>
-                </bibl>
-                <bibl xml:id="W496">
-                    <author key="A163">Alfaro, Jesús</author>
-                    <author key="A164">Manrique, F.</author>
-                    <title>El tribunal de la Compañía de Jesús</title>
                 </bibl>
                 <bibl xml:id="W497">
                     <author key="A165">Álvarez Prieto, Fernando</author>

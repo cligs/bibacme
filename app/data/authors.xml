@@ -82,6 +82,7 @@
                     - Collantes y Buenrostro, Juan: Leyendas fantásticas, 1877 (cuentos?)
                     - Cortada, Juan: El libro de la familia. Colección de leyendas, 1883 (cuentos?)
                     - Couto Castillo, José Bernardo: Asfódelos, 1897 (cuentos?)
+                    - Cházari, Fenochio,  La princesa ¡Ah! Cuento.  México, D.F.: Andrés Botas e Hijo, 32 p.
                 -->
                 <!-- DLC: Fernando Urzáis, "novelas en La Aurora", ps. Úrsulo Fernández
                 - Noda, Tranquilino Sandalio de
@@ -6879,7 +6880,282 @@
                     <nationality>mexicana/o</nationality>
                     <!-- La linterna mágica. Segunda época. T. XX. Vistazos. Estudios sociales -->
                 </person>
-                <!-- weiter bei Eusebio de la Cueva -->
+                <person xml:id="A434">
+                    <persName>
+                        <surname>Curtis</surname>
+                        <forename>Carlos Daniel</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">mexicana/o</nationality>
+                </person>
+                <person xml:id="A435">
+                    <persName>
+                        <surname>Chavero</surname>
+                        <forename>Alfredo</forename>
+                    </persName>
+                    <birth>
+                        <date when="1841">1841</date>
+                        <placeName>Ciudad de México</placeName>
+                        <placeName>México</placeName>
+                    </birth>
+                    <death>
+                        <date when="1906">1906</date>
+                        <placeName>Ciudad de México</placeName>
+                        <placeName>México</placeName>
+                    </death>
+                    <idno type="viaf">77623420</idno>
+                    <idno type="viaf">57397990</idno>
+                    <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                </person>
+                <person xml:id="A436">
+                    <persName>
+                        <surname>Balbontín</surname>
+                        <forename>Manuel</forename>
+                    </persName>
+                    <birth>
+                        <date when="1824-08-30">30 de agosto de 1824</date>
+                        <placeName>México</placeName>
+                    </birth>
+                    <death>
+                        <date when="1894-12-17">17 de diciembre de 1894</date>
+                        <placeName>México</placeName>
+                    </death>
+                    <idno type="viaf">21350975</idno>
+                    <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                    <!-- Cuentos de colores. Entretenimientos de un solitario. México, D.F.: Antigua Imprenta de Murguía, 1893.
+                    http://dgb.conaculta.gob.mx/coleccion_sep/libro_pdf/21000026658.pdf -->
+                </person>
+                <person xml:id="A437">
+                    <persName>
+                        <surname>Barragán de Toscano</surname>
+                        <forename>Refugio</forename>
+                    </persName>
+                    <birth>
+                        <date when="1846-02-27">27 de febrero de 1846</date>
+                        <placeName>Tonila</placeName>
+                        <placeName>Jalisco</placeName>
+                        <placeName>México</placeName>
+                    </birth>
+                    <death>
+                        <date when="1916-08-24">24 de octubre de 1916</date>
+                        <placeName>México</placeName>
+                    </death>
+                    <idno type="viaf">31933028</idno>
+                    <sex>femenino</sex>
+                    <nationality>mexicana/o</nationality>
+                </person>
+                <person xml:id="A438">
+                    <persName>
+                        <surname>Barrera</surname>
+                        <forename>Pantaleón</forename>
+                        <addName type="pseudonym">Trebarra, Napoleón</addName>
+                    </persName>
+                    <birth>
+                        <date when="1816">1816</date>
+                        <placeName>Hopelchén</placeName>
+                        <placeName>Yucatán</placeName>
+                        <placeName>México</placeName>
+                    </birth>
+                    <death>
+                        <date when="1876">1876</date>
+                        <placeName>Mérida</placeName>
+                        <placeName>Yucatán</placeName>
+                        <placeName>México</placeName>
+                    </death>
+                    <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                </person>
+                <person xml:id="A439">
+                    <persName>
+                        <surname>Barrera Peniche</surname>
+                        <forename>Alfonso</forename>
+                    </persName>
+                    <birth>
+                        <date when="1816">1816</date>
+                        <placeName>Hopelchén</placeName>
+                        <placeName>Yucatán</placeName>
+                        <placeName>México</placeName>
+                    </birth>
+                    <death>
+                        <date when="1876">1876</date>
+                        <placeName>Mérida</placeName>
+                        <placeName>Yucatán</placeName>
+                        <placeName>México</placeName>
+                    </death>
+                    <idno type="viaf">45649011</idno>
+                    <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                </person>
+                <person xml:id="A440">
+                    <persName>
+                        <surname>Barrios de los Ríos</surname>
+                        <forename>José María</forename>
+                    </persName>
+                    <birth>
+                        <date when="1864-02-11">11 de febrero de 1864</date>
+                        <placeName>Zacatecas</placeName>
+                        <placeName>México</placeName>
+                    </birth>
+                    <death>
+                        <date when="1903-11-05">5 de noviembre de 1903</date>
+                        <placeName>Cananea</placeName>
+                        <placeName>Sonora</placeName>
+                        <placeName>México</placeName>
+                    </death>
+                    <idno type="viaf">58307516</idno>
+                    <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                </person>
+                <person xml:id="A441">
+                    <persName>
+                        <surname>Betanzo</surname>
+                        <forename>Francisca</forename>
+                        <addName type="pseudonym">Chanteclair</addName>
+                    </persName>
+                    <birth>
+                        <placeName>Tehuacán</placeName>
+                        <placeName>Puebla</placeName>
+                        <placeName>México</placeName>
+                    </birth>
+                    <idno type="viaf">219790212</idno>
+                    <sex>femenino</sex>
+                    <nationality>mexicana/o</nationality>
+                </person>
+                <person xml:id="A442">
+                    <persName>
+                        <surname>Blanco</surname>
+                        <forename>Manuel</forename>
+                        <addName type="pseudonym">Tácito</addName>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                </person>
+                <person xml:id="A443">
+                    <persName>
+                        <surname>Bravo López</surname>
+                        <forename>Bernabé</forename>
+                        <addName type="pseudonym">Figarete</addName>
+                    </persName>
+                    <birth>
+                        <date when="1846">1846</date>
+                        <placeName>Choapam</placeName>
+                        <placeName>Oaxaca</placeName>
+                        <placeName>México</placeName>
+                    </birth>
+                    <death>
+                        <date when="1900" cert="low">1900</date>
+                        <placeName>Ciudad de México</placeName>
+                    </death>
+                    <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                </person>
+                <person xml:id="A444">
+                    <persName>
+                        <surname>Agüeros</surname>
+                        <forename>Victoriano</forename>
+                    </persName>
+                    <birth>
+                        <date when="1854-09-04">4 de septiembre de 1854</date>
+                        <placeName>Tlalchapa (Gro.)</placeName>
+                        <placeName>México</placeName>
+                    </birth>
+                    <death>
+                        <date when="1911-10-08">8 de octubre de 1911</date>
+                        <placeName>París</placeName>
+                        <placeName>Francia</placeName>
+                    </death>
+                    <idno type="viaf">26132018</idno>
+                    <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                    <!-- Dos Leyendas. Por José. Edición del "Siglo XIX." 
+                        Imprenta de Ignacio Cumplido. México 1877. En 8°, de 68 p. -->
+                </person>
+                <person xml:id="A445">
+                    <persName>
+                        <surname>Alegría</surname>
+                        <forename>Adolfo Isaac</forename>
+                        <addName type="pseudonym">Satanás</addName>
+                    </persName>
+                    <birth>
+                        <date when="1822">1822</date>
+                        <placeName>Jalisco</placeName>
+                        <placeName>México</placeName>
+                    </birth>
+                    <death>
+                        <date when="1892">1892</date>
+                        <placeName>Guadalajara</placeName>
+                        <placeName>México</placeName>
+                    </death>
+                    <idno type="viaf">313551341</idno>
+                    <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                    <!-- Algo. (ensayo) http://cdigital.dgb.uanl.mx/la/1080014440_L/1080014440_L1.html -->
+                </person>
+                <person xml:id="A446">
+                    <persName>
+                        <surname>Alfaro</surname>
+                        <forename>Anselmo</forename>
+                    </persName>
+                    <birth>
+                        <date when="1852-04-21">21 de abril de 1852</date>
+                        <placeName>Ciudad de México</placeName>
+                        <placeName>México</placeName>
+                    </birth>
+                    <death>
+                        <date>desconocido</date>
+                        <placeName>desconocido</placeName>
+                    </death>
+                    <idno type="viaf">120148207996200342512</idno>
+                    <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                </person>
+                <person xml:id="A447">
+                    <persName>
+                        <surname>Alfaro</surname>
+                        <forename>Jesús</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                </person>
+                <person xml:id="A448">
+                    <persName>
+                        <surname>Manrique</surname>
+                        <forename>F.</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                </person>
+                <person xml:id="A449">
+                    <persName>
+                        <surname>Altamirano</surname>
+                        <forename>Ignacio Manuel</forename>
+                        <addName type="pseudonym">Próspero</addName>
+                        <addName type="pseudonym">Merlín</addName>
+                    </persName>
+                    <birth>
+                        <date when="1834-12-12">12 de diciembre de 1834</date>
+                        <placeName>Tixtla</placeName>
+                        <placeName>Guerrero</placeName>
+                        <placeName>México</placeName>
+                    </birth>
+                    <death>
+                        <date when="1893-02-13">13 de febrero de 1893</date>
+                        <placeName>San Remo</placeName>
+                        <placeName>Italia</placeName>
+                    </death>
+                    <idno type="viaf">4968421</idno>
+                    <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                    <!-- novelas inéditas:
+                        Atenea. Novela inédita (v. Torres Rioseco)
+                        Beatriz (v. Torres Rioseco)
+                        Los Cimarrones (v. Torres Rioseco)
+                        La Condesa de Calderón y Atenea (v. Torres Rioseco)
+                        Los Galeanas (v. Torres Rioseco)
+                    -->
+                </person>
             </listPerson>
         </body>
     </text>

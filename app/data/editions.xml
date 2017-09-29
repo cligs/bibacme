@@ -9204,7 +9204,7 @@
                                 de 1880</date>
                         </imprint>
                     </monogr>
-                    <note resp="Lichtblau">folletín</note>
+                    <note resp="#Lichtblau">folletín</note>
                 </biblStruct>
                 <biblStruct corresp="W445" xml:id="E619">
                     <monogr>
@@ -9230,7 +9230,7 @@
                         </imprint>
                         <extent>147 p.</extent>
                     </monogr>
-                    <note resp="Lichtblau">a dos columnas</note>
+                    <note resp="#Lichtblau">a dos columnas</note>
                 </biblStruct>
                 <biblStruct corresp="W445" xml:id="E621">
                     <monogr>
@@ -9414,7 +9414,7 @@
                         </imprint>
                         <extent>259 p.</extent>
                     </monogr>
-                    <note resp="Lichtblau">a dos columnas</note>
+                    <note resp="#Lichtblau">a dos columnas</note>
                 </biblStruct>
                 <biblStruct corresp="W450" xml:id="E635">
                     <monogr>
@@ -9551,7 +9551,7 @@
                             <date from="1864-04-03" to="1864-04-17">3 a 17 de abril de 1864</date>
                         </imprint>
                     </monogr>
-                    <note resp="Lichtblau">folletín</note>
+                    <note resp="#Lichtblau">folletín</note>
                 </biblStruct>
                 <biblStruct corresp="W456" xml:id="E645">
                     <monogr>
@@ -9714,7 +9714,7 @@
                     </analytic>
                     <monogr>
                         <title type="main" level="j">La Quincena</title>
-                        <note resp="Lichtblau_1997">aparecieron dos capítulos de la novela: "La
+                        <note resp="#Lichtblau_1997">aparecieron dos capítulos de la novela: "La
                             Perí"; y "Kaspar"</note>
                         <imprint>
                             <pubPlace corresp="AR">Buenos Aires</pubPlace>
@@ -9730,7 +9730,7 @@
                     </analytic>
                     <monogr>
                         <title type="main" level="j">La Nación</title>
-                        <note resp="Lichtblau_1997">3, apareció un capítulo de la novela, "El reloj
+                        <note resp="#Lichtblau_1997">3, apareció un capítulo de la novela, "El reloj
                             de la muerte."</note>
                         <imprint>
                             <pubPlace corresp="AR">Buenos Aires</pubPlace>
@@ -10180,7 +10180,7 @@
                                 1884</date>
                         </imprint>
                     </monogr>
-                    <note resp="Lichtblau">folletín</note>
+                    <note resp="#Lichtblau">folletín</note>
                 </biblStruct>
                 <biblStruct corresp="W492" xml:id="E694">
                     <monogr>
@@ -10233,7 +10233,7 @@
                                 1855</date>
                         </imprint>
                     </monogr>
-                    <note resp="Lichtblau">folletín</note>
+                    <note resp="#Lichtblau">folletín</note>
                 </biblStruct>
                 <biblStruct corresp="W493" xml:id="E698">
                     <monogr>
@@ -10456,6 +10456,7 @@
                         </imprint>
                         <extent>193 p.</extent>
                     </monogr>
+                    <ref>https://archive.org/details/arturosierra01llangoog</ref>
                 </biblStruct>
                 <biblStruct corresp="W506" xml:id="E715">
                     <analytic>
@@ -13689,7 +13690,7 @@
                             <date>desconocido</date>
                         </imprint>
                     </monogr>
-                    <note resp="uh">No he encontrado informaciones sobre una edición. La obra se
+                    <note resp="#uh">No he encontrado informaciones sobre una edición. La obra se
                         menciona en el Diccionario de la literatura cubana.</note>
                 </biblStruct>
                 <biblStruct corresp="W675" xml:id="E938">
@@ -13704,7 +13705,7 @@
                             <date>desconocido</date>
                         </imprint>
                     </monogr>
-                    <note resp="uh">No he encontrado informaciones sobre una edición. La obra se
+                    <note resp="#uh">No he encontrado informaciones sobre una edición. La obra se
                         menciona en el Diccionario de la literatura cubana.</note>
                 </biblStruct>
                 <biblStruct corresp="W676" xml:id="E939">
@@ -13717,7 +13718,7 @@
                             <date>desconocido</date>
                         </imprint>
                     </monogr>
-                    <note resp="uh">No he encontrado informaciones sobre una edición. La obra se
+                    <note resp="#uh">No he encontrado informaciones sobre una edición. La obra se
                         menciona en el Diccionario de la literatura cubana.</note>
                 </biblStruct>
                 <biblStruct corresp="W677" xml:id="E940">
@@ -13730,7 +13731,7 @@
                             <date>desconocido</date>
                         </imprint>
                     </monogr>
-                    <note resp="uh">No he encontrado informaciones sobre una edición. La obra se
+                    <note resp="#uh">No he encontrado informaciones sobre una edición. La obra se
                         menciona en el Diccionario de la literatura cubana.</note>
                 </biblStruct>
                 <biblStruct corresp="W678" xml:id="E941">
@@ -13743,7 +13744,7 @@
                             <date when="1873">1873</date>
                         </imprint>
                     </monogr>
-                    <note resp="uh">No he encontrado informaciones sobre una edición. La obra se
+                    <note resp="#uh">No he encontrado informaciones sobre una edición. La obra se
                         menciona en el Diccionario de la literatura cubana.</note>
                 </biblStruct>
                 <biblStruct corresp="W679" xml:id="E942">
@@ -13756,7 +13757,7 @@
                             <date>desconocido</date>
                         </imprint>
                     </monogr>
-                    <note resp="uh">No he encontrado informaciones sobre una edición. La obra se
+                    <note resp="#uh">No he encontrado informaciones sobre una edición. La obra se
                         menciona en el Diccionario de la literatura cubana.</note>
                 </biblStruct>
                 <biblStruct corresp="W680" xml:id="E943">
@@ -13770,7 +13771,7 @@
                         </imprint>
                         <extent>2 tomos</extent>
                     </monogr>
-                    <note resp="uh">No he encontrado informaciones sobre una edición. La obra se
+                    <note resp="#uh">No he encontrado informaciones sobre una edición. La obra se
                         menciona en el Diccionario biográfico cubano de Francisco Calcagno.</note>
                 </biblStruct>
                 <biblStruct corresp="W681" xml:id="E944">
@@ -13783,7 +13784,7 @@
                             <date>desconocido</date>
                         </imprint>
                     </monogr>
-                    <note resp="uh">No he encontrado informaciones sobre una edición. La obra se
+                    <note resp="#uh">No he encontrado informaciones sobre una edición. La obra se
                         menciona en el blog Padronel. A El Paso, y a Canarias toda.</note>
                 </biblStruct>
                 <biblStruct corresp="W682" xml:id="E945">
@@ -13796,7 +13797,7 @@
                             <date>desconocido</date>
                         </imprint>
                     </monogr>
-                    <note resp="uh">No he encontrado informaciones sobre una edición. La obra se
+                    <note resp="#uh">No he encontrado informaciones sobre una edición. La obra se
                         menciona en el blog Padronel. A El Paso, y a Canarias toda.</note>
                 </biblStruct>
                 <biblStruct corresp="W683" xml:id="E946">
@@ -13809,7 +13810,7 @@
                             <date>desconocido</date>
                         </imprint>
                     </monogr>
-                    <note resp="uh">No he encontrado informaciones sobre una edición. La obra se
+                    <note resp="#uh">No he encontrado informaciones sobre una edición. La obra se
                         menciona en el blog Padronel. A El Paso, y a Canarias toda.</note>
                 </biblStruct>
                 <biblStruct corresp="W684" xml:id="E947">
@@ -13822,7 +13823,7 @@
                             <date>desconocido</date>
                         </imprint>
                     </monogr>
-                    <note resp="uh">No he encontrado informaciones sobre una edición. La obra se
+                    <note resp="#uh">No he encontrado informaciones sobre una edición. La obra se
                         menciona en el blog Padronel. A El Paso, y a Canarias toda.</note>
                 </biblStruct>
                 <biblStruct corresp="W685" xml:id="E948">
@@ -13911,7 +13912,7 @@
                             <date>desconocido</date>
                         </imprint>
                     </monogr>
-                    <note resp="uh">No he encontrado informaciones sobre una edición. La obra se
+                    <note resp="#uh">No he encontrado informaciones sobre una edición. La obra se
                         menciona en el portal La Prosa Modernista.</note>
                 </biblStruct>
                 <biblStruct corresp="W692" xml:id="E955">
@@ -13924,7 +13925,7 @@
                             <date>desconocido</date>
                         </imprint>
                     </monogr>
-                    <note resp="uh">No he encontrado informaciones sobre una edición. La obra se
+                    <note resp="#uh">No he encontrado informaciones sobre una edición. La obra se
                         menciona en el portal La Prosa Modernista.</note>
                 </biblStruct>
                 <biblStruct corresp="W693" xml:id="E956">
@@ -13937,7 +13938,7 @@
                             <date>desconocido</date>
                         </imprint>
                     </monogr>
-                    <note resp="uh">No he encontrado informaciones sobre una edición. La obra se
+                    <note resp="#uh">No he encontrado informaciones sobre una edición. La obra se
                         menciona en el portal La Prosa Modernista.</note>
                 </biblStruct>
                 <biblStruct corresp="W694" xml:id="E957">
@@ -13950,7 +13951,7 @@
                             <date>desconocido</date>
                         </imprint>
                     </monogr>
-                    <note resp="uh">No he encontrado informaciones sobre una edición. La obra se
+                    <note resp="#uh">No he encontrado informaciones sobre una edición. La obra se
                         menciona en el portal La Prosa Modernista.</note>
                 </biblStruct>
                 <biblStruct corresp="W695" xml:id="E958">
@@ -13963,7 +13964,7 @@
                             <date>desconocido</date>
                         </imprint>
                     </monogr>
-                    <note resp="uh">No he encontrado informaciones sobre una edición. La obra se
+                    <note resp="#uh">No he encontrado informaciones sobre una edición. La obra se
                         menciona en el portal La Prosa Modernista.</note>
                 </biblStruct>
                 <biblStruct corresp="W696" xml:id="E959">
@@ -14920,9 +14921,9 @@
                             <date when="1907">1907</date>
                         </imprint>
                     </monogr>
-                    <note resp="uh">La publicación de la novela se menciona en el árticulo "Ceferino
-                        Martínez Riestra: un escritor" por José Ignacio Gracia Noriega, publicado en
-                        La Nueva España el 14 de octubre de 2002.
+                    <note resp="#uh">La publicación de la novela se menciona en el árticulo
+                        "Ceferino Martínez Riestra: un escritor" por José Ignacio Gracia Noriega,
+                        publicado en La Nueva España el 14 de octubre de 2002.
                             <ref>http://www.llanes.as/nor/nie/20021014.htm</ref>
                     </note>
                 </biblStruct>
@@ -24584,6 +24585,942 @@
                             <pubPlace corresp="MX" cert="low">desconocido</pubPlace>
                             <date when="1872">1872</date>
                         </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1139" xml:id="E1617">
+                    <monogr>
+                        <author key="A434">Curtis, Carlos Daniel</author>
+                        <title level="m" type="main">Mirtilo</title>
+                        <title level="m" type="sub">Datos para una novela</title>
+                        <edition>Edición de La Patria</edition>
+                        <imprint>
+                            <publisher>Imprenta y Litografía de Ireneo Paz</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1878">1878</date>
+                        </imprint>
+                        <extent>En 8°, de 178 p.</extent>
+                    </monogr>
+                    <note resp="#TorresRioseco">Con prólogo de D. Francisco Gómez Flores</note>
+                    <ref>http://132.248.9.32:8080/fondoantiguo2/1481883-656158/JPEG/Index.html</ref>
+                </biblStruct>
+                <biblStruct corresp="W1140" xml:id="E1618">
+                    <monogr>
+                        <author key="A434">Curtis, Carlos Daniel</author>
+                        <title level="m" type="main">La niña del baldoquín</title>
+                        <imprint>
+                            <publisher>Tipografía de Ireneo Paz</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1881">1881</date>
+                        </imprint>
+                        <extent>En 8°, de 83 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1141" xml:id="E1619">
+                    <monogr>
+                        <author key="A435">Chavero, Alfredo</author>
+                        <title level="m" type="main">El Conde Palákis</title>
+                        <imprint>
+                            <publisher>Tipografía de Gonzalo A. Esteva</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1882">1882</date>
+                        </imprint>
+                        <extent>En 8°, de 38 p.</extent>
+                    </monogr>
+                    <note resp="#TorresRioseco">(Se halla, además, reimpreso en el tomo 52 de la
+                        Biblioteca de Autores Mexicanos, p. 370-398.)</note>
+                </biblStruct>
+                <biblStruct corresp="W1141" xml:id="E1620">
+                    <analytic>
+                        <author key="A435">Chavero, Alfredo</author>
+                        <title level="a" type="main">El Conde Palákis</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Obras del Lic. Don Alfredo Chavero</title>
+                        <imprint>
+                            <publisher>Imprenta y Tipografía de Victoriano Agüeros</publisher>
+                            <pubPlace corresp="MX">México, D.F.</pubPlace>
+                            <date when="1904">1904</date>
+                            <biblScope unit="volume">Tomo I, escritos diversos</biblScope>
+                            <biblScope unit="page">p. 370-410</biblScope>
+                        </imprint>
+                    </monogr>
+                    <series>
+                        <title level="s" type="main">Biblioteca de Autores Mexicanos</title>
+                        <biblScope unit="volume">52</biblScope>
+                    </series>
+                    <ref>https://archive.org/details/obrascha01chav</ref>
+                    <ref>https://archive.org/details/obrasdellicdona00chavgoog</ref>
+                    <ref>https://archive.org/details/3671830</ref>
+                    <ref>https://archive.org/details/obrasescritosdi00chavgoog</ref>
+                    <ref>https://catalog.hathitrust.org/Record/008715222</ref>
+                    <ref>https://catalog.hathitrust.org/Record/100026495</ref>
+                    <ref>https://catalog.hathitrust.org/Record/100357858</ref>
+                </biblStruct>
+                <biblStruct corresp="W1142" xml:id="E1621">
+                    <monogr>
+                        <author key="A436">Balbontín, Manuel</author>
+                        <title level="m" type="main">Los torpedos</title>
+                        <imprint>
+                            <publisher>Tipografía de J. M. Aguilar Ortiz</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1873">1873</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1143" xml:id="E1622">
+                    <monogr>
+                        <author key="A436">Balbontín, Manuel</author>
+                        <title level="m" type="main">El Invierno</title>
+                        <title level="m" type="sub">Un día del mes de enero a los 40 grados de
+                            latitud N.</title>
+                        <edition>Edición de El Nacional</edition>
+                        <imprint>
+                            <publisher>Imprenta de Gonzálo A. Esteva</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1884">1884</date>
+                        </imprint>
+                        <extent>En 8°, de 55 p.</extent>
+                    </monogr>
+                    <note resp="#Iguiniz">Subscrita en Nueva York, en abril de 1865.</note>
+                    <note>Signatura IAI: Mex xu 500 [8]°</note>
+                </biblStruct>
+                <biblStruct corresp="W1143" xml:id="E1623">
+                    <monogr>
+                        <author key="A436">Balbontín, Manuel</author>
+                        <title level="m" type="main">El Invierno</title>
+                        <title level="m" type="sub">Un día del mes de enero a los 40 grados de
+                            latitud N.</title>
+                        <edition>Edición de El Nacional</edition>
+                        <imprint>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1873">1873</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1143" xml:id="E1624">
+                    <monogr>
+                        <author key="A436">Balbontín, Manuel</author>
+                        <title level="m" type="main">Un día del mes de enero a los 40 grados de
+                            latitud norte</title>
+                        <title level="m" type="sub">Historia</title>
+                        <edition>Edición de El Nacional</edition>
+                        <imprint>
+                            <publisher>Antigua Imp. de E. Murguía</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1893">1893</date>
+                        </imprint>
+                        <extent>En 8°, de 59 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1144" xml:id="E1625">
+                    <monogr>
+                        <author key="A436">Balbontín, Manuel</author>
+                        <title level="m" type="main">Memorias de un Muerto</title>
+                        <title level="m" type="sub">Cuento Fantástico</title>
+                        <imprint>
+                            <publisher>Imprenta en la calle de Tiburcio</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1874">1874</date>
+                        </imprint>
+                        <extent>En 4°, de 256 p.</extent>
+                    </monogr>
+                    <note resp="#Iguiniz">Subscrito en México, en 1874.</note>
+                </biblStruct>
+                <biblStruct corresp="W1144" xml:id="E1626">
+                    <monogr>
+                        <author key="A436">Balbontín, Manuel</author>
+                        <title level="m" type="main">Memorias de un Muerto</title>
+                        <title level="m" type="sub">Cuento Fantástico</title>
+                        <imprint>
+                            <publisher>Imprenta de Ignacio Cumplido</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1888">1888</date>
+                        </imprint>
+                        <extent>En 8°, de 256 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1145" xml:id="E1627">
+                    <monogr>
+                        <author key="A436">Balbontín, Manuel</author>
+                        <title level="m" type="main">Inés</title>
+                        <title level="m" type="sub">Novela militar escrita por distracción, sin
+                            ninguna presunción</title>
+                        <title level="m" type="sub">por el Alférez Bontilbaen de Luna</title>
+                        <imprint>
+                            <publisher>Antigua Imprenta de Murguía</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1892">1892</date>
+                        </imprint>
+                        <extent>En 8°, de 152 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1146" xml:id="E1628">
+                    <monogr>
+                        <author key="A436">Balbontín, Manuel</author>
+                        <title level="m" type="main">Tulitas la Pelona</title>
+                        <title level="m" type="sub">Novela Militar</title>
+                        <imprint>
+                            <publisher>Antigua Imprenta de Murguía</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1893">1893</date>
+                        </imprint>
+                        <extent>En 8°, de 88 p.</extent>
+                    </monogr>
+                    <note resp="#Iguiniz">Subscrita en México, en 1875.</note>
+                </biblStruct>
+                <biblStruct corresp="W1147" xml:id="E1629">
+                    <monogr>
+                        <author key="A437">Barragán de Toscano, Refugio</author>
+                        <title level="m" type="main">Premio del Bien y Castigo del Mal</title>
+                        <title level="m" type="sub">Novela original de Refugio Barragán de
+                            Toscano</title>
+                        <imprint>
+                            <publisher>Imprenta de José Contreras</publisher>
+                            <pubPlace corresp="MX">Ciudad Guzmán</pubPlace>
+                            <date when="1884">1884</date>
+                        </imprint>
+                        <extent>En 4°, de 148 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1147" xml:id="E1630">
+                    <monogr>
+                        <author key="A437">Barragán de Toscano, Refugio</author>
+                        <title level="m" type="main">Premio del Bien y Castigo del Mal</title>
+                        <title level="m" type="sub">Novela</title>
+                        <imprint>
+                            <publisher>Imprenta de J. Jens</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1891">1891</date>
+                        </imprint>
+                        <extent>En 4°, de 120 p.</extent>
+                    </monogr>
+                    <series>
+                        <title level="s">Biblioteca de La Familia</title>
+                    </series>
+                </biblStruct>
+                <biblStruct corresp="W1148" xml:id="E1631">
+                    <monogr>
+                        <author key="A437">Barragán de Toscano, Refugio</author>
+                        <title level="m" type="main">La Hija del Bandido o los Subterráneos del
+                            Nevado</title>
+                        <title level="m" type="sub">Novela original de D.ª Refugio Barragán de
+                            Toscano</title>
+                        <imprint>
+                            <publisher>Tipografía de "El Católico"</publisher>
+                            <pubPlace corresp="MX">Guadalajara</pubPlace>
+                            <date when="1887">1887</date>
+                        </imprint>
+                    </monogr>
+                    <ref>https://archive.org/details/3791712</ref>
+                </biblStruct>
+                <biblStruct corresp="W1149" xml:id="E1632">
+                    <monogr>
+                        <author key="A438">Barrera, Pantaleón</author>
+                        <title level="m" type="main">Los Misterios de Chan Santa Cruz</title>
+                        <title level="m" type="sub">Historia verdadera con episodios de novela por
+                            Napoleón Trebarra</title>
+                        <imprint>
+                            <publisher>Imprenta de M. Aldana Rivas</publisher>
+                            <pubPlace corresp="MX">Mérida</pubPlace>
+                            <date when="1864">1864</date>
+                        </imprint>
+                        <extent>En 4°, de 144 p.</extent>
+                    </monogr>
+                    <ref>https://catalog.hathitrust.org/Record/005734337</ref>
+                </biblStruct>
+                <biblStruct corresp="W1150" xml:id="E1633">
+                    <analytic>
+                        <author key="A439">Barrera Peniche, Alfonso</author>
+                        <title level="a" type="main">La noche de Bodas</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Episodios novelescos</title>
+                        <imprint>
+                            <publisher>Imprenta, Litografía y Encuadernación de Ireneo
+                                Paz</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1902">1902</date>
+                        </imprint>
+                        <extent>En 8°, de 75 p.</extent>
+                    </monogr>
+                    <series>
+                        <title level="s">Biblioteca de La Patria</title>
+                    </series>
+                </biblStruct>
+                <biblStruct corresp="W1151" xml:id="E1634">
+                    <analytic>
+                        <author key="A439">Barrera Peniche, Alfonso</author>
+                        <title level="a" type="main">La Gruta de los Enamorados</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Episodios novelescos</title>
+                        <imprint>
+                            <publisher>Imprenta, Litografía y Encuadernación de Ireneo
+                                Paz</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1902">1902</date>
+                        </imprint>
+                        <extent>En 8°, de 75 p.</extent>
+                    </monogr>
+                    <series>
+                        <title level="s">Biblioteca de La Patria</title>
+                    </series>
+                </biblStruct>
+                <biblStruct corresp="W1152" xml:id="E1635">
+                    <analytic>
+                        <author key="A439">Barrera Peniche, Alfonso</author>
+                        <title level="a" type="main">La Reconciliación</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Episodios novelescos</title>
+                        <imprint>
+                            <publisher>Imprenta, Litografía y Encuadernación de Ireneo
+                                Paz</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1902">1902</date>
+                        </imprint>
+                        <extent>En 8°, de 75 p.</extent>
+                    </monogr>
+                    <series>
+                        <title level="s">Biblioteca de La Patria</title>
+                    </series>
+                </biblStruct>
+                <biblStruct corresp="W1153" xml:id="E1636">
+                    <analytic>
+                        <author key="A440">Barrios de los Ríos, José María</author>
+                        <title level="a" type="main">El País de las Perlas</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">El País de las Perlas y Cuentos
+                            Californios</title>
+                        <imprint>
+                            <publisher>Biblioteca Estarsiana. Empresa editorial de las obras de
+                                Almavis y Duralis Estars (Licenciados Enrique y José María Barrios
+                                de los Ríos)</publisher>
+                            <pubPlace corresp="MX">Sombrerete, Zacatecas</pubPlace>
+                            <date when="1908">1908</date>
+                        </imprint>
+                        <extent>En 8°, de 165, (4) p. más el retrato del autor</extent>
+                    </monogr>
+                    <ref>https://archive.org/details/elpasdelasperla00estagoog</ref>
+                </biblStruct>
+                <biblStruct corresp="W1154" xml:id="E1637">
+                    <monogr>
+                        <author key="A441">Betanzo, Francisca</author>
+                        <title level="m" type="main">La Modelo</title>
+                        <imprint>
+                            <pubPlace corresp="SL">desconocido</pubPlace>
+                            <date>desconocido</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1155" xml:id="E1638">
+                    <monogr>
+                        <author key="A441">Betanzo, Francisca</author>
+                        <title level="m" type="main">La Insaciable</title>
+                        <imprint>
+                            <pubPlace corresp="SL">desconocido</pubPlace>
+                            <date>desconocido</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1156" xml:id="E1639">
+                    <monogr>
+                        <author key="A441">Betanzo, Francisca</author>
+                        <title level="m" type="main">La Peña del Infortunio</title>
+                        <imprint>
+                            <publisher>Librería Paul Ollendorf</publisher>
+                            <pubPlace corresp="FR">Paris</pubPlace>
+                            <date when="1909">1909</date>
+                        </imprint>
+                        <extent>En 8°, de (4), 347 p.</extent>
+                    </monogr>
+                    <note resp="#Iguiniz">Subscrita en París, a 16 de julio de 1909.</note>
+                </biblStruct>
+                <biblStruct corresp="W1157" xml:id="E1640">
+                    <monogr>
+                        <author key="A441">Betanzo, Francisca</author>
+                        <title level="m" type="main">Con casaca roja</title>
+                        <imprint>
+                            <pubPlace corresp="SL">desconocido</pubPlace>
+                            <date>desconocido</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1158" xml:id="E1641">
+                    <monogr>
+                        <author key="A441">Betanzo, Francisca</author>
+                        <title level="m" type="main">La exaltada</title>
+                        <imprint>
+                            <pubPlace corresp="SL">desconocido</pubPlace>
+                            <date>desconocido</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1159" xml:id="E1642">
+                    <monogr>
+                        <author key="A441">Betanzo, Francisca</author>
+                        <title level="m" type="main">Simona Martínez</title>
+                        <imprint>
+                            <pubPlace corresp="SL">desconocido</pubPlace>
+                            <date>desconocido</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1160" xml:id="E1643">
+                    <monogr>
+                        <author key="A441">Betanzo, Francisca</author>
+                        <title level="m" type="main">Amada Quiñones</title>
+                        <imprint>
+                            <pubPlace corresp="SL">desconocido</pubPlace>
+                            <date>desconocido</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1161" xml:id="E1644">
+                    <monogr>
+                        <author key="A441">Betanzo, Francisca</author>
+                        <title level="m" type="main">El Ojo de Huitzolopoxle</title>
+                        <imprint>
+                            <pubPlace corresp="SL">desconocido</pubPlace>
+                            <date>desconocido</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1162" xml:id="E1645">
+                    <monogr>
+                        <author key="A441">Betanzo, Francisca</author>
+                        <title level="m" type="main">Fray Raymundo</title>
+                        <imprint>
+                            <pubPlace corresp="SL">desconocido</pubPlace>
+                            <date>desconocido</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1163" xml:id="E1646">
+                    <monogr>
+                        <author key="A441">Betanzo, Francisca</author>
+                        <title level="m" type="main">Flor de Retama</title>
+                        <imprint>
+                            <pubPlace corresp="SL">desconocido</pubPlace>
+                            <date>desconocido</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1164" xml:id="E1647">
+                    <monogr>
+                        <author key="A441">Betanzo, Francisca</author>
+                        <title level="m" type="main">Oh funesto fin de...</title>
+                        <imprint>
+                            <pubPlace corresp="SL">desconocido</pubPlace>
+                            <date>desconocido</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1165" xml:id="E1648">
+                    <monogr>
+                        <author key="A441">Betanzo, Francisca</author>
+                        <title level="m" type="main">Brumas alcohólicas</title>
+                        <imprint>
+                            <publisher>F. Granada y Ca. Editores</publisher>
+                            <pubPlace corresp="ES">Barcelona</pubPlace>
+                            <date when="1909">1909</date>
+                        </imprint>
+                        <extent>En 8°, de 182 p.</extent>
+                    </monogr>
+                    <note resp="#Iguiniz">Subscrita en Barcelona, a 26 de agosto de 1909. Seguida de
+                        Sangre y fuego.</note>
+                    <note>Signatura IAI: Span xu 3509 [8]°</note>
+                </biblStruct>
+                <biblStruct corresp="W1166" xml:id="E1649">
+                    <monogr>
+                        <author key="A442">Blanco, Manuel</author>
+                        <title level="m" type="main">El Capitán Armando</title>
+                        <title level="m" type="sub">(Memorias de un soldado de la Reforma)</title>
+                        <title level="m" type="sub">Novela histórico-política por Manuel
+                            Blanco</title>
+                        <imprint>
+                            <publisher>Valle Hermanos</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1872">1872</date>
+                            <biblScope unit="volume">Tomo primero</biblScope>
+                        </imprint>
+                        <extent>2 v. en 4°, de (6), 2, IV, 387 y 316 p.</extent>
+                    </monogr>
+                    <note resp="#Iguiniz">Precedida de una introducción de D. Rafael Miranda
+                        Villela, y subscrita en México, a 24 de junio de 1872.</note>
+                    <ref>https://archive.org/details/3668693</ref>
+                    <ref>https://catalog.hathitrust.org/Record/100194347</ref>
+                </biblStruct>
+                <biblStruct corresp="W1167" xml:id="E1650">
+                    <monogr>
+                        <author key="A442">Blanco, Manuel</author>
+                        <title level="m" type="main">El Secreto de una Crónica</title>
+                        <title level="m" type="sub">Novela realista por Tácito</title>
+                        <imprint>
+                            <publisher>Imprenta y Litografía de Juan Flores</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1891">1891</date>
+                        </imprint>
+                        <extent>En 4°, de 560 p., más XXVI láminas.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1168" xml:id="E1651">
+                    <monogr>
+                        <author key="A442">Blanco, Manuel</author>
+                        <title level="m" type="main">Páginas Íntimas</title>
+                        <title level="m" type="sub">(Horas de Ausencia)</title>
+                        <title level="m" type="sub">A mi hija Blanca en su primer cumpleaños</title>
+                        <imprint>
+                            <publisher>Tipografía del "Siglo Diez y Nueve"</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1895">1895</date>
+                        </imprint>
+                        <extent>En 4°, de (2), 181 p. II p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1169" xml:id="E1652">
+                    <monogr>
+                        <author key="A443">Bravo López, Bernabé</author>
+                        <title level="m" type="main">Variaciones sobre temas de Costumbres
+                            Mexicanas</title>
+                        <title level="m" type="sub">Por Figarete</title>
+                        <edition>segunda edición</edition>
+                        <imprint>
+                            <publisher>Imprenta de Epifanio D. Orozco</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1888">1888</date>
+                        </imprint>
+                        <extent>5 v. en 8°, comprendiendo cinco series, T. I, de IV, 40 p.; t. II,
+                            de IV, 35 p.; t. III, de IV, 36 p.; t. IV, de V, 34 p. y t. V, 38
+                            p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1170" xml:id="E1653">
+                    <monogr>
+                        <author key="A443">Bravo López, Bernabé</author>
+                        <title level="m" type="main">A muerte</title>
+                        <title level="m" type="sub">Ensayo social por Bernabé Bravo</title>
+                        <title level="m" type="sub">(Epígrafe de Mirabeau)</title>
+                        <imprint>
+                            <publisher>Tipografía de E. De Losada &amp; Co</publisher>
+                            <pubPlace corresp="US">Nueva York</pubPlace>
+                            <date when="1892">1892</date>
+                        </imprint>
+                        <extent>En 4°, XII, 35 p. ilustrado</extent>
+                    </monogr>
+                    <note resp="#Iguiniz">Con prólogo de D. Francisco Moncada.</note>
+                </biblStruct>
+                <biblStruct corresp="W1171" xml:id="E1654">
+                    <monogr>
+                        <author key="A444">Agüeros, Victoriano</author>
+                        <title type="main" level="m">Leyenda de Navidad</title>
+                        <title type="sub" level="m">1879</title>
+                        <imprint>
+                            <publisher>Imprenta de Ignacio Cumplido</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1879">1879</date>
+                        </imprint>
+                        <extent>En 8°, de 96 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1172" xml:id="E1655">
+                    <monogr>
+                        <author key="A445">Alegría, Adolfo Isaac</author>
+                        <title type="main" level="m">La Luz en las tinieblas</title>
+                        <title type="sub" level="m">Novela filosófica y de costumbres</title>
+                        <imprint>
+                            <pubPlace corresp="MX" cert="low">desconocido</pubPlace>
+                            <date when="1870">1870</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1172" xml:id="E1656">
+                    <monogr>
+                        <author key="A445">Alegría, Adolfo Isaac</author>
+                        <title type="main" level="m">La Luz en las tinieblas</title>
+                        <title type="sub" level="m">Novela filosófica y de costumbres</title>
+                        <editor>Obregón, González</editor>
+                        <imprint>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1889">1889</date>
+                        </imprint>
+                        <extent>28 p.</extent>
+                    </monogr>
+                    <series>
+                        <title level="s">Novelistas Mexicanos</title>
+                    </series>
+                    <note>2ª parte de la anterior</note>
+                </biblStruct>
+                <biblStruct corresp="W1173" xml:id="E1657">
+                    <monogr>
+                        <author key="A445">Alegría, Adolfo Isaac</author>
+                        <title type="main" level="m">El libro de Satanás</title>
+                        <title type="sub" level="m">Algo que parece novela y no es</title>
+                        <title type="sub" level="m">Verdades claras y obscuras, tintes alegres y
+                            lúgubres</title>
+                        <imprint>
+                            <publisher>Imprenta de la Constitución Social</publisher>
+                            <pubPlace corresp="MX">México, D.F.</pubPlace>
+                            <date when="1869">1869</date>
+                        </imprint>
+                        <extent>En 4°.</extent>
+                    </monogr>
+                    <ref>https://archive.org/details/ellibrodesatana00aleggoog</ref>
+                </biblStruct>
+                <biblStruct corresp="W1173" xml:id="E1658">
+                    <monogr>
+                        <author key="A445">Alegría, Adolfo Isaac</author>
+                        <title type="main" level="m">Satanás</title>
+                        <edition>Edición de La Patria</edition>
+                        <imprint>
+                            <publisher>Tipografía de I. Paz</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1882">1882</date>
+                        </imprint>
+                        <extent>En 8°, de 44 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1174" xml:id="E1659">
+                    <monogr>
+                        <author key="A446">Alfaro, Anselmo</author>
+                        <title type="main" level="m">Leona</title>
+                        <title type="sub" level="m">Leyenda por Anselmo Alfaro</title>
+                        <imprint>
+                            <publisher>Imprenta de "La Colonia Española," de A. Llanos</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1876">1876</date>
+                        </imprint>
+                        <extent>En 8°, de 90 p.</extent>
+                    </monogr>
+                    <ref>http://www.cervantesvirtual.com/obra/leona-leyenda/</ref>
+                </biblStruct>
+                <biblStruct corresp="W1175" xml:id="E1660">
+                    <monogr>
+                        <author key="A447">Alfaro, Jesús</author>
+                        <author key="A448">Manrique, F.</author>
+                        <title type="main" level="m">El tribunal de la Compañía de Jesús</title>
+                        <imprint>
+                            <publisher>Imprenta Políglota de Luis Ramiro Ponce de León y
+                                Compañía</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1874">1874</date>
+                        </imprint>
+                        <extent>En 4°, de 311 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1176" xml:id="E1661">
+                    <analytic>
+                        <author key="A449">Altamirano, Ignacio Manuel</author>
+                        <title level="a" type="main">Una noche de Julio</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="m">El Siglo XIX</title>
+                        <imprint>
+                            <pubPlace corresp="MX" cert="low">desconocido</pubPlace>
+                            <date>desconocido</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1176" xml:id="E1662">
+                    <analytic>
+                        <author key="A449">Altamirano, Ignacio Manuel</author>
+                        <title level="a" type="main">Julia</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="m">Cuentos de invierno</title>
+                        <title type="sub" level="m">Las tres flores</title>
+                        <edition>Tercera edición, corregida y aumentada.</edition>
+                        <imprint>
+                            <publisher>Tipografía Literaria de Filomeno Mata</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1880">1880</date>
+                        </imprint>
+                        <extent>En 4°, de 441 (4) p.</extent>
+                    </monogr>
+                    <note resp="#Iguiniz">Contiene, además, Julia, La Navidad en las montañas y
+                        Clemencia, y forman el tomo primero de las obras completas del autor.</note>
+                </biblStruct>
+                <biblStruct corresp="W1177" xml:id="E1663">
+                    <analytic>
+                        <author key="A449">Altamirano, Ignacio Manuel</author>
+                        <title level="a" type="main">Clemencia</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="m">Cuentos de invierno</title>
+                        <title type="sub" level="m">Las tres flores</title>
+                        <edition>Tercera edición, corregida y aumentada.</edition>
+                        <imprint>
+                            <publisher>Tipografía Literaria de Filomeno Mata</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1880">1880</date>
+                        </imprint>
+                        <extent>En 4°, de 441 (4) p.</extent>
+                    </monogr>
+                    <note resp="#Iguiniz">Contiene, además, Julia, La Navidad en las montañas y
+                        Clemencia, y forman el tomo primero de las obras completas del autor.</note>
+                </biblStruct>
+                <biblStruct corresp="W1177" xml:id="E1664">
+                    <analytic>
+                        <author key="A449">Altamirano, Ignacio Manuel</author>
+                        <title type="main" level="a">Clemencia</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j">El Renacimiento</title>
+                        <imprint>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1869">1869</date>
+                        </imprint>
+                    </monogr>
+                    <note>por entregas</note>
+                </biblStruct>
+                <biblStruct corresp="W1177" xml:id="E1665">
+                    <monogr>
+                        <author key="A449">Altamirano, Ignacio Manuel</author>
+                        <title type="main" level="m">Cuentos de Invierno</title>
+                        <title type="sub" level="m">Clemencia</title>
+                        <imprint>
+                            <publisher>F. Díaz de León y Santiago White</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1869">1869</date>
+                        </imprint>
+                        <extent>En 8°, de 319 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1177" xml:id="E1666">
+                    <monogr>
+                        <author key="A449">Altamirano, Ignacio Manuel</author>
+                        <title type="main" level="m">Cuentos de Invierno</title>
+                        <title type="sub" level="m">Clemencia</title>
+                        <edition>Quinta edición corregida</edition>
+                        <imprint>
+                            <publisher>Tipografía Literaria de Filomeno Mata</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1880">1880</date>
+                        </imprint>
+                        <extent>En 4°, de (260) p.</extent>
+                    </monogr>
+                    <note resp="#Iguiniz">Ocupa los folios 185-445 del tomo primero de las obras
+                        completas del autor, registradas bajo el número 1.</note>
+                </biblStruct>
+                <biblStruct corresp="W1177" xml:id="E1667">
+                    <monogr>
+                        <author key="A449">Altamirano, Ignacio Manuel</author>
+                        <title type="main" level="m">Clemencia o el Mal por el Bien</title>
+                        <title type="sub" level="m">Con ilustraciones de I. Medina Vera</title>
+                        <edition>Sexta edición</edition>
+                        <imprint>
+                            <publisher>Casa Editorial de Maucci Hermanos e Hijos</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <pubPlace corresp="CU">Habana</pubPlace>
+                            <publisher>Tip. Casa Editorial Sopena</publisher>
+                            <pubPlace corresp="ES">Valencia</pubPlace>
+                            <pubPlace corresp="ES">Barcelona</pubPlace>
+                            <date>desconocido</date>
+                        </imprint>
+                        <extent>En 8°, de 268 p., con láminas.</extent>
+                    </monogr>
+                    <note resp="#Iguiniz">Termina con las Rimas del mismo autor.</note>
+                </biblStruct>
+                <biblStruct corresp="W1177" xml:id="E1668">
+                    <monogr>
+                        <author key="A449">Altamirano, Ignacio Manuel</author>
+                        <title type="main" level="m">Cuentos de invierno</title>
+                        <title type="sub" level="m">Clemencia</title>
+                        <imprint>
+                            <publisher>Librería de la Viuda de C. Bouret</publisher>
+                            <pubPlace corresp="FR">París</pubPlace>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date>desconocido</date>
+                        </imprint>
+                        <extent>En 8° (4), de 316 p., ilustr.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1177" xml:id="E1669">
+                    <monogr>
+                        <author key="A449">Altamirano, Ignacio Manuel</author>
+                        <title type="main" level="m">Cuentos de invierno</title>
+                        <title type="sub" level="m">Clemencia</title>
+                        <imprint>
+                            <publisher>Librería de la Viuda de C. Bouret</publisher>
+                            <pubPlace corresp="PE">Lima</pubPlace>
+                            <date>desconocido</date>
+                        </imprint>
+                    </monogr>
+                    <note resp="#Iguiniz">Mencionada por Altamirano en la sexta edición de
+                        Clemencia.</note>
+                </biblStruct>
+                <biblStruct corresp="W1178" xml:id="E1670">
+                    <analytic>
+                        <author key="A449">Altamirano, Ignacio Manuel</author>
+                        <title level="a" type="main">La Navidad en las montañas</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="m">Cuentos de invierno</title>
+                        <title type="sub" level="m">Las tres flores</title>
+                        <edition>Tercera edición, corregida y aumentada.</edition>
+                        <imprint>
+                            <publisher>Tipografía Literaria de Filomeno Mata</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1880">1880</date>
+                        </imprint>
+                        <extent>En 4°, de 441 (4) p.</extent>
+                    </monogr>
+                    <note resp="#Iguiniz">Contiene, además, Julia, La Navidad en las montañas y
+                        Clemencia, y forman el tomo primero de las obras completas del autor.</note>
+                </biblStruct>
+                <biblStruct corresp="W1178" xml:id="E1671">
+                    <monogr>
+                        <author key="A449">Altamirano, Ignacio Manuel</author>
+                        <title type="main" level="m">La Navidad en las montañas</title>
+                        <imprint>
+                            <publisher>Imprenta de Ignacio Escalante</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1871">1871</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1178" xml:id="E1672">
+                    <monogr>
+                        <author key="A449">Altamirano, Ignacio Manuel</author>
+                        <title type="main" level="m">La Navidad en las Montañas</title>
+                        <edition>Quinta edición</edition>
+                        <imprint>
+                            <publisher>Biblioteca de la Europa y América</publisher>
+                            <publisher>Imp. V. Goupy y Jourdan</publisher>
+                            <pubPlace corresp="FR">París</pubPlace>
+                            <date when="1891">1891</date>
+                        </imprint>
+                        <extent>En 8°, de (4), 156 p.</extent>
+                    </monogr>
+                    <ref>https://es.wikisource.org/wiki/La_Navidad_en_las_monta%C3%B1as</ref>
+                </biblStruct>
+                <biblStruct corresp="W1178" xml:id="E1673">
+                    <analytic>
+                        <author key="A449">Altamirano, Ignacio Manuel</author>
+                        <title type="main" level="a">La Navidad en las Montañas</title>
+                    </analytic>
+                    <monogr>
+                        <editor>Sr. Portilla</editor>
+                        <editor>D. Francisco Sosa</editor>
+                        <title level="m" type="main">El Album de Navidad</title>
+                        <title level="j" type="main">La Ibería</title>
+                        <imprint>
+                            <pubPlace corresp="MX" cert="low">desconocido</pubPlace>
+                            <date>desconocido</date>
+                        </imprint>
+                    </monogr>
+                    <note>en folletín</note>
+                </biblStruct>
+                <biblStruct corresp="W1179" xml:id="E1674">
+                    <analytic>
+                        <author key="A449">Altamirano, Ignacio Manuel</author>
+                        <title type="main" level="a">La Novia</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j" type="main">El Correo de México</title>
+                        <imprint>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1867">1867</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1179" xml:id="E1675">
+                    <analytic>
+                        <author key="A449">Altamirano, Ignacio Manuel</author>
+                        <title type="main" level="a">Las tres flores</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j" type="main">El Renacimiento</title>
+                        <imprint>
+                            <publisher>Imprenta F. Díaz y Santiago White</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1869">1869</date>
+                            <biblScope unit="volume">Vol. I</biblScope>
+                            <biblScope unit="page">pp. 471-474</biblScope>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1179" xml:id="E1676">
+                    <analytic>
+                        <author key="A449">Altamirano, Ignacio Manuel</author>
+                        <title level="a" type="main">Cuentos de invierno</title>
+                    </analytic>
+                    <monogr>
+                        <title type="main" level="m">Cuentos de invierno</title>
+                        <title type="sub" level="m">Las tres flores</title>
+                        <edition>Tercera edición, corregida y aumentada.</edition>
+                        <imprint>
+                            <publisher>Tipografía Literaria de Filomeno Mata</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1880">1880</date>
+                        </imprint>
+                        <extent>En 4°, de 441 (4) p.</extent>
+                    </monogr>
+                    <note resp="#Iguiniz">Contiene, además, Julia, La Navidad en las montañas y
+                        Clemencia, y forman el tomo primero de las obras completas del autor.</note>
+                </biblStruct>
+                <biblStruct corresp="W1180" xml:id="E1677">
+                    <analytic>
+                        <author key="A449">Altamirano, Ignacio Manuel</author>
+                        <title type="main" level="a">Antonia</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j" type="main">El Domingo</title>
+                        <imprint>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date from="1872-06-02" to="1872-08-25">2 de junio a 25 de agosto de
+                                1872</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1180" xml:id="E1678">
+                    <monogr>
+                        <author key="A449">Altamirano, Ignacio Manuel</author>
+                        <title type="main" level="m">Antonia</title>
+                        <title type="sub" level="m">Cuentos de Invierno</title>
+                        <imprint>
+                            <publisher>Tipografía Literaria de Filomeno Mata</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1880">1880</date>
+                            <biblScope unit="volume">Tomo II</biblScope>
+                        </imprint>
+                        <extent>En 4°, de 128 p.</extent>
+                    </monogr>
+                    <note resp="Iguiniz_1926">Forma el tomo II de las obras completas del
+                        autor.</note>
+                </biblStruct>
+                <biblStruct corresp="W1181" xml:id="E1679">
+                    <monogr>
+                        <author key="A449">Altamirano, Ignacio Manuel</author>
+                        <title type="main" level="m">El Zarco</title>
+                        <title type="sub" level="m">Episodios de la vida mexicana en 1861-63</title>
+                        <title type="sub" level="m">Novela póstuma. Prólogo de D. Francisco Sosa.
+                            Dibujos de D. Antonio Utrillo. Grabados de D. J. Thomas.</title>
+                        <edition>Quinta edición</edition>
+                        <imprint>
+                            <publisher>Establecimiento Editorial de J. Ballescá</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <publisher>Tipolitografía de Salvat e Hijo</publisher>
+                            <pubPlace corresp="ES">Barcelona</pubPlace>
+                            <date when="1901">1901</date>
+                        </imprint>
+                        <extent>En 4°, de 286 p. más el retrato del autor. Ilustrada.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1181" xml:id="E1680">
+                    <monogr>
+                        <author key="A449">Altamirano, Ignacio Manuel</author>
+                        <title type="main" level="m">El Zarco. Episodios de la vida mexicana en
+                            1861-63</title>
+                        <title type="sub" level="m">Novela póstuma. Prólogo de Don Francisco
+                            Sosa</title>
+                        <imprint>
+                            <publisher>Librería de Quiroga</publisher>
+                            <pubPlace corresp="US">San Antonio, Tex.</pubPlace>
+                            <date>desconocido</date>
+                        </imprint>
+                        <extent>En 8°, de 211 p.</extent>
                     </monogr>
                 </biblStruct>
             </listBibl>

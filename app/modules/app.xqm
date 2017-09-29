@@ -89,7 +89,7 @@ declare function app:authors($currpage as numeric, $currnationality as xs:string
         </ul>
         <form action="#" method="GET" style="position: absolute; top: 0; right: 0;">
             <select name="letra" onchange="this.form.submit()">
-                <option class="default" value="">letra</option>
+                <option class="default" value="">letra (del apellido)</option>
                 {for $let in $app:alphabet
                 order by $let
                 return
@@ -100,7 +100,7 @@ declare function app:authors($currpage as numeric, $currnationality as xs:string
                     </option>}
             </select>
             <select name="decada" onchange="this.form.submit()">
-                <option class="default" value="">década</option>
+                <option class="default" value="">década (de edición)</option>
                 {for $dec at $pos in $app:decades
                 let $dec-label := $app:decade-labels[$pos]
                 return
@@ -111,7 +111,7 @@ declare function app:authors($currpage as numeric, $currnationality as xs:string
                     </option>}
             </select>
             <select name="pais" onchange="this.form.submit()">
-                <option class="default" value="">país</option>
+                <option class="default" value="">país (de edición)</option>
                 {for $country at $pos in $app:countries
                 let $short := $country/@xml:id
                 return
@@ -154,17 +154,19 @@ declare function app:author($id as xs:string){
     let $author-name := data:get-author-name($author-key, "forename")
     let $nationality := $author/tei:nationality/data(.)
     let $birth := $author//tei:birth
+    let $birth-place := $birth/tei:placeName
     let $death := $author//tei:death
+    let $death-place := $death/tei:placeName
     return
     <section class="author">
         <h2>{$author-name}</h2>
         <!-- to do: mit XSLT noch mehr Infos ausgeben -->
         <p>({$nationality})</p>
         {if ($birth)
-        then <p>Nacido: {string-join(($birth/tei:date, string-join($birth/tei:placeName, ", ")), " en ")}.</p>
+        then <p>Nacido: {string-join(($birth/tei:date, if (not(empty($birth-place))) then string-join($birth-place, ", ") else()), " en ")}.</p>
         else()}
         {if ($death)
-        then <p>Muerto: {string-join(($death/tei:date, string-join($death/tei:placeName, ", ")), " en ")}.</p>
+        then <p>Muerto: {string-join(($death/tei:date, if (not(empty($death-place))) then string-join($death-place, ", ") else()), " en ")}.</p>
         else()}
     </section>,
     <section class="author">
@@ -172,7 +174,7 @@ declare function app:author($id as xs:string){
         <ul>
             {
             for $work in $app:works[tei:author/@key = $id]
-            let $title := $work/tei:title/data(.)
+            let $title := $work/tei:title[1]/data(.)
             order by $title
             return 
                 <li><a href="{$app:home}obra/{$work/@xml:id}">{$title}</a></li>
@@ -245,7 +247,7 @@ declare function app:works($currpage as numeric, $currauthor as xs:string?, $cur
         </ul>
         <form action="#" method="GET" style="position: absolute; top: 0; right: 0;">
             <select name="letra" onchange="this.form.submit()">
-                <option class="default" value="">letra</option>
+                <option class="default" value="">letra (del título)</option>
                 {for $let in $app:alphabet
                 order by $let
                 return
@@ -269,7 +271,7 @@ declare function app:works($currpage as numeric, $currauthor as xs:string?, $cur
                     </option>}
             </select>
             <select name="decada" onchange="this.form.submit()">
-                <option class="default" value="">década</option>
+                <option class="default" value="">década (de edición)</option>
                 {for $dec at $pos in $app:decades
                 let $dec-label := $app:decade-labels[$pos]
                 return
@@ -280,7 +282,7 @@ declare function app:works($currpage as numeric, $currauthor as xs:string?, $cur
                     </option>}
             </select>
             <select name="pais" onchange="this.form.submit()">
-                <option class="default" value="">país</option>
+                <option class="default" value="">país (de edición)</option>
                 {for $country at $pos in $app:countries
                 let $short := $country/@xml:id
                 return
@@ -433,7 +435,7 @@ declare function app:editions($currpage as numeric, $currauthor as xs:string?, $
         </ul>
         <form action="#" method="GET" style="position: absolute; top: 0; right: 0;">
             <select name="letra" onchange="this.form.submit()">
-                <option class="default" value="">letra</option>
+                <option class="default" value="">letra (del título)</option>
                 {for $let in $app:alphabet
                 order by $let
                 return
@@ -480,7 +482,7 @@ declare function app:editions($currpage as numeric, $currauthor as xs:string?, $
                     </option>}
             </select>
             <select name="pais" onchange="this.form.submit()">
-                <option class="default" value="">país</option>
+                <option class="default" value="">país (de publicación)</option>
                 {for $country at $pos in $app:countries
                 let $short := $country/@xml:id
                 return
