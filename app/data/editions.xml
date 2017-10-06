@@ -301,6 +301,7 @@
                         </imprint>
                         <extent>175 p.</extent>
                     </monogr>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/a/af/El_ni%C3%B1o_exposito_-_Luz_del_Alma.pdf</ref>
                 </biblStruct>
                 <biblStruct corresp="W15" xml:id="E19">
                     <monogr>
@@ -313,6 +314,7 @@
                             <date when="1858">1858</date>
                         </imprint>
                     </monogr>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/0/05/Aurora_y_Enrique_-_Toribio_Arauz.pdf</ref>
                 </biblStruct>
                 <biblStruct corresp="W16" xml:id="E20">
                     <monogr>
@@ -363,6 +365,7 @@
                             <date when="1890">1890</date>
                         </imprint>
                     </monogr>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/0/0b/Carmen_o_Batallas_de_la_vida_-_Marcos_F._Arredondo.pdf</ref>
                 </biblStruct>
                 <biblStruct corresp="W18" xml:id="E24">
                     <monogr>
@@ -1146,6 +1149,7 @@
                             <date when="1894" cert="medium">c. 1894</date>
                         </imprint>
                     </monogr>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/3/30/Borrascas_-_M._Bahamonde.pdf</ref>
                 </biblStruct>
                 <biblStruct corresp="W58" xml:id="E77">
                     <monogr>
@@ -1184,7 +1188,7 @@
                 </biblStruct>
                 <biblStruct corresp="W61" xml:id="E80">
                     <monogr>
-                        <author key="A26">Barbara, Federico</author>
+                        <author key="A26">Barbará, Federico</author>
                         <title type="main" level="m">El prisionero de Santos Lugares</title>
                         <title type="sub" level="m">Historia-novela original contemporánea</title>
                         <imprint>
@@ -1194,6 +1198,20 @@
                         </imprint>
                         <extent>192 p.</extent>
                     </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1246" xml:id="E1750">
+                    <monogr>
+                        <author key="A26">Barbará, Federico</author>
+                        <title type="main" level="m">El libro alegre o Rosas y sus locuras</title>
+                        <title type="sub" level="m">Miscelánea federal curiosa y divertida</title>
+                        <imprint>
+                            <publisher>Imprenta del Mercurio</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1877">1877</date>
+                        </imprint>
+                        <extent>192 p.</extent>
+                    </monogr>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/b/b7/El_libro_alegre_%C3%B3_Rosas_y_sus_locuras_-_Federico_Barbara.pdf</ref>
                 </biblStruct>
                 <biblStruct corresp="W62" xml:id="E81">
                     <monogr>
@@ -2014,6 +2032,7 @@
                             <date when="1886">1886</date>
                         </imprint>
                     </monogr>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/b/bb/El_Ex-abrupto_de_Don_Candido_-_C.pdf</ref>
                 </biblStruct>
                 <biblStruct corresp="W110" xml:id="E140">
                     <monogr>
@@ -2038,6 +2057,8 @@
                         </imprint>
                         <extent>2 tomos: 438 y 402 p.</extent>
                     </monogr>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/a/aa/Amelia_de_Floriani_-_Jose_Victoriano_Cabral-_v1.pdf</ref>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/d/d1/Amelia_de_Floriani_-_Jose_Victoriano_Cabral_-_v2.pdf</ref>
                 </biblStruct>
                 <biblStruct corresp="W112" xml:id="E142">
                     <monogr>
@@ -2175,6 +2196,7 @@
                             <date when="1956">1856</date>
                         </imprint>
                     </monogr>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/6/62/Camila_o_la_virtud_triunfante_-_Estanislao_del_Campo.pdf</ref>
                 </biblStruct>
                 <biblStruct corresp="W121" xml:id="E153">
                     <monogr>
@@ -6606,6 +6628,7 @@
                         </imprint>
                     </monogr>
                     <ref>https://books.google.de/books/about/El_hogar_en_la_pampa.html?id=GwItAAAAYAAJ</ref>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/4/45/El_hogar_en_la_pampa_-_Santiago_Estrada.pdf</ref>
                 </biblStruct>
                 <biblStruct corresp="W319" xml:id="E435">
                     <monogr>
@@ -8511,6 +8534,7 @@
                         <extent>286 p.</extent>
                     </monogr>
                     <ref>https://archive.org/details/amorfunestoescr00gutigoog</ref>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/d/db/Amor_funesto_-_Eduardo_Gutierrez.pdf</ref>
                 </biblStruct>
                 <biblStruct corresp="W423" xml:id="E570">
                     <monogr>
@@ -8537,6 +8561,7 @@
                         <extent>141 p.</extent>
                     </monogr>
                     <ref>https://archive.org/details/uncapitndeladron00guti</ref>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/6/61/Antonio_Larrea_o_sea_un_capitan_de_ladrones_-_Eduardo_Gutierrez.pdf</ref>
                 </biblStruct>
                 <biblStruct corresp="W424" xml:id="E572">
                     <analytic>
@@ -8567,6 +8592,7 @@
                         <title type="main" level="s">(Los grandes crímenes)</title>
                     </series>
                     <ref>https://archive.org/details/elasesinatodealv00guti</ref>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/3/38/El_asesinato_de_Alvarez_-_Eduardo_Gutierrez.pdf</ref>
                 </biblStruct>
                 <biblStruct corresp="W424" xml:id="E574">
                     <analytic>
@@ -8630,7 +8656,6 @@
                     <monogr>
                         <author key="A169">Gutiérrez, Eduardo</author>
                         <title type="main" level="m">Carlo Lanza</title>
-                        <note resp="Lichtblau_1997">A dos columnas</note>
                         <imprint>
                             <publisher>N. Tommasi</publisher>
                             <pubPlace corresp="AR">Buenos Aires</pubPlace>
@@ -8642,6 +8667,8 @@
                         <title type="main" level="s">(Dramas cómicos; episodios curiosos)</title>
                     </series>
                     <ref>https://archive.org/details/carlolanza00guti</ref>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/3/39/Carlo_Lanza_%281886%29_-_Eduardo_Gutierrez.pdf</ref>
+                    <note resp="#Lichtblau">A dos columnas.</note>
                 </biblStruct>
                 <biblStruct corresp="W427" xml:id="E579">
                     <monogr>
@@ -8703,7 +8730,6 @@
                     <monogr>
                         <author key="A169">Gutiérrez, Eduardo</author>
                         <title type="main" level="m">El Chacho</title>
-                        <note resp="Lichtblau_1997">A dos columnas</note>
                         <imprint>
                             <publisher>N. Tommasi</publisher>
                             <pubPlace corresp="AR">Buenos Aires</pubPlace>
@@ -8715,6 +8741,22 @@
                         <title type="main" level="j">(Dramas militares)</title>
                     </series>
                     <ref>https://archive.org/details/elchacho00gutiuoft</ref>
+                    <note resp="#Lichtblau">A dos columnas</note>
+                </biblStruct>
+                <biblStruct corresp="W429" xml:id="E1748">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">El Chacho</title>
+                        <imprint>
+                            <publisher>Luis Maucci y Compañía</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1895">1895</date>
+                        </imprint>
+                    </monogr>
+                    <series>
+                        <title type="main" level="j">(Dramas policiales)</title>
+                    </series>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/6/67/El_Chacho_-_Eduardo_Gutierrez.pdf</ref>
                 </biblStruct>
                 <biblStruct corresp="W430" xml:id="E584">
                     <monogr>
@@ -8835,6 +8877,7 @@
                             <date when="1892">1892</date>
                         </imprint>
                     </monogr>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/d/d2/Dominga_Rivadavia_-_Eduardo_Gutierrez.pdf</ref>
                 </biblStruct>
                 <biblStruct corresp="W435" xml:id="E593">
                     <monogr>
@@ -9164,7 +9207,8 @@
                     <series>
                         <title type="main" level="s">Dramas policiales</title>
                     </series>
-                    <note resp="#Lichtblau">A dos columnas</note>
+                    <note resp="#Lichtblau">A dos columnas.</note>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/c/c3/El_Jorobado_-_Eduardo_Gutierrez.pdf</ref>
                 </biblStruct>
                 <biblStruct corresp="W444" xml:id="E616">
                     <monogr>
@@ -9763,6 +9807,7 @@
                     </monogr>
                     <ref>http://trapalanda.bn.gov.ar/jspui/handle/123456789/2345</ref>
                     <ref>https://catalog.hathitrust.org/Record/100165687</ref>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/7/73/Dos_partidos_en_lucha_-_Eduardo_L_Holmberg.pdf</ref>
                 </biblStruct>
                 <biblStruct corresp="W467" xml:id="E661">
                     <analytic>
@@ -10457,6 +10502,7 @@
                         <extent>193 p.</extent>
                     </monogr>
                     <ref>https://archive.org/details/arturosierra01llangoog</ref>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/a/a3/Arturo_Sierra_-_Julio_Llanos.pdf</ref>
                 </biblStruct>
                 <biblStruct corresp="W506" xml:id="E715">
                     <analytic>
@@ -10482,6 +10528,7 @@
                         </imprint>
                         <extent>194 p.</extent>
                     </monogr>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/8/84/Camila_OGorman_-_Julio_Llanos.pdf</ref>
                     <note resp="#Lichtblau">A dos columnas.</note>
                 </biblStruct>
                 <biblStruct corresp="W507" xml:id="E717">
@@ -10725,6 +10772,20 @@
                     </monogr>
                     <note>"Precedida de apuntes por Miguel Navarro Viola y de un estudio sobre la
                         autora por Rafael Pombo."</note>
+                </biblStruct>
+                <biblStruct corresp="W517" xml:id="E1749">
+                    <monogr>
+                        <author key="A203">Mansilla de García, Eduarda</author>
+                        <title level="m" type="main">El médico de San Luis</title>
+                        <title level="m" type="sub">Novela americana de Eduarda M. de García</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1803">1893</date>
+                        </imprint>
+                    </monogr>
+                    <note>"Precedida de apuntes por Miguel Navarro Viola y de un estudio sobre la
+                        autora por Rafael Pombo."</note>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/0/08/El_medico_de_San_Luis_-_Eduarda_Mansilla_de_Garcia.pdf</ref>
                 </biblStruct>
                 <biblStruct corresp="W518" xml:id="E735">
                     <analytic>
@@ -18819,6 +18880,7 @@
                         </imprint>
                         <extent>299 p.</extent>
                     </monogr>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/f/f0/Antigona_-_Roberto_J_Payro.pdf</ref>
                 </biblStruct>
                 <biblStruct corresp="W888" xml:id="E1239">
                     <monogr>
@@ -18961,6 +19023,7 @@
                         </imprint>
                         <biblScope unit="page">p. 3-32</biblScope>
                     </monogr>
+                    <ref>https://archive.org/details/lachiriguanaana00rossgoog</ref>
                 </biblStruct>
                 <biblStruct corresp="W898" xml:id="E1250">
                     <monogr>
@@ -19031,6 +19094,7 @@
                         </imprint>
                         <extent>272 p.</extent>
                     </monogr>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/2/24/Alma_de_ni%C3%B1a_-_Manuel_T_Podesta.pdf</ref>
                 </biblStruct>
                 <biblStruct corresp="W903" xml:id="E1256">
                     <analytic>
@@ -19200,6 +19264,7 @@
                         </imprint>
                         <extent>224 p.</extent>
                     </monogr>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/1/17/Amar_al_vuelo_-_E.E._Rivarola.pdf</ref>
                 </biblStruct>
                 <biblStruct corresp="W911" xml:id="E1268">
                     <monogr>
@@ -25521,6 +25586,1347 @@
                             <date>desconocido</date>
                         </imprint>
                         <extent>En 8°, de 211 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1182" xml:id="E1681">
+                    <monogr>
+                        <author key="A450">Alva, Manuel</author>
+                        <title type="main" level="m">La Trinitaria</title>
+                        <title type="sub" level="m">Novela escrita para la Flor del Bosque por M. M.
+                            A.</title>
+                        <imprint>
+                            <publisher>Imprenta de Antonio Matías Rebolledo</publisher>
+                            <pubPlace corresp="MX">Coatepec</pubPlace>
+                            <date when="1851">1851</date>
+                        </imprint>
+                        <extent>En 4°, de 41 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1183" xml:id="E1682">
+                    <monogr>
+                        <author key="A451">Álvarez Prieto, Fernando</author>
+                        <title type="main" level="m">La Virgen del Tepeyac</title>
+                        <title type="sub" level="m">Historias, leyendas y tradiciones referentes a
+                            la maravillosa aparición de la virgen de Nuestra Señora de Guadalupe de
+                            México</title>
+                        <imprint>
+                            <publisher>J. F. Parres y Compañía, ed.</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date from="1883" to="1884">1883-1884</date>
+                        </imprint>
+                        <extent>3 vol. en 4°</extent>
+                    </monogr>
+                    <ref>http://cd.dgb.uanl.mx/handle/201504211/11356</ref>
+                </biblStruct>
+                <biblStruct corresp="W1184" xml:id="E1683">
+                    <monogr>
+                        <author key="A452">Ancona, Eligio</author>
+                        <title type="main" level="m">La Cruz y la Espada</title>
+                        <title type="sub" level="m">Novela histórica por Eligio Anconca. Tomo
+                            Primero.</title>
+                        <imprint>
+                            <publisher>Librería de Rosa y Bouret</publisher>
+                            <pubPlace corresp="FR">París</pubPlace>
+                            <date when="1866">1866</date>
+                        </imprint>
+                        <extent>2 v. en 8°, de (4), XI, 296 y (4), 312 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1185" xml:id="E1684">
+                    <monogr>
+                        <author key="A452">Ancona, Eligio</author>
+                        <title type="main" level="m">El Filibustero</title>
+                        <title type="sub" level="m">Novela histórica por Eligio Anconca. Tomo
+                            primero.</title>
+                        <imprint>
+                            <publisher>Librería de Rosa y Bouret</publisher>
+                            <pubPlace corresp="FR">París</pubPlace>
+                            <date when="1866">1866</date>
+                        </imprint>
+                        <extent>2 v. en 8°, de (4), XV, 334 y (4), 356 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1186" xml:id="E1685">
+                    <monogr>
+                        <author key="A452">Ancona, Eligio</author>
+                        <title type="main" level="m">Los Mártires del Anáhuac</title>
+                        <title type="sub" level="m">Novela histórica por Eligio Anconca. Tomo
+                            primero.</title>
+                        <imprint>
+                            <publisher>Imprenta por José Batiza</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1870">1870</date>
+                        </imprint>
+                        <extent>2 v. en 8°, de 326 y 322 p. ilustrados.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1187" xml:id="E1686">
+                    <monogr>
+                        <author key="A452">Ancona, Eligio</author>
+                        <title type="main" level="m">El Conde de Peñalva</title>
+                        <title type="sub" level="m">Novela histórica por Eligio Anconca</title>
+                        <imprint>
+                            <publisher>Imprenta de Manuel Heredia Argüelles</publisher>
+                            <pubPlace corresp="MX">Mérida</pubPlace>
+                            <date when="1879">1879</date>
+                        </imprint>
+                        <extent>En 4°, de 439 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1188" xml:id="E1687">
+                    <monogr>
+                        <author key="A452">Ancona, Eligio</author>
+                        <title type="main" level="m">La Mestiza</title>
+                        <title type="sub" level="m">Novela original por Eligio Ancona</title>
+                        <imprint>
+                            <publisher>Imprenta Editorial</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1891">1891</date>
+                        </imprint>
+                        <extent>en 4°, de (2) 268 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1189" xml:id="E1688">
+                    <monogr>
+                        <author key="A452">Ancona, Eligio</author>
+                        <title type="main" level="m">Memorias de un Alférez</title>
+                        <title type="sub" level="m">Novela histórica</title>
+                        <title type="sub" level="m">Obra póstuma del Sr. Lic. Don Eligio
+                            Ancona</title>
+                        <title type="sub" level="m">Tomo I</title>
+                        <imprint>
+                            <publisher>Imprenta de "El Peninsular"</publisher>
+                            <pubPlace corresp="MX">Mérida de Yucatán</pubPlace>
+                            <date when="1904">1904</date>
+                        </imprint>
+                        <extent>2 v. en 8°, de VIII, 263 y 294 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1190" xml:id="E1689">
+                    <analytic>
+                        <author key="A452">Ancona, Eligio</author>
+                        <title level="a" type="main">Uno de tantos</title>
+                        <title level="a" type="sub">Novela por lagartija</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j">La Burla</title>
+                        <imprint>
+                            <pubPlace corresp="MX">Mérida</pubPlace>
+                            <date from="1861-01-20" to="1861-02-11">entre el 20 de enero de 1861 y
+                                el 11 de febrero de 1861</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1191" xml:id="E1690">
+                    <monogr>
+                        <author key="A0">anónimo</author>
+                        <title level="m" type="main">El Incógnito de la Cabaña</title>
+                        <title level="m" type="sub">Obra original mexicana</title>
+                        <imprint>
+                            <publisher>Imprenta de Luis Abadiano y Valdés</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1838">1838</date>
+                        </imprint>
+                        <extent>En 8°, de (4), 44 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1192" xml:id="E1691">
+                    <monogr>
+                        <author key="A0">anónimo</author>
+                        <title level="m" type="main">El Licenciado D. Tadeo Cristóbal</title>
+                        <title level="m" type="sub">Novela de bandidos</title>
+                        <imprint>
+                            <publisher>Imprenta de Vicente Torres, a cargo de Luis
+                                Vidaurri</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1850">1850</date>
+                        </imprint>
+                        <extent>En 8°, de 38 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1193" xml:id="E1692">
+                    <monogr>
+                        <author key="A0">anónimo</author>
+                        <title level="m" type="main">La Venganza de los Difuntos</title>
+                        <title level="m" type="sub">Novela fantástica</title>
+                        <imprint>
+                            <publisher>Imprenta de Vicente García Torres</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1850">1850</date>
+                        </imprint>
+                        <extent>En 8°, 96 p.</extent>
+                    </monogr>
+                    <note>(Esta edición es propiedad del Monitor Republicano)</note>
+                </biblStruct>
+                <biblStruct corresp="W1194" xml:id="E1693">
+                    <monogr>
+                        <author key="A0">anónimo</author>
+                        <title level="m" type="main">El Chacho y el Incógnito, o los dos
+                            Ladrones</title>
+                        <title level="m" type="sub">Por un mexicano</title>
+                        <imprint>
+                            <publisher>Imprenta de Manuel Castro</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1861">1861</date>
+                        </imprint>
+                        <extent>En 4°, de 39 p.</extent>
+                    </monogr>
+                    <note resp="#Iguiniz">Con la siguiente nota final: "Tal vez algún día
+                        continuaremos la presente novela dando la vida del Chacho hasta el momento
+                        en que murió en un patíbulo; por hoy nos concretamos con implorar la
+                        indulgencia de los lectores en atención de ser el primer ensayo literario
+                        del Autor."</note>
+                </biblStruct>
+                <biblStruct corresp="W1195" xml:id="E1694">
+                    <monogr>
+                        <author key="A0">anónimo</author>
+                        <title level="m" type="main">Las Botitas de María</title>
+                        <title level="m" type="sub">Novela original</title>
+                        <imprint>
+                            <publisher>Imprenta en la calle de Tiburcio nú. 18</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1873">1873</date>
+                        </imprint>
+                        <extent>en 4°, de 74 p.</extent>
+                    </monogr>
+                    <note>Escrita expresamente para "La Nación".</note>
+                </biblStruct>
+                <biblStruct corresp="W1196" xml:id="E1695">
+                    <monogr>
+                        <author key="A0">anónimo</author>
+                        <title level="m" type="main">Dn. Braulio</title>
+                        <title level="m" type="sub">Percances de un viaje de recreo</title>
+                        <title level="m" type="sub">Novela regional</title>
+                        <imprint>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1904">1904</date>
+                        </imprint>
+                        <extent>En 8°, de 175 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1197" xml:id="E1696">
+                    <monogr>
+                        <author key="A0">anónimo</author>
+                        <title level="m" type="sub">Historia Realista</title>
+                        <title level="m" type="main">Adelisa</title>
+                        <title level="m" type="sub">Páginas sentimentales</title>
+                        <imprint>
+                            <publisher>Tipografía de El Popular</publisher>
+                            <pubPlace corresp="MX" cert="low">México</pubPlace>
+                            <date>desconocido</date>
+                        </imprint>
+                        <extent>2 v. 1ª parte en 8°, de (2), 12 p.; 2ª parte en 4°, de 26
+                            p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1198" xml:id="E1697">
+                    <monogr>
+                        <author key="A0">anónimo</author>
+                        <title level="m" type="main">El Rey.... Y se inclinaban a su paso, diciendo
+                            ¡Viva el Rey!</title>
+                        <imprint>
+                            <publisher>Imprenta del Sagrado Corazón de Jesús</publisher>
+                            <pubPlace corresp="MX" cert="low">México</pubPlace>
+                            <date>desconocido</date>
+                        </imprint>
+                        <extent>En 8°, de (2), 28 p.</extent>
+                    </monogr>
+                    <note resp="#Iguiniz">Sin pie de imprenta, aunque se le que se halla de venta en
+                        la Imprenta del Sagrado Corazón de Jesús.</note>
+                </biblStruct>
+                <biblStruct corresp="W1199" xml:id="E1698">
+                    <monogr>
+                        <author key="A453">Arriaga, Alberto F.</author>
+                        <title type="main" level="m">La Herencia del Tío Anacleto</title>
+                        <title type="sub" level="m">Ensayo literario por Alberto F. Arriaga</title>
+                        <imprint>
+                            <publisher>Imprenta Particular Económica</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1882">1882</date>
+                        </imprint>
+                        <extent>En 8°, de 178 p.</extent>
+                    </monogr>
+                    <ref>https://catalog.hathitrust.org/Record/100201612</ref>
+                </biblStruct>
+                <biblStruct corresp="W1200" xml:id="E1699">
+                    <monogr>
+                        <author key="A453">Arriaga, Alberto F.</author>
+                        <title type="main" level="m">Una Cana al Aire</title>
+                        <title type="sub" level="m">Novela por Alberto F. Arriaga</title>
+                        <imprint>
+                            <publisher>Imprenta, Litografía y Encuadernación de Ireneo
+                                Paz</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1906">1906</date>
+                        </imprint>
+                        <extent>en 8°, de 121 p.</extent>
+                    </monogr>
+                    <note>Escrita expresamente para el folletín de La Patria.</note>
+                </biblStruct>
+                <biblStruct corresp="W1201" xml:id="E1700">
+                    <monogr>
+                        <author key="A453">Arriaga, Alberto F.</author>
+                        <title type="main" level="m">Lances de Amor</title>
+                        <title type="sub" level="m">Novela por Alberto F. Arriaga</title>
+                        <title type="sub" level="m">(Autor de Una Cana al Aire)</title>
+                        <imprint>
+                            <publisher>Imprenta, Litografía y Encuadernación de Ireneo
+                                Paz</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1897">1897</date>
+                        </imprint>
+                        <extent>en 8°, de 320 p.</extent>
+                    </monogr>
+                    <note>Escrita expresamente para el folletín de La Patria.</note>
+                    <ref>https://catalog.hathitrust.org/Record/100842040</ref>
+                </biblStruct>
+                <biblStruct corresp="W1202" xml:id="E1701">
+                    <monogr>
+                        <author key="A454">Arriaga, Alberto F.</author>
+                        <title type="main" level="m">Física experimental</title>
+                        <imprint>
+                            <publisher>Tipografía de J. M. Aguilar Ortiz</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1874">1874</date>
+                        </imprint>
+                    </monogr>
+                    <series>
+                        <title type="main" level="m">La Ciencia Recreativa</title>
+                        <title type="sub" level="m">Publicación dedicada a los niños y a las clases
+                            trabajadoras dirigida por el Ingeniero D. José Joaquín
+                            Arriaga...</title>
+                        <biblScope unit="volume">I y II</biblScope>
+                    </series>
+                </biblStruct>
+                <biblStruct corresp="W1203" xml:id="E1702">
+                    <monogr>
+                        <author key="A454">Arriaga, Alberto F.</author>
+                        <title type="main" level="m">Mineralogía</title>
+                        <imprint>
+                            <publisher>Tipografía de J. M. Aguilar Ortiz</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1874">1874</date>
+                        </imprint>
+                    </monogr>
+                    <series>
+                        <title type="main" level="m">La Ciencia Recreativa</title>
+                        <title type="sub" level="m">Publicación dedicada a los niños y a las clases
+                            trabajadoras dirigida por el Ingeniero D. José Joaquín
+                            Arriaga...</title>
+                        <biblScope unit="volume">III</biblScope>
+                    </series>
+                </biblStruct>
+                <biblStruct corresp="W1204" xml:id="E1703">
+                    <monogr>
+                        <author key="A454">Arriaga, Alberto F.</author>
+                        <title type="main" level="m">Zoología</title>
+                        <imprint>
+                            <publisher>Tipografía de J. M. Aguilar Ortiz</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1874">1874</date>
+                        </imprint>
+                    </monogr>
+                    <series>
+                        <title type="main" level="m">La Ciencia Recreativa</title>
+                        <title type="sub" level="m">Publicación dedicada a los niños y a las clases
+                            trabajadoras dirigida por el Ingeniero D. José Joaquín
+                            Arriaga...</title>
+                        <biblScope unit="volume">IV y V</biblScope>
+                    </series>
+                </biblStruct>
+                <biblStruct corresp="W1205" xml:id="E1704">
+                    <monogr>
+                        <author key="A454">Arriaga, Alberto F.</author>
+                        <title type="main" level="m">Botánica</title>
+                        <imprint>
+                            <publisher>Tipografía de J. M. Aguilar Ortiz</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1874">1874</date>
+                        </imprint>
+                    </monogr>
+                    <series>
+                        <title type="main" level="m">La Ciencia Recreativa</title>
+                        <title type="sub" level="m">Publicación dedicada a los niños y a las clases
+                            trabajadoras dirigida por el Ingeniero D. José Joaquín
+                            Arriaga...</title>
+                        <biblScope unit="volume">VI</biblScope>
+                    </series>
+                </biblStruct>
+                <biblStruct corresp="W1206" xml:id="E1705">
+                    <monogr>
+                        <author key="A454">Arriaga, Alberto F.</author>
+                        <title type="main" level="m">Meteorología</title>
+                        <imprint>
+                            <publisher>Tipografía de J. M. Aguilar Ortiz</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1874">1874</date>
+                        </imprint>
+                    </monogr>
+                    <series>
+                        <title type="main" level="m">La Ciencia Recreativa</title>
+                        <title type="sub" level="m">Publicación dedicada a los niños y a las clases
+                            trabajadoras dirigida por el Ingeniero D. José Joaquín
+                            Arriaga...</title>
+                        <biblScope unit="volume">VII</biblScope>
+                    </series>
+                </biblStruct>
+                <biblStruct corresp="W1207" xml:id="E1706">
+                    <monogr>
+                        <author key="A454">Arriaga, Alberto F.</author>
+                        <title type="main" level="m">Cosmografía</title>
+                        <imprint>
+                            <publisher>Tipografía de J. M. Aguilar Ortiz</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1874">1874</date>
+                        </imprint>
+                    </monogr>
+                    <series>
+                        <title type="main" level="m">La Ciencia Recreativa</title>
+                        <title type="sub" level="m">Publicación dedicada a los niños y a las clases
+                            trabajadoras dirigida por el Ingeniero D. José Joaquín
+                            Arriaga...</title>
+                        <biblScope unit="volume">VIII</biblScope>
+                    </series>
+                </biblStruct>
+                <biblStruct corresp="W1208" xml:id="E1707">
+                    <monogr>
+                        <author key="A454">Arriaga, Alberto F.</author>
+                        <title type="main" level="m">Física del globo</title>
+                        <imprint>
+                            <publisher>Tipografía de J. M. Aguilar Ortiz</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1874">1874</date>
+                        </imprint>
+                    </monogr>
+                    <series>
+                        <title type="main" level="m">La Ciencia Recreativa</title>
+                        <title type="sub" level="m">Publicación dedicada a los niños y a las clases
+                            trabajadoras dirigida por el Ingeniero D. José Joaquín
+                            Arriaga...</title>
+                        <biblScope unit="volume">IX</biblScope>
+                    </series>
+                </biblStruct>
+                <biblStruct corresp="W1209" xml:id="E1708">
+                    <monogr>
+                        <author key="A454">Arriaga, Alberto F.</author>
+                        <title type="main" level="m">Geografía descriptiva</title>
+                        <imprint>
+                            <publisher>Tipografía de J. M. Aguilar Ortiz</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1874">1874</date>
+                        </imprint>
+                    </monogr>
+                    <series>
+                        <title type="main" level="m">La Ciencia Recreativa</title>
+                        <title type="sub" level="m">Publicación dedicada a los niños y a las clases
+                            trabajadoras dirigida por el Ingeniero D. José Joaquín
+                            Arriaga...</title>
+                        <biblScope unit="volume">X</biblScope>
+                    </series>
+                </biblStruct>
+                <biblStruct corresp="W1210" xml:id="E1709">
+                    <monogr>
+                        <author key="A454">Arriaga, Alberto F.</author>
+                        <title type="main" level="m">Agricultura e industria</title>
+                        <imprint>
+                            <publisher>Tipografía de J. M. Aguilar Ortiz</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1874">1874</date>
+                        </imprint>
+                    </monogr>
+                    <series>
+                        <title type="main" level="m">La Ciencia Recreativa</title>
+                        <title type="sub" level="m">Publicación dedicada a los niños y a las clases
+                            trabajadoras dirigida por el Ingeniero D. José Joaquín
+                            Arriaga...</title>
+                        <biblScope unit="volume">XI y XII</biblScope>
+                    </series>
+                </biblStruct>
+                <biblStruct corresp="W1206" xml:id="E1710">
+                    <monogr>
+                        <author key="A454">Arriaga, Alberto F.</author>
+                        <title type="main" level="m">Las tempestades</title>
+                        <imprint>
+                            <publisher>Imprenta de Ancona y Peniche</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1871">1871</date>
+                        </imprint>
+                    </monogr>
+                    <series>
+                        <title type="main" level="m">Meteorología</title>
+                    </series>
+                    <series>
+                        <title type="main" level="m">La Ciencia Recreativa</title>
+                        <title type="sub" level="m">Publicación dedicada a los niños y a las clases
+                            trabajadoras dirigida por el Ingeniero D. José Joaquín
+                            Arriaga...</title>
+                        <biblScope unit="volume">VII</biblScope>
+                    </series>
+                    <ref>https://catalog.hathitrust.org/Record/010824521</ref>
+                </biblStruct>
+                <biblStruct corresp="W1211" xml:id="E1711">
+                    <monogr>
+                        <author key="A455">Avendaño de Pérez de León, Jacoba</author>
+                        <title level="m" type="main">Los Plagiarios</title>
+                        <title level="m" type="sub">Novela original escrita por la señora Jacoba
+                            Avendaño</title>
+                        <imprint>
+                            <publisher>Imprenta, Tipografía y Encuadernación de Ireneo
+                                Paz</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1906">1906</date>
+                        </imprint>
+                        <extent>En 8°, de 351 p.</extent>
+                    </monogr>
+                    <series>
+                        <title level="s">Biblioteca de "La Patria"</title>
+                    </series>
+                </biblStruct>
+                <biblStruct corresp="W1212" xml:id="E1712">
+                    <monogr>
+                        <author key="A455">Avendaño de Pérez de León, Jacoba</author>
+                        <title level="m" type="main">Los Hijos de la Cuna</title>
+                        <imprint>
+                            <publisher>Imprenta, Tipografía y Encuadernación de Ireneo
+                                Paz</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1906">1906</date>
+                        </imprint>
+                        <extent>En 8°, de 546 p.</extent>
+                    </monogr>
+                    <series>
+                        <title level="s">Biblioteca de "La Patria"</title>
+                    </series>
+                </biblStruct>
+                <biblStruct corresp="W1213" xml:id="E1713">
+                    <monogr>
+                        <author key="A456">Azuela, Mariano</author>
+                        <title level="m" type="main">María Luisa</title>
+                        <imprint>
+                            <publisher>Imprenta López Arce</publisher>
+                            <pubPlace corresp="MX">Lagos de Moreno</pubPlace>
+                            <date when="1907">1907</date>
+                        </imprint>
+                        <extent>En 8°, de 157 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1214" xml:id="E1714">
+                    <monogr>
+                        <author key="A456">Azuela, Mariano</author>
+                        <title level="m" type="main">Los Fracasados</title>
+                        <title level="m" type="sub">Por Mariano Azuela</title>
+                        <imprint>
+                            <publisher>Tipografía y Litografía Müller Hnos.</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1908">1908</date>
+                        </imprint>
+                        <extent>En 4°, de 252 p.</extent>
+                    </monogr>
+                    <note resp="#Iguiniz">Subscrita en Lagos, en julio de 1908.</note>
+                </biblStruct>
+                <biblStruct corresp="W1215" xml:id="E1715">
+                    <monogr>
+                        <author key="A456">Azuela, Mariano</author>
+                        <title level="m" type="main">Mala Yerba</title>
+                        <title level="m" type="sub">Por Mariano Azuela</title>
+                        <imprint>
+                            <publisher>Talleres de "La Gaceta de Guadalajara"</publisher>
+                            <pubPlace corresp="MX">Guadalajara</pubPlace>
+                            <date when="1909">1909</date>
+                        </imprint>
+                        <extent>En 4°, de 164 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1216" xml:id="E1716">
+                    <monogr>
+                        <author key="A456">Azuela, Mariano</author>
+                        <title type="main" level="m">La rueda del aire</title>
+                        <imprint>
+                            <publisher>desconocido</publisher>
+                            <pubPlace corresp="MX" cert="low">desconocido</pubPlace>
+                            <date when="1908" cert="low">1908</date>
+                        </imprint>
+                    </monogr>
+                    <note resp="#uh">No he encontrado informaciones sobre una edición. Es
+                        novela?</note>
+                </biblStruct>
+                <biblStruct corresp="W1217" xml:id="E1717">
+                    <monogr>
+                        <author key="A456">Azuela, Mariano</author>
+                        <title type="main" level="m">Los triunfadores</title>
+                        <imprint>
+                            <publisher>desconocido</publisher>
+                            <pubPlace corresp="MX" cert="low">desconocido</pubPlace>
+                            <date when="1909" cert="low">1909</date>
+                        </imprint>
+                    </monogr>
+                    <note resp="#uh">No he encontrado informaciones sobre una edición. Es
+                        novela?</note>
+                </biblStruct>
+                <biblStruct corresp="W1218" xml:id="E1718">
+                    <monogr>
+                        <author key="A456">Azuela, Mariano</author>
+                        <title type="main" level="m">La casa</title>
+                        <imprint>
+                            <publisher>desconocido</publisher>
+                            <pubPlace corresp="MX" cert="low">desconocido</pubPlace>
+                            <date when="1908" cert="low">1908</date>
+                        </imprint>
+                    </monogr>
+                    <note resp="#uh">No he encontrado informaciones sobre una edición. Es
+                        novela?</note>
+                </biblStruct>
+                <biblStruct corresp="W1219" xml:id="E1719">
+                    <monogr>
+                        <author key="A457">Saavedra, Osvaldo</author>
+                        <title level="m" type="main">Grandezas chicas</title>
+                        <title level="m" type="sub">Novela argentina</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1901">1901</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1220" xml:id="E1720">
+                    <monogr>
+                        <author key="A458">Saldías, Adolfo</author>
+                        <title level="m" type="main">Bianchetto – la patria del trabajo</title>
+                        <imprint>
+                            <publisher>Lajouane</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1896">1896</date>
+                        </imprint>
+                    </monogr>
+                    <ref>https://archive.org/details/bianchettolapat00saldgoog</ref>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/1/1c/Bianchetto_-_Adolfo_Saldias.pdf</ref>
+                </biblStruct>
+                <biblStruct corresp="W1221" xml:id="E1721">
+                    <monogr>
+                        <author key="A459">Sánchez, Fortunato A.</author>
+                        <title level="m" type="main">El ciego Rafael</title>
+                        <imprint>
+                            <publisher>Pablo E. Coni</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1870">1870</date>
+                        </imprint>
+                    </monogr>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/8/88/El_ciego_Rafael_-_F.A.S_-_Fortunato_A.Sanchez.pdf</ref>
+                </biblStruct>
+                <biblStruct corresp="W1222" xml:id="E1722">
+                    <monogr>
+                        <author key="A460">Sastre, Marcos</author>
+                        <title level="m" type="main">Cartas a Genuaria</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1840">1840</date>
+                        </imprint>
+                    </monogr>
+                    <note resp="#Lichtblau">La obra apareció anónimamente.</note>
+                </biblStruct>
+                <biblStruct corresp="W1223" xml:id="E1723">
+                    <monogr>
+                        <author key="A461">Sicardi, Francisco A.</author>
+                        <title level="m" type="main">Libro extraño</title>
+                        <imprint>
+                            <publisher>Biedma</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1894">1894</date>
+                        </imprint>
+                    </monogr>
+                    <series>
+                        <title level="s">Libro extraño</title>
+                        <biblScope unit="volume">Vol. I</biblScope>
+                    </series>
+                </biblStruct>
+                <biblStruct corresp="W1224" xml:id="E1724">
+                    <monogr>
+                        <author key="A461">Sicardi, Francisco A.</author>
+                        <title level="m" type="main">Genaro</title>
+                        <imprint>
+                            <publisher>Biedma</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1896">1896</date>
+                        </imprint>
+                    </monogr>
+                    <series>
+                        <title level="s">Libro extraño</title>
+                        <biblScope unit="volume">Vol. II</biblScope>
+                    </series>
+                </biblStruct>
+                <biblStruct corresp="W1225" xml:id="E1725">
+                    <monogr>
+                        <author key="A461">Sicardi, Francisco A.</author>
+                        <title level="m" type="main">Don Manuel de Paloche</title>
+                        <imprint>
+                            <publisher>Biedma</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1899">1899</date>
+                        </imprint>
+                    </monogr>
+                    <series>
+                        <title level="s">Libro extraño</title>
+                        <biblScope unit="volume">Vol. III</biblScope>
+                    </series>
+                </biblStruct>
+                <biblStruct corresp="W1226" xml:id="E1726">
+                    <monogr>
+                        <author key="A461">Sicardi, Francisco A.</author>
+                        <title level="m" type="main">Méndez</title>
+                        <imprint>
+                            <publisher>Biedma</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1900">1900</date>
+                        </imprint>
+                    </monogr>
+                    <series>
+                        <title level="s">Libro extraño</title>
+                        <biblScope unit="volume">Vol. IV</biblScope>
+                    </series>
+                </biblStruct>
+                <biblStruct corresp="W1227" xml:id="E1727">
+                    <monogr>
+                        <author key="A461">Sicardi, Francisco A.</author>
+                        <title level="m" type="main">Hacia la justicia</title>
+                        <imprint>
+                            <publisher>Biedma</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1902">1902</date>
+                        </imprint>
+                    </monogr>
+                    <series>
+                        <title level="s">Libro extraño</title>
+                        <biblScope unit="volume">Vol. V</biblScope>
+                    </series>
+                </biblStruct>
+                <biblStruct corresp="W1228" xml:id="E1728">
+                    <monogr>
+                        <author key="A462">Silva, Domingo G.</author>
+                        <title level="m" type="main">Adalberto o el mártir de una pasión</title>
+                        <title level="m" type="sub">Leyenda original</title>
+                        <imprint>
+                            <publisher>El Santafesino</publisher>
+                            <pubPlace corresp="AR">Santa Fe</pubPlace>
+                            <date when="1881">1881</date>
+                        </imprint>
+                        <biblScope unit="page">p. 37-66</biblScope>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1229" xml:id="E1729">
+                    <monogr>
+                        <author key="A462">Silva, Domingo G.</author>
+                        <title level="m" type="main">Lila, o la diosa de la isla</title>
+                        <title level="m" type="sub">Novela-leyenda</title>
+                        <imprint>
+                            <publisher>El Santafesino</publisher>
+                            <pubPlace corresp="AR">Santa Fe</pubPlace>
+                            <date when="1881">1881</date>
+                        </imprint>
+                        <biblScope unit="page">p. 1-36</biblScope>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1230" xml:id="E1730">
+                    <monogr>
+                        <author key="A463">Sioen, Aquiles</author>
+                        <title level="m" type="main">Buenos Aires en el año 2080</title>
+                        <title level="m" type="sub">Historia verosímil</title>
+                        <imprint>
+                            <publisher>Igon</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1879">1879</date>
+                        </imprint>
+                        <extent>112 p.</extent>
+                    </monogr>
+                    <ref>https://es.wikisource.org/wiki/Buenos_Aires_en_el_a%C3%B1o_2080</ref>
+                    <ref>https://commons.wikimedia.org/wiki/File:Buenos_Aires_en_el_a%C3%B1o_2080_-_A._Sioen.pdf</ref>
+                </biblStruct>
+                <biblStruct corresp="W1231" xml:id="E1731">
+                    <monogr>
+                        <author key="A464">Solar, Alberto del</author>
+                        <title level="m" type="main">Contra la marea</title>
+                        <imprint>
+                            <publisher>Félix Lajouane</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1894">1894</date>
+                        </imprint>
+                        <extent>381 p.</extent>
+                    </monogr>
+                    <ref>https://es.wikisource.org/wiki/Contra_la_marea</ref>
+                </biblStruct>
+                <biblStruct corresp="W1232" xml:id="E1732">
+                    <monogr>
+                        <author key="A464">Solar, Alberto del</author>
+                        <title level="m" type="main">El faro</title>
+                        <imprint>
+                            <publisher>Pedro Roselli</publisher>
+                            <pubPlace corresp="FR">Paris</pubPlace>
+                            <date when="1902">1902</date>
+                        </imprint>
+                    </monogr>
+                    <ref>https://catalog.hathitrust.org/Record/100518897</ref>
+                </biblStruct>
+                <biblStruct corresp="W1232" xml:id="E1733">
+                    <monogr>
+                        <author key="A464">Solar, Alberto del</author>
+                        <title level="m" type="main">El faro</title>
+                        <imprint>
+                            <publisher>Garnier</publisher>
+                            <pubPlace corresp="FR">Paris</pubPlace>
+                            <date when="1903">1903</date>
+                        </imprint>
+                        <extent>191 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1233" xml:id="E1734">
+                    <monogr>
+                        <author key="A464">Solar, Alberto del</author>
+                        <title level="m" type="main">Huincahual</title>
+                        <imprint>
+                            <publisher>Pedro Roselli</publisher>
+                            <pubPlace corresp="FR">Paris</pubPlace>
+                            <date when="1888">1888</date>
+                        </imprint>
+                        <extent>194 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1234" xml:id="E1735">
+                    <monogr>
+                        <author key="A464">Solar, Alberto del</author>
+                        <title level="m" type="main">Rastaquouère</title>
+                        <title level="m" type="sub">Ilusiones y desengaños de los sudamericanos en
+                            París</title>
+                        <imprint>
+                            <publisher>Félix Lajouane</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1890">1890</date>
+                        </imprint>
+                        <extent>332 p.</extent>
+                    </monogr>
+                    <ref>https://catalog.hathitrust.org/Record/006126470</ref>
+                </biblStruct>
+                <biblStruct corresp="W1235" xml:id="E1736">
+                    <monogr>
+                        <author key="A465">Solari, Benjamin T.</author>
+                        <title level="m" type="main">El país de los pinares</title>
+                        <title level="m" type="sub">Novela de las Misiones Jesuíticas</title>
+                        <imprint>
+                            <publisher>s.e.</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date>desconocido</date>
+                        </imprint>
+                        <extent>144 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1236" xml:id="E1737">
+                    <monogr>
+                        <author key="A466">Sorda, Lima</author>
+                        <title level="m" type="main">El sol que nace y el sol que se pone</title>
+                        <title level="m" type="sub">Novela histórica argentina</title>
+                        <imprint>
+                            <publisher>Jacobo Peuser</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <pubPlace corresp="AR">La Plata</pubPlace>
+                            <date when="1888">1888</date>
+                            <biblScope unit="volume">Tomo I</biblScope>
+                        </imprint>
+                        <extent>225 p.</extent>
+                    </monogr>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/d/d3/El_sol_que_nace_-_Lima_Sorda.pdf</ref>
+                </biblStruct>
+                <biblStruct corresp="W1237" xml:id="E1738">
+                    <analytic>
+                        <author key="A467">Stock, Guillelmo</author>
+                        <title level="a" type="main">El valor de la vida</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j">La Quincena</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date from="1895-06-01" to="1896-03-01">primero de junio de 1895 a
+                                primero de marzo de 1896</date>
+                        </imprint>
+                    </monogr>
+                    <note>En folletín.</note>
+                </biblStruct>
+                <biblStruct corresp="W1237" xml:id="E1739">
+                    <monogr>
+                        <author key="A467">Stock, Guillelmo</author>
+                        <title level="m" type="main">El valor de la vida</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1896">1896</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1238" xml:id="E1740">
+                    <monogr>
+                        <author key="A468">Sylva, Victorio</author>
+                        <title level="m" type="main">¡Así sea!</title>
+                        <edition>Segunda edición</edition>
+                        <imprint>
+                            <publisher>Arnoldo Moen</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1893">1893</date>
+                        </imprint>
+                    </monogr>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/0/02/Asi_sea_-_Victorio_Sylva.pdf</ref>
+                </biblStruct>
+                <biblStruct corresp="W1239" xml:id="E1741">
+                    <monogr>
+                        <author key="A468">Sylva, Victorio</author>
+                        <title level="m" type="main">Guacho</title>
+                        <title level="m" type="sub">Narrativa original</title>
+                        <imprint>
+                            <publisher>Librairie de Joseph Escary</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1895" cert="medium">1895</date>
+                        </imprint>
+                    </monogr>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/3/30/Guacho_-_Victorio_Sylva.pdf</ref>
+                </biblStruct>
+                <biblStruct corresp="W1240" xml:id="E1742">
+                    <monogr>
+                        <author key="A469">Pélissot, Felisberto</author>
+                        <title level="m" type="main">Camila O'Gorman</title>
+                        <title level="m" type="sub">Novela escrita por Felisberto Pelissot</title>
+                        <edition>Nueva edición aumentada con datos interesantes, notablemente modificada y precedida 
+                        del folleto histórico del Comercio del Plata</edition>
+                        <imprint>
+                            <publisher>Imprenta de Las Artes</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1857">1857</date>
+                        </imprint>
+                    </monogr>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/a/aa/Camila_O%27Gorman_-_Pelissot_Felisberto.pdf</ref>
+                </biblStruct>
+                <biblStruct corresp="W1241" xml:id="E1743">
+                    <monogr>
+                        <author key="A470">Mayer, E.</author>
+                        <title level="m" type="main">Campaña y Guarnición</title>
+                        <title level="m" type="sub">Escenas de la vida militar</title>
+                        <imprint>
+                            <publisher>Imprenta, Litografía y Encuadernación de Jacobo Peuser</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1892">1892</date>
+                        </imprint>
+                    </monogr>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/c/ca/Campa%C3%B1a_y_guarnicion_-_E._Mayer.pdf</ref>
+                </biblStruct>
+                <biblStruct corresp="W1242" xml:id="E1744">
+                    <monogr>
+                        <author key="A471">Mendía, José M.</author>
+                        <title level="m" type="main">Candidato para la horca</title>
+                        <title level="m" type="sub">(Apuntes de un reporter)</title>
+                        <title level="m" type="sub">por Jackal</title>
+                        <imprint>
+                            <publisher>Imprenta, Litografía y Encuadernación de Jacobo Peuser</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1899" cert="medium">1899</date>
+                        </imprint>
+                    </monogr>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/1/18/Candidato_a_la_horca_-_Jackal%2C_seud._de_Jose_M_Mendia.pdf</ref>
+                </biblStruct>
+                <biblStruct corresp="W1243" xml:id="E1745">
+                    <monogr>
+                        <author key="A0">anónimo</author>
+                        <title level="m" type="main">Carlos Soto</title>
+                        <title level="m" type="sub">Drama de su vida</title>
+                        <title level="m" type="sub">Tragedia de su muerte</title>
+                        <title level="m" type="sub">Por un reporter</title>
+                        <imprint>
+                            <publisher>Imprenta de La Patria Argentina</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1883">1883</date>
+                        </imprint>
+                    </monogr>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/f/f3/Carlos_Soto_-_An%C3%B3nimo.pdf</ref>
+                </biblStruct>
+                <biblStruct corresp="W1244" xml:id="E1746">
+                    <monogr>
+                        <author key="A472">Urien, Carlos María</author>
+                        <title level="m" type="sub">Ensayo</title>
+                        <title level="m" type="main">Clelia</title>
+                        <title level="m" type="sub">Por Karl Lehardy</title>
+                        <imprint>
+                            <publisher>Félix Lajouane</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1886">1886</date>
+                        </imprint>
+                    </monogr>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/3/3e/Clelia_-_Karlseu_Lehardy%2C_seud_de_Carlos_M._Urien.pdf</ref>
+                </biblStruct>
+                <biblStruct corresp="W1245" xml:id="E1747">
+                    <monogr>
+                        <author key="A473">Vaca-Guzmán, Santiago</author>
+                        <title level="m" type="main">Días amargos</title>
+                        <title level="m" type="sub">Páginas del libro de memorias de un pesimista</title>
+                        <edition>Segunda edición</edition>
+                        <imprint>
+                            <publisher>Jacobo Peuser</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1887">1887</date>
+                        </imprint>
+                    </monogr>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/f/f5/Dias_amargos_-_Santiago_Vaca_Guzman.pdf</ref>
+                </biblStruct>
+                <biblStruct corresp="W1247" xml:id="E1754">
+                    <analytic>
+                        <author key="A474">Tristani, M. R.</author>
+                        <title level="a" type="main">Amor infinito</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j">El Constitucional de los Andes</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Mendoza</pubPlace>
+                            <date when="1860">1860</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1248" xml:id="E1755">
+                    <analytic>
+                        <author key="A475">Ugarte, Manuel</author>
+                        <title level="a" type="main">La leyenda del gaucho</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Cuentos argentinos</title>
+                        <imprint>
+                            <publisher>Garnier</publisher>
+                            <pubPlace corresp="FR">Paris</pubPlace>
+                            <date when="1910">1910</date>
+                        </imprint>
+                        <biblScope unit="page">p. 3-64</biblScope>
+                    </monogr>
+                    <ref>https://catalog.hathitrust.org/Record/001056194</ref>
+                </biblStruct>
+                <biblStruct corresp="W1249" xml:id="E1756">
+                    <monogr>
+                        <author key="A475">Ugarte, Manuel</author>
+                        <title level="m" type="main">La novela de las horas y de los días</title>
+                        <title level="m" type="sub">Notas íntimas de un pintor</title>
+                        <imprint>
+                            <publisher>Garnier</publisher>
+                            <pubPlace corresp="FR">Paris</pubPlace>
+                            <date when="1903">1903</date>
+                        </imprint>
+                        <extent>232 p.</extent>
+                    </monogr>
+                    <ref>https://archive.org/details/lanoveladelashor00ugar</ref>
+                    <ref>https://archive.org/details/lanoveladelasho00barogoog</ref>
+                    <ref>https://archive.org/details/lanoveladelasho00ugargoog</ref>
+                </biblStruct>
+                <biblStruct corresp="W1250" xml:id="E1757">
+                    <analytic>
+                        <author key="A475">Ugarte, Manuel</author>
+                        <title level="a" type="main">La sombra de la madre</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Cuentos argentinos</title>
+                        <imprint>
+                            <publisher>Garnier</publisher>
+                            <pubPlace corresp="FR">Paris</pubPlace>
+                            <date when="1910">1910</date>
+                        </imprint>
+                        <biblScope unit="page">p. 131-206</biblScope>
+                    </monogr>
+                    <ref>https://catalog.hathitrust.org/Record/001056194</ref>
+                </biblStruct>
+                <biblStruct corresp="W1251" xml:id="E1758">
+                    <monogr>
+                        <author key="A0">Un antiguo comisario de policia</author>
+                        <title level="m" type="main">Un descuartizador</title>
+                        <title level="m" type="sub">Historia íntima de un asesino</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1894">1894</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1252" xml:id="E1759">
+                    <monogr>
+                        <author key="A476">Urraco, Antonio</author>
+                        <title level="m" type="main">Los abrojos de una flor, o el desengaño</title>
+                        <title level="m" type="sub">Novela histórica escrita en Rosario de Santa
+                            Fe</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1860">1860</date>
+                        </imprint>
+                        <extent>128 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1253" xml:id="E1760">
+                    <monogr>
+                        <author key="A477">Varela, Héctor Florencio</author>
+                        <title level="m" type="main">Elisa Lynch</title>
+                        <imprint>
+                            <publisher>Imprenta de La Tribuna</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1870">1870</date>
+                        </imprint>
+                        <extent>419 p.</extent>
+                    </monogr>
+                    <ref>https://catalog.hathitrust.org/Record/100411595</ref>
+                </biblStruct>
+                <biblStruct corresp="W1254" xml:id="E1761">
+                    <monogr>
+                        <author key="A478">Varela, Luis Vicente</author>
+                        <title level="m" type="main">La huella del crimen</title>
+                        <title level="m" type="sub">Novela jurídica original de Raúl Waléis</title>
+                        <imprint>
+                            <publisher>Imprenta de mayo</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1877">1877</date>
+                        </imprint>
+                        <extent>319 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1254" xml:id="E1762">
+                    <analytic>
+                        <author key="A478">Varela, Luis Vicente</author>
+                        <title level="a" type="main">La huella del crimen</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j" type="main">La Tribuna</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date from="1877-07-23" to="1877-08-30">23 de julio de 1877 a 30 de
+                                agosto de 1877</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1255" xml:id="E1763">
+                    <monogr>
+                        <author key="A478">Varela, Luis Vicente</author>
+                        <title level="m" type="main">Clemencia</title>
+                        <title level="m" type="sub">Novela Jurídica  Original</title>
+                        <title level="m" type="sub">Continuación de <seg rend="italic" part="N">La
+                            huella del crimen</seg>
+                        </title>
+                        <imprint>
+                            <publisher>Imprenta de mayo</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1877">1877</date>
+                        </imprint>
+                        <extent>350 p.</extent>
+                    </monogr>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/1/1c/Clemencia_-_Raul_Waleis.pdf</ref>
+                </biblStruct>
+                <biblStruct corresp="W1256" xml:id="E1764">
+                    <monogr>
+                        <author key="A478">Varela, Luis Vicente</author>
+                        <title level="m" type="main">El doctor Whüntz</title>
+                        <imprint>
+                            <publisher>Carlos Casavalle</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1880">1880</date>
+                        </imprint>
+                        <extent>70 p.</extent>
+                    </monogr>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/a/a0/El_Doctor_Whuntz_-_Raul_Waleis.pdf</ref>
+                </biblStruct>
+                <biblStruct corresp="W1257" xml:id="E1765">
+                    <monogr>
+                        <author key="A478">Varela, Luis Vicente</author>
+                        <title level="m" type="main">Entre dos almas</title>
+                        <title level="m" type="sub">Simple narración</title>
+                        <imprint>
+                            <publisher>J. Lajouane</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1908">1908</date>
+                        </imprint>
+                        <extent>351 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1258" xml:id="E1766">
+                    <analytic>
+                        <author key="A479">Vedia, Enrique de</author>
+                        <title level="a" type="main">Transfusión</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j" type="main">La Nación</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date from="1908-06" to="1908-07">junio-julio 1908</date>
+                        </imprint>
+                    </monogr>
+                    <note>En folletín.</note>
+                </biblStruct>
+                <biblStruct corresp="W1259" xml:id="E1767">
+                    <monogr>
+                        <author key="A480">Vedia, José Joaquín de</author>
+                        <title level="m" type="main">Aventuras de un centauro de la América
+                            meridional</title>
+                        <note>Edición de Santiago R. Pilotto</note>
+                        <imprint>
+                            <publisher>Imprenta del Orden</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1868">1868</date>
+                        </imprint>
+                    </monogr>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/b/b9/Aventuras_de_un_centauro_de_la_Am%C3%A9rica_Meridional_-_Jos%C3%A9_Joaquin_de_Vedia.pdf</ref>
+                </biblStruct>
+                <biblStruct corresp="W1260" xml:id="E1768">
+                    <monogr>
+                        <author key="A481">Vélez, José María</author>
+                        <title level="m" type="main">La casta</title>
+                        <imprint>
+                            <publisher>Alfonso Aveta</publisher>
+                            <pubPlace corresp="AR">Córdoba</pubPlace>
+                            <date when="1898">1898</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1261" xml:id="E1769">
+                    <monogr>
+                        <author key="A482">Vélez, Juan José</author>
+                        <title level="m" type="main">Manila</title>
+                        <imprint>
+                            <publisher>F. Domenici</publisher>
+                            <pubPlace corresp="AR">Córdoba</pubPlace>
+                            <date when="1908">1908</date>
+                        </imprint>
+                        <extent>308 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1262" xml:id="E1770">
+                    <monogr>
+                        <author key="A483">Vera y Gonzalez, Enrique</author>
+                        <title level="m" type="main">La estrella del sur</title>
+                        <imprint>
+                            <publisher>La Sin Bombo</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1907">1907</date>
+                        </imprint>
+                        <extent>191 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1263" xml:id="E1771">
+                    <monogr>
+                        <author key="A484">Villafañe, Segundo I.</author>
+                        <title level="m" type="main">Don Lino Velázquez</title>
+                        <imprint>
+                            <publisher>Félix Lajouane</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1886">1886</date>
+                        </imprint>
+                        <extent>192 p.</extent>
+                    </monogr>
+                    <ref>https://archive.org/details/donlinovelasque00villgoog</ref>
+                    <ref>http://catalog.hathitrust.org/Record/006633695</ref>
+                </biblStruct>
+                <biblStruct corresp="W1264" xml:id="E1772">
+                    <monogr>
+                        <author key="A484">Villafañe, Segundo I.</author>
+                        <title level="m" type="main">Emilio Love</title>
+                        <imprint>
+                            <publisher>Félix Lajouane</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1888">1888</date>
+                        </imprint>
+                        <extent>305 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1265" xml:id="E1773">
+                    <monogr>
+                        <author key="A484">Villafañe, Segundo I.</author>
+                        <title level="m" type="main">Horas de fiebre</title>
+                        <imprint>
+                            <publisher>Juan A. Alsina</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1891">1891</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1266" xml:id="E1774">
+                    <monogr>
+                        <author key="A484">Villafañe, Segundo I.</author>
+                        <title level="m" type="main">Tapias y Morales</title>
+                        <imprint>
+                            <publisher>Imprenta El Comercio</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1901">1901</date>
+                        </imprint>
+                    </monogr>
+                    <ref>http://catalog.hathitrust.org/Record/100519873</ref>
+                </biblStruct>
+                <biblStruct corresp="W1267" xml:id="E1775">
+                    <monogr>
+                        <author key="A485">Zeballos, Estanislao Severo</author>
+                        <title level="m" type="main">Painé y la dinastía de los Zorros</title>
+                        <imprint>
+                            <publisher>J. Peuser</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <pubPlace corresp="AR">La Plata</pubPlace>
+                            <date when="1884">1884</date>
+                        </imprint>
+                        <extent>334 p.</extent>
+                    </monogr>
+                    <note resp="#uh">Según Lichtblau, publicada anteriormente en el folletín de
+                        La Prensa en 1886, pero inconclusa.</note>
+                </biblStruct>
+                <biblStruct corresp="W1267" xml:id="E1776">
+                    <monogr>
+                        <author key="A485">Zeballos, Estanislao Severo</author>
+                        <title level="m" type="main">Painé y la dinastía de los Zorros</title>
+                        <imprint>
+                            <publisher>J. Peuser</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <pubPlace corresp="AR">La Plata</pubPlace>
+                            <date when="1889">1889</date>
+                        </imprint>
+                        <extent>334 p.</extent>
+                    </monogr>
+                    <note resp="#Lichtblau">Reimpresión.</note>
+                    <ref>https://catalog.hathitrust.org/Record/009102890</ref>
+                </biblStruct>
+                <biblStruct corresp="W1268" xml:id="E1777">
+                    <monogr>
+                        <author key="A485">Zeballos, Estanislao Severo</author>
+                        <title level="m" type="main">Relmu, reina de los Pinares</title>
+                        <title level="m" type="sub">Recuerdos argentinos</title>
+                        <imprint>
+                            <publisher>J. Peuser</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <pubPlace corresp="AR">La Plata</pubPlace>
+                            <date when="1887">1887</date>
+                        </imprint>
+                        <extent>279 p.</extent>
+                    </monogr>
+                    <ref>http://catalog.hathitrust.org/Record/101384550</ref>
+                </biblStruct>
+                <biblStruct corresp="W1268" xml:id="E1778">
+                    <monogr>
+                        <author key="A485">Zeballos, Estanislao Severo</author>
+                        <title level="m" type="main">Relmu, reina de los Pinares</title>
+                        <title level="m" type="sub">Recuerdos argentinos</title>
+                        <imprint>
+                            <publisher>J. Peuser</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <pubPlace corresp="AR">La Plata</pubPlace>
+                            <date when="1893">1893</date>
+                        </imprint>
+                        <extent>279 p.</extent>
+                    </monogr>
+                    <note resp="#Lichtblau">Reimpresión.</note>
+                    <ref>https://catalog.hathitrust.org/Record/101384551</ref>
+                </biblStruct>
+                <biblStruct corresp="W1269" xml:id="E1779">
+                    <monogr>
+                        <author key="A485">Zeballos, Estanislao Severo</author>
+                        <title level="m" type="main">Zálide o el amor de los salvajes</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1893" cert="low">1893</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1270" xml:id="E1780">
+                    <monogr>
+                        <author key="A486">Zuñiga, Antonio R.</author>
+                        <title level="m" type="main">Ebano vivo</title>
+                        <imprint>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1910">1910</date>
+                        </imprint>
                     </monogr>
                 </biblStruct>
             </listBibl>

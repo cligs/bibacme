@@ -39,6 +39,8 @@
                     - Cinalli, Domingo R.
                      - Dos a cero o alambrado olímpico, sin fecha
                      - Una tragedia del gran mundo: criminal o heroe?, sin fecha
+                    - Veras, Luis. Una víctima del poder del plata, o el capricho de un millonario.
+                    (Novela histórica de la época.) 1862 angekündigt. erschienen?
                 -->
                 <!-- Torres-Rioseco:
                     - Zárate y Ruiz, Francisco
@@ -83,6 +85,14 @@
                     - Cortada, Juan: El libro de la familia. Colección de leyendas, 1883 (cuentos?)
                     - Couto Castillo, José Bernardo: Asfódelos, 1897 (cuentos?)
                     - Cházari, Fenochio,  La princesa ¡Ah! Cuento.  México, D.F.: Andrés Botas e Hijo, 32 p.
+                    - Amador, Severo. 1879 en Villa de Cos, Zacatecas, México - 1931 en México.
+                        Bocetos Provincianos, Castillo y Compañía, México 1907
+                        https://archive.org/details/bocetosprovinci00amadgoog
+                        http://cd.dgb.uanl.mx/handle/201504211/9718
+                        (kürzere Texte, einer ca. 30 S.);
+                        Confesión; la sorpresa. Palabras postumas. Aguascalientes, Imp. de J.T. Pedroza, 1905.
+                        https://catalog.hathitrust.org/Record/100508106
+                        (cuentos ?)
                 -->
                 <!-- DLC: Fernando Urzáis, "novelas en La Aurora", ps. Úrsulo Fernández
                 - Noda, Tranquilino Sandalio de
@@ -517,7 +527,7 @@
                 </person>
                 <person xml:id="A26">
                     <persName>
-                        <surname>Barbara</surname>
+                        <surname>Barbará</surname>
                         <forename>Federico</forename>
                         <addName type="pseudonym">Un viejo soldado</addName>
                     </persName>
@@ -7155,6 +7165,505 @@
                         La Condesa de Calderón y Atenea (v. Torres Rioseco)
                         Los Galeanas (v. Torres Rioseco)
                     -->
+                </person>
+                <person xml:id="A450">
+                    <persName>
+                        <surname>Alva</surname>
+                        <forename>Manuel M.</forename>
+                    </persName>
+                    <birth>
+                        <date when="1833">1833</date>
+                        <placeName>Jalapa</placeName>
+                        <placeName>Veracruz</placeName>
+                        <placeName>México</placeName>
+                    </birth>
+                    <death>
+                        <date when="1878-07-09" cert="low">9 de julio de 1878</date><!-- 1879? (elem.mx) -->
+                        <placeName>Veracruz</placeName>
+                        <placeName>México</placeName>
+                    </death>
+                    <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                </person>
+                <person xml:id="A451">
+                    <persName>
+                        <surname>Álvarez Prieto</surname>
+                        <forename>Fernando</forename>
+                    </persName>
+                    <idno type="viaf">4141498</idno>
+                    <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                </person>
+                <person xml:id="A452">
+                    <persName>
+                        <surname>Ancona</surname>
+                        <forename>Eligio</forename>
+                    </persName>
+                    <birth>
+                        <date when="1836-12-01">1° de diciembre de 1836</date>
+                        <placeName>Mérida</placeName>
+                        <placeName>Yucatán</placeName>
+                        <placeName>México</placeName>
+                    </birth>
+                    <death>
+                        <date when="1893-04-03">3 de abril de 1893</date>
+                        <placeName>México</placeName>
+                    </death>
+                    <idno type="viaf">4050957</idno>
+                    <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                </person>
+                <person xml:id="A453">
+                    <persName>
+                        <surname>Arriaga</surname>
+                        <forename>Alberto F.</forename>
+                    </persName>
+                    <birth>
+                        <date when="1858">1858</date>
+                        <placeName>Guadalajara</placeName>
+                        <placeName>México</placeName>
+                    </birth>
+                    <death>desconocido</death>
+                    <idno type="viaf">13540530</idno>
+                    <idno type="viaf">53940368</idno>
+                    <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                </person>
+                <person xml:id="A454">
+                    <persName>
+                        <surname>Arriaga</surname>
+                        <forename>José Joaquín</forename>
+                    </persName>
+                    <birth>
+                        <date when="1831-06-11">11 de junio de 1831</date>
+                        <placeName>Puebla</placeName>
+                        <placeName>México</placeName>
+                    </birth>
+                    <death>
+                        <date when="1896-09-10">10 de septiembre de 1896</date>
+                        <placeName>México</placeName>
+                    </death>
+                    <idno type="viaf">61058951</idno>
+                    <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                    <!-- La Ciencia Recreativa: Reihe, 12 Bände, jeweils 7-8 "novelitas" -->
+                </person>
+                <person xml:id="A455">
+                    <persName>
+                        <surname>Avendaño de Pérez de León</surname>
+                        <forename>Jacoba</forename>
+                    </persName>
+                    <sex>femenino</sex>
+                    <nationality>mexicana/o</nationality>
+                </person>
+                <person xml:id="A456">
+                    <persName>
+                        <surname>Azuela</surname>
+                        <forename>Mariano</forename>
+                    </persName>
+                    <birth>
+                        <date when="1873-01-01">primero de enero de 1873</date>
+                        <placeName>Lagos</placeName>
+                        <placeName>Jalisco</placeName>
+                        <placeName>México</placeName>
+                    </birth>
+                    <death>
+                        <placeName>México</placeName>
+                        <date when="1952-03-01">primero de marzo de 1952</date>
+                    </death>
+                    <idno type="viaf">22181589</idno>
+                    <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                </person>
+                <person xml:id="A457">
+                    <persName>
+                        <surname>Saavedra</surname>
+                        <forename>Osvaldo</forename>
+                        <addName type="pseudonym">Barón de Arriba</addName>
+                    </persName>
+                    <birth>
+                        <date when="1850">1850</date>
+                    </birth>
+                    <death>
+                        <date when="1926">1926</date>
+                    </death>
+                    <idno type="viaf">279145857106422922297</idno>
+                    <sex>masculino</sex>
+                    <nationality cert="low">argentina/o</nationality>
+                </person>
+                <person xml:id="A458">
+                    <persName>
+                        <surname>Saldías</surname>
+                        <forename>Adolfo</forename>
+                    </persName>
+                    <birth>
+                        <date when="1849-09-06">6 de septiembre de 1849</date>
+                        <placeName>Buenos Aires</placeName>
+                        <placeName>Argentina</placeName>
+                    </birth>
+                    <death>
+                        <date when="1914-10-17">17 de octubre de 1914</date>
+                        <placeName>La Paz</placeName>
+                        <placeName>Bolivia</placeName>
+                    </death>
+                    <idno type="viaf">71403577</idno>
+                    <sex>masculino</sex>
+                    <nationality>argentina/o</nationality>
+                </person>
+                <person xml:id="A459">
+                    <persName>
+                        <surname>Sánchez</surname>
+                        <forename>Fortunato A.</forename>
+                    </persName>
+                    <birth>
+                        <date when="1845">1845</date>
+                    </birth>
+                    <death>
+                        <date when="1884">1884</date>
+                    </death>
+                    <sex>masculino</sex>
+                    <nationality cert="low">argentina/o</nationality>
+                </person>
+                <person xml:id="A460">
+                    <persName>
+                        <surname>Sastre</surname>
+                        <forename>Marcos</forename>
+                    </persName>
+                    <birth>
+                        <date when="1808-10-02">2 de octubre de 1808</date>
+                        <placeName>Montevideo</placeName>
+                        <placeName>Uruguay</placeName>
+                    </birth>
+                    <death>
+                        <date when="1887-02-15">15 de febrero de 1887</date>
+                        <placeName>Buenos Aires</placeName>
+                        <placeName>Argentina</placeName>
+                    </death>
+                    <idno type="viaf">38305850</idno>
+                    <sex>masculino</sex>
+                    <nationality cert="low">uruguaya/o</nationality>
+                </person>
+                <person xml:id="A461">
+                    <persName>
+                        <surname>Sicardi</surname>
+                        <forename>Francisco A.</forename>
+                    </persName>
+                    <birth>
+                        <date when="1856-04-21">21 de abril de 1865</date>
+                        <placeName>Buenos Aires</placeName>
+                        <placeName>Argentina</placeName>
+                    </birth>
+                    <death>
+                        <date when="1927-07-08">8 de julio de 1927</date>
+                        <placeName>Buenos Aires</placeName>
+                        <placeName>Argentina</placeName>
+                    </death>
+                    <idno type="viaf">74763927</idno>
+                    <sex>masculino</sex>
+                    <nationality>argentina/o</nationality>
+                </person>
+                <person xml:id="A462">
+                    <persName>
+                        <surname>Silva</surname>
+                        <forename>Domingo G.</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality cert="low">argentina/o</nationality>
+                </person>
+                <person xml:id="A463">
+                    <persName>
+                        <surname>Sioen</surname>
+                        <forename>Aquiles</forename>
+                    </persName>
+                    <birth>
+                        <date when="1834">1834</date>
+                        <placeName>Francia</placeName>
+                    </birth>
+                    <death>
+                        <date when="1904">1904</date>
+                        <placeName>Argentina</placeName>
+                    </death>
+                    <idno type="viaf">251145857107522922545</idno>
+                    <sex>masculino</sex>
+                    <nationality>francés/a</nationality>
+                </person>
+                <person xml:id="A464">
+                    <persName>
+                        <surname>Solar</surname>
+                        <forename>Alberto del</forename>
+                    </persName>
+                    <birth>
+                        <date when="1860">1860</date>
+                    </birth>
+                    <death>
+                        <date when="1921">1921</date>
+                    </death>
+                    <idno type="viaf">76034367</idno>
+                    <sex>masculino</sex>
+                    <nationality>chilena/o</nationality>
+                    <note resp="#Iguiniz">Escritor chileno, radicado desde 1890 en Buenos Aires y
+                        estrechamente vinculado con la escena argentina.</note>
+                </person>
+                <person xml:id="A465">
+                    <persName>
+                        <surname>Solari</surname>
+                        <forename>Benjamin T.</forename>
+                    </persName>
+                    <birth>
+                        <date when="1867">1867</date>
+                    </birth>
+                    <idno type="viaf">190343278</idno>
+                    <sex>masculino</sex>
+                    <nationality cert="low">argentina/o</nationality>
+                </person>
+                <person xml:id="A466">
+                    <persName>
+                        <surname>Sorda</surname>
+                        <forename>Lima</forename>
+                    </persName>
+                    <sex>femenino</sex>
+                    <nationality cert="low">argentina/o</nationality>
+                </person>
+                <person xml:id="A467">
+                    <persName>
+                        <surname>Stock</surname>
+                        <forename>Guillelmo</forename>
+                    </persName>
+                    <birth>
+                        <date when="1896">1896</date>
+                    </birth>
+                    <death>
+                        <date when="1944">1944</date>
+                    </death>
+                    <idno type="viaf">36431430</idno>
+                    <sex>masculino</sex>
+                    <nationality cert="low">argentina/o</nationality>
+                </person>
+                <person xml:id="A468">
+                    <persName>
+                        <surname>Sylva</surname>
+                        <forename>Victorio</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality cert="low">argentina/o</nationality>
+                </person>
+                <person xml:id="A469">
+                    <persName>
+                        <surname>Pélissot</surname>
+                        <forename>Felisberto</forename>
+                    </persName>
+                    <idno type="viaf">311451792</idno>
+                    <sex>masculino</sex>
+                    <nationality>francés/a</nationality>
+                </person>
+                <person xml:id="A470">
+                    <persName>
+                        <surname>Mayer</surname>
+                        <forename>E.</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality cert="low">argentina/o</nationality>
+                </person>
+                <person xml:id="A471">
+                    <persName>
+                        <surname>Mendía</surname>
+                        <forename>José M.</forename>
+                        <addName type="pseudonym">Jackal</addName>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality cert="low">argentina/o</nationality>
+                </person>
+                <person xml:id="A472">
+                    <persName>
+                        <surname>Urien</surname>
+                        <forename>Carlos María</forename>
+                        <addName type="pseudonym">Karl Lehardy</addName>
+                    </persName>
+                    <birth>
+                        <date when="1855">1855</date>
+                    </birth>
+                    <death>
+                        <date when="1921">1921</date>
+                    </death>
+                    <idno type="viaf">279190567</idno>
+                    <sex>masculino</sex>
+                    <nationality>argentina/o</nationality>
+                </person>
+                <person xml:id="A473">
+                    <persName>
+                        <surname>Vaca-Guzmán</surname>
+                        <forename>Santiago</forename>
+                    </persName>
+                    <birth>
+                        <date when="1847">1847</date>
+                    </birth>
+                    <death>
+                        <date when="1896">1896</date>
+                    </death>
+                    <idno type="viaf">40698501</idno>
+                    <sex>masculino</sex>
+                    <nationality>boliviana/o</nationality>
+                </person>
+                <person xml:id="A474">
+                    <persName>
+                        <surname>Tristani</surname>
+                        <forename>M. R.</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality>español/a</nationality>
+                    <note source="#Lichtblau">Periodista español radicado en Mendoza.</note>
+                </person>
+                <person xml:id="A475">
+                    <persName>
+                        <surname>Ugarte</surname>
+                        <forename>Manuel</forename>
+                    </persName>
+                    <birth>
+                        <date when="1878-02-27">27 de febrero de 1878</date>
+                        <placeName>Buenos Aires</placeName>
+                        <placeName>Argentina</placeName>
+                    </birth>
+                    <death>
+                        <date when="1951-12-03">3 de diciembre de 1951</date>
+                        <placeName>Niza</placeName>
+                        <placeName>Francia</placeName>
+                    </death>
+                    <idno type="viaf">100187324</idno>
+                    <sex>masculino</sex>
+                    <nationality>argentina/o</nationality>
+                </person>
+                <person xml:id="A476">
+                    <persName>
+                        <surname>Urraco</surname>
+                        <forename>Antonio</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality cert="low">argentina/o</nationality>
+                </person>
+                <person xml:id="A477">
+                    <persName>
+                        <surname>Varela</surname>
+                        <forename>Héctor Florencio</forename>
+                        <addName type="pseudonym">Orión</addName>
+                    </persName>
+                    <birth>
+                        <date when="1832">1832</date>
+                    </birth>
+                    <death>
+                        <date when="1891">1891</date>
+                    </death>
+                    <idno type="viaf">24814266</idno>
+                    <sex>masculino</sex>
+                    <nationality cert="low">argentina/o</nationality>
+                </person>
+                <person xml:id="A478">
+                    <persName>
+                        <surname>Varela</surname>
+                        <forename>Luis Vicente</forename>
+                        <addName type="pseudonym">Raúl Waléis</addName>
+                    </persName>
+                    <birth>
+                        <date when="1845-06-27">27 de junio de 1845</date>
+                        <placeName>Montevideo</placeName>
+                        <placeName>Uruguay</placeName>
+                    </birth>
+                    <death>
+                        <date when="1911-12-12">12 de diciembre de 1911</date>
+                        <placeName>Buenos Aires</placeName>
+                        <placeName>Argentina</placeName>
+                    </death>
+                    <idno type="viaf">29906420</idno>
+                    <sex>masculino</sex>
+                    <nationality>argentina/o</nationality>
+                </person>
+                <person xml:id="A479">
+                    <persName>
+                        <surname>Vedia</surname>
+                        <forename>Enrique de</forename>
+                    </persName>
+                    <birth>
+                        <date when="1867">1867</date>
+                    </birth>
+                    <death>
+                        <date when="1917">1917</date>
+                    </death>
+                    <sex>masculino</sex>
+                    <nationality cert="low">argentina/o</nationality>
+                </person>
+                <person xml:id="A480">
+                    <persName>
+                        <surname>Vedia</surname>
+                        <forename>José Joaquín de</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality cert="low">argentina/o</nationality>
+                </person>
+                <person xml:id="A481">
+                    <persName>
+                        <surname>Vélez</surname>
+                        <forename>José María</forename>
+                    </persName>
+                    <birth>
+                        <date when="1875">1875</date>
+                    </birth>
+                    <death>
+                        <date when="1944">1944</date>
+                    </death>
+                    <sex>masculino</sex>
+                    <nationality cert="low">argentina/o</nationality>
+                </person>
+                <person xml:id="A482">
+                    <persName>
+                        <surname>Vélez</surname>
+                        <forename>Juan José</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality cert="low">argentina/o</nationality>
+                </person>
+                <person xml:id="A483">
+                    <persName>
+                        <surname>Vera y Gonzalez</surname>
+                        <forename>Enrique</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality cert="low">argentina/o</nationality>
+                </person>
+                <person xml:id="A484">
+                    <persName>
+                        <surname>Villafañe</surname>
+                        <forename>Segundo I.</forename>
+                    </persName>
+                    <birth>
+                        <date when="1859">1859</date>
+                    </birth>
+                    <death>
+                        <date when="1937">1937</date>
+                    </death>
+                    <sex>masculino</sex>
+                    <nationality cert="low">argentina/o</nationality>
+                </person>
+                <person xml:id="A485">
+                    <persName>
+                        <surname>Zeballos</surname>
+                        <forename>Estanislao Severo</forename>
+                    </persName>
+                    <birth>
+                        <date when="1854">1854</date>
+                    </birth>
+                    <death>
+                        <date when="1923">1923</date>
+                    </death>
+                    <idno type="viaf">2484966</idno>
+                    <sex>masculino</sex>
+                    <nationality>argentina/o</nationality>
+                </person>
+                <person xml:id="A486">
+                    <persName>
+                        <surname>Zuñiga</surname>
+                        <forename>Antonio R.</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality cert="low">argentina/o</nationality>
                 </person>
             </listPerson>
         </body>

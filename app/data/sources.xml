@@ -145,6 +145,10 @@
                 <bibl xml:id="Trelles">Trelles, Carlos. <seg rend="italic">Bibliografía Cubana del
                         Siglo XIX.</seg> Matanzas: Imprenta de Quirós y Estrada, 1911-1915. 8
                     tomos.</bibl>
+                <bibl xml:id="WikimediaCommons">
+                    <seg rend="italic">Wikimedia Commons.</seg> S.l., s.f. <ref
+                        target="https://commons.wikimedia.org">https://commons.wikimedia.org</ref>
+                </bibl>
                 <bibl xml:id="Wikisource">
                     <seg rend="italic">Wikisource.</seg> S.l., s.f. <ref
                         target="https://es.wikisource.org">https://es.wikisource.org</ref>
