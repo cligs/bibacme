@@ -187,6 +187,7 @@
                         </imprint>
                         <extent>171 p.</extent>
                     </monogr>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/7/7d/Estela_-_Alberto_Jorge.pdf</ref>
                 </biblStruct>
                 <biblStruct corresp="W8" xml:id="E11">
                     <monogr>
@@ -228,6 +229,7 @@
                     </monogr>
                     <ref>https://archive.org/details/enelmaraustrl00fragoog</ref>
                     <ref>https://catalog.hathitrust.org/Record/00653238</ref>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/0/09/En_el_Mar_Austral_-_Fray_Mocho_-_Jose_Seferino_Alvarez.pdf</ref>
                 </biblStruct>
                 <biblStruct corresp="W10" xml:id="E13">
                     <monogr>
@@ -850,6 +852,7 @@
                             <pubPlace corresp="CU">La Habana</pubPlace>
                             <date when="1841">1841</date>
                         </imprint>
+                        <extent n="327">En 12°, 327, (1) ps.</extent>
                     </monogr>
                     <ref>https://books.google.de/books?id=PpECAAAAYAAJ</ref>
                 </biblStruct>
@@ -874,6 +877,7 @@
                             <pubPlace corresp="CU">La Habana</pubPlace>
                             <date when="1838">1838</date>
                         </imprint>
+                        <extent>1 tomo en 8°</extent>
                     </monogr>
                 </biblStruct>
                 <biblStruct corresp="W43" xml:id="E56">
@@ -885,6 +889,21 @@
                             <publisher>Imprenta de Boloña</publisher>
                             <pubPlace corresp="CU">La Habana</pubPlace>
                             <date when="1839">1839</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W43" xml:id="E1799">
+                    <analytic>
+                        <author key="A22">Villaverde, Cirilo</author>
+                        <title type="main" level="a">El espetón de oro</title>
+                        <title type="sub" level="a">Novela cubana</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">Colección de novelas publicadas por la Revista
+                            de la Habana</title>
+                        <imprint>
+                            <pubPlace corresp="CU">La Habana</pubPlace>
+                            <date when="1855">1855</date>
                         </imprint>
                     </monogr>
                 </biblStruct>
@@ -910,6 +929,7 @@
                             <pubPlace corresp="CU">La Habana</pubPlace>
                             <date when="1839">1839</date>
                         </imprint>
+                        <extent n="93">En 8°, de 93 ps.</extent>
                     </monogr>
                 </biblStruct>
                 <biblStruct corresp="W45" xml:id="E59">
@@ -923,6 +943,7 @@
                             <date when="1839">1839</date>
                             <biblScope unit="volume">tomo I</biblScope>
                         </imprint>
+                        <extent n="246">En 8° M, 246 ps. y 1 lámina</extent>
                     </monogr>
                 </biblStruct>
                 <biblStruct corresp="W45" xml:id="E60">
@@ -935,6 +956,7 @@
                             <pubPlace corresp="US">Nueva York</pubPlace>
                             <date when="1882">1882</date>
                         </imprint>
+                        <extent n="590">En 8° M, XI-590 ps.</extent>
                     </monogr>
                 </biblStruct>
                 <biblStruct corresp="W45" xml:id="E61">
@@ -947,6 +969,7 @@
                             <pubPlace corresp="CU">La Habana</pubPlace>
                             <date when="1903">1903</date>
                         </imprint>
+                        <extent n="658">En 8° M, XI-658 ps.</extent>
                     </monogr>
                 </biblStruct>
                 <biblStruct corresp="W45" xml:id="E62">
@@ -959,6 +982,7 @@
                             <pubPlace corresp="CU">La Habana</pubPlace>
                             <date when="1908">1908</date>
                         </imprint>
+                        <extent n="410">En 4°, VI-410 ps.</extent>
                     </monogr>
                 </biblStruct>
                 <biblStruct corresp="W46" xml:id="E63">
@@ -971,7 +995,11 @@
                             <pubPlace corresp="US">New York</pubPlace>
                             <date when="1889">1889</date>
                         </imprint>
+                        <extent n="142">En 8° M, 142 ps.</extent>
                     </monogr>
+                    <note resp="#Trelles">En el prólogo se declara que el primer capítulo de esta
+                        novela apareció en las columnas del Faro Industrial en Febrero de 1841.
+                            <bibl>Bibliografía, Tomo III, p. 16.</bibl></note>
                 </biblStruct>
                 <biblStruct corresp="W47" xml:id="E64">
                     <monogr>
@@ -1091,6 +1119,19 @@
                         <imprint>
                             <pubPlace corresp="CU">La Habana</pubPlace>
                             <date when="1837">1837</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1282" xml:id="E1800">
+                    <analytic>
+                        <author key="A22">Villaverde, Cirilo</author>
+                        <title type="main" level="a">La Cruz Negra</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j" type="main">La Cartera Cubana</title>
+                        <imprint>
+                            <pubPlace corresp="CU">La Habana</pubPlace>
+                            <date when="1838">1838</date>
                         </imprint>
                     </monogr>
                 </biblStruct>
@@ -2136,6 +2177,7 @@
                         </imprint>
                         <extent>290 p.</extent>
                     </monogr>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/1/1b/En_la_sangre_-_Eugenio_Cambaceres.pdf</ref>
                 </biblStruct>
                 <biblStruct corresp="W117" xml:id="E148">
                     <monogr>
@@ -2210,6 +2252,7 @@
                             <biblScope unit="page">p. 25-105</biblScope>
                         </imprint>
                     </monogr>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/3/3f/Esther._Novela_original_-_Miguel_Can%C3%A9_%28p%29.pdf</ref>
                 </biblStruct>
                 <biblStruct corresp="W122" xml:id="E154">
                     <analytic>
@@ -2238,6 +2281,7 @@
                             <biblScope unit="page">p. 106-219</biblScope>
                         </imprint>
                     </monogr>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/3/3f/Esther._Novela_original_-_Miguel_Can%C3%A9_%28p%29.pdf</ref>
                 </biblStruct>
                 <biblStruct corresp="W123" xml:id="E156">
                     <analytic>
@@ -2744,6 +2788,9 @@
                         </imprint>
                         <extent>2 volúmenes en 4°, 392 p. cada uno</extent>
                     </monogr>
+                    <ref>https://archive.org/details/ironiasdelavidan01tova</ref>
+                    <ref>https://archive.org/details/ironiasdelavidan02tova</ref>
+                    <ref>http://bdh.bne.es/bnesearch/detalle/bdh0000045225</ref>
                 </biblStruct>
                 <biblStruct corresp="W150" xml:id="E192">
                     <monogr>
@@ -3051,7 +3098,7 @@
                 <biblStruct corresp="W168" xml:id="E212">
                     <monogr>
                         <author key="A85">Segale, Atenógenes</author>
-                        <title level="a" type="main">Aura de abril</title>
+                        <title level="a" type="main">Auras de abril</title>
                         <title level="a" type="sub">Novela</title>
                         <imprint>
                             <publisher>Imprenta de El Tiempo</publisher>
@@ -3219,6 +3266,29 @@
                         <extent>239 p.</extent>
                     </monogr>
                     <ref>https://catalog.hathitrust.org/Record/101404076</ref>
+                </biblStruct>
+                <biblStruct corresp="W1278" xml:id="E1793">
+                    <analytic>
+                        <author key="A85">Segale, Atenógenes</author>
+                        <title level="a" type="main">La estatua de Psiquis</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">El Tiempo</title>
+                        <imprint>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1892">1892</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1279" xml:id="E1794">
+                    <monogr>
+                        <author key="A85">Segale, Atenógenes</author>
+                        <title level="a" type="main">Flor de durazno</title>
+                        <imprint>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1893">1893</date>
+                        </imprint>
+                    </monogr>
                 </biblStruct>
                 <biblStruct corresp="W174" xml:id="E221">
                     <monogr>
@@ -4328,6 +4398,7 @@
                         <extent>En 4°, 438 p.</extent>
                     </monogr>
                     <ref>https://catalog.hathitrust.org/Record/011536606</ref>
+                    <ref>https://archive.org/details/unarosayunharap00ramgoog</ref>
                 </biblStruct>
                 <biblStruct corresp="W234" xml:id="E305">
                     <monogr>
@@ -5875,6 +5946,21 @@
                         siguientes novelas originales: Noche al raso, Una flor en su sepulcro,
                         Aminta Rovero, Buondelmonti y La quinta modelo.)</note>
                 </biblStruct>
+                <biblStruct corresp="W284" xml:id="E1813">
+                    <analytic>
+                        <author key="A110">Roa Bárcena, José María</author>
+                        <title level="a" type="main">La quinta modelo</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j" type="main">La Cruz</title>
+                        <title level="j" type="sub">Periódico Esclusivamente Religioso</title>
+                        <imprint>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1857">1857</date>
+                        </imprint>
+                    </monogr>
+                    <note>por entregas</note>
+                </biblStruct>
                 <biblStruct corresp="W284" xml:id="E386">
                     <analytic>
                         <author key="A110">Roa Bárcena, José María</author>
@@ -6643,6 +6729,7 @@
                     </monogr>
                     <ref>https://archive.org/details/enelsigloxxx00ezcu</ref>
                     <ref>https://catalog.hathitrust.org/Record/010937389</ref>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/3/35/En_el_siglo_XXX_-_Eduardo_de_Ezcurra.pdf</ref>
                 </biblStruct>
                 <biblStruct corresp="W320" xml:id="E436">
                     <analytic>
@@ -7070,6 +7157,8 @@
                         <title level="s">Biblioteca Popular de la Habana</title>
                     </series>
                     <ref>https://archive.org/details/lgrimasdeunngel00rosagoog</ref>
+                    <ref>https://catalog.hathitrust.org/Record/011607609</ref>
+                    <!-- unvollständig -->
                 </biblStruct>
                 <biblStruct corresp="W343" xml:id="E470">
                     <monogr>
@@ -7189,11 +7278,15 @@
                     </monogr>
                 </biblStruct>
                 <biblStruct corresp="W352" xml:id="E479">
-                    <monogr>
+                    <analytic>
                         <author key="A148">Palma y Romay, Ramón de</author>
-                        <title level="m" type="main">Matanzas y Yumurí</title>
+                        <title level="a" type="main">Matanzas y Yumurí</title>
+                        <title level="a" type="sub">(Novelita.)</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j" type="main">El Aguinaldo Habanero</title>
                         <imprint>
-                            <pubPlace corresp="CU" cert="low">Cuba</pubPlace>
+                            <pubPlace corresp="CU">Habana</pubPlace>
                             <date when="1837">1837</date>
                         </imprint>
                     </monogr>
@@ -7215,6 +7308,7 @@
                     <analytic>
                         <author key="A148">Palma y Romay, Ramón de</author>
                         <title level="a" type="main">El cólera en La Habana</title>
+                        <title level="a" type="sub">Novela</title>
                     </analytic>
                     <monogr>
                         <title level="j" type="main">El Álbum</title>
@@ -7229,6 +7323,7 @@
                     <analytic>
                         <author key="A148">Palma y Romay, Ramón de</author>
                         <title level="a" type="main">Una Pascua en San Marcos</title>
+                        <title level="a" type="sub">Novela</title>
                     </analytic>
                     <monogr>
                         <title level="j" type="main">El Álbum</title>
@@ -7776,14 +7871,13 @@
                         <title level="m" type="sub">Colección de novelas, fantasías, leyendas y
                             descripciones americanas</title>
                         <imprint>
-                            <publisher>Imprenta de mayo</publisher>
+                            <publisher>Imprenta de Mayo</publisher>
                             <pubPlace corresp="AR">Buenos Aires</pubPlace>
                             <date when="1876">1876</date>
                         </imprint>
                         <biblScope unit="volume">I</biblScope>
                         <biblScope unit="page">349-450</biblScope>
                     </monogr>
-                    <ref>www.cervantesvirtual.com/obra-visor/panoramas-de-la-vida-coleccion-de-novelas-fantasias-leyendas-y-descripciones-americanas-tomo-i--0/html/</ref>
                 </biblStruct>
                 <biblStruct corresp="W391" xml:id="E523">
                     <analytic>
@@ -8332,6 +8426,7 @@
                         <extent>405 p.</extent>
                     </monogr>
                     <ref>http://trapalanda.bn.gov.ar/jspui/handle/123456789/5918</ref>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/8/83/Fruto_vedado_-_Paul_Groussac.pdf</ref>
                 </biblStruct>
                 <biblStruct corresp="W411" xml:id="E556">
                     <analytic>
@@ -8992,6 +9087,22 @@
                         <extent>156 p.</extent>
                     </monogr>
                 </biblStruct>
+                <biblStruct corresp="W437" xml:id="E1790">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">La Mazorca</title>
+                        <title type="sub" level="m">(Continuación de Juan Manuel de Rosas)</title>
+                        <imprint>
+                            <publisher>Casa editora Luis Maucci y Compañía</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1895">1895</date>
+                        </imprint>
+                    </monogr>
+                    <series>
+                        <title>Dramas del terror</title>
+                    </series>
+                    <ref>http://resolver.iai.spk-berlin.de/IAI0000577400000000</ref>
+                </biblStruct>
                 <biblStruct corresp="W438" xml:id="E601">
                     <monogr>
                         <author key="A169">Gutiérrez, Eduardo</author>
@@ -9005,6 +9116,20 @@
                     </monogr>
                     <note>"Continuación de <seg rend="italic">Don Juan Manuel de Rosas</seg> y de
                             <seg rend="italic">La Mazorca</seg>." </note>
+                </biblStruct>
+                <biblStruct corresp="W438" xml:id="E1791">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">Una tragedia de doce años</title>
+                        <title type="sub" level="m">(Continuación de J. M. de Rozas y de la
+                            Mazorca)</title>
+                        <imprint>
+                            <publisher>Casa editora Luis Maucci y Compañía</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1895">1895</date>
+                        </imprint>
+                    </monogr>
+                    <ref>http://resolver.iai.spk-berlin.de/IAI0000577200000000</ref>
                 </biblStruct>
                 <biblStruct corresp="W439" xml:id="E602">
                     <monogr>
@@ -9286,6 +9411,17 @@
                             <date when="1888">1888</date>
                         </imprint>
                         <extent>367 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W445" xml:id="E1789">
+                    <monogr>
+                        <author key="A169">Gutiérrez, Eduardo</author>
+                        <title type="main" level="m">Juan Cuello</title>
+                        <imprint>
+                            <publisher>Casa editora Luis Maucci y Compañía</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1895">1895</date>
+                        </imprint>
                     </monogr>
                 </biblStruct>
                 <biblStruct corresp="W446" xml:id="E622">
@@ -10082,10 +10218,12 @@
                         <author key="A186">Larrosa de Ansaldo, Lola</author>
                         <title level="m" type="main">¡Hija mía!</title>
                         <imprint>
+                            <publisher>Imprenta de Juan A. Alsina</publisher>
                             <pubPlace corresp="AR">Buenos Aires</pubPlace>
                             <date when="1888">1888</date>
                         </imprint>
                     </monogr>
+                    <ref><ref>https://upload.wikimedia.org/wikipedia/commons/b/b1/Hija_mia_-_Lola_Larrosa_de_Ansaldo.pdf</ref></ref>
                 </biblStruct>
                 <biblStruct corresp="W484" xml:id="E683">
                     <analytic>
@@ -10197,6 +10335,19 @@
                         </imprint>
                         <extent>104 p.</extent>
                     </monogr>
+                </biblStruct>
+                <biblStruct corresp="W490" xml:id="E1785">
+                    <monogr>
+                        <author key="A190">Loiseau, Ernesto O.</author>
+                        <title level="m" type="main">Hojas de mirto</title>
+                        <title level="m" type="sub">Novela original de Ernesto O. Loiseau</title>
+                        <imprint>
+                            <publisher>Imprenta de La "Reforma"</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1859">1859</date>
+                        </imprint>
+                    </monogr>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/f/f0/Hojas_de_mirto_-_Ernesto_de_Loiseau.pdf</ref>
                 </biblStruct>
                 <biblStruct corresp="W491" xml:id="E692">
                     <monogr>
@@ -10600,6 +10751,7 @@
                             <date when="1862">1862</date>
                         </imprint>
                     </monogr>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/9/95/Emilia_%C3%B3_Los_efectos_del_coquetismo_-_R._El_Mugiense.pdf</ref>
                 </biblStruct>
                 <biblStruct corresp="W512" xml:id="E722">
                     <monogr>
@@ -11335,6 +11487,7 @@
                         </imprint>
                         <extent>317 p.</extent>
                     </monogr>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/9/9c/Grandezas_-_Pedro_G._Morante.pdf</ref>
                 </biblStruct>
                 <biblStruct corresp="W541" xml:id="E777">
                     <monogr>
@@ -11423,6 +11576,7 @@
                         </imprint>
                         <extent>432 p.</extent>
                     </monogr>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/a/a5/Entre_dos_luces_-_Carlos_Maria_Ocanto.pdf</ref>
                 </biblStruct>
                 <biblStruct corresp="W548" xml:id="E784">
                     <monogr>
@@ -11615,6 +11769,7 @@
                             <date when="1898">1898</date>
                         </imprint>
                     </monogr>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/8/84/El_sargento_Claro-Mapuche_-_Manuel_Jose_Olascoaga.pdf</ref>
                 </biblStruct>
                 <biblStruct corresp="W561" xml:id="E800">
                     <monogr>
@@ -13620,6 +13775,7 @@
                         <extent>En 4°, 180 p.</extent>
                     </monogr>
                     <ref>https://catalog.hathitrust.org/Record/011536596</ref>
+                    <ref>https://archive.org/details/cecilialamatanc00marigoog</ref>
                 </biblStruct>
                 <biblStruct corresp="W666" xml:id="E928">
                     <analytic>
@@ -13648,7 +13804,6 @@
                         </imprint>
                     </monogr>
                     <ref>https://catalog.hathitrust.org/Record/011536597</ref>
-                    <ref>https://archive.org/details/cecilialamatanc00marigoog</ref>
                 </biblStruct>
                 <biblStruct corresp="W668" xml:id="E930">
                     <analytic>
@@ -13740,6 +13895,7 @@
                             <date when="1896">1896</date>
                         </imprint>
                     </monogr>
+                    <ref>http://bdh.bne.es/bnesearch/detalle/2679632</ref>
                 </biblStruct>
                 <biblStruct corresp="W674" xml:id="E937">
                     <monogr>
@@ -14149,6 +14305,19 @@
                             <date when="1860">1860</date>
                         </imprint>
                         <extent>En 8° M, 198 p.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W704" xml:id="E1797">
+                    <analytic>
+                        <author key="A274">Morillas, Pedro José</author>
+                        <title type="main" level="a">El ranchador</title>
+                        <title type="sub" level="a">Leyenda</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <pubPlace corresp="CU" cert="low">La Habana</pubPlace>
+                            <date when="1856">1838</date>
+                        </imprint>
                     </monogr>
                 </biblStruct>
                 <biblStruct corresp="W704" xml:id="E968">
@@ -15356,6 +15525,16 @@
                         <extent>En 8°, de 314 p.</extent>
                     </monogr>
                     <ref>https://catalog.hathitrust.org/Record/100514713</ref>
+                </biblStruct>
+                <biblStruct corresp="W1277" xml:id="E1792">
+                    <monogr>
+                        <author key="A296">Mateos, Juan Antonio</author>
+                        <title level="m" type="main">El Conde de Monteleone</title>
+                        <imprint>
+                            <pubPlace corresp="MX" cert="low">México</pubPlace>
+                            <date when="1901">1901</date>
+                        </imprint>
+                    </monogr>
                 </biblStruct>
                 <biblStruct corresp="W754" xml:id="E1041">
                     <monogr>
@@ -18990,6 +19169,7 @@
                     <monogr>
                         <author key="A347">Pearson, Isaac R.</author>
                         <title level="m" type="main">El triunfo del siglo</title>
+                        <title level="m" type="sub">Novela argentina</title>
                         <imprint>
                             <publisher>Imprenta de La Revista</publisher>
                             <pubPlace corresp="AR">Buenos Aires</pubPlace>
@@ -18998,6 +19178,7 @@
                         <extent>356 p.</extent>
                     </monogr>
                     <note resp="#Lichtblau">Prólogo del Dr. Francisco Durá.</note>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/5/50/El_triunfo_del_siglo_-_Isaac_R_Pearson.pdf</ref>
                 </biblStruct>
                 <biblStruct corresp="W896" xml:id="E1248">
                     <monogr>
@@ -19420,6 +19601,7 @@
                             <publisher>Imprenta La Propaganda</publisher>
                             <pubPlace corresp="CU">Matanzas</pubPlace>
                             <date when="1894">1894</date>
+                            <!-- 1893? https://books.google.de/books?id=4CSIAwAAQBAJ&pg=PA124 -->
                         </imprint>
                     </monogr>
                 </biblStruct>
@@ -19433,8 +19615,22 @@
                             <publisher>Tipografía Los Niños Huérfanos</publisher>
                             <pubPlace corresp="CU">La Habana</pubPlace>
                             <date when="1901">1901</date>
+                            <!-- 1894? https://books.google.de/books?id=4CSIAwAAQBAJ&pg=PA124 -->
                         </imprint>
                     </monogr>
+                </biblStruct>
+                <biblStruct corresp="W923" xml:id="E1786">
+                    <monogr>
+                        <author key="A367">Iglesia, Álvaro de la</author>
+                        <title level="m" type="main">Adoración</title>
+                        <edition>Tercera edición</edition>
+                        <imprint>
+                            <publisher>Ed. F. Granada</publisher>
+                            <pubPlace corresp="ES">Barcelona</pubPlace>
+                            <date when="1906">1906</date>
+                        </imprint>
+                    </monogr>
+                    <ref>https://catalog.hathitrust.org/Record/009049820</ref>
                 </biblStruct>
                 <biblStruct corresp="W924" xml:id="E1282">
                     <monogr>
@@ -19448,6 +19644,8 @@
                             <date when="1895">1895</date>
                         </imprint>
                     </monogr>
+                    <ref>https://archive.org/details/manuelgarcaelre00iglegoog</ref>
+                    <ref>https://catalog.hathitrust.org/Record/100370073</ref>
                 </biblStruct>
                 <biblStruct corresp="W924" xml:id="E1283">
                     <monogr>
@@ -19475,6 +19673,8 @@
                             <date when="1897">1897</date>
                         </imprint>
                     </monogr>
+                    <ref>https://catalog.hathitrust.org/Record/100345975</ref>
+                    <ref>https://archive.org/details/laalondraelsecr00iglegoog</ref>
                 </biblStruct>
                 <biblStruct corresp="W926" xml:id="E1285">
                     <monogr>
@@ -19514,6 +19714,7 @@
                             <date when="1901">1901</date>
                         </imprint>
                     </monogr>
+                    <ref>https://archive.org/details/unabodasangrien00iglegoog</ref>
                 </biblStruct>
                 <biblStruct corresp="W928" xml:id="E1288">
                     <monogr>
@@ -19526,6 +19727,8 @@
                             <date when="1900">1900</date>
                         </imprint>
                     </monogr>
+                    <ref>https://archive.org/details/denavidadhistor00iglegoog</ref>
+                    <ref>https://catalog.hathitrust.org/Record/100345976</ref>
                 </biblStruct>
                 <biblStruct corresp="W929" xml:id="E1289">
                     <monogr>
@@ -19546,15 +19749,18 @@
                         <title level="m" type="main">Pepe Antonio</title>
                         <edition>Pról. de Manuel Sanguily</edition>
                         <imprint>
-                            <publisher>Biblioteca Selecta de El Mundo</publisher>
+                            <publisher>Imprenta Teniente Ruy</publisher>
                             <pubPlace corresp="CU">La Habana</pubPlace>
                             <date when="1903">1903</date>
                         </imprint>
                         <extent>2 tomos</extent>
                     </monogr>
                     <series>
+                        <title level="s" type="main">Biblioteca Selecta de El Mundo</title>
                         <title level="s" type="main">Episodios cubanos</title>
                     </series>
+                    <ref>https://archive.org/details/pepeantonio00iglegoog</ref>
+                    <ref>https://catalog.hathitrust.org/Record/100345405</ref>
                 </biblStruct>
                 <biblStruct corresp="W931" xml:id="E1291">
                     <monogr>
@@ -19571,6 +19777,26 @@
                         <biblScope unit="volume">II</biblScope>
                     </series>
                 </biblStruct>
+                <biblStruct corresp="W1275" xml:id="E1787">
+                    <monogr>
+                        <author key="A367">Iglesia, Álvaro de la</author>
+                        <title level="m" type="main">Una vocación</title>
+                        <imprint>
+                            <pubPlace corresp="CU" cert="low">desconocido</pubPlace>
+                            <date>desconocido</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1276" xml:id="E1788">
+                    <monogr>
+                        <author key="A367">Iglesia, Álvaro de la</author>
+                        <title level="m" type="main">Una estrella</title>
+                        <imprint>
+                            <pubPlace corresp="CU" cert="low">desconocido</pubPlace>
+                            <date>desconocido</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
                 <biblStruct corresp="W932" xml:id="E1292">
                     <monogr>
                         <author key="A368">Heredia, Nicolás</author>
@@ -19583,6 +19809,7 @@
                             <date when="1882">1882</date>
                         </imprint>
                     </monogr>
+                    <ref>https://archive.org/details/unhombredenegoc00heregoog</ref>
                 </biblStruct>
                 <biblStruct corresp="W932" xml:id="E1293">
                     <monogr>
@@ -20248,6 +20475,19 @@
                     </monogr>
                     <ref>http://www.cervantesvirtual.com/obra/la-flor-del-angel-tradicion-vascongada--0/</ref>
                 </biblStruct>
+                <biblStruct corresp="W1290" xml:id="E1808">
+                    <analytic>
+                        <author key="A370">Gómez de Avellaneda, Gertrudis</author>
+                        <title level="a" type="main">Clementina y Constanza</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j" type="main">Álbum de las Damas</title>
+                        <imprint>
+                            <pubPlace corresp="ES">Madrid</pubPlace>
+                            <date when="1840">1840</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
                 <biblStruct corresp="W948" xml:id="E1333">
                     <monogr>
                         <author key="A371">González, Manuel Dionisio</author>
@@ -20298,6 +20538,7 @@
                             <pubPlace corresp="CU">La Habana</pubPlace>
                             <date when="1839">1839</date>
                         </imprint>
+                        <extent n="100">En 12°, 100 ps.</extent>
                     </monogr>
                 </biblStruct>
                 <biblStruct corresp="W949" xml:id="E1337">
@@ -20319,6 +20560,70 @@
                         <imprint>
                             <pubPlace corresp="CU" cert="low">La Habana</pubPlace>
                             <date when="1838">1838</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1280" xml:id="E1796">
+                    <analytic>
+                        <author key="A372">González del Valle, José Zacarías</author>
+                        <title level="a" type="main">Carmen y Adela</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j" type="main">El Plantel</title>
+                        <imprint>
+                            <pubPlace corresp="CU" cert="low">La Habana</pubPlace>
+                            <date when="1838">1838</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1283" xml:id="E1801">
+                    <analytic>
+                        <author key="A372">González del Valle, José Zacarías</author>
+                        <title level="a" type="main">Amor y dinero</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j" type="main">El Álbum</title>
+                        <imprint>
+                            <pubPlace corresp="CU">La Habana</pubPlace>
+                            <date when="1838">1838</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1284" xml:id="E1802">
+                    <analytic>
+                        <author key="A372">González del Valle, José Zacarías</author>
+                        <title level="a" type="main">Amar y morir</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j" type="main">El Álbum</title>
+                        <imprint>
+                            <pubPlace corresp="CU">La Habana</pubPlace>
+                            <date when="1838">1838</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1285" xml:id="E1803">
+                    <analytic>
+                        <author key="A372">González del Valle, José Zacarías</author>
+                        <title level="a" type="main">Amor y desamor</title>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <pubPlace corresp="CU">La Habana</pubPlace>
+                            <date when="1839">1839</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1286" xml:id="E1804">
+                    <analytic>
+                        <author key="A372">González del Valle, José Zacarías</author>
+                        <title level="a" type="main">Las dos viudas</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j" type="main">La Cartera Cubana</title>
+                        <imprint>
+                            <pubPlace corresp="CU">La Habana</pubPlace>
+                            <date when="1839">1839</date>
                         </imprint>
                     </monogr>
                 </biblStruct>
@@ -21190,12 +21495,13 @@
                     <analytic>
                         <author key="A376">Echeverría, José Antonio</author>
                         <title level="a" type="main">Antonelli</title>
+                        <title level="a" type="sub">Novela romántica</title>
                     </analytic>
                     <monogr>
                         <title level="j" type="main">La Cartera Cubana</title>
                         <imprint>
                             <pubPlace corresp="CU">La Habana</pubPlace>
-                            <date when="1839">1839</date>
+                            <date when="1840">1840</date>
                         </imprint>
                     </monogr>
                 </biblStruct>
@@ -21701,6 +22007,19 @@
                         </imprint>
                     </monogr>
                 </biblStruct>
+                <biblStruct corresp="W1009" xml:id="E1795">
+                    <analytic>
+                        <author key="A387">Bachiller y Morales, Antonio</author>
+                        <title level="m" type="main">Matilde o los bandidos de Cuba</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j" type="main">Tipos y costumbres</title>
+                        <imprint>
+                            <pubPlace corresp="CU" cert="low">La Habana</pubPlace>
+                            <date when="1881">1881</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
                 <biblStruct corresp="W1010" xml:id="E1431">
                     <analytic>
                         <author key="A387">Bachiller y Morales, Antonio</author>
@@ -21816,6 +22135,7 @@
                         <extent>en 8° M, 237 p. y 4 láminas</extent>
                     </monogr>
                     <note resp="#Trelles">Es una edición muy corregida.</note>
+                    <ref>https://books.google.de/books?id=pjE_AAAAYAAJ</ref>
                 </biblStruct>
                 <biblStruct corresp="W1014" xml:id="E1439">
                     <monogr>
@@ -21850,12 +22170,14 @@
                     <series>
                         <title level="s">Biblioteca de la Ilustración Cubana</title>
                     </series>
+                    <ref>https://archive.org/details/unaferiadelacar00betagoog</ref>
                 </biblStruct>
                 <biblStruct corresp="W1015" xml:id="E1441">
                     <analytic>
                         <author key="A391">Ángulo y Guridi, Alejandro</author>
                         <author key="A390">Blanchié, Francisco J.</author>
                         <title level="a" type="main">La venganza de un hijo</title>
+                        <title level="a" type="sub">Novela cubana</title>
                     </analytic>
                     <monogr>
                         <title level="j" type="main">El Eco de Villa Clara</title>
@@ -22047,6 +22369,18 @@
                             <date when="1843">1843</date>
                         </imprint>
                     </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1291" xml:id="E1809">
+                    <monogr>
+                        <author key="A391">Ángulo y Guridi, Alejandro</author>
+                        <title level="m" type="main">La joven Carmela</title>
+                        <imprint>
+                            <pubPlace corresp="CU">Habana</pubPlace>
+                            <date when="1841">1841</date>
+                        </imprint>
+                    </monogr>
+                    <note resp="#Trelles">Solicitó permiso para publicarla en Noviembre de
+                        1841.</note>
                 </biblStruct>
                 <biblStruct corresp="W1029" xml:id="E1455">
                     <monogr>
@@ -25622,7 +25956,7 @@
                     <monogr>
                         <author key="A452">Ancona, Eligio</author>
                         <title type="main" level="m">La Cruz y la Espada</title>
-                        <title type="sub" level="m">Novela histórica por Eligio Anconca. Tomo
+                        <title type="sub" level="m">Novela histórica por Eligio Ancona. Tomo
                             Primero.</title>
                         <imprint>
                             <publisher>Librería de Rosa y Bouret</publisher>
@@ -25636,7 +25970,7 @@
                     <monogr>
                         <author key="A452">Ancona, Eligio</author>
                         <title type="main" level="m">El Filibustero</title>
-                        <title type="sub" level="m">Novela histórica por Eligio Anconca. Tomo
+                        <title type="sub" level="m">Novela histórica por Eligio Ancona. Tomo
                             primero.</title>
                         <imprint>
                             <publisher>Librería de Rosa y Bouret</publisher>
@@ -25650,7 +25984,7 @@
                     <monogr>
                         <author key="A452">Ancona, Eligio</author>
                         <title type="main" level="m">Los Mártires del Anáhuac</title>
-                        <title type="sub" level="m">Novela histórica por Eligio Anconca. Tomo
+                        <title type="sub" level="m">Novela histórica por Eligio Ancona. Tomo
                             primero.</title>
                         <imprint>
                             <publisher>Imprenta por José Batiza</publisher>
@@ -26488,8 +26822,9 @@
                         <author key="A469">Pélissot, Felisberto</author>
                         <title level="m" type="main">Camila O'Gorman</title>
                         <title level="m" type="sub">Novela escrita por Felisberto Pelissot</title>
-                        <edition>Nueva edición aumentada con datos interesantes, notablemente modificada y precedida 
-                        del folleto histórico del Comercio del Plata</edition>
+                        <edition>Nueva edición aumentada con datos interesantes, notablemente
+                            modificada y precedida del folleto histórico del Comercio del
+                            Plata</edition>
                         <imprint>
                             <publisher>Imprenta de Las Artes</publisher>
                             <pubPlace corresp="AR">Buenos Aires</pubPlace>
@@ -26504,7 +26839,8 @@
                         <title level="m" type="main">Campaña y Guarnición</title>
                         <title level="m" type="sub">Escenas de la vida militar</title>
                         <imprint>
-                            <publisher>Imprenta, Litografía y Encuadernación de Jacobo Peuser</publisher>
+                            <publisher>Imprenta, Litografía y Encuadernación de Jacobo
+                                Peuser</publisher>
                             <pubPlace corresp="AR">Buenos Aires</pubPlace>
                             <date when="1892">1892</date>
                         </imprint>
@@ -26518,7 +26854,8 @@
                         <title level="m" type="sub">(Apuntes de un reporter)</title>
                         <title level="m" type="sub">por Jackal</title>
                         <imprint>
-                            <publisher>Imprenta, Litografía y Encuadernación de Jacobo Peuser</publisher>
+                            <publisher>Imprenta, Litografía y Encuadernación de Jacobo
+                                Peuser</publisher>
                             <pubPlace corresp="AR">Buenos Aires</pubPlace>
                             <date when="1899" cert="medium">1899</date>
                         </imprint>
@@ -26558,7 +26895,8 @@
                     <monogr>
                         <author key="A473">Vaca-Guzmán, Santiago</author>
                         <title level="m" type="main">Días amargos</title>
-                        <title level="m" type="sub">Páginas del libro de memorias de un pesimista</title>
+                        <title level="m" type="sub">Páginas del libro de memorias de un
+                            pesimista</title>
                         <edition>Segunda edición</edition>
                         <imprint>
                             <publisher>Jacobo Peuser</publisher>
@@ -26697,9 +27035,9 @@
                     <monogr>
                         <author key="A478">Varela, Luis Vicente</author>
                         <title level="m" type="main">Clemencia</title>
-                        <title level="m" type="sub">Novela Jurídica  Original</title>
+                        <title level="m" type="sub">Novela Jurídica Original</title>
                         <title level="m" type="sub">Continuación de <seg rend="italic" part="N">La
-                            huella del crimen</seg>
+                                huella del crimen</seg>
                         </title>
                         <imprint>
                             <publisher>Imprenta de mayo</publisher>
@@ -26860,8 +27198,8 @@
                         </imprint>
                         <extent>334 p.</extent>
                     </monogr>
-                    <note resp="#uh">Según Lichtblau, publicada anteriormente en el folletín de
-                        La Prensa en 1886, pero inconclusa.</note>
+                    <note resp="#uh">Según Lichtblau, publicada anteriormente en el folletín de La
+                        Prensa en 1886, pero inconclusa.</note>
                 </biblStruct>
                 <biblStruct corresp="W1267" xml:id="E1776">
                     <monogr>
@@ -26926,6 +27264,153 @@
                         <imprint>
                             <pubPlace corresp="AR">Buenos Aires</pubPlace>
                             <date when="1910">1910</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1271" xml:id="E1781">
+                    <monogr>
+                        <author key="A0">A. B.</author>
+                        <title level="m" type="main">El pensamiento</title>
+                        <imprint>
+                            <publisher>Imprenta de La Tribuna</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1878">1878</date>
+                        </imprint>
+                    </monogr>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/1/19/El_pensamiento_-_A.B.pdf</ref>
+                </biblStruct>
+                <biblStruct corresp="W1272" xml:id="E1782">
+                    <monogr>
+                        <author key="A0">***</author>
+                        <title level="m" type="main">El triunfo del bello secso</title>
+                        <imprint>
+                            <publisher>Imprenta Americana</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1850" cert="medium">1850</date>
+                        </imprint>
+                    </monogr>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/e/e8/El_triunfo_del_bello_secso_-_An%C3%B3nimo.pdf</ref>
+                </biblStruct>
+                <biblStruct corresp="W1273" xml:id="E1783">
+                    <monogr>
+                        <author key="A487">Basaldúa Elodingotía, Florencio de</author>
+                        <title level="m" type="main">Erné</title>
+                        <title level="m" type="sub">Leyenda kantabro-americana</title>
+                        <imprint>
+                            <publisher>Imprenta de "La Nación"</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1893">1893</date>
+                        </imprint>
+                    </monogr>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/4/47/Erne_-_Florencio_de_Basaldua.pdf</ref>
+                    <ref>http://bvpb.mcu.es/es/consulta/registro.cmd?id=404288</ref>
+                    <ref>https://archive.org/details/ernleyendakantab00basa</ref>
+                </biblStruct>
+                <biblStruct corresp="W1274" xml:id="E1784">
+                    <monogr>
+                        <author key="A0">Ariodio-El-Efo</author>
+                        <title level="m" type="main">Historia de Juanillo y de sus aventuras con el
+                            negro Horqueta</title>
+                        <imprint>
+                            <publisher>Luis Zufferey</publisher>
+                            <pubPlace corresp="AR">La Plata</pubPlace>
+                            <date when="1893">1893</date>
+                        </imprint>
+                    </monogr>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/f/fd/Historia_de_Juanillo_y_sus_aventuras_con_el_Negro_Horqueta_-_Arodio_El_Efo.pdf</ref>
+                </biblStruct>
+                <!-- weiter hier: 
+                https://commons.wikimedia.org/w/index.php?title=Category:Files_from_Academia_Argentina_de_Letras&filefrom=El+paisano.+Reflexiones+sobre+la+vida+del+campo+-+Carlos+Lemee.pdf#mw-category-media
+                https://commons.wikimedia.org/wiki/File:Homicidios_de_mi_pluma_-_Juan_Yzquierdo.pdf -->
+                <biblStruct corresp="W1281" xml:id="E1798">
+                    <monogr>
+                        <author key="A488">Suzarte, José Q.</author>
+                        <title type="main" level="m">Arrepentimiento tardío</title>
+                        <title type="sub" level="m">Novelita</title>
+                        <imprint>
+                            <pubPlace corresp="CU">Habana</pubPlace>
+                            <date when="1838">1838</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1287" xml:id="E1805">
+                    <monogr>
+                        <author key="A489">Pardo Pimentel, Nicolás</author>
+                        <title type="main" level="m">Matilde o una víctima</title>
+                        <title type="sub" level="m">Novela habanero original</title>
+                        <imprint>
+                            <publisher>Imprenta del Comercio</publisher>
+                            <pubPlace corresp="CU">Habana</pubPlace>
+                            <date when="1839">1839</date>
+                        </imprint>
+                        <extent n="38">En 8°, 38 ps.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1288" xml:id="E1806">
+                    <monogr>
+                        <author key="A490">Torrado y Quiroga, Ramón</author>
+                        <title type="main" level="m">Estephoro el Pirata</title>
+                        <title type="sub" level="m">Novela verdaderamente original</title>
+                        <imprint>
+                            <publisher>Imprenta del Comercio</publisher>
+                            <pubPlace corresp="CU">Habana</pubPlace>
+                            <date when="1839">1839</date>
+                        </imprint>
+                        <extent n="80">En 8°, 80 ps.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1289" xml:id="E1807">
+                    <monogr>
+                        <author key="A0">una Señorita cubana</author>
+                        <title type="main" level="m">Elena y Ricardo</title>
+                        <title type="sub" level="m">Novela por una Señorita cubana</title>
+                        <imprint>
+                            <publisher>Imprenta de Boloña</publisher>
+                            <pubPlace corresp="CU">Habana</pubPlace>
+                            <date when="1839">1839</date>
+                        </imprint>
+                        <extent n="200">En 8°, 200 ps.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1292" xml:id="E1810">
+                    <monogr>
+                        <author key="A491">Enríquez, Juan M.</author>
+                        <title type="main" level="m">Escenas de la vida andaluza</title>
+                        <title type="sub" level="m">José María</title>
+                        <title type="sub" level="m">Novela primera por J. M. E.</title>
+                        <imprint>
+                            <publisher>Imprenta del Comercio</publisher>
+                            <pubPlace corresp="CU">Habana</pubPlace>
+                            <date when="1841">1841</date>
+                        </imprint>
+                        <extent n="96">En 8°, 96 ps.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="W1293" xml:id="E1811">
+                    <monogr>
+                        <author key="A492">Lanuza, Cayetano</author>
+                        <title type="main" level="m">El Calcalista</title>
+                        <title type="sub" level="m">Novela</title>
+                        <imprint>
+                            <pubPlace corresp="CU" cert="low">Habana</pubPlace>
+                            <date when="1842">1842</date>
+                        </imprint>
+                        <extent n="184">En 8°, 184 ps.</extent>
+                    </monogr>
+                    <note resp="#Trelles">Anuncio en El Noticioso de 23 de Febrero.
+                            <bibl>Bibliografía, Tomo III, p. 33.</bibl></note>
+                </biblStruct>
+                <biblStruct corresp="W1294" xml:id="E1812">
+                    <analytic>
+                        <author key="A493">Riesgo, Pascual</author>
+                        <title type="main" level="a">Un Rey</title>
+                        <title type="sub" level="a">Novela</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j" type="main">El Faro Industrial</title>
+                        <imprint>
+                            <pubPlace corresp="CU">Habana</pubPlace>
+                            <date when="1842">1842</date>
                         </imprint>
                     </monogr>
                 </biblStruct>

@@ -110,6 +110,11 @@
                         por su amigo y discípulo Justo de Lara. La Habana, Imp. La Nacional, 1903. 
                     Dejó inéditas las novelas Andrés Chenier y Teresa Ventura.
                 -->
+                <!-- Trelles
+                Tomo II, p. 210f. Pusalgas y Guerris, Ignacio Miguel (Spanier, hist. Romane über Kuba und Mexiko)
+                Tomo II, p. 244. Valdés, José Lino. Victorina. Novela sobre costumbres de la Habana. (ohne Datum)
+                Tomo III, p. 37. de la Torre, Joaquín M. Amalia. Novela. (Solicitó permiso para publicarla en 1842)
+                -->
                 <person xml:id="A0">
                     <persName>
                         <name>Anónimo</name>
@@ -5575,6 +5580,7 @@
                     <persName>
                         <surname>Iglesia</surname>
                         <forename>Álvaro de la</forename>
+                        <addName type="pseudonym">Pedro Madruga</addName>
                     </persName>
                     <birth>
                         <date when="1859-04-03">3 de abril de 1859</date>
@@ -5582,13 +5588,14 @@
                         <placeName>España</placeName>
                     </birth>
                     <death>
-                        <date when="1840">1840</date>
+                        <date when="1940">1940</date>
                         <placeName>La Habana</placeName>
                         <placeName>Cuba</placeName>
                     </death>
                     <idno type="viaf">120788045</idno>
                     <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
+                    <note><ref>http://www.prosamodernista.com/prosa-modernista/prosa-modernista-criollista/alvaro-de-la-iglesia</ref></note>
                 </person>
                 <person xml:id="A368">
                     <persName>
@@ -5608,6 +5615,8 @@
                     <idno type="viaf">3703780</idno>
                     <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
+                    <note source="#DLC">Muy niño aún fue trasladado a Cuba, donde cursó todos sus
+                        estudios. Residió la mayor parte de su vida en Matanzas.</note>
                 </person>
                 <person xml:id="A369">
                     <persName>
@@ -7664,6 +7673,101 @@
                     </persName>
                     <sex>masculino</sex>
                     <nationality cert="low">argentina/o</nationality>
+                </person>
+                <person xml:id="A487">
+                    <persName>
+                        <surname>Basaldúa Elodingotía</surname>
+                        <forename>Florencio de</forename>
+                    </persName>
+                    <birth>
+                        <date when="1853-02-23">23 de febrero de 1853</date>
+                        <placeName>Bilbao</placeName>
+                        <placeName>España</placeName>
+                    </birth>
+                    <death>
+                        <date when="1932-05-20">20 de mayo de 1932</date>
+                        <placeName>Rawson</placeName>
+                        <placeName>Argentina</placeName>
+                    </death>
+                    <idno type="viaf">http://viaf.org/viaf/309675876/</idno>
+                    <sex>masculino</sex>
+                    <nationality cert="medium">español/a</nationality>
+                </person>
+                <person xml:id="A488">
+                    <persName>
+                        <surname>Suzarte</surname>
+                        <forename>José Q.</forename>
+                        <addName type="pseudonym">El Licenciado Vidrieras</addName>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality>cubana/o</nationality>
+                    <note resp="#Trelles">Suzarte fue un distinguido periodista habanero, director
+                        del Siglo en 1862, de la Aurora del Yumurí en 1865, y del Instituto de
+                        Matanzas en 1864. <bibl>Bibliografía, Tomo II, p. 183.</bibl></note>
+                </person>
+                <person xml:id="A489">
+                    <persName>
+                        <surname>Pardo Pimentel</surname>
+                        <forename>Nicolás</forename>
+                    </persName>
+                    <death>
+                        <date when="1851" cert="low">1851</date><!-- Viaf; WP: 1877? -->
+                        <placeName>Castronuño</placeName>
+                        <placeName>Valladolid</placeName>
+                        <placeName>Spain</placeName>
+                    </death>
+                    <idno type="viaf">98580534</idno>
+                    <sex>masculino</sex>
+                    <nationality>español/a</nationality>
+                    <note source="Wikipedia">Emigrado en Cuba</note>
+                </person>
+                <person xml:id="A490">
+                    <persName>
+                        <surname>Torrado y Quiroga</surname>
+                        <forename>Ramón</forename>
+                    </persName>
+                    <death>
+                        <date when="1885">1885</date>
+                    </death>
+                    <idno type="viaf">309703324</idno>
+                    <sex>masculino</sex>
+                    <nationality>español/a</nationality>
+                    <note resp="#Trelles">El médico español Torrado llegó a Cuba en 1835.</note>
+                </person>
+                <person xml:id="A491">
+                    <persName>
+                        <surname>Enríquez</surname>
+                        <forename>Juan M.</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality cert="low">español/a</nationality>
+                </person>
+                <person xml:id="A492">
+                    <persName>
+                        <surname>Lanuza</surname>
+                        <forename>Cayetano</forename>
+                    </persName>
+                    <sex>masculino</sex>
+                    <nationality cert="low">cubano/a</nationality>
+                </person>
+                <person xml:id="A493">
+                    <persName>
+                        <surname>Riesgo</surname>
+                        <forename>Pascual</forename>
+                    </persName>
+                    <birth>
+                        <placeName>Santander</placeName>
+                        <placeName>Spain</placeName>
+                    </birth>
+                    <death>
+                        <date when="1882">1882</date>
+                        <placeName>Madrid</placeName>
+                        <placeName>Spain</placeName>
+                    </death>
+                    <sex>masculino</sex>
+                    <nationality>español/a</nationality>
+                    <note source="#Trelles">Riesgo fue un pésimo novelista montañés. (Menéndez
+                        Pelayo)</note>
                 </person>
             </listPerson>
         </body>

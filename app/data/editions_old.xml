@@ -67,16 +67,6 @@
                         </imprint>
                     </monogr>
                 </biblStruct>
-                <biblStruct corresp="W267" xml:id="E243">
-                    <monogr>
-                        <author key="A101">Bachiller</author>
-                        <title level="m" type="main">Matilde o los bandidos de Cuba</title>
-                        <imprint>
-                            <pubPlace corresp="CU" cert="low">Cuba</pubPlace>
-                            <date when="1837">1837</date>
-                        </imprint>
-                    </monogr>
-                </biblStruct>
                 <biblStruct corresp="W488" xml:id="E472">
                     <monogr>
                         <author key="A161">González, Joaquín Víctor</author>

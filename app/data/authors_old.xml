@@ -30,11 +30,6 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="AX">
-                    <persName>
-                        <name>anónimo</name>
-                    </persName>
-                </person>
                 <person xml:id="A88">
                     <persName>
                         <surname>Puebla de Godoy</surname>
@@ -61,13 +56,6 @@
                     <persName>
                         <surname>Serrano</surname>
                         <forename>F.</forename>
-                    </persName>
-                    <sex>indefinido</sex>
-                    <nationality cert="low">cubana/o</nationality>
-                </person>
-                <person xml:id="A101">
-                    <persName>
-                        <surname>Bachiller</surname>
                     </persName>
                     <sex>indefinido</sex>
                     <nationality cert="low">cubana/o</nationality>
