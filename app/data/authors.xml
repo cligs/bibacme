@@ -33,99 +33,12 @@
     <text>
         <body>
             <listPerson>
-                <!-- Lichtblau:
-                    - Arana, Raymunda J., Ayer y hoy, 1860, inconclusa 
-                    - Bermejo, Pedro G., Nemo, 1893, inconclusa
-                    - Cinalli, Domingo R.
-                     - Dos a cero o alambrado olímpico, sin fecha
-                     - Una tragedia del gran mundo: criminal o heroe?, sin fecha
-                    - Veras, Luis. Una víctima del poder del plata, o el capricho de un millonario.
-                    (Novela histórica de la época.) 1862 angekündigt. erschienen?
-                -->
-                <!-- Torres-Rioseco:
-                    - Zárate y Ruiz, Francisco
-                     - Suicida! Ensayo, 1893
-                     - Cuentos de manicomio, 1903
-                     - Cuentos funambulescos, 1903
-                    - Vadillo, Basilio
-                     - El campanario. Novela jalisciense (posthum?)
-                    - Verdugo Fálquez, Francisco
-                     - De mi archivo. Cuentos y descripciones (cuentos?)
-                     - Las viejas calles de Culiacán: relato histórico y anecdótico (1949?)
-                    - Villaseñor, J., Marcelino. Novela de costumbes, sin fecha
-                    - Villaseñor, Pablo J., Leyendas históricas y tradicionales, en verso; Eufemio - traducción?
-                    - Tovar, Agustin de J., Angustias, 1896 (novela?!)
-                    - Sosa y Ávila, Franciso: Lupe. Novela por un sinaloense (cuando?)
-                    - Rubín, Luis G., Veladas del Invierno. Leyendas, 1868, 87 p. (novelas cortas?)
-                    - Pastrana, Prudencio, El laberinto social. Narraciones mexicanas, 1903, 286 p. (novelas cortas?)
-                    - Pavía, Lázaro, Brumas / Bosquejos / Cromos / Celajes (cuentos?)
-                    - Pérez de León, J. A., Fantástica. Novela original (cuándo?)
-                    - - Fernández de Lizardi, José Joaquín, Peza, Juan de Dios. 
-                    Perucho, nieto de periquillo / un Devoto del pensador mexicano. 1986 (publicado también antes?)
-                    - Ochoa, Antonio de, Sucesos de Fernando o la caída de Fernando. 1662?
-                    - Mancera, Octavio: Cuentos Diáfanos, 1897, https://archive.org/details/cuentosdifanosc00mancgoog
-                    (varios cuentos largos - novelas cortas?)
-                    - Martínez, Guillermo:  En las garras de la muerte. Novela histórica mexicana sobre la vida de Pancho Villa (cuándo?)
-                    - Mellado, Guillermo: El terruño (cuándo?)
-                    - Morales Puente, Armando (1876-1942): La lobera. Novela de escándalo. Vida de un artista (cuándo?)
-                    - Alonso de Icaza, Lupita. Novela mexicana (cuándo?)
-                    - Hugo, Sol (pseud. de Manzanilla Domínguez, Anastasio), Los rostros de nada. Novela (cuándo?)
-                    - Galindo, Miguel: Notas grises, Páginas blancas, Páginas verdes (ensayos, narraciones cortas ?)
-                    - García y Valdés, María. Almas superiores (cuándo?)
-                    - González, Lauro: Demófilo y sus hombres a las puertas del desengaño. Novela sui-generis..., 1880 (sólo 
-                    se conocen las primeras entregas)
-                    - Gutiérrez, Federico: La novela de Alicia. En La Novela Semanal de El Universal Ilustrado (cuándo?)
-                    - Fenochio, Arturo: El cielo de Oaxaca. Novela de costumbres (cuándo?)
-                    - Fernández de Lara, José: Novelas cortas. El sendero del crimen (cuándo?)
-                    - Flores Alatorre, Francisco. Leyendas, apólogos, episodios y novelitas, 1891 (muy cortos)
-                    https://archive.org/details/leyendasaplogos00alatgoog
-                    - Carpio, Manuel: Cartas de Don Caralampio, 1860 (?)
-                    - José R. del Castillo: Nick Carter en México. La hermandad del águila roja. (cuándo?)
-                    - Collantes y Buenrostro, Juan: Leyendas fantásticas, 1877 (cuentos?)
-                    - Cortada, Juan: El libro de la familia. Colección de leyendas, 1883 (cuentos?)
-                    - Couto Castillo, José Bernardo: Asfódelos, 1897 (cuentos?)
-                    - Cházari, Fenochio,  La princesa ¡Ah! Cuento.  México, D.F.: Andrés Botas e Hijo, 32 p.
-                    - Amador, Severo. 1879 en Villa de Cos, Zacatecas, México - 1931 en México.
-                        Bocetos Provincianos, Castillo y Compañía, México 1907
-                        https://archive.org/details/bocetosprovinci00amadgoog
-                        http://cd.dgb.uanl.mx/handle/201504211/9718
-                        (kürzere Texte, einer ca. 30 S.);
-                        Confesión; la sorpresa. Palabras postumas. Aguascalientes, Imp. de J.T. Pedroza, 1905.
-                        https://catalog.hathitrust.org/Record/100508106
-                        (cuentos ?)
-                -->
-                <!-- DLC: Fernando Urzáis, "novelas en La Aurora", ps. Úrsulo Fernández
-                - Noda, Tranquilino Sandalio de
-                 - Tradiciones cubanas (1842)
-                 - novela inédita: El cacique de Guajaba
-                 - MUÑOZ RUBALCAVA, Francisco ("se le atribuyen tres novelas")
-                 - Hernández Catá, Alfonso (español que ha vivido en Cuba), algunas novelas publicadas en Europa
-                 - Horta, Eulogio, Bronces y rosas (Prosa), 1908
-                 - GARCÍA, José de Jesús Quintiliano, Es autor de la narración «Dos padres para una hija», publicada en la 
-                 Colección de novelas, cuentos, leyendas &, de autores cubanos (La Habana, Imp. del Tiempo, 1855).
-                 - Blanchet, Emilio. Cuadros y narraciones 1870, 1885?
-                 - Boti, Regino. Prosas emotivas, 1910; Rumbo a Jauco, 1910 (?)
-                 - Armas y Cárdenas, José: 
-                        Cuento viejo. A su maestro de esgrima Sr. Lcdo. Manuel Cardenal, 
-                        por su amigo y discípulo Justo de Lara. La Habana, Imp. La Nacional, 1903. 
-                    Dejó inéditas las novelas Andrés Chenier y Teresa Ventura.
-                -->
-                <!-- Trelles
-                Tomo II, p. 210f. Pusalgas y Guerris, Ignacio Miguel (Spanier, hist. Romane über Kuba und Mexiko)
-                Tomo II, p. 244. Valdés, José Lino. Victorina. Novela sobre costumbres de la Habana. (ohne Datum)
-                Tomo III, p. 37. de la Torre, Joaquín M. Amalia. Novela. (Solicitó permiso para publicarla en 1842)
-                -->
                 <person xml:id="A0">
                     <persName>
                         <name>Anónimo</name>
                     </persName>
                     <sex>desconocido</sex>
                     <nationality>desconocido</nationality>
-                    <!-- 
-                        - Buenos Aires por dentro, 1882, inconclusa
-                        - El destino, 1866, inconclusa
-                        - Isabel o sea la heroína colorada, 1858, inconclusa
-                    -->
                 </person>
                 <person xml:id="A1">
                     <persName>
@@ -134,39 +47,6 @@
                     </persName>
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
-                </person>
-                <person xml:id="A2">
-                    <persName>
-                        <surname>Alberdi</surname>
-                        <forename>Juan Bautista</forename>
-                    </persName>
-                    <birth>
-                        <date when="1810-08-29">29 de agosto de 1810</date>
-                        <placeName>San Miguel de Tucumán</placeName>
-                        <placeName>Argentina</placeName>
-                    </birth>
-                    <death>
-                        <date when="1884-06-19">19 de junio de 1884</date>
-                        <placeName>Neuilly-sur-Seine</placeName>
-                        <placeName>Francia</placeName>
-                    </death>
-                    <idno type="viaf">32016466</idno>
-                    <sex>masculino</sex>
-                    <nationality>argentina/o</nationality>
-                </person>
-                <person xml:id="A3">
-                    <persName>
-                        <surname>Albert</surname>
-                        <forename>Luis J.</forename>
-                    </persName>
-                    <death>
-                        <date when="1926">1926</date>
-                    </death>
-                    <sex>masculino</sex>
-                    <nationality>argentina/o</nationality>
-                    <!-- novelas inconclusas (véase Lichtblau): 
-                        - Berta, la querida del jugador
-                        - Rogelia -->
                 </person>
                 <person xml:id="A4">
                     <persName>
@@ -204,7 +84,6 @@
                     <idno type="viaf">72256647</idno>
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
-                    <!-- Tierra de matreros; http://www.biblioteca.org.ar/libros/10059.pdf (relato de viajes?) -->
                 </person>
                 <person xml:id="A7">
                     <persName>
@@ -220,14 +99,6 @@
                     <sex>femenino</sex>
                     <nationality>argentina/o</nationality>
                 </person>
-                <person xml:id="A8">
-                    <persName>
-                        <surname>Arauz</surname>
-                        <forename>Toribio</forename>
-                    </persName>
-                    <sex>masculino</sex>
-                    <nationality>argentina/o</nationality>
-                </person>
                 <person xml:id="A9">
                     <persName>
                         <surname>Argerich</surname>
@@ -235,26 +106,15 @@
                     </persName>
                     <birth>
                         <date when="1862">1862</date>
+                        <placeName>Buenos Aires</placeName>
+                        <placeName>Argentina</placeName>
                     </birth>
                     <death>
                         <date when="1924">1924</date>
+                        <placeName>Buenos Aires</placeName>
+                        <placeName>Argentina</placeName>
                     </death>
                     <idno type="viaf">9446743</idno>
-                    <sex>masculino</sex>
-                    <nationality>argentina/o</nationality>
-                </person>
-                <person xml:id="A10">
-                    <persName>
-                        <surname>Arredondo</surname>
-                        <forename>Marcos F.</forename>
-                    </persName>
-                    <birth>
-                        <date when="1847">1847</date>
-                    </birth>
-                    <death>
-                        <date when="1929">1929</date>
-                    </death>
-                    <idno type="viaf">24252772</idno>
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
                 </person>
@@ -358,13 +218,13 @@
                         <forename>Pablo</forename>
                     </persName>
                     <birth>
-                        <date when="1831">1831</date>
+                        <date when="1831-03-02">2 de marzo de 1831</date>
                         <placeName>Puebla</placeName>
                         <placeName>Puebla</placeName>
                         <placeName>México</placeName>
                     </birth>
                     <death>
-                        <date when="1902">1902</date>
+                        <date when="1902-05-25">25 de mayo de 1902</date>
                         <placeName>Toluca</placeName>
                         <placeName>Estado de México</placeName>
                         <placeName>México</placeName>
@@ -411,47 +271,6 @@
                     <idno type="viaf">19277505</idno>
                     <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
-                </person>
-                <person xml:id="A20">
-                    <persName>
-                        <surname>Zéndegui</surname>
-                        <forename>Gabriel de</forename>
-                    </persName>
-                    <birth>
-                        <date when="1851-12-17">17 de diciembre de 1851</date>
-                        <placeName>La Habana</placeName>
-                        <placeName>Cuba</placeName>
-                    </birth>
-                    <death>
-                        <date when="1922-05-15">15 de mayo de 1922</date>
-                        <placeName>Londres</placeName>
-                        <placeName>Inglaterra</placeName>
-                    </death>
-                    <idno type="viaf">100046945</idno>
-                    <sex>masculino</sex>
-                    <nationality>cubana/o</nationality>
-                </person>
-                <person xml:id="A21">
-                    <persName>
-                        <surname>Valle</surname>
-                        <forename>Adrían del</forename>
-                        <addName type="pseudonym">Palmiro de Lidia</addName>
-                        <addName type="pseudonym">Fructidor</addName>
-                        <addName type="pseudonym">Hindus Fakir</addName>
-                    </persName>
-                    <birth>
-                        <date when="1872-06-27">27 de junio de 1872</date>
-                        <placeName>Barcelona</placeName>
-                        <placeName>España</placeName>
-                    </birth>
-                    <death>
-                        <date when="1945-02-09">9 de febrero de 1945</date>
-                        <placeName>La Habana</placeName>
-                        <placeName>Cuba</placeName>
-                    </death>
-                    <idno type="viaf">78657427</idno>
-                    <sex>masculino</sex>
-                    <nationality>español/a</nationality>
                 </person>
                 <person xml:id="A22">
                     <persName>
@@ -550,13 +369,17 @@
                     <persName>
                         <surname>Barra</surname>
                         <forename>Emma de la</forename>
-                        <addName type="pseudonym">César Duayen</addName>
+                        <addName type="pseudonym">César Duáyen</addName>
                     </persName>
                     <birth>
                         <date when="1861">1861</date>
+                        <placeName>Rosario</placeName>
+                        <placeName>Argentina</placeName>
                     </birth>
                     <death>
                         <date when="1947">1947</date>
+                        <placeName cert="medium">Buenos Aires</placeName>
+                        <placeName cert="medium">Argentina</placeName>
                     </death>
                     <sex>femenino</sex>
                     <nationality>argentina/o</nationality>
@@ -585,41 +408,17 @@
                     </persName>
                     <birth>
                         <date when="1847">1847</date>
+                        <placeName>Almería</placeName>
+                        <placeName>España</placeName>
                     </birth>
                     <death>
                         <date when="1927">1827</date>
+                        <placeName>Buenos Aires</placeName>
+                        <placeName>Argentina</placeName>
                     </death>
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">87175584</idno>
-                    <!-- Lichtblau:
-                    - Misterios del corazón, inconclusa 
-                    -->
-                </person>
-                <person xml:id="A30">
-                    <persName>
-                        <surname>Bermejo</surname>
-                        <forename>Ildefonso Antonio</forename>
-                    </persName>
-                    <birth>
-                        <date when="1820">1820</date>
-                        <placeName>España</placeName>
-                    </birth>
-                    <death>
-                        <date when="1892">1892</date>
-                        <placeName>España</placeName>
-                    </death>
-                    <sex>masculino</sex>
-                    <nationality>español/a</nationality>
-                    <idno type="viaf">14314294</idno>
-                </person>
-                <person xml:id="A31">
-                    <persName>
-                        <surname type="pseudonym">Bertal</surname>
-                        <forename type="pseudonym">O.</forename>
-                    </persName>
-                    <sex>desconocido</sex>
-                    <nationality>desconocido</nationality>
                 </person>
                 <person xml:id="A32">
                     <persName>
@@ -709,16 +508,17 @@
                     </persName>
                     <birth>
                         <date when="1875">1875</date>
+                        <placeName>Buenos Aires</placeName>
+                        <placeName>Argentina</placeName>
                     </birth>
                     <death>
                         <date when="1918">1918</date>
+                        <placeName>Buenos Aires</placeName>
+                        <placeName>Argentina</placeName>
                     </death>
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">74235581</idno>
-                    <!-- Tres narraciones vulgars mit "Una joven. Autoretrato" posthum (1927)
-                    Los envenados, posthum? (1926), http://bdh.bne.es/bnesearch/detalle/bdh0000095973
-                    El sabio y la horca (narraciones ejemplares), posthum? (1926), https://catalog.hathitrust.org/Record/006609465-->
                 </person>
                 <person xml:id="A39">
                     <persName>
@@ -737,7 +537,6 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
-                    <!-- Novelas breves 1912 -->
                 </person>
                 <person xml:id="A40">
                     <persName>
@@ -818,14 +617,6 @@
                     <sex>masculino</sex>
                     <nationality cert="low">mexicana/o</nationality>
                 </person>
-                <person xml:id="A47">
-                    <persName>
-                        <surname>Villa Gordoa</surname>
-                        <forename>Jesús</forename>
-                    </persName>
-                    <sex>masculino</sex>
-                    <nationality cert="low">mexicana/o</nationality>
-                </person>
                 <person xml:id="A48">
                     <persName>
                         <surname>Villa Gordoa</surname>
@@ -882,15 +673,6 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                 </person>
-                <person xml:id="A52">
-                    <persName>
-                        <surname>Villanueva y Francesconi</surname>
-                        <forename>Mariano</forename>
-                    </persName>
-                    <idno type="viaf">257427714</idno>
-                    <sex>masculino</sex>
-                    <nationality>mexicana/o</nationality>
-                </person>
                 <person xml:id="A53">
                     <persName>
                         <surname>Villaseñor y Villaseñor</surname>
@@ -909,10 +691,6 @@
                     <idno type="viaf">42097921</idno>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
-                    <!-- El medio del difunto. Cuento, 1903, 15 p.
-                    La cueva de Guadalupe. Leyenda, 1905, 16 p. 
-                    Obras de ... 1897-1910: http://cdigital.dgb.uanl.mx/la/1080012719_C/1080012719_C.html
-                    -->
                 </person>
                 <person xml:id="A54">
                     <persName>
@@ -921,25 +699,20 @@
                     <sex>desconocido</sex>
                     <nationality>desconocido</nationality>
                 </person>
-                <person xml:id="A55">
-                    <persName>
-                        <surname>Cabales</surname>
-                        <forename>Claudio</forename>
-                    </persName>
-                    <idno type="viaf">310590953</idno>
-                    <sex>masculino</sex>
-                    <nationality>argentina/o</nationality>
-                </person>
                 <person xml:id="A56">
                     <persName>
                         <surname>Cabral</surname>
                         <forename>José Victoriano</forename>
                     </persName>
                     <birth>
-                        <date when="1822">1822</date>
+                        <date when="1822-03-22">23 de marzo de 1822</date>
+                        <placeName cert="medium">Buenos Aires</placeName>
+                        <placeName>Argentina</placeName>
                     </birth>
                     <death>
-                        <date when="1915">1915</date>
+                        <date when="1915-01-09">9 de enero de 1915</date>
+                        <placeName>Buenos Aires</placeName>
+                        <placeName>Argentina</placeName>
                     </death>
                     <idno type="viaf">167981606</idno>
                     <idno type="viaf">157145857085522922242</idno>
@@ -1022,36 +795,17 @@
                     </persName>
                     <birth>
                         <date when="1812">1812</date>
+                        <placeName>San Pedro</placeName>
+                        <placeName>Buenos Aires</placeName>
+                        <placeName>Argentina</placeName>
                     </birth>
                     <death>
                         <date when="1863">1863</date>
+                        <placeName>Mercedes</placeName>
+                        <placeName>Buenos Aires</placeName>
+                        <placeName>Argentina</placeName>
                     </death>
                     <idno type="viaf">169088974</idno>
-                    <sex>masculino</sex>
-                    <nationality>argentina/o</nationality>
-                    <!-- 
-                        - La muerte del poeta (inédita)
-                        - Laura, 1864, fragmento
-                        - Fantasía (9 p.)
-                        - En el tren (5 p.)
-                        - Escenas de familia
-                        - Una de mil
-                        - La semanera
-                    -->
-                </person>
-                <person xml:id="A62">
-                    <persName>
-                        <surname>Cané</surname>
-                        <forename>Miguel</forename>
-                        <note>hijo</note>
-                    </persName>
-                    <birth>
-                        <date when="1851">1851</date>
-                    </birth>
-                    <death>
-                        <date when="1905">1905</date>
-                    </death>
-                    <idno type="viaf">39458418</idno>
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
                 </person>
@@ -1062,9 +816,13 @@
                     </persName>
                     <birth>
                         <date when="1871">1871</date>
+                        <placeName>Buenos Aires</placeName>
+                        <placeName>Argentina</placeName>
                     </birth>
                     <death>
                         <date when="1944">1944</date>
+                        <placeName>Buenos Aires</placeName>
+                        <placeName>Argentina</placeName>
                     </death>
                     <idno type="viaf">310572689</idno>
                     <idno type="viaf">285454743</idno>
@@ -1090,14 +848,6 @@
                     <idno type="viaf">70466083</idno>
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
-                </person>
-                <person xml:id="A65">
-                    <persName>
-                        <surname>Carballido</surname>
-                        <forename>Pastor M.</forename>
-                    </persName>
-                    <sex>masculino</sex>
-                    <nationality cert="medium">argentina/o</nationality>
                 </person>
                 <person xml:id="A66">
                     <persName>
@@ -1146,25 +896,6 @@
                     <sex>masculino</sex>
                     <nationality cert="medium">argentina/o</nationality>
                 </person>
-                <person xml:id="A70">
-                    <persName>
-                        <surname>Cubillos Rodríguez</surname>
-                        <forename>Máximo</forename>
-                    </persName>
-                    <birth>
-                        <date when="1843">1843</date>
-                    </birth>
-                    <sex>masculino</sex>
-                    <nationality cert="medium">argentina/o</nationality>
-                </person>
-                <person xml:id="A71">
-                    <persName>
-                        <surname>Cursach</surname>
-                        <forename>Antonio</forename>
-                    </persName>
-                    <sex>masculino</sex>
-                    <nationality>desconocido</nationality>
-                </person>
                 <person xml:id="A72">
                     <persName>
                         <surname>Chiappori</surname>
@@ -1205,32 +936,12 @@
                     <idno type="viaf">106924246</idno>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
-                    <!-- Cuentos?: Una billetera, Del natural -->
                 </person>
                 <person xml:id="A75">
                     <persName>
                         <name type="pseudonym">Un Michoacano</name>
                     </persName>
                     <sex>desconocido</sex>
-                    <nationality>mexicana/o</nationality>
-                </person>
-                <person xml:id="A76">
-                    <persName>
-                        <surname>Téllez Rendón</surname>
-                        <forename>María Nestora</forename>
-                    </persName>
-                    <birth>
-                        <date when="1828-02-25">25 de febrero de 1828</date>
-                        <placeName>San Juan del Río</placeName>
-                        <placeName>Querétaro</placeName>
-                        <placeName>México</placeName>
-                    </birth>
-                    <death>
-                        <date when="1890-12-09">9 de diciembre de 1890</date>
-                        <placeName>Acámbaro</placeName>
-                        <placeName>Guanajuato</placeName>
-                    </death>
-                    <sex>femenino</sex>
                     <nationality>mexicana/o</nationality>
                 </person>
                 <person xml:id="A77">
@@ -1253,14 +964,6 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                 </person>
-                <person xml:id="A78">
-                    <persName>
-                        <surname>Trebarra</surname>
-                        <forename>Napoleón</forename>
-                    </persName>
-                    <sex>masculino</sex>
-                    <nationality cert="medium">mexicana/o</nationality>
-                </person>
                 <person xml:id="A79">
                     <persName>
                         <surname>Salado Álvarez</surname>
@@ -1280,27 +983,20 @@
                     <idno type="viaf">7475794</idno>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
-                    <!-- La novela de un filibustero. En qué año?
-                     - La novela vivida del primer Ministro de México en los Estados Unidos. En qué año? -->
                 </person>
                 <person xml:id="A80">
                     <persName>
-                        <surname>Salas y Quiroga</surname>
-                        <forename>Jacinto de</forename>
+                        <surname>Puebla de Godoy</surname>
+                        <forename>Rosario</forename>
                     </persName>
                     <birth>
-                        <date when="1813">1813</date>
-                        <placeName>La Coruña</placeName>
-                        <placeName>España</placeName>
+                        <date when="1862">1862</date>
                     </birth>
                     <death>
-                        <date when="1849">1849</date>
-                        <placeName>Madrid</placeName>
-                        <placeName>España</placeName>
+                        <date when="1924">1924</date>
                     </death>
-                    <idno type="viaf">39630999</idno>
                     <sex>masculino</sex>
-                    <nationality>español/a</nationality>
+                    <nationality cert="low">argentina/o</nationality>
                 </person>
                 <person xml:id="A81">
                     <persName>
@@ -1319,6 +1015,7 @@
                         <date when="1864">1864</date>
                         <placeName>Oaxaca</placeName>
                         <placeName>Oaxaca</placeName>
+                        <placeName>México</placeName>
                     </birth>
                     <death>
                         <date when="1917">1917</date>
@@ -1338,7 +1035,6 @@
                     </persName>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
-                    <!-- El ataque a Monterrey, novela histórica, qué año? -->
                 </person>
                 <person xml:id="A84">
                     <persName>
@@ -1381,10 +1077,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                 </person>
-                <!-- Check für Zeitschriften und Kurzromane vor Justo Sierra? -->
                 <person xml:id="A86">
                     <persName>
-                        <surname>Sierra O'Reilly</surname>
+                        <surname>O'Reilly</surname>
                         <forename>Justo</forename>
                         <addName type="pseudonym">José Turrisa</addName>
                         <note>padre</note>
@@ -1424,7 +1119,6 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">36989647</idno>
-                    <!-- Cuentos románticos -->
                 </person>
                 <person xml:id="A88">
                     <persName>
@@ -1436,19 +1130,12 @@
                 </person>
                 <person xml:id="A89">
                     <persName>
-                        <surname>Sigüenza y Góngora</surname>
-                        <forename>Carlos de</forename>
+                        <surname>Pedroso de Arriaza</surname>
+                        <forename>A.</forename>
                     </persName>
-                    <birth>
-                        <date when="1645-08-15">15 de agosto de 1645</date>
-                        <placeName>México</placeName>
-                    </birth>
-                    <death>
-                        <date when="1700-08-22">22 de agosto de 1700</date>
-                    </death>
-                    <idno type="viaf">59112593</idno>
+                    <idno type="viaf">513145857117022922316</idno>
                     <sex>masculino</sex>
-                    <nationality>mexicana/o</nationality>
+                    <nationality cert="low">cubana/o</nationality>
                 </person>
                 <person xml:id="A90">
                     <persName>
@@ -1540,8 +1227,6 @@
                     <idno type="viaf">29373147</idno>
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
-                    <!-- El doctor Zacarías. Novela (cuando?)
-                    Peccata minuta. Colección de cuentos -->
                 </person>
                 <person xml:id="A95">
                     <persName>
@@ -1561,17 +1246,6 @@
                     <idno type="viaf">51903953</idno>
                     <sex>masculino</sex>
                     <nationality cert="low">francés/a</nationality>
-                </person>
-                <person xml:id="A96">
-                    <persName>
-                        <surname>Della Costa</surname>
-                        <forename>Pablo</forename>
-                        <addName type="pseudonym">Severus</addName>
-                        <note>padre</note>
-                    </persName>
-                    <idno type="viaf">310591307</idno>
-                    <sex>masculino</sex>
-                    <nationality cert="low">argentina/o</nationality>
                 </person>
                 <person xml:id="A97">
                     <persName>
@@ -1618,10 +1292,18 @@
                     </persName>
                     <birth>
                         <date when="1852">1852</date>
+                        <placeName>Soto en Cameros</placeName>
+                        <placeName>La Rioja</placeName>
                         <placeName>España</placeName>
                     </birth>
+                    <death>
+                        <date>desconocido</date>
+                    </death>
                     <sex>masculino</sex>
                     <nationality cert="medium">español/a</nationality>
+                    <note>
+                        <ref>http://web.archive.org/web/20190424195449/http://dbe.rah.es/biografias/71522/silverio-dominguez-saenz</ref>
+                    </note>
                 </person>
                 <person xml:id="A101">
                     <persName>
@@ -1636,7 +1318,9 @@
                         <placeName>México</placeName>
                     </birth>
                     <death>
-                        <date when="1930">1930</date>
+                        <date when="1930-04-25">25 de abril de 1930</date>
+                        <placeName>Ciudad de México</placeName>
+                        <placeName>México</placeName>
                     </death>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
@@ -1700,44 +1384,6 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                 </person>
-                <person xml:id="A105">
-                    <persName>
-                        <surname>Rebolledo</surname>
-                        <forename>Efrén</forename>
-                    </persName>
-                    <birth>
-                        <date when="1877-07-09">9 de julio de 1877</date>
-                        <placeName>Actopan</placeName>
-                        <placeName>Hidalgo</placeName>
-                        <placeName>México</placeName>
-                    </birth>
-                    <death>
-                        <date when="1929-12-10">10 de diciembre de 1929</date>
-                        <placeName>Madrid</placeName>
-                        <placeName>España</placeName>
-                    </death>
-                    <idno type="viaf">33140203</idno>
-                    <sex>masculino</sex>
-                    <nationality>mexicana/o</nationality>
-                </person>
-                <person xml:id="A106">
-                    <persName>
-                        <surname>Rey</surname>
-                        <forename>Emilio</forename>
-                    </persName>
-                    <birth>
-                        <date when="1826">1826</date>
-                        <placeName>Santander</placeName>
-                        <placeName>España</placeName>
-                    </birth>
-                    <death>
-                        <date when="1871">1871</date>
-                        <placeName>Ciudad de México</placeName>
-                        <placeName>México</placeName>
-                    </death>
-                    <sex>masculino</sex>
-                    <nationality cert="low">español/a</nationality>
-                </person>
                 <person xml:id="A107">
                     <persName>
                         <surname>Ríos</surname>
@@ -1755,10 +1401,12 @@
                     <birth>
                         <date when="1832-10-16">16 de octubre de 1832</date>
                         <placeName>Ciudad de México</placeName>
+                        <placeName>México</placeName>
                     </birth>
                     <death>
                         <date when="1896-11-22">22 de noviembre de 1896</date>
                         <placeName>Madrid</placeName>
+                        <placeName>España</placeName>
                     </death>
                     <idno type="viaf">54185176</idno>
                     <sex>masculino</sex>
@@ -1798,14 +1446,6 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                 </person>
-                <person xml:id="A111">
-                    <persName>
-                        <surname>Robleda y Troncoso</surname>
-                        <forename>Cayetano</forename>
-                    </persName>
-                    <sex>masculino</sex>
-                    <nationality cert="low">mexicana/o</nationality>
-                </person>
                 <person xml:id="A112">
                     <persName>
                         <surname>Robles</surname>
@@ -1814,6 +1454,7 @@
                         <forename type="alt">Pedro Pablo</forename>
                         <addName type="pseudonym">Perroblillos</addName>
                     </persName>
+                    <idno type="viaf">13693206</idno>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                 </person>
@@ -1858,26 +1499,6 @@
                     </persName>
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
-                </person>
-                <person xml:id="A116">
-                    <persName>
-                        <surname>Rodríguez Galván</surname>
-                        <forename>Ignacio</forename>
-                    </persName>
-                    <birth>
-                        <date when="1816-03-22">22 de marzo de 1816</date>
-                        <placeName>Tizayuca</placeName>
-                        <placeName>Hidalgo</placeName>
-                        <placeName>México</placeName>
-                    </birth>
-                    <death>
-                        <date when="1842-07-25">25 de julio de 1842</date>
-                        <placeName>La Habana</placeName>
-                        <placeName>Cuba</placeName>
-                    </death>
-                    <idno type="viaf">17242899</idno>
-                    <sex>masculino</sex>
-                    <nationality>mexicana/o</nationality>
                 </person>
                 <person xml:id="A117">
                     <persName>
@@ -1941,7 +1562,6 @@
                     <idno type="viaf">36819526</idno>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
-                    <!-- Excursiones por el cielo y por la tierra. Leyendas científicas y recreativas, 1874 (novelas cortas?) -->
                 </person>
                 <person xml:id="A123">
                     <persName>
@@ -1992,15 +1612,6 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                 </person>
-                <person xml:id="A126">
-                    <persName>
-                        <surname>Quiroz</surname>
-                        <forename>Bernhardino de Jesús</forename>
-                    </persName>
-                    <idno type="viaf">309781452</idno>
-                    <sex>masculino</sex>
-                    <nationality cert="medium">mexicana/o</nationality>
-                </person>
                 <person xml:id="A127">
                     <persName>
                         <surname>Echagüe</surname>
@@ -2018,26 +1629,6 @@
                     </death>
                     <idno type="viaf">73749218</idno>
                     <idno type="viaf">104145857076022922012</idno>
-                    <sex>masculino</sex>
-                    <nationality>argentina/o</nationality>
-                    <!-- Un lego de San Francisco, novela, perdida -->
-                </person>
-                <person xml:id="A128">
-                    <persName>
-                        <surname>Echeverría</surname>
-                        <forename>Esteban</forename>
-                    </persName>
-                    <birth>
-                        <date when="1805-09-02">2 de septiembre de 1805</date>
-                        <placeName>Buenos Aires</placeName>
-                        <placeName>Argentina</placeName>
-                    </birth>
-                    <death>
-                        <date when="1851-01-19">19 de enero de 1851</date>
-                        <placeName>Montevideo</placeName>
-                        <placeName>Uruguay</placeName>
-                    </death>
-                    <idno type="viaf">32008821</idno>
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
                 </person>
@@ -2094,15 +1685,6 @@
                     <sex>masculino</sex>
                     <nationality cert="medium">argentina/o</nationality>
                 </person>
-                <person xml:id="A133">
-                    <persName>
-                        <surname>Ezcurra y Pardo</surname>
-                        <forename>M.</forename>
-                        <addName type="pseudonym">Muérdago</addName>
-                    </persName>
-                    <sex>masculino</sex>
-                    <nationality>argentina/o</nationality>
-                </person>
                 <person xml:id="A134">
                     <persName>
                         <surname>Fabricio</surname>
@@ -2141,79 +1723,6 @@
                     <idno type="viaf">296570663</idno>
                     <sex>masculino</sex>
                     <nationality cert="medium">argentina/o</nationality>
-                </person>
-                <person xml:id="A138">
-                    <persName>
-                        <surname>Franquelo</surname>
-                        <forename>Carlos</forename>
-                    </persName>
-                    <sex>masculino</sex>
-                    <nationality cert="medium">argentina/o</nationality>
-                </person>
-                <person xml:id="A139">
-                    <persName>
-                        <surname>Frías Collao</surname>
-                        <forename>Baldomero</forename>
-                    </persName>
-                    <birth>
-                        <date when="1859">1859</date>
-                        <placeName>Santiago</placeName>
-                        <placeName>Chile</placeName>
-                    </birth>
-                    <death>
-                        <date when="1893-11-30">30 de noviembre de 1893</date>
-                    </death>
-                    <idno type="viaf">100826859</idno>
-                    <sex>masculino</sex>
-                    <nationality>chilena/o</nationality>
-                </person>
-                <person xml:id="A140">
-                    <persName>
-                        <surname>Tanco y Bosmeniel</surname>
-                        <forename>Félix</forename>
-                        <addName type="pseudonym">Elezio Cundamarco</addName>
-                        <addName type="pseudonym">Frías</addName>
-                        <addName type="pseudonym">Un habanero</addName>
-                        <addName type="pseudonym">Un suscriptor al Plantel</addName>
-                        <addName type="pseudonym">Veráfilo y Los dos lógicos</addName>
-                    </persName>
-                    <birth>
-                        <date when="1797-11">noviembre de 1797</date>
-                        <placeName>Santa Fe de Bogotá</placeName>
-                        <placeName>Colombia</placeName>
-                    </birth>
-                    <death>
-                        <date when="1871-09-26">26 de septiembre de 1871</date>
-                        <placeName>Long Island</placeName>
-                        <placeName>Estados Unidos</placeName>
-                    </death>
-                    <idno type="viaf">106988104</idno>
-                    <sex>masculino</sex>
-                    <nationality cert="medium">cubana/o</nationality>
-                </person>
-                <person xml:id="A141">
-                    <persName>
-                        <surname>Teurbe Tolón y de la Guardia</surname>
-                        <forename>Miguel</forename>
-                        <addName type="pseudonym">Lola</addName>
-                        <addName type="pseudonym">La Lola filibustera</addName>
-                        <addName type="pseudonym">Tello Rubio Montegú</addName>
-                        <addName type="pseudonym">Alfonso de Torquemada</addName>
-                    </persName>
-                    <birth>
-                        <date when="1820-09-29">29 de septiembre de 1820</date>
-                        <placeName>Matanzas</placeName>
-                        <placeName>Cuba</placeName>
-                    </birth>
-                    <death>
-                        <date when="1857-10-16">16 de octubre de 1857</date>
-                        <placeName>Matanzas</placeName>
-                        <placeName>Cuba</placeName>
-                    </death>
-                    <idno type="viaf">19550365</idno>
-                    <sex>masculino</sex>
-                    <nationality>cubana/o</nationality>
-                    <!-- Leyendas cubanas, 1856 (en verso) -->
                 </person>
                 <person xml:id="A142">
                     <persName>
@@ -2286,27 +1795,6 @@
                     <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
                 </person>
-                <person xml:id="A146">
-                    <persName>
-                        <surname>Rodríguez Émbil</surname>
-                        <forename>Luis</forename>
-                        <addName type="pseudonym">Julio Abril</addName>
-                        <addName type="pseudonym">Julián Sorel</addName>
-                    </persName>
-                    <birth>
-                        <date when="1879-08-30">30 de agosto de 1879</date>
-                        <placeName>La Habana</placeName>
-                        <placeName>Cuba</placeName>
-                    </birth>
-                    <death>
-                        <date when="1954-04-29">29 de abril de 1954</date>
-                        <placeName>La Habana</placeName>
-                        <placeName>Cuba</placeName>
-                    </death>
-                    <idno type="viaf">310568951</idno>
-                    <sex>masculino</sex>
-                    <nationality>cubana/o</nationality>
-                </person>
                 <person xml:id="A147">
                     <persName>
                         <surname>Puig y de la Puente</surname>
@@ -2328,47 +1816,6 @@
                     </death>
                     <idno type="viaf">78425874</idno>
                     <sex>masculino</sex>
-                    <nationality>cubana/o</nationality>
-                </person>
-                <person xml:id="A148">
-                    <persName>
-                        <surname>Palma y Romay</surname>
-                        <forename>Ramón de</forename>
-                    </persName>
-                    <birth>
-                        <date when="1812-01-03">3 de enero de 1812</date>
-                        <placeName>La Habana</placeName>
-                        <placeName>Cuba</placeName>
-                    </birth>
-                    <death>
-                        <date when="1860-06-21">21 de junio de 1860</date>
-                        <placeName>La Habana</placeName>
-                        <placeName>Cuba</placeName>
-                    </death>
-                    <idno type="viaf">61121378</idno>
-                    <sex>masculino</sex>
-                    <nationality>cubana/o</nationality>
-                </person>
-                <person xml:id="A149">
-                    <persName>
-                        <surname>Pérez de Zambrana</surname>
-                        <forename>Luisa</forename>
-                    </persName>
-                    <birth>
-                        <date when="1835-08-25" cert="low">25 de agosto de 1835</date>
-                        <placeName>Finca «Melgarejo»</placeName>
-                        <placeName>El Cobre</placeName>
-                        <placeName>Oriente</placeName>
-                        <placeName>Cuba</placeName>
-                    </birth>
-                    <death>
-                        <date when="1922-05-25">25 de mayo de 1922</date>
-                        <placeName>Regla</placeName>
-                        <placeName>Habana</placeName>
-                        <placeName>Cuba</placeName>
-                    </death>
-                    <idno type="viaf">38072147</idno>
-                    <sex>femenino</sex>
                     <nationality>cubana/o</nationality>
                 </person>
                 <person xml:id="A150">
@@ -2540,20 +1987,6 @@
                     <sex>masculino</sex>
                     <nationality cert="medium">argentina/o</nationality>
                 </person>
-                <person xml:id="A160">
-                    <persName>
-                        <surname>Gómez</surname>
-                        <forename>Eusebio F.</forename>
-                    </persName>
-                    <birth>
-                        <date when="1815">1815</date>
-                    </birth>
-                    <death>
-                        <date when="1885">1885</date>
-                    </death>
-                    <sex>masculino</sex>
-                    <nationality cert="medium">argentina/o</nationality>
-                </person>
                 <person xml:id="A161">
                     <persName>
                         <surname>Gorriti</surname>
@@ -2611,24 +2044,6 @@
                     <idno type="viaf">106964814</idno>
                     <sex>masculino</sex>
                     <nationality>francés/a</nationality>
-                    <!-- Le herencia / El hogar desierto / La rueda loca: 
-                        escritos 1893-96, publicados en 1922 en Relatos Argentinos -->
-                </person>
-                <person xml:id="A164">
-                    <persName>
-                        <surname>Guardiola</surname>
-                        <forename>Matilde</forename>
-                    </persName>
-                    <sex>femenino</sex>
-                    <nationality>desconocido</nationality>
-                </person>
-                <person xml:id="A165">
-                    <persName>
-                        <surname>Pimentel</surname>
-                        <forename>Eduardo</forename>
-                    </persName>
-                    <sex>masculino</sex>
-                    <nationality>desconocido</nationality>
                 </person>
                 <person xml:id="A166">
                     <persName>
@@ -2638,9 +2053,13 @@
                     </persName>
                     <birth>
                         <date when="1834">1834</date>
+                        <placeName>Buenos Aires</placeName>
+                        <placeName>Argentina</placeName>
                     </birth>
                     <death>
-                        <date when="1894">1894</date>
+                        <date when="1864-08-18">18 de agosto de 1864</date>
+                        <placeName cert="low">Buenos Aires</placeName>
+                        <placeName cert="medium">Argentina</placeName>
                     </death>
                     <idno type="viaf">72869266</idno>
                     <sex>femenino</sex>
@@ -2653,13 +2072,6 @@
                     </persName>
                     <sex>masculino</sex>
                     <nationality cert="medium">argentina/o</nationality>
-                </person>
-                <person xml:id="A168">
-                    <persName>
-                        <name type="pseudonym">Guindilla</name>
-                    </persName>
-                    <sex>desconocido</sex>
-                    <nationality cert="low">argentina/o</nationality>
                 </person>
                 <person xml:id="A169">
                     <persName>
@@ -2734,15 +2146,6 @@
                     <sex>masculino</sex>
                     <nationality cert="medium">argentina/o</nationality>
                 </person>
-                <person xml:id="A173">
-                    <persName>
-                        <surname>Herrero</surname>
-                        <forename>José Aurelio</forename>
-                        <addName type="pseudonym">Teseo</addName>
-                    </persName>
-                    <sex>masculino</sex>
-                    <nationality cert="medium">argentina/o</nationality>
-                </person>
                 <person xml:id="A174">
                     <persName>
                         <surname>Higginson</surname>
@@ -2777,10 +2180,6 @@
                     <idno type="viaf">64238553</idno>
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
-                    <!-- posthum: Olimpio Pitango de Monalia
-                    Flor de las nieves, 1912 
-                    Horacio Kalibang o los autómatas, cuento?
-                    varios otros cuentos / novelitas (?) -->
                 </person>
                 <person xml:id="A176">
                     <persName>
@@ -2804,14 +2203,6 @@
                     </persName>
                     <sex>masculino</sex>
                     <nationality>español/a</nationality>
-                </person>
-                <person xml:id="A179">
-                    <persName>
-                        <surname>Labastié</surname>
-                        <forename>Luis</forename>
-                    </persName>
-                    <sex>masculino</sex>
-                    <nationality>desconocido</nationality>
                 </person>
                 <person xml:id="A180">
                     <persName>
@@ -2866,22 +2257,6 @@
                     <nationality cert="medium">uruguaya/o</nationality>
                     <note resp="#Lichtblau">Escritor uruguayo, emigrado a la Argentina 1853.</note>
                 </person>
-                <person xml:id="A184">
-                    <persName>
-                        <surname>Larrain</surname>
-                        <forename>Nicanor</forename>
-                        <addName type="pseudonym">Antar</addName>
-                    </persName>
-                    <birth>
-                        <date when="1840">1840</date>
-                    </birth>
-                    <death>
-                        <date when="1902">1902</date>
-                    </death>
-                    <idno type="viaf">249145857047622921390</idno>
-                    <sex>masculino</sex>
-                    <nationality cert="medium">argentina/o</nationality>
-                </person>
                 <person xml:id="A185">
                     <persName>
                         <surname>Larreta</surname>
@@ -2918,17 +2293,6 @@
                     <sex>femenino</sex>
                     <nationality>uruguaya/o</nationality>
                 </person>
-                <person xml:id="A187">
-                    <persName>
-                        <surname>Lavalle Cobo</surname>
-                        <forename>Jorge</forename>
-                    </persName>
-                    <birth>
-                        <date when="1876">1876</date>
-                    </birth>
-                    <sex>masculino</sex>
-                    <nationality cert="medium">argentina/o</nationality>
-                </person>
                 <person xml:id="A188">
                     <persName>
                         <surname>Leguizamón</surname>
@@ -2949,14 +2313,6 @@
                     <idno type="viaf">15146080</idno>
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
-                </person>
-                <person xml:id="A189">
-                    <persName type="pseudonym">
-                        <surname>Lehardy</surname>
-                        <forename>Karl</forename>
-                    </persName>
-                    <sex>masculino</sex>
-                    <nationality cert="medium">argentina/o</nationality>
                 </person>
                 <person xml:id="A190">
                     <persName>
@@ -3034,14 +2390,6 @@
                     <sex>masculino</sex>
                     <nationality cert="medium">argentina/o</nationality>
                 </person>
-                <person xml:id="A195">
-                    <persName>
-                        <surname>Lucas</surname>
-                        <forename>Miguel</forename>
-                    </persName>
-                    <sex>masculino</sex>
-                    <nationality cert="medium">argentina/o</nationality>
-                </person>
                 <person xml:id="A196">
                     <persName>
                         <surname>Lugones</surname>
@@ -3060,20 +2408,6 @@
                         <placeName>Argentina</placeName>
                     </death>
                     <idno type="viaf">54160474</idno>
-                    <sex>masculino</sex>
-                    <nationality cert="medium">argentina/o</nationality>
-                </person>
-                <person xml:id="A197">
-                    <persName>
-                        <surname>Lussich</surname>
-                        <forename>Juan</forename>
-                    </persName>
-                    <birth>
-                        <date when="1860">1860</date>
-                    </birth>
-                    <death>
-                        <date when="1885">1885</date>
-                    </death>
                     <sex>masculino</sex>
                     <nationality cert="medium">argentina/o</nationality>
                 </person>
@@ -3128,26 +2462,6 @@
                     <idno type="viaf">589145857131022922982</idno>
                     <sex>masculino</sex>
                     <nationality cert="medium">argentina/o</nationality>
-                </person>
-                <person xml:id="A202">
-                    <persName>
-                        <surname>Mansilla</surname>
-                        <forename>Lucio Victorio</forename>
-                    </persName>
-                    <birth>
-                        <date when="1831">1831</date>
-                        <placeName>Buenos Aires</placeName>
-                        <placeName>Argentina</placeName>
-                    </birth>
-                    <death>
-                        <date when="1913">1913</date>
-                        <placeName>París</placeName>
-                        <placeName>Francia</placeName>
-                    </death>
-                    <idno type="viaf">27077855</idno>
-                    <idno type="viaf">165740786</idno>
-                    <sex>masculino</sex>
-                    <nationality>argentina/o</nationality>
                 </person>
                 <person xml:id="A203">
                     <persName>
@@ -3338,36 +2652,20 @@
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
                 </person>
-                <person xml:id="A216">
-                    <persName>
-                        <surname>Mitre y Vedia</surname>
-                        <forename>Bartolomé</forename>
-                        <addName type="pseudonym">Claudio Caballero</addName>
-                    </persName>
-                    <birth>
-                        <date when="1845-03-14">14 de marzo de 1845</date>
-                        <placeName>Montevideo</placeName>
-                        <placeName>Uruguay</placeName>
-                    </birth>
-                    <death>
-                        <date when="1900-04-20">20 de abril de 1900</date>
-                        <placeName>Buenos Aires</placeName>
-                        <placeName>Argentina</placeName>
-                    </death>
-                    <idno type="viaf">19576205</idno>
-                    <sex>masculino</sex>
-                    <nationality>argentina/o</nationality>
-                </person>
                 <person xml:id="A217">
                     <persName>
                         <surname>Mohr</surname>
                         <forename>Luis Alberto</forename>
                     </persName>
                     <birth>
-                        <date when="1844">1844</date>
+                        <date when="1844-08-17">17 de agosto de 1844</date>
+                        <placeName>Buenos Aires</placeName>
+                        <placeName>Argentina</placeName>
                     </birth>
                     <death>
-                        <date when="1929" cert="low">1929</date>
+                        <date when="1929-06-24">24 de junio de 1929</date>
+                        <placeName>Buenos Aires</placeName>
+                        <placeName>Argentina</placeName>
                     </death>
                     <idno type="viaf">309676679</idno>
                     <sex>masculino</sex>
@@ -3523,22 +2821,6 @@
                     <idno type="viaf">240591346</idno>
                     <sex>masculino</sex>
                     <nationality cert="medium">argentina/o</nationality>
-                </person>
-                <person xml:id="A229">
-                    <persName>
-                        <surname>Oteyza Bustamante</surname>
-                        <forename>José</forename>
-                    </persName>
-                    <sex>masculino</sex>
-                    <nationality cert="low">argentina/o</nationality>
-                </person>
-                <person xml:id="A230">
-                    <persName>
-                        <surname>Pacheco</surname>
-                        <forename>J. R.</forename>
-                    </persName>
-                    <sex>masculino</sex>
-                    <nationality cert="medium">mexicana/o</nationality>
                 </person>
                 <person xml:id="A231">
                     <persName>
@@ -3805,25 +3087,6 @@
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
                 </person>
-                <person xml:id="A250">
-                    <persName>
-                        <surname>Pesado</surname>
-                        <forename>José Joaquín</forename>
-                    </persName>
-                    <birth>
-                        <date when="1801-02-09">9 de febrero de 1801</date>
-                        <placeName>San Agustín del Palmar</placeName>
-                        <placeName>Puebla</placeName>
-                    </birth>
-                    <death>
-                        <date when="1861-03-03">3 de marzo de 1861</date>
-                        <placeName>Ciudad de México</placeName>
-                        <placeName>México</placeName>
-                    </death>
-                    <idno type="viaf">63665754</idno>
-                    <sex>masculino</sex>
-                    <nationality>mexicana/o</nationality>
-                </person>
                 <person xml:id="A251">
                     <persName>
                         <surname>Pinares</surname>
@@ -3871,18 +3134,6 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                 </person>
-                <person xml:id="A254">
-                    <persName>
-                        <surname>Ponce y Font</surname>
-                        <forename>Bernardo</forename>
-                    </persName>
-                    <birth>
-                        <date when="1848">1848</date>
-                    </birth>
-                    <idno type="viaf">51414152</idno>
-                    <sex>masculino</sex>
-                    <nationality>mexicana/o</nationality>
-                </person>
                 <person xml:id="A255">
                     <persName>
                         <surname>Portillo</surname>
@@ -3902,25 +3153,6 @@
                         <placeName>Ciudad de México</placeName>
                         <placeName>México</placeName>
                     </birth>
-                    <sex>masculino</sex>
-                    <nationality>mexicana/o</nationality>
-                </person>
-                <person xml:id="A257">
-                    <persName>
-                        <surname>Prieto</surname>
-                        <forename>Guillermo</forename>
-                    </persName>
-                    <birth>
-                        <date when="1818">1818</date>
-                        <placeName>Ciudad de México</placeName>
-                        <placeName>México</placeName>
-                    </birth>
-                    <death>
-                        <date when="1897">1897</date>
-                        <placeName>Ciudad de México</placeName>
-                        <placeName>México</placeName>
-                    </death>
-                    <idno type="viaf">2558888</idno>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                 </person>
@@ -4002,30 +3234,6 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                 </person>
-                <person xml:id="A262">
-                    <persName>
-                        <surname>Othón</surname>
-                        <forename>Manuel José</forename>
-                    </persName>
-                    <birth>
-                        <date when="1858">1858</date>
-                        <placeName>San Luis Potosí</placeName>
-                        <placeName>San Luis Potosí</placeName>
-                        <placeName>México</placeName>
-                    </birth>
-                    <death>
-                        <date when="1906">1906</date>
-                        <placeName>San Luis Potosí</placeName>
-                        <placeName>San Luis Potosí</placeName>
-                        <placeName>México</placeName>
-                    </death>
-                    <idno type="viaf">51709430</idno>
-                    <sex>masculino</sex>
-                    <nationality>mexicana/o</nationality>
-                    <!-- in Obras, Tomo II, 1928: Cuentos de espanto, Novelas rústicas, Novelas cortas, Fragmentos
-                    bei Cervantes Virtual; Mata p. 98: novelas cortas "Un nocturno de Chopin", "El montero Espinosa",
-                    "El pastor Corydón" (de 6000 a 9000 palabras) -->
-                </person>
                 <person xml:id="A263">
                     <persName>
                         <surname>Orihuela</surname>
@@ -4044,7 +3252,6 @@
                     <idno type="viaf">2296900</idno>
                     <sex>masculino</sex>
                     <nationality>español/a</nationality>
-                    <!-- El sol de Jesús Monte. Novela de costumbres cubanas, Paris, 1852 -->
                 </person>
                 <person xml:id="A264">
                     <persName>
@@ -4184,7 +3391,7 @@
                     </death>
                     <idno type="viaf">13985017</idno>
                     <sex>masculino</sex>
-                    <nationality>cubana/o</nationality>
+                    <nationality>español/a</nationality>
                 </person>
                 <person xml:id="A271">
                     <persName>
@@ -4247,25 +3454,6 @@
                     <sex>masculino</sex>
                     <nationality cert="low">cubana/o</nationality>
                 </person>
-                <person xml:id="A274">
-                    <persName>
-                        <surname>Morillas</surname>
-                        <forename>Pedro José</forename>
-                    </persName>
-                    <birth>
-                        <date when="1803">1803</date>
-                        <placeName>La Habana</placeName>
-                        <placeName>Cuba</placeName>
-                    </birth>
-                    <death>
-                        <date when="1881">1881</date>
-                        <placeName>La Habana</placeName>
-                        <placeName>Cuba</placeName>
-                    </death>
-                    <idno type="viaf">73511134</idno>
-                    <sex>masculino</sex>
-                    <nationality>cubana/o</nationality>
-                </person>
                 <person xml:id="A275">
                     <persName>
                         <surname>Morúa Delgado</surname>
@@ -4303,14 +3491,6 @@
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
                 </person>
-                <person xml:id="A278">
-                    <persName>
-                        <surname>Navarro</surname>
-                        <forename>Mariano</forename>
-                    </persName>
-                    <sex>masculino</sex>
-                    <nationality cert="medium">mexicana/o</nationality>
-                </person>
                 <person xml:id="A279">
                     <persName>
                         <surname>Negrete</surname>
@@ -4331,109 +3511,6 @@
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
                     <note source="#ELEM">Llegó a México a los 11 años.</note>
-                </person>
-                <person xml:id="A280">
-                    <persName type="pseudonym">
-                        <surname>Nervo</surname>
-                        <forename>Amado</forename>
-                    </persName>
-                    <persName>
-                        <surname>Ruiz de Nervo y Ordaz</surname>
-                        <forename>Juan Crisóstomo</forename>
-                    </persName>
-                    <birth>
-                        <date when="1870-08-27">27 de agosto de 1870</date>
-                        <placeName>Tepic</placeName>
-                        <placeName>México</placeName>
-                    </birth>
-                    <death>
-                        <date when="1919-05-24">24 de mayo de 1919</date>
-                        <placeName>Montevideo</placeName>
-                        <placeName>Uruguay</placeName>
-                    </death>
-                    <idno type="viaf">97487</idno>
-                    <sex>masculino</sex>
-                    <nationality>mexicana/o</nationality>
-                </person>
-                <person xml:id="A281">
-                    <persName>
-                        <surname>Gante</surname>
-                        <forename>Carlos de</forename>
-                    </persName>
-                    <birth>
-                        <date when="1864">1864</date>
-                        <placeName>Tecali</placeName>
-                        <placeName>Puebla</placeName>
-                        <placeName>México</placeName>
-                    </birth>
-                    <death>
-                        <date when="1936">1936</date>
-                        <placeName>Puebla</placeName>
-                        <placeName>Puebla</placeName>
-                        <placeName>México</placeName>
-                    </death>
-                    <idno type="viaf">313557310</idno>
-                    <sex>masculino</sex>
-                    <nationality>mexicana/o</nationality>
-                </person>
-                <person xml:id="A282">
-                    <persName>
-                        <surname>Frausto</surname>
-                        <forename>Ramón</forename>
-                    </persName>
-                    <sex>masculino</sex>
-                    <nationality cert="medium">mexicana/o</nationality>
-                </person>
-                <person xml:id="A283">
-                    <persName>
-                        <surname>Jácome</surname>
-                        <forename>Luis E.</forename>
-                    </persName>
-                    <sex>masculino</sex>
-                    <nationality cert="medium">mexicana/o</nationality>
-                </person>
-                <person xml:id="A284">
-                    <persName>
-                        <surname>Correa</surname>
-                        <forename>Agustín</forename>
-                    </persName>
-                    <sex>masculino</sex>
-                    <nationality cert="medium">mexicana/o</nationality>
-                </person>
-                <person xml:id="A285">
-                    <persName>
-                        <surname>Torremocha</surname>
-                        <forename>Ricardo P.</forename>
-                    </persName>
-                    <sex>masculino</sex>
-                    <nationality cert="medium">mexicana/o</nationality>
-                </person>
-                <person xml:id="A286">
-                    <persName>
-                        <surname>Villaseñor</surname>
-                        <forename>Manuel E.</forename>
-                    </persName>
-                    <sex>masculino</sex>
-                    <nationality cert="medium">mexicana/o</nationality>
-                </person>
-                <person xml:id="A287">
-                    <persName>
-                        <surname>Bermejo</surname>
-                        <forename>Manuel M.</forename>
-                    </persName>
-                    <birth>
-                        <date when="1865">1865</date>
-                        <placeName>Ciudad de México</placeName>
-                        <placeName>México</placeName>
-                    </birth>
-                    <death>
-                        <date when="1962">1962</date>
-                        <placeName>Ciudad de México</placeName>
-                        <placeName>México</placeName>
-                    </death>
-                    <idno type="viaf">284001011</idno>
-                    <sex>masculino</sex>
-                    <nationality>mexicana/o</nationality>
                 </person>
                 <person xml:id="A288">
                     <persName>
@@ -4562,7 +3639,6 @@
                     <idno type="viaf">39423998</idno>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
-                    <!-- La majestad caída, 1911 (?) -->
                 </person>
                 <person xml:id="A297">
                     <persName>
@@ -4694,25 +3770,6 @@
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
                 </person>
-                <person xml:id="A307">
-                    <persName>
-                        <surname>Lacunza</surname>
-                        <forename>José María</forename>
-                    </persName>
-                    <birth>
-                        <date when="1809">1809</date>
-                        <placeName>Ciudad de México</placeName>
-                        <placeName>México</placeName>
-                    </birth>
-                    <death>
-                        <date when="1869">1869</date>
-                        <placeName>La Habana</placeName>
-                        <placeName>Cuba</placeName>
-                    </death>
-                    <idno type="viaf">19228128</idno>
-                    <sex>masculino</sex>
-                    <nationality>mexicana/o</nationality>
-                </person>
                 <person xml:id="A308">
                     <persName>
                         <surname>Larráinzar</surname>
@@ -4731,56 +3788,6 @@
                     <sex>femenino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
                 </person>
-                <person xml:id="A310">
-                    <persName>
-                        <surname>Lavat</surname>
-                        <forename>Juan</forename>
-                    </persName>
-                    <birth>
-                        <date when="1857">1857</date>
-                        <placeName>Hacienda de Cedros</placeName>
-                        <placeName>San Luis Potosí</placeName>
-                        <placeName>México</placeName>
-                    </birth>
-                    <death>
-                        <date when="1911">1911</date>
-                        <placeName>Guadalajara</placeName>
-                        <placeName>Jalisco</placeName>
-                        <placeName>México</placeName>
-                    </death>
-                    <sex>masculino</sex>
-                    <nationality>mexicana/o</nationality>
-                </person>
-                <person xml:id="A311">
-                    <persName>
-                        <surname>Leduc</surname>
-                        <forename>Alberto</forename>
-                    </persName>
-                    <birth>
-                        <date when="1867-12-05">5 de diciembre de 1867</date>
-                        <placeName>Querétaro</placeName>
-                        <placeName>Querétaro</placeName>
-                        <placeName>México</placeName>
-                    </birth>
-                    <death>
-                        <date when="1908-10-04">4 de octubre de 1908</date>
-                        <placeName>Ciudad de México</placeName>
-                        <placeName>México</placeName>
-                    </death>
-                    <idno type="viaf">14789668</idno>
-                    <sex>masculino</sex>
-                    <nationality>mexicana/o</nationality>
-                    <!-- Biografías sentimentales, 1898, contiene:
-                        El Padre Alfredo, Antonia, La Bachillera (Recuerdos de un Charentón),
-                        15-20 páginas cada una
-                        http://www.cervantesvirtual.com/obra/biografias-sentimentales/ 
-                    - En torno de una muerta (cuentos)
-                    http://bdh.bne.es/bnesearch/detalle/bdh0000107603
-                    - Fragatita (cuentos)
-                    - Ángela Lorenzana (cuentos)
-                    - El vencido (novela?)
-                    -->
-                </person>
                 <person xml:id="A312">
                     <persName>
                         <surname>Lombardo</surname>
@@ -4796,14 +3803,17 @@
                     </persName>
                     <birth>
                         <date when="1850-05-26">26 de mayo de 1850</date>
+                        <placeName>Guadalajara</placeName>
+                        <placeName>México</placeName>
                     </birth>
                     <death>
                         <date when="1923-05-22">22 de mayo de 1923</date>
+                        <placeName>Ciudad de México</placeName>
+                        <placeName>México</placeName>
                     </death>
                     <idno type="viaf">29564117</idno>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
-                    <!-- Seis Leyendas, 1883 (qué leyendas?) -->
                 </person>
                 <person xml:id="A314">
                     <persName>
@@ -4811,15 +3821,6 @@
                         <forename>Rafael</forename>
                         <addName type="pseudonym">Ricardo Colt</addName>
                     </persName>
-                    <sex>masculino</sex>
-                    <nationality cert="medium">mexicana/o</nationality>
-                </person>
-                <person xml:id="A315">
-                    <persName>
-                        <surname>Loyola</surname>
-                        <forename>Bernabé</forename>
-                    </persName>
-                    <idno type="viaf">70645287</idno>
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
                 </person>
@@ -4835,14 +3836,6 @@
                     <persName>
                         <surname>Llanas</surname>
                         <forename>Pedro L.</forename>
-                    </persName>
-                    <sex>masculino</sex>
-                    <nationality cert="medium">mexicana/o</nationality>
-                </person>
-                <person xml:id="A318">
-                    <persName>
-                        <surname>Jens</surname>
-                        <forename>Federico Carlos</forename>
                     </persName>
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
@@ -4866,8 +3859,6 @@
                     <idno type="viaf">30739492</idno>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
-                    <!-- perdidos: Los tres Pepes; Pepita la planchadora
-                    - Reglas con las que un colegial puede colear y lazar (novela?) -->
                 </person>
                 <person xml:id="A320">
                     <persName>
@@ -4883,22 +3874,6 @@
                         <forename>J. R.</forename>
                     </persName>
                     <sex>masculino</sex>
-                    <nationality cert="medium">mexicana/o</nationality>
-                </person>
-                <person xml:id="A322">
-                    <persName>
-                        <surname>Hernández</surname>
-                        <forename>Adela</forename>
-                    </persName>
-                    <persName>
-                        <surname>Herrera</surname>
-                        <forename>Adela</forename>
-                    </persName>
-                    <persName>
-                        <surname>Heridrea Real</surname>
-                        <forename>Ada</forename>
-                    </persName>
-                    <sex>femenino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
                 </person>
                 <person xml:id="A323">
@@ -4919,14 +3894,6 @@
                     <idno type="viaf">30872022</idno>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
-                </person>
-                <person xml:id="A324">
-                    <persName>
-                        <surname>Galindo</surname>
-                        <forename>Humberto</forename>
-                    </persName>
-                    <sex>masculino</sex>
-                    <nationality cert="medium">mexicana/o</nationality>
                 </person>
                 <person xml:id="A325">
                     <persName>
@@ -4966,8 +3933,6 @@
                     <idno type="viaf">61671056</idno>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
-                    <!-- Impresiones y recuerdos (memorias en forma narrativa, 1896)
-                    - Mi diario, 1907, 1910 -->
                 </person>
                 <person xml:id="A327">
                     <persName>
@@ -4976,23 +3941,6 @@
                     </persName>
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
-                </person>
-                <person xml:id="A328">
-                    <persName>
-                        <surname>García</surname>
-                        <forename>Genaro</forename>
-                        <addName type="pseudonym">Franco Leal</addName>
-                    </persName>
-                    <birth>
-                        <date when="1867">1867</date>
-                    </birth>
-                    <death>
-                        <date when="1920">1920</date>
-                    </death>
-                    <idno type="viaf">4967617</idno>
-                    <sex>masculino</sex>
-                    <nationality>mexicana/o</nationality>
-                    <!-- Dos antiguas relaciones de la Florida (1902, no es novela) -->
                 </person>
                 <person xml:id="A329">
                     <persName>
@@ -5074,27 +4022,6 @@
                         <placeName>México</placeName>
                     </birth>
                     <idno type="viaf">165474218</idno>
-                    <sex>masculino</sex>
-                    <nationality>mexicana/o</nationality>
-                </person>
-                <person xml:id="A335">
-                    <persName>
-                        <surname>Gutiérrez de Lara</surname>
-                        <forename>Lázaro</forename>
-                    </persName>
-                    <birth>
-                        <date when="1870">1870</date>
-                        <placeName>Monterrey</placeName>
-                        <placeName>Nuevo León</placeName>
-                        <placeName>México</placeName>
-                    </birth>
-                    <death>
-                        <date when="1918">1918</date>
-                        <placeName>Sáric</placeName>
-                        <placeName>Sonora</placeName>
-                        <placeName>México</placeName>
-                    </death>
-                    <idno type="viaf">51412817</idno>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                 </person>
@@ -5198,27 +4125,6 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                 </person>
-                <person xml:id="A342">
-                    <persName>
-                        <surname>Frías y Soto</surname>
-                        <forename>Hilarión</forename>
-                        <addName type="pseudonym">Safir</addName>
-                    </persName>
-                    <birth>
-                        <date when="1831">1831</date>
-                        <placeName>Querétaro</placeName>
-                        <placeName>Querétaro</placeName>
-                        <placeName>México</placeName>
-                    </birth>
-                    <death>
-                        <date when="1905">1905</date>
-                        <placeName>Ciudad de México</placeName>
-                        <placeName>México</placeName>
-                    </death>
-                    <idno type="viaf">228384147</idno>
-                    <sex>masculino</sex>
-                    <nationality>mexicana/o</nationality>
-                </person>
                 <person xml:id="A343">
                     <persName>
                         <surname>Fuentes</surname>
@@ -5260,22 +4166,6 @@
                         <placeName>Argentina</placeName>
                     </death>
                     <idno type="viaf">17276107</idno>
-                    <sex>masculino</sex>
-                    <nationality>argentina/o</nationality>
-                    <!-- Violines y toneles (cortos, cuentos?) -->
-                </person>
-                <person xml:id="A346">
-                    <persName>
-                        <surname>Paz</surname>
-                        <forename>Carlos Luis</forename>
-                    </persName>
-                    <birth>
-                        <date when="1837">1837</date>
-                    </birth>
-                    <death>
-                        <date when="1874">1847</date>
-                    </death>
-                    <idno type="viaf">100787817</idno>
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
                 </person>
@@ -5340,41 +4230,17 @@
                     </persName>
                     <birth>
                         <date when="1853">1853</date>
+                        <placeName>Buenos Aires</placeName>
+                        <placeName>Argentina</placeName>
                     </birth>
                     <death>
                         <date when="1920">1920</date>
+                        <placeName>Buenos Aires</placeName>
+                        <placeName>Argentina</placeName>
                     </death>
                     <idno type="viaf">6600590</idno>
                     <sex>masculino</sex>
-                    <nationality cert="low">argentina/o</nationality>
-                </person>
-                <person xml:id="A352">
-                    <persName>
-                        <surname>Quesada</surname>
-                        <forename>Vicente Gregorio</forename><!-- Gaspar? -->
-                    </persName>
-                    <birth>
-                        <date when="1830-04-05">5 de abril de 1830</date>
-                        <placeName>Buenos Aires</placeName>
-                        <placeName>Argentina</placeName>
-                    </birth>
-                    <death>
-                        <date when="1913-09-19">19 de septiembre de 1913</date>
-                        <placeName>Buenos Aires</placeName>
-                        <placeName>Argentina</placeName>
-                    </death>
-                    <idno type="viaf">89363593</idno>
-                    <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
-                </person>
-                <person xml:id="A353">
-                    <persName>
-                        <surname>Quiroga</surname>
-                        <forename>Guillermo</forename>
-                    </persName>
-                    <idno type="viaf">582145856974122920850</idno>
-                    <sex>masculino</sex>
-                    <nationality cert="low">argentina/o</nationality>
                 </person>
                 <person xml:id="A354">
                     <persName>
@@ -5403,31 +4269,21 @@
                     <sex>femenino</sex>
                     <nationality cert="low">argentina/o</nationality>
                 </person>
-                <person xml:id="A356">
-                    <persName>
-                        <surname>Reynal O'Connor</surname>
-                        <forename>Arturo</forename>
-                    </persName>
-                    <birth>
-                        <date when="1854">1854</date>
-                    </birth>
-                    <death>
-                        <date when="1920">1920</date>
-                    </death>
-                    <idno type="viaf">179145856859822920275</idno>
-                    <sex>masculino</sex>
-                    <nationality cert="low">argentina/o</nationality>
-                </person>
                 <person xml:id="A357">
                     <persName>
                         <surname>Rivarola</surname>
                         <forename>Enrique E.</forename>
+                        <addName type="pseudonym">Santos Vega</addName>
                     </persName>
                     <birth>
-                        <date when="1862">1862</date>
+                        <date when="1862-02-15">15 de febrero de 1862</date>
+                        <placeName>Rosario</placeName>
+                        <placeName>Argentina</placeName>
                     </birth>
                     <death>
-                        <date when="1931">1931</date>
+                        <date when="1931-10-27">27 de octubre de 1931</date>
+                        <placeName>La Plata</placeName>
+                        <placeName>Argentina</placeName>
                     </death>
                     <idno type="viaf">38853622</idno>
                     <sex>masculino</sex>
@@ -5517,47 +4373,6 @@
                     <idno type="viaf">75976428</idno>
                     <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
-                    <!-- Bosquejo inverosímil. Cuento original de [...] La Habana, Imp. El Pilar, 1910
-                    - El cobarde. Novela (cuándo, 1912?) -->
-                </person>
-                <person xml:id="A364">
-                    <persName>
-                        <surname>López de Briñas</surname>
-                        <forename>Felipe</forename>
-                    </persName>
-                    <birth>
-                        <date when="1822-06-18">18 de junio de 1822</date>
-                        <placeName>La Habana</placeName>
-                        <placeName>Cuba</placeName>
-                    </birth>
-                    <death>
-                        <date when="1877-09-22">22 de septiembre de 1877</date>
-                        <placeName>La Habana</placeName>
-                        <placeName>Cuba</placeName>
-                    </death>
-                    <sex>masculino</sex>
-                    <nationality>cubana/o</nationality>
-                </person>
-                <person xml:id="A365">
-                    <persName>
-                        <surname>Lozano Casado</surname>
-                        <forename>Miguel</forename>
-                    </persName>
-                    <birth>
-                        <date when="1874-06-08">8 de junio de 1874</date>
-                        <placeName>Medellín</placeName>
-                        <placeName>Badajoz</placeName>
-                        <placeName>España</placeName>
-                    </birth>
-                    <death>
-                        <date when="1932-09-28">28 de septiembre de 1932</date>
-                        <placeName>La Habana</placeName>
-                        <placeName>Cuba</placeName>
-                    </death>
-                    <sex>masculino</sex>
-                    <nationality>español/a</nationality>
-                    <!-- Del amor y del recuerdo (Novelas cortas).
-                        Pról. de Juan G. Pumariega. La Habana, Imp. P. Femández, 1907 (qué novelas cortas?) -->
                 </person>
                 <person xml:id="A366">
                     <persName>
@@ -5595,7 +4410,9 @@
                     <idno type="viaf">120788045</idno>
                     <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
-                    <note><ref>http://www.prosamodernista.com/prosa-modernista/prosa-modernista-criollista/alvaro-de-la-iglesia</ref></note>
+                    <note>
+                        <ref>http://www.prosamodernista.com/prosa-modernista/prosa-modernista-criollista/alvaro-de-la-iglesia</ref>
+                    </note>
                 </person>
                 <person xml:id="A368">
                     <persName>
@@ -5614,36 +4431,9 @@
                     </death>
                     <idno type="viaf">3703780</idno>
                     <sex>masculino</sex>
-                    <nationality>cubana/o</nationality>
+                    <nationality>dominicana/o</nationality>
                     <note source="#DLC">Muy niño aún fue trasladado a Cuba, donde cursó todos sus
                         estudios. Residió la mayor parte de su vida en Matanzas.</note>
-                </person>
-                <person xml:id="A369">
-                    <persName>
-                        <surname>Paula Gelabert</surname>
-                        <forename>Francisco de</forename>
-                        <addName type="pseudonym">Genaro</addName>
-                        <addName type="pseudonym">Abel</addName>
-                        <addName type="pseudonym">Crispino</addName>
-                        <addName type="pseudonym">Natigay</addName>
-                        <addName type="pseudonym">Gilberto</addName>
-                        <addName type="pseudonym">El mismo</addName>
-                        <addName type="pseudonym">Pánfilo</addName>
-                        <addName type="pseudonym">Oben Omar</addName>
-                    </persName>
-                    <birth>
-                        <date when="1834-09-14">14 de septiembre de 1834</date>
-                        <placeName>La Habana</placeName>
-                        <placeName>Cuba</placeName>
-                    </birth>
-                    <death>
-                        <date when="1894-08-03">3 de agosto de 1894</date>
-                        <placeName>La Habana</placeName>
-                        <placeName>Cuba</placeName>
-                    </death>
-                    <idno type="viaf">100917327</idno>
-                    <sex>masculino</sex>
-                    <nationality>cubana/o</nationality>
                 </person>
                 <person xml:id="A370">
                     <persName>
@@ -5663,25 +4453,6 @@
                     </death>
                     <idno type="viaf">76328537</idno>
                     <sex>femenino</sex>
-                    <nationality>cubana/o</nationality>
-                    <!-- en las obras completas hay más leyendas y tradiciones (cortas) -->
-                </person>
-                <person xml:id="A371">
-                    <persName>
-                        <surname>González</surname>
-                        <forename>Manuel Dionisio</forename>
-                    </persName>
-                    <birth>
-                        <date when="1815-04-08">8 de abril de 1815</date>
-                        <placeName>Santa Clara</placeName>
-                        <placeName>Cuba</placeName>
-                    </birth>
-                    <death>
-                        <date when="1883-05-14">14 de mayo de 1883</date>
-                        <placeName>Santa Clara</placeName>
-                        <placeName>Cuba</placeName>
-                    </death>
-                    <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
                 </person>
                 <person xml:id="A372">
@@ -5704,7 +4475,7 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
-                    <!-- Novelas cubanas. Pról. de Ramón Meza. La Habana, Imp. El Pilar, 1895. (cuáles?) -->
+                    
                 </person>
                 <person xml:id="A373">
                     <persName>
@@ -5724,9 +4495,6 @@
                     <idno type="viaf">67917073</idno>
                     <sex>masculino</sex>
                     <nationality>español/a</nationality>
-                    <!-- bei Trelles gelistet, aber Nationalität Spanier, Grenzfall? 
-                    Leyendas de Monserrat. [Madrid?], 1866. (cuáles?) 
-                    Tradiciones de América (más leyendas, más cortas: El indio Javi) -->
                 </person>
                 <person xml:id="A374">
                     <persName>
@@ -5754,24 +4522,6 @@
                     <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
                     <note source="#DLC">Se educó en España.</note>
-                    <!-- Páginas de un demente. Baturillo agri-dulce. Enciclopedia 
-                        de sátiras sin hiel, de chistes sin sal, de bromas pesadas,
-                        de banderillas de fuego, de epigramas, de chismografía, de cáusticos,
-                        &. Madrid, Imp. de García, 1849-1850.
-                        - Lecciones de mundo. Páginas de infancia. La Habana, Imp. del Gobierno, 1862;
-                        - Cuentos de salón. 2ª ed. La Habana, Imp. y Librería El Iris, 1864-1867.
-                        5 v.; [¿3ª ed. La Habana?], 1872; Nueva ed. Barcelona, Est. Tip. de Espasa, 1887-1888. 2 v.
-                        - Lecciones familiares. Páginas de la infancia y la adolescencia. 
-                        Puerto Rico, Imp. de Guasp., 1869; 3ª ed. Madrid, 1871; 4ª ed. Madrid, 
-                        1871; 4ª ed. Lecciones familiares. Páginas morales en prosa. 
-                        Madrid, Imp. de M. Tello, 1876.
-                        - Las trece noches de Carmen. Encantos de la vida ideal. Madrid, Imp. de M. Tello, 1877;
-                        3ª ed. [Madrid?], 1884.
-                        - La pasión de los celos. Cuadros de la vida íntima. La Habana, Imp. del Gobierno..., 1888.
-                        - Gritos del alma. Desahogos en prosa. Barcelona, A. López Robert, impresor, 1895.
-                        - Maldita vanidad [Madrid?, s.a.]
-                        - Narraciones espanolas y americanas
-                    -->
                 </person>
                 <person xml:id="A375">
                     <persName>
@@ -5792,26 +4542,6 @@
                     <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
                 </person>
-                <person xml:id="A376">
-                    <persName>
-                        <surname>Echeverría</surname>
-                        <forename>José Antonio</forename>
-                    </persName>
-                    <birth>
-                        <date>desconocido</date>
-                        <placeName>Barcelona</placeName>
-                        <placeName>Venezuela</placeName>
-                    </birth>
-                    <death>
-                        <date when="1885-03-11">11 de marzo de 1885</date>
-                        <placeName>Nueva York</placeName>
-                        <placeName>Estados Unidos</placeName>
-                    </death>
-                    <sex>masculino</sex>
-                    <nationality cert="low">cubana/o</nationality>
-                    <note source="#DLC">Emigró a Cuba con su familia durante su primera
-                        infancia.</note>
-                </person>
                 <person xml:id="A377">
                     <persName>
                         <surname>Cabrera y Bosch</surname>
@@ -5830,9 +4560,6 @@
                     <idno type="viaf">38294080</idno>
                     <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
-                    <!-- Mis buenos tiempos (Memorias de estudiante). La Habana, Imp. 
-                    de A. Álvarez, 1891; 2ª ed. Pról. de Rafael Montoro. Filadelfia, La Compañía Levytype, 1892;
-                    París, Librería Paul Ollendorff [1913?]: 4ª ed. La Habana, Ricardo Veloso editor, 1.922. (autobiografía) -->
                 </person>
                 <person xml:id="A378">
                     <persName>
@@ -5858,24 +4585,6 @@
                     <idno type="viaf">56453354</idno>
                     <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
-                    <!-- Recuerdos de antes de ayer... (1893, episodios cortos) https://archive.org/details/recuerdosdeante00calcgoog
-                    El Coburgo, novela (en Mesa revuelta I & II)
-                    El Fatalismo. Novela de costumbres (en Mesa revuelta II)
-                    Las mil y una mujeres. Novela (en Mesa revuelta II)
-                    Amirail. Novela india (en Mesa revuelta II)
-                    Tras la luna de miel. Novela. Continuación de Mis primeros amores (en Mesa revuelta II)
-                    La mulata. Novela de costumbres (en Mesa revuelta II)
-                    - Escenas cubanas. Güines, 1863.
-                    - Mesa revuelta; o sea, Recopilación de composiciones antiguas y modernas; 
-                    entre las cuales figuran picantes agudezas, cuentos, chistes, epigramas, chascarrillos, 
-                    anécdotas & muy útiles para los enfermos, enamorados, perseguidos de los ingleses, amigos 
-                    de velorios & e indispensable para los que han llevado calabazas o que padecen arranquitis. 
-                    Cuaderno tercero. La Habana, Imp. Militar, 1863.
-                    - Calcañotipos o sea retratos a la pluma, por un nuevo sistema de mi invención. Güines, Imp. La Antillana, 1864
-                    - Aponte. Barcelona, Tip. de Francisco Costa, 1901. 2 t. (?)
-                    - El aprendiz de zapatero. Monólogo. La Habana, Imp. El Pilar, 1891 (?)
-                    - Apuntes biográficos del ilustre sabio cubano D. Tranquilino Sandalio de Noda. Matanzas, Imp. Galería Literaria, 1891 (?)
-                    -->
                 </person>
                 <person xml:id="A379">
                     <persName>
@@ -5892,49 +4601,6 @@
                     </birth>
                     <death>
                         <date when="1868-07-04">4 de julio de 1868</date>
-                        <placeName>La Habana</placeName>
-                        <placeName>Cuba</placeName>
-                    </death>
-                    <sex>masculino</sex>
-                    <nationality>cubana/o</nationality>
-                    <!-- Hatuey (leyenda, inédita, inconclusa) 
-                    D. Juan (novela, fragmentos) -->
-                </person>
-                <person xml:id="A380">
-                    <persName>
-                        <surname>Carricante</surname>
-                        <forename>Arturo R. de</forename>
-                        <addName type="pseudonym">C. de Arracerit</addName>
-                        <addName type="pseudonym">A. R. de Castro</addName>
-                        <addName type="pseudonym">Blas Gil</addName>
-                        <addName type="pseudonym">Segundo Valbuena</addName>
-                    </persName>
-                    <birth>
-                        <date when="1880-11-06">6 de noviembre de 1880</date>
-                        <placeName>La Habana</placeName>
-                        <placeName>Cuba</placeName>
-                    </birth>
-                    <death>
-                        <date when="1948-11-08">8 de noviembre de 1948</date>
-                        <placeName>Marianao</placeName>
-                        <placeName>La Habana</placeName>
-                        <placeName>Cuba</placeName>
-                    </death>
-                    <sex>masculino</sex>
-                    <nationality>cubana/o</nationality>
-                </person>
-                <person xml:id="A381">
-                    <persName>
-                        <surname>Carrillo y O'Farrill</surname>
-                        <forename>Isaac</forename>
-                    </persName>
-                    <birth>
-                        <date when="1844-05-11">11 de mayo de 1844</date>
-                        <placeName>La Habana</placeName>
-                        <placeName>Cuba</placeName>
-                    </birth>
-                    <death>
-                        <date when="1901-11-13">13 de noviembre de 1901</date>
                         <placeName>La Habana</placeName>
                         <placeName>Cuba</placeName>
                     </death>
@@ -5959,8 +4625,6 @@
                     <idno type="viaf">66475635</idno>
                     <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
-                    <!-- El principio de autoridad (inconclusa)
-                    La última voluntad y otros relatos, 1903, http://online-db.iai.spk-berlin.de/han/789408953 -->
                 </person>
                 <person xml:id="A383">
                     <persName>
@@ -5979,25 +4643,6 @@
                         <placeName>Cuba</placeName>
                     </death>
                     <idno type="viaf">169901980</idno>
-                    <sex>masculino</sex>
-                    <nationality>cubana/o</nationality>
-                    <!-- De tierra adentro, 1906 (cuentos) -->
-                </person>
-                <person xml:id="A384">
-                    <persName>
-                        <surname>Costales y Govantes</surname>
-                        <forename>Manuel</forename>
-                    </persName>
-                    <birth>
-                        <date when="1815-06-24">24 de junio de 1815</date>
-                        <placeName>La Habana</placeName>
-                        <placeName>Cuba</placeName>
-                    </birth>
-                    <death>
-                        <date when="1866-03-22">22 de marzo de 1866</date>
-                        <placeName>La Habana</placeName>
-                        <placeName>Cuba</placeName>
-                    </death>
                     <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
                 </person>
@@ -6038,26 +4683,6 @@
                     <idno type="viaf">28495747</idno>
                     <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
-                    <!-- novelas inéditas: La hija del Hatuey, Filigrana, El Doctor Boileau -->
-                </person>
-                <person xml:id="A387">
-                    <persName>
-                        <surname>Bachiller y Morales</surname>
-                        <forename>Antonio</forename>
-                    </persName>
-                    <birth>
-                        <date when="1812-06-07">7 de junio de 1812</date>
-                        <placeName>La Habana</placeName>
-                        <placeName>Cuba</placeName>
-                    </birth>
-                    <death>
-                        <date when="1889-01-10">10 de enero de 1889</date>
-                        <placeName>La Habana</placeName>
-                        <placeName>Cuba</placeName>
-                    </death>
-                    <idno type="viaf">33462777</idno>
-                    <sex>masculino</sex>
-                    <nationality>cubana/o</nationality>
                 </person>
                 <person xml:id="A388">
                     <persName>
@@ -6077,8 +4702,6 @@
                     <idno type="viaf">99347477</idno>
                     <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
-                    <!-- Obras. Primer volumen. Cartagena de Colombia, Ruiz e hijos, editores, 1874. (poemas, etc.)
-                Monólogos. Amor y honor. Edmundo Dantés. La Habana, Imp. de E. F. Casona, 1889. ? -->
                 </person>
                 <person xml:id="A389">
                     <persName>
@@ -6097,25 +4720,6 @@
                         <placeName>Cuba</placeName>
                     </death>
                     <idno type="viaf">28643072</idno>
-                    <sex>masculino</sex>
-                    <nationality>cubana/o</nationality>
-                </person>
-                <person xml:id="A390">
-                    <persName>
-                        <surname>Blanchié</surname>
-                        <forename>Francisco Javier</forename>
-                    </persName>
-                    <birth>
-                        <date when="1822-11-25">25 de noviembre de 1822</date>
-                        <placeName>La Habana</placeName>
-                        <placeName>Cuba</placeName>
-                    </birth>
-                    <death>
-                        <date when="1847-01-27">27 de enero de 1847</date>
-                        <placeName>La Habana</placeName>
-                        <placeName>Cuba</placeName>
-                    </death>
-                    <idno type="viaf">87374211</idno>
                     <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
                 </person>
@@ -6138,8 +4742,6 @@
                     <nationality>dominicana/o</nationality>
                     <note source="#DLC">Muy niño aún fue trasladado a Cuba, donde cursó estudios y
                         adquirió una sólida formación jurídica y literaria.</note>
-                    <!-- Su novela La joven Carmela fue autorizada para la publicación en 1841,
-                        pero no hay constancia de que ésta tuviera lugar. -->
                 </person>
                 <person xml:id="A392">
                     <persName>
@@ -6161,35 +4763,6 @@
                     <idno type="viaf">86959601</idno>
                     <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
-                    <!-- Novelas en germen, Dos crepúsculos (10 páginas, sin capítulos) -->
-                </person>
-                <person xml:id="A393">
-                    <persName>
-                        <surname>Borrero Echeverría</surname>
-                        <forename>Esteban</forename>
-                    </persName>
-                    <birth>
-                        <date when="1849-06-26">26 de junio de 1849</date>
-                        <placeName>Puerto Príncipe</placeName>
-                        <placeName>Camagüey</placeName>
-                        <placeName>Cuba</placeName>
-                    </birth>
-                    <death>
-                        <date when="1906-03-29">29 de marzo de 1906</date>
-                        <placeName>San Diego de los Baños</placeName>
-                        <placeName>Pinar del Río</placeName>
-                        <placeName>Cuba</placeName>
-                    </death>
-                    <idno type="viaf">12664942</idno>
-                    <sex>masculino</sex>
-                    <nationality>cubana/o</nationality>
-                    <!-- Aventuras de las hormigas (novela inconclusa)
-                    - Una novelita, en Lectura de Pascuas
-                    (muy corta, http://www.prosamodernista.com/prosa-premodernista/esteban-borrero-echeverria
-                    https://drive.google.com/file/d/0B7tp3AozQe8KbjZjREtLcHBPclk/view)
-                    - Machito Pichón (en Lectura de Pascuas, muy corto)
-                    - Cuestión de Moneas (en Lectura de Pascuas, muy corto)
-                    -->
                 </person>
                 <person xml:id="A394">
                     <persName>
@@ -6210,13 +4783,6 @@
                     <sex>masculino</sex>
                     <nationality>español/a</nationality>
                     <note source="#DLC">Llegó a La Habana por primera vez en 1825.</note>
-                    <!-- Los Caballeros de la Banda; o, Las revueltas de Castilla. 
-                        Novela histórica caballeresca del siglo XV. Madrid-Barcelona,
-                        Imp. Hispana de Vicente Costaños, 1856; Barcelona, 1865.
-                    - Rey, emperador y monje. Novela. Barcelona, 1856. 
-                    - Don Felipe el Prudente. Novela. Barcelona [ca. 1856]. http://www.cervantesvirtual.com/obra-visor-din/don-felipe-el-prudente-novela-historica- -0/html/
-                    - Carlos III; o, Los mendigos de la Corte. Barcelona, 1859. (novela?) 
-                    - Aben-Zaide. Trabajos y miserias de la vida. Cuadros jocoso-serios. Madrid, Boix, 1842. -->
                 </person>
                 <person xml:id="A395">
                     <persName>
@@ -6236,11 +4802,6 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
-                    <!-- Grandezas asturianas. Colección de leyendas recogidas en la historia y tradición de Asturias. 
-                        La Habana, Imp. La América, 1890.
-                    - Prosa y verso. Colección de trabajos literarios y morales. Guanajay, Imp. de Ladreda, 1895. 
-                    - Joaquín N. Aramburu. Recopilación de algunas de sus obras. Compiladas por A. Moral. Guanajay, Imp. El Vigilante, 1906
-                    - Páginas. Colección de trabajos en prosa y verso. Pról. de Rafael Montoro. La Habana, Imp. Avisador Comercial. 1907 -->
                 </person>
                 <person xml:id="A396">
                     <persName>
@@ -6260,7 +4821,6 @@
                     <idno type="viaf">90580958</idno>
                     <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
-                    <!-- Su novela Un desafío (La Habana, 1865) no se terminó de publicar al ser prohibida por las autoridades españolas. -->
                 </person>
                 <person xml:id="A397">
                     <persName>
@@ -6281,8 +4841,6 @@
                     <nationality>español/a</nationality>
                     <note source="#DLC">En 1833 se traslada a Cuba donde se forma como escritora
                         [...]</note>
-                    <!-- Ramillete habanero. Verdades. México, D. F., Tipografía Mexicana, 1875. 
-                    https://babel.hathitrust.org/cgi/pt?id=nnc1.0040298531 (?)-->
                 </person>
                 <person xml:id="A398">
                     <persName>
@@ -6393,8 +4951,6 @@
                     <idno type="viaf">56534761</idno>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
-                    <!-- La mujer blanca. Leyenda mexicana, 1868 (en verso)
-                        Tipos veracruzanos. Xalapa, Enríquez, 1894. 1 vol. en 8° -->
                 </person>
                 <person xml:id="A404">
                     <persName>
@@ -6452,8 +5008,6 @@
                     <idno type="viaf">9935416</idno>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
-                    <!-- 
-                    - Antes de la boda (teatro, monólogo) -->
                 </person>
                 <person xml:id="A407">
                     <persName>
@@ -6474,8 +5028,6 @@
                     <idno type="viaf">24826957</idno>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
-                    <!-- Impresiones y sentimientos. Escenas y costumbres mexicanas, 1857 / 1859
-                    https://catalog.hathitrust.org/Record/011639142 -->
                 </person>
                 <person xml:id="A408">
                     <persName>
@@ -6531,7 +5083,6 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
-                    <!-- Fátima. Leyenda árabe. 1907. 13 p. -->
                 </person>
                 <person xml:id="A411">
                     <persName>
@@ -6549,22 +5100,6 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
-                </person>
-                <person xml:id="A412">
-                    <persName>
-                        <surname>Calderón de Becerra</surname>
-                        <forename>Pablo</forename>
-                    </persName>
-                    <sex>masculino</sex>
-                    <nationality cert="medium">mexicana/o</nationality>
-                </person>
-                <person xml:id="A413">
-                    <persName>
-                        <surname>Cambereros</surname>
-                        <forename>Manuela G. de</forename>
-                    </persName>
-                    <sex>femenino</sex>
-                    <nationality cert="medium">mexicana/o</nationality>
                 </person>
                 <person xml:id="A414">
                     <persName>
@@ -6610,32 +5145,6 @@
                     <sex cert="medium">masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
                 </person>
-                <person xml:id="A417">
-                    <persName>
-                        <surname>Castillo</surname>
-                        <forename>Rafael del</forename>
-                        <addName type="pseudonym">Álvaro Carrillo</addName>
-                    </persName>
-                    <birth>
-                        <date when="1830">1830</date>
-                        <placeName>Cartagena</placeName>
-                        <placeName>España</placeName>
-                    </birth>
-                    <death>
-                        <date when="1908">1908</date>
-                    </death>
-                    <idno type="viaf">46419719</idno>
-                    <sex>masculino</sex>
-                    <nationality>español/a</nationality>
-                    <!-- Las hijas sin madre. Novela de costumbres. Barcelona, 1900, 
-                        https://archive.org/details/lashijassinmadre01cast
-                    https://archive.org/details/lashijassinmadre02cast 
-                    - Los caballeros del amor, Memorias del reinado de Carlos III, Novela histórica, Barcelona, 1878-79
-                    - Misterios del serrallo, Barcelona, 1886
-                    - Los dramas de la locura, Misterios del manicomio, Novela, Barcelona, 1888
-                    
-                    -->
-                </person>
                 <person xml:id="A418">
                     <persName>
                         <surname>Carrillo</surname>
@@ -6643,44 +5152,6 @@
                     </persName>
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
-                </person>
-                <person xml:id="A419">
-                    <persName>
-                        <surname>Carrillo y Ancona</surname>
-                        <forename>Crescencio</forename>
-                    </persName>
-                    <birth>
-                        <date when="1836-04-19">19 de abril de 1836</date>
-                        <placeName>Izamal</placeName>
-                        <placeName>Yucatán</placeName>
-                        <placeName>México</placeName>
-                    </birth>
-                    <death>
-                        <date when="1897-03-19">19 de marzo de 1897</date>
-                        <placeName>Lero</placeName>
-                        <placeName>Yucatán</placeName>
-                        <placeName>México</placeName>
-                    </death>
-                    <idno type="viaf">72745738</idno>
-                    <sex>masculino</sex>
-                    <nationality>mexicana/o</nationality>
-                </person>
-                <person xml:id="A420">
-                    <persName>
-                        <surname>Carrión</surname>
-                        <forename>Antonio</forename>
-                    </persName>
-                    <birth>
-                        <date when="1834">1834</date>
-                        <placeName>Ciudad de México</placeName>
-                    </birth>
-                    <death>
-                        <date when="1911" cert="low">1911</date>
-                        <placeName>Tacubaya</placeName>
-                        <placeName>México</placeName>
-                    </death>
-                    <sex>masculino</sex>
-                    <nationality>mexicana/o</nationality>
                 </person>
                 <person xml:id="A421">
                     <persName>
@@ -6707,7 +5178,6 @@
                     <idno type="viaf">73940156</idno>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
-                    <!-- Impresiones y recuerdos, 1882 (darin?) -->
                 </person>
                 <person xml:id="A423">
                     <persName>
@@ -6727,7 +5197,6 @@
                     <idno type="viaf">36751759</idno>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
-                    <!-- Novelas. Ed. de El Tiempo. México, Imprenta de V. Agüeros. 1902. 443 p. (cuáles?) -->
                 </person>
                 <person xml:id="A424">
                     <persName>
@@ -6736,25 +5205,6 @@
                     </persName>
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
-                </person>
-                <person xml:id="A425">
-                    <persName>
-                        <surname>Castillo</surname>
-                        <forename>Rafael del</forename>
-                    </persName>
-                    <birth>
-                        <date when="1847-11-28">28 de noviembre de 1847</date>
-                        <placeName>San Luis Potosí</placeName>
-                        <placeName>México</placeName>
-                    </birth>
-                    <death>
-                        <date when="1917-01-25">25 de enero de 1917</date>
-                        <placeName>San Luis Potosí</placeName>
-                        <placeName>México</placeName>
-                    </death>
-                    <idno type="viaf">46419719</idno>
-                    <sex>masculino</sex>
-                    <nationality>mexicana/o</nationality>
                 </person>
                 <person xml:id="A426">
                     <persName>
@@ -6774,47 +5224,6 @@
                     <idno type="viaf">167548914</idno>
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
-                </person>
-                <person xml:id="A427">
-                    <persName>
-                        <surname>Castro</surname>
-                        <forename>Juan S.</forename>
-                    </persName>
-                    <birth>
-                        <date when="1860">1860</date>
-                        <placeName>Ayo el Chico</placeName>
-                        <placeName>Jalisco</placeName>
-                        <placeName>México</placeName>
-                    </birth>
-                    <death>
-                        <date when="1920">1920</date>
-                        <placeName>Guadalajara</placeName>
-                        <placeName>Jalisco</placeName>
-                        <placeName>México</placeName>
-                    </death>
-                    <sex>masculino</sex>
-                    <nationality>mexicana/o</nationality>
-                </person>
-                <person xml:id="A428">
-                    <persName>
-                        <surname>Ceballos</surname>
-                        <forename>Ciro B.</forename>
-                    </persName>
-                    <birth>
-                        <date when="1873-01-31">31 de enero de 1873</date>
-                        <placeName>Ciudad de México</placeName>
-                        <placeName>México</placeName>
-                    </birth>
-                    <death>
-                        <date when="1938">1938</date>
-                        <placeName>Tacubaya</placeName>
-                        <placeName>D.F.</placeName>
-                        <placeName>México</placeName>
-                    </death>
-                    <idno type="viaf">28477415</idno>
-                    <sex>masculino</sex>
-                    <nationality>mexicana/o</nationality>
-                    <!-- En Turánia. 1902 (viaje? biográfico?) https://catalog.hathitrust.org/Record/100509433 -->
                 </person>
                 <person xml:id="A429">
                     <persName>
@@ -6852,34 +5261,6 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                 </person>
-                <person xml:id="A431">
-                    <persName>
-                        <surname>Cordero</surname>
-                        <forename>Salvador</forename>
-                    </persName>
-                    <birth>
-                        <date when="1876-08-10">10 de agosto de 1876</date>
-                        <placeName>Ciudad de México</placeName>
-                        <placeName>México</placeName>
-                    </birth>
-                    <death>
-                        <date when="1951">1951</date>
-                        <placeName>Ciudad de México</placeName>
-                        <placeName>México</placeName>
-                    </death>
-                    <idno type="viaf">138804479</idno>
-                    <sex>masculino</sex>
-                    <nationality>mexicana/o</nationality>
-                </person>
-                <person xml:id="A432">
-                    <persName>
-                        <surname>Covarrubias y Acevedo</surname>
-                        <forename>Manuel</forename>
-                    </persName>
-                    <idno type="viaf">66207741</idno>
-                    <sex>masculino</sex>
-                    <nationality>mexicana/o</nationality>
-                </person>
                 <person xml:id="A433">
                     <persName>
                         <surname>Cuéllar</surname>
@@ -6897,7 +5278,6 @@
                     <idno type="viaf">54234356</idno>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
-                    <!-- La linterna mágica. Segunda época. T. XX. Vistazos. Estudios sociales -->
                 </person>
                 <person xml:id="A434">
                     <persName>
@@ -6906,26 +5286,6 @@
                     </persName>
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
-                </person>
-                <person xml:id="A435">
-                    <persName>
-                        <surname>Chavero</surname>
-                        <forename>Alfredo</forename>
-                    </persName>
-                    <birth>
-                        <date when="1841">1841</date>
-                        <placeName>Ciudad de México</placeName>
-                        <placeName>México</placeName>
-                    </birth>
-                    <death>
-                        <date when="1906">1906</date>
-                        <placeName>Ciudad de México</placeName>
-                        <placeName>México</placeName>
-                    </death>
-                    <idno type="viaf">77623420</idno>
-                    <idno type="viaf">57397990</idno>
-                    <sex>masculino</sex>
-                    <nationality>mexicana/o</nationality>
                 </person>
                 <person xml:id="A436">
                     <persName>
@@ -6943,8 +5303,6 @@
                     <idno type="viaf">21350975</idno>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
-                    <!-- Cuentos de colores. Entretenimientos de un solitario. México, D.F.: Antigua Imprenta de Murguía, 1893.
-                    http://dgb.conaculta.gob.mx/coleccion_sep/libro_pdf/21000026658.pdf -->
                 </person>
                 <person xml:id="A437">
                     <persName>
@@ -6986,47 +5344,6 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                 </person>
-                <person xml:id="A439">
-                    <persName>
-                        <surname>Barrera Peniche</surname>
-                        <forename>Alfonso</forename>
-                    </persName>
-                    <birth>
-                        <date when="1816">1816</date>
-                        <placeName>Hopelchén</placeName>
-                        <placeName>Yucatán</placeName>
-                        <placeName>México</placeName>
-                    </birth>
-                    <death>
-                        <date when="1876">1876</date>
-                        <placeName>Mérida</placeName>
-                        <placeName>Yucatán</placeName>
-                        <placeName>México</placeName>
-                    </death>
-                    <idno type="viaf">45649011</idno>
-                    <sex>masculino</sex>
-                    <nationality>mexicana/o</nationality>
-                </person>
-                <person xml:id="A440">
-                    <persName>
-                        <surname>Barrios de los Ríos</surname>
-                        <forename>José María</forename>
-                    </persName>
-                    <birth>
-                        <date when="1864-02-11">11 de febrero de 1864</date>
-                        <placeName>Zacatecas</placeName>
-                        <placeName>México</placeName>
-                    </birth>
-                    <death>
-                        <date when="1903-11-05">5 de noviembre de 1903</date>
-                        <placeName>Cananea</placeName>
-                        <placeName>Sonora</placeName>
-                        <placeName>México</placeName>
-                    </death>
-                    <idno type="viaf">58307516</idno>
-                    <sex>masculino</sex>
-                    <nationality>mexicana/o</nationality>
-                </person>
                 <person xml:id="A441">
                     <persName>
                         <surname>Betanzo</surname>
@@ -7051,25 +5368,6 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                 </person>
-                <person xml:id="A443">
-                    <persName>
-                        <surname>Bravo López</surname>
-                        <forename>Bernabé</forename>
-                        <addName type="pseudonym">Figarete</addName>
-                    </persName>
-                    <birth>
-                        <date when="1846">1846</date>
-                        <placeName>Choapam</placeName>
-                        <placeName>Oaxaca</placeName>
-                        <placeName>México</placeName>
-                    </birth>
-                    <death>
-                        <date when="1900" cert="low">1900</date>
-                        <placeName>Ciudad de México</placeName>
-                    </death>
-                    <sex>masculino</sex>
-                    <nationality>mexicana/o</nationality>
-                </person>
                 <person xml:id="A444">
                     <persName>
                         <surname>Agüeros</surname>
@@ -7088,8 +5386,6 @@
                     <idno type="viaf">26132018</idno>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
-                    <!-- Dos Leyendas. Por José. Edición del "Siglo XIX." 
-                        Imprenta de Ignacio Cumplido. México 1877. En 8°, de 68 p. -->
                 </person>
                 <person xml:id="A445">
                     <persName>
@@ -7110,7 +5406,6 @@
                     <idno type="viaf">313551341</idno>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
-                    <!-- Algo. (ensayo) http://cdigital.dgb.uanl.mx/la/1080014440_L/1080014440_L1.html -->
                 </person>
                 <person xml:id="A446">
                     <persName>
@@ -7167,32 +5462,6 @@
                     <idno type="viaf">4968421</idno>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
-                    <!-- novelas inéditas:
-                        Atenea. Novela inédita (v. Torres Rioseco)
-                        Beatriz (v. Torres Rioseco)
-                        Los Cimarrones (v. Torres Rioseco)
-                        La Condesa de Calderón y Atenea (v. Torres Rioseco)
-                        Los Galeanas (v. Torres Rioseco)
-                    -->
-                </person>
-                <person xml:id="A450">
-                    <persName>
-                        <surname>Alva</surname>
-                        <forename>Manuel M.</forename>
-                    </persName>
-                    <birth>
-                        <date when="1833">1833</date>
-                        <placeName>Jalapa</placeName>
-                        <placeName>Veracruz</placeName>
-                        <placeName>México</placeName>
-                    </birth>
-                    <death>
-                        <date when="1878-07-09" cert="low">9 de julio de 1878</date><!-- 1879? (elem.mx) -->
-                        <placeName>Veracruz</placeName>
-                        <placeName>México</placeName>
-                    </death>
-                    <sex>masculino</sex>
-                    <nationality>mexicana/o</nationality>
                 </person>
                 <person xml:id="A451">
                     <persName>
@@ -7237,25 +5506,6 @@
                     <idno type="viaf">53940368</idno>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
-                </person>
-                <person xml:id="A454">
-                    <persName>
-                        <surname>Arriaga</surname>
-                        <forename>José Joaquín</forename>
-                    </persName>
-                    <birth>
-                        <date when="1831-06-11">11 de junio de 1831</date>
-                        <placeName>Puebla</placeName>
-                        <placeName>México</placeName>
-                    </birth>
-                    <death>
-                        <date when="1896-09-10">10 de septiembre de 1896</date>
-                        <placeName>México</placeName>
-                    </death>
-                    <idno type="viaf">61058951</idno>
-                    <sex>masculino</sex>
-                    <nationality>mexicana/o</nationality>
-                    <!-- La Ciencia Recreativa: Reihe, 12 Bände, jeweils 7-8 "novelitas" -->
                 </person>
                 <person xml:id="A455">
                     <persName>
@@ -7319,20 +5569,6 @@
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
                 </person>
-                <person xml:id="A459">
-                    <persName>
-                        <surname>Sánchez</surname>
-                        <forename>Fortunato A.</forename>
-                    </persName>
-                    <birth>
-                        <date when="1845">1845</date>
-                    </birth>
-                    <death>
-                        <date when="1884">1884</date>
-                    </death>
-                    <sex>masculino</sex>
-                    <nationality cert="low">argentina/o</nationality>
-                </person>
                 <person xml:id="A460">
                     <persName>
                         <surname>Sastre</surname>
@@ -7371,31 +5607,6 @@
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
                 </person>
-                <person xml:id="A462">
-                    <persName>
-                        <surname>Silva</surname>
-                        <forename>Domingo G.</forename>
-                    </persName>
-                    <sex>masculino</sex>
-                    <nationality cert="low">argentina/o</nationality>
-                </person>
-                <person xml:id="A463">
-                    <persName>
-                        <surname>Sioen</surname>
-                        <forename>Aquiles</forename>
-                    </persName>
-                    <birth>
-                        <date when="1834">1834</date>
-                        <placeName>Francia</placeName>
-                    </birth>
-                    <death>
-                        <date when="1904">1904</date>
-                        <placeName>Argentina</placeName>
-                    </death>
-                    <idno type="viaf">251145857107522922545</idno>
-                    <sex>masculino</sex>
-                    <nationality>francés/a</nationality>
-                </person>
                 <person xml:id="A464">
                     <persName>
                         <surname>Solar</surname>
@@ -7403,27 +5614,19 @@
                     </persName>
                     <birth>
                         <date when="1860">1860</date>
+                        <placeName>Santiago</placeName>
+                        <placeName>Chile</placeName>
                     </birth>
                     <death>
                         <date when="1921">1921</date>
+                        <placeName>Buenos Aires</placeName>
+                        <placeName>Argentina</placeName>
                     </death>
                     <idno type="viaf">76034367</idno>
                     <sex>masculino</sex>
                     <nationality>chilena/o</nationality>
-                    <note resp="#Iguiniz">Escritor chileno, radicado desde 1890 en Buenos Aires y
+                    <note resp="#Lichtblau">Escritor chileno, radicado desde 1890 en Buenos Aires y
                         estrechamente vinculado con la escena argentina.</note>
-                </person>
-                <person xml:id="A465">
-                    <persName>
-                        <surname>Solari</surname>
-                        <forename>Benjamin T.</forename>
-                    </persName>
-                    <birth>
-                        <date when="1867">1867</date>
-                    </birth>
-                    <idno type="viaf">190343278</idno>
-                    <sex>masculino</sex>
-                    <nationality cert="low">argentina/o</nationality>
                 </person>
                 <person xml:id="A466">
                     <persName>
@@ -7433,28 +5636,14 @@
                     <sex>femenino</sex>
                     <nationality cert="low">argentina/o</nationality>
                 </person>
-                <person xml:id="A467">
-                    <persName>
-                        <surname>Stock</surname>
-                        <forename>Guillelmo</forename>
-                    </persName>
-                    <birth>
-                        <date when="1896">1896</date>
-                    </birth>
-                    <death>
-                        <date when="1944">1944</date>
-                    </death>
-                    <idno type="viaf">36431430</idno>
-                    <sex>masculino</sex>
-                    <nationality cert="low">argentina/o</nationality>
-                </person>
                 <person xml:id="A468">
                     <persName>
                         <surname>Sylva</surname>
                         <forename>Victorio</forename>
                     </persName>
+                    <idno type="viaf">310591190</idno>
                     <sex>masculino</sex>
-                    <nationality cert="low">argentina/o</nationality>
+                    <nationality cert="medium">argentina/o</nationality>
                 </person>
                 <person xml:id="A469">
                     <persName>
@@ -7469,15 +5658,6 @@
                     <persName>
                         <surname>Mayer</surname>
                         <forename>E.</forename>
-                    </persName>
-                    <sex>masculino</sex>
-                    <nationality cert="low">argentina/o</nationality>
-                </person>
-                <person xml:id="A471">
-                    <persName>
-                        <surname>Mendía</surname>
-                        <forename>José M.</forename>
-                        <addName type="pseudonym">Jackal</addName>
                     </persName>
                     <sex>masculino</sex>
                     <nationality cert="low">argentina/o</nationality>
@@ -7512,15 +5692,6 @@
                     <idno type="viaf">40698501</idno>
                     <sex>masculino</sex>
                     <nationality>boliviana/o</nationality>
-                </person>
-                <person xml:id="A474">
-                    <persName>
-                        <surname>Tristani</surname>
-                        <forename>M. R.</forename>
-                    </persName>
-                    <sex>masculino</sex>
-                    <nationality>español/a</nationality>
-                    <note source="#Lichtblau">Periodista español radicado en Mendoza.</note>
                 </person>
                 <person xml:id="A475">
                     <persName>
@@ -7569,7 +5740,7 @@
                     <persName>
                         <surname>Varela</surname>
                         <forename>Luis Vicente</forename>
-                        <addName type="pseudonym">Raúl Waléis</addName>
+                        <addName type="pseudonym">Raúl Waleis</addName>
                     </persName>
                     <birth>
                         <date when="1845-06-27">27 de junio de 1845</date>
@@ -7584,20 +5755,6 @@
                     <idno type="viaf">29906420</idno>
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
-                </person>
-                <person xml:id="A479">
-                    <persName>
-                        <surname>Vedia</surname>
-                        <forename>Enrique de</forename>
-                    </persName>
-                    <birth>
-                        <date when="1867">1867</date>
-                    </birth>
-                    <death>
-                        <date when="1917">1917</date>
-                    </death>
-                    <sex>masculino</sex>
-                    <nationality cert="low">argentina/o</nationality>
                 </person>
                 <person xml:id="A480">
                     <persName>
@@ -7693,47 +5850,6 @@
                     <sex>masculino</sex>
                     <nationality cert="medium">español/a</nationality>
                 </person>
-                <person xml:id="A488">
-                    <persName>
-                        <surname>Suzarte</surname>
-                        <forename>José Q.</forename>
-                        <addName type="pseudonym">El Licenciado Vidrieras</addName>
-                    </persName>
-                    <sex>masculino</sex>
-                    <nationality>cubana/o</nationality>
-                    <note resp="#Trelles">Suzarte fue un distinguido periodista habanero, director
-                        del Siglo en 1862, de la Aurora del Yumurí en 1865, y del Instituto de
-                        Matanzas en 1864. <bibl>Bibliografía, Tomo II, p. 183.</bibl></note>
-                </person>
-                <person xml:id="A489">
-                    <persName>
-                        <surname>Pardo Pimentel</surname>
-                        <forename>Nicolás</forename>
-                    </persName>
-                    <death>
-                        <date when="1851" cert="low">1851</date><!-- Viaf; WP: 1877? -->
-                        <placeName>Castronuño</placeName>
-                        <placeName>Valladolid</placeName>
-                        <placeName>Spain</placeName>
-                    </death>
-                    <idno type="viaf">98580534</idno>
-                    <sex>masculino</sex>
-                    <nationality>español/a</nationality>
-                    <note source="Wikipedia">Emigrado en Cuba</note>
-                </person>
-                <person xml:id="A490">
-                    <persName>
-                        <surname>Torrado y Quiroga</surname>
-                        <forename>Ramón</forename>
-                    </persName>
-                    <death>
-                        <date when="1885">1885</date>
-                    </death>
-                    <idno type="viaf">309703324</idno>
-                    <sex>masculino</sex>
-                    <nationality>español/a</nationality>
-                    <note resp="#Trelles">El médico español Torrado llegó a Cuba en 1835.</note>
-                </person>
                 <person xml:id="A491">
                     <persName>
                         <surname>Enríquez</surname>
@@ -7750,24 +5866,20 @@
                     <sex>masculino</sex>
                     <nationality cert="low">cubano/a</nationality>
                 </person>
-                <person xml:id="A493">
+                <person xml:id="A494">
                     <persName>
-                        <surname>Riesgo</surname>
-                        <forename>Pascual</forename>
+                        <surname>Rencurrell</surname>
+                        <forename>Georgina</forename>
+                        <addName type="pseudonym">Georgina de Flores</addName>
                     </persName>
                     <birth>
-                        <placeName>Santander</placeName>
-                        <placeName>Spain</placeName>
+                        <placeName>Cuba</placeName>
                     </birth>
                     <death>
-                        <date when="1882">1882</date>
-                        <placeName>Madrid</placeName>
-                        <placeName>Spain</placeName>
+                        <placeName cert="low">Cuba</placeName>
                     </death>
-                    <sex>masculino</sex>
-                    <nationality>español/a</nationality>
-                    <note source="#Trelles">Riesgo fue un pésimo novelista montañés. (Menéndez
-                        Pelayo)</note>
+                    <sex>femenino</sex>
+                    <nationality>cubana/o</nationality>
                 </person>
             </listPerson>
         </body>

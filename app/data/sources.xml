@@ -70,6 +70,13 @@
                         la República Argentina.</seg> 2012-2017. <ref
                         target="http://catalogo.bn.gov.ar">http://catalogo.bn.gov.ar</ref>
                 </bibl>
+                <bibl xml:id="CejadorFrauca">Cejador y Frauca, Julio. <seg rend="italic">Historia
+                        de la lengua y literatura castellana. Comprendidos los autores
+                        hispano-americanos.</seg> (Época regional y modernista: 1888-1907). (Segunda
+                    parte). Tomo XI. Madrid. <ref
+                        target="https://archive.org/details/historiadelaleng11ceja"
+                        >https://archive.org/details/historiadelaleng11ceja</ref>
+                </bibl>
                 <bibl xml:id="UANL">
                     <seg rend="italic">Colección Digital UANL.</seg> Universidad Autónoma de Nuevo
                     León 2017. <ref target="http://cd.dgb.uanl.mx">http://cd.dgb.uanl.mx</ref>
@@ -139,7 +146,7 @@
                         completas.</seg> Tomo II. Novelas y Cuentos. Compilación, Prefacio,
                     Introducción y Notas Manuel Sol T. Villahermosa, Tabasco: Universidad Juárez
                     Autónoma de Tabasco, 2011.</bibl>
-                <bibl xml:id="ELEM">Secretaría de Cultura (Ed.). <seg rend="italic">Enciclopedia de
+                <bibl xml:id="elem.mx">Secretaría de Cultura (Ed.). <seg rend="italic">Enciclopedia de
                         la literatura en México.</seg> México, 2016. <ref
                         target="http://www.elem.mx">http://www.elem.mx</ref>
                 </bibl>
@@ -148,7 +155,7 @@
                         escrita del México decimonónico.</seg> Volumen III. Galería de escritores.
                     Edited by Belem Clark de Lara and Elisa Speckman Guerra. México: Universidad
                     Nacional Autónoma de México, 2005. 333-341. </bibl>
-                <bibl xml:id="TorresRioseco">Torres-Rioseco, Arturo. <seg rend="italic">Bibliografía
+                <bibl xml:id="Torres-Rioseco">Torres-Rioseco, Arturo. <seg rend="italic">Bibliografía
                         de la novela mejicana.</seg> Cambridge, Massachusetts: Harvard University
                     Press, 1933.</bibl>
                 <bibl xml:id="Trelles">Trelles, Carlos. <seg rend="italic">Bibliografía Cubana del

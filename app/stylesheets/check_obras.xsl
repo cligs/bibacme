@@ -7,10 +7,19 @@
     <xsl:template match="/">
         
         <list>
-            <xsl:for-each select="doc('works.xml')//bibl[@xml:id]">
+            <xsl:for-each select="doc('../data/works.xml')//bibl[@xml:id]">
                 <xsl:variable name="id" select="@xml:id"/>
-                <xsl:if test="not(doc('editions.xml')//biblStruct[@corresp = $id])">
+                <xsl:if test="not(doc('../data/editions.xml')//biblStruct[@corresp = $id])">
                     <item><xsl:value-of select="$id"/></item>
+                </xsl:if>
+            </xsl:for-each>
+        </list>
+        
+        <list>
+            <xsl:for-each select="doc('../data/editions.xml')//biblStruct">
+                <xsl:variable name="work-id" select="@corresp"/>
+                <xsl:if test="not(doc('../data/works.xml')//bibl[@xml:id = $work-id])">
+                    <item><xsl:value-of select="$work-id"/></item>
                 </xsl:if>
             </xsl:for-each>
         </list>

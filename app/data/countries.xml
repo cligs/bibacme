@@ -39,6 +39,9 @@
                 <place xml:id="AU">
                     <placeName>Austria</placeName>
                 </place>
+                <place xml:id="BO">
+                    <placeName>Bolivia</placeName>
+                </place>
                 <place xml:id="CH">
                     <placeName>Chile</placeName>
                 </place>
