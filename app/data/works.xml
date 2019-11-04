@@ -545,7 +545,7 @@
                <bibl type="source">
                   <ptr target="#Lichtblau"/>
                </bibl>
-               <idno type="cligs">nh0210</idno>
+               <idno type="cligs">nh0213</idno>
                <country>Argentina</country>
             </bibl>
             <bibl xml:id="W78">
@@ -2582,16 +2582,6 @@
                </bibl>
                <country>Argentina</country>
             </bibl>
-            <bibl xml:id="W395">
-               <author key="A161">Gorriti, Juana Manuela</author>
-               <title>El ángel caído</title>
-               <idno type="cligs">nh0169</idno>
-               <bibl type="source">
-                  <ptr target="#Lichtblau"/>
-               </bibl>
-               <!-- resumen en LB -->
-               <country>Argentina</country>
-            </bibl>
             <bibl xml:id="W396">
                <author key="A161">Gorriti, Juana Manuela</author>
                <title>Gubi-Amaya</title>
@@ -2680,16 +2670,6 @@
                   <ptr target="#Lichtblau"/>
                </bibl>
                <!-- resumen en LB -->
-               <country>Argentina</country>
-            </bibl>
-            <bibl xml:id="W413">
-               <author key="A166">Guerra, Rosa</author>
-               <title>Lucía Miranda</title>
-               <term type="subgenre_title">novela histórica</term>
-               <idno type="cligs">nh0811</idno>
-               <bibl type="source">
-                  <ptr target="#Lichtblau"/>
-               </bibl>
                <country>Argentina</country>
             </bibl>
             <bibl xml:id="W414">
@@ -4378,16 +4358,6 @@
                <bibl type="source">
                   <ptr target="#Torres-Rioseco"/>
                </bibl>
-               <country>México</country>
-            </bibl>
-            <bibl xml:id="W634">
-               <author key="A246">Peón y Contreras, José</author>
-               <title>Veleidosa</title>
-               <bibl type="source">
-                  <ptr target="#Torres-Rioseco"/>
-               </bibl>
-               <idno type="cligs">nh0834</idno>
-               <ref>http://www.bicentenario.gob.mx/bdb/bdbpdf/laMatraca/VELEIDOSA-1891.pdf</ref>
                <country>México</country>
             </bibl>
             <bibl xml:id="W637">
@@ -6935,7 +6905,7 @@
                   <ptr target="#Torres-Rioseco"/>
                </bibl>
                <ref>http://www.lanovelacorta.com/1872-1922/lmin.php</ref>
-               <idno type="cligs">nh00240</idno>
+               <idno type="cligs">nh0240</idno>
                <country>México</country>
             </bibl>
             <bibl xml:id="W1098">

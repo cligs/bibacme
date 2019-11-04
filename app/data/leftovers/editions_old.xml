@@ -497,6 +497,7 @@
                 </biblStruct>
             </listBibl>
             <listBibl type="no-novel">
+                <!-- done -->
                 <biblStruct corresp="W980" xml:id="E1390">
                     <monogr>
                         <author key="A374">Guerrero Pallarés, Teodoro</author>
@@ -1096,6 +1097,7 @@
                 </biblStruct>
             </listBibl>
             <listBibl type="no-pages">
+                <!-- done -->
                 <biblStruct corresp="W124" xml:id="E157">
                     <analytic>
                         <author key="A61">Cané, Miguel (p.)</author>
@@ -2618,6 +2620,73 @@
                 </biblStruct>
             </listBibl>
             <listBibl type="short-novels">
+                <!-- done -->
+                <!--<biblStruct corresp="W634" xml:id="E893">
+                    <monogr>
+                        <author key="A246">Peón y Contreras, José</author>
+                        <title level="m" type="main">Veleidosa</title>
+                        <imprint>
+                            <publisher>Imprenta de Francisco Díaz de León</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1891">1891</date>
+                        </imprint>
+                        <extent n="128">En 4°, XVI, 128 pp. más una lámina</extent>
+                    </monogr>
+                    <note>(Con prólogo de D. Manuel Gutiérrez Nájera.)</note>
+                    <ref>https://catalog.hathitrust.org/Record/008731889</ref>
+                    <ref>https://catalog.hathitrust.org/Record/008715303</ref>
+                    <ref>https://archive.org/details/3743691</ref>
+                </biblStruct>
+                <biblStruct corresp="W413" xml:id="E558">
+                    <monogr>
+                        <author key="A166">Guerra, Rosa</author>
+                        <title level="m" type="main">Lucía Miranda</title>
+                        <title level="m" type="sub">Novela histórica</title>
+                        <imprint>
+                            <publisher>Imprenta Americana</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1860">1860</date>
+                        </imprint>
+                        <extent n="93">93 pp.</extent>
+                    </monogr>
+                    <ref>http://www.cervantesvirtual.com/obra/lucia-miranda-\-1/</ref>
+                </biblStruct>
+                <biblStruct corresp="W395" xml:id="E532">
+                    <analytic>
+                        <author key="A161">Gorriti, Juana Manuela</author>
+                        <title level="a" type="main">El ángel caído</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m">Sueños y realidades</title>
+                        <imprint>
+                            <publisher>Imprenta de mayo</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1865">1865</date>
+                        </imprint>
+                        <biblScope unit="volume">II</biblScope>
+                        <biblScope unit="page" n="83">3-86</biblScope>
+                    </monogr>
+                    <ref>https://archive.org/details/sueosyrealidade00quesgoog</ref>
+                </biblStruct>
+                <biblStruct corresp="W395" xml:id="E533">
+                    <analytic>
+                        <author key="A161">Gorriti, Juana Manuela</author>
+                        <title level="a" type="main">El ángel caído</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m">Sueños y realidades</title>
+                        <imprint>
+                            <publisher>Biblioteca de La Nación</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1907">1907</date>
+                        </imprint>
+                        <biblScope unit="volume">II</biblScope>
+                        <biblScope unit="page" n="78">5-83</biblScope>
+                    </monogr>
+                    <ref>http://resolver.iai.spk-berlin.de/IAI0000545600020000</ref>
+                    <ref>https://archive.org/details/sueosyrealidad02gorruoft</ref>
+                    <ref>https://catalog.hathitrust.org/Record/101406912</ref>
+                </biblStruct>-->
                 <biblStruct corresp="W394" xml:id="E530">
                     <analytic>
                         <author key="A161">Gorriti, Juana Manuela</author>

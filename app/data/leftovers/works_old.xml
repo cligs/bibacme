@@ -189,6 +189,7 @@
                 </bibl>
             </listBibl>
             <listBibl type="no-novel">
+                <!-- done -->
                 <bibl xml:id="W1173">
                     <author key="A445">Alegría, Adolfo Isaac</author>
                     <title>El libro de Satanás</title>
@@ -347,6 +348,7 @@
                 </bibl>
             </listBibl>
             <listBibl type="no-pages">
+                <!-- done -->
                 <bibl xml:id="W1294">
                     <author key="A493">Riesgo, Pascual</author>
                     <title>Un Rey</title>
@@ -964,6 +966,37 @@
                 </bibl>
             </listBibl>
             <listBibl type="short-novels">
+                <!-- done -->
+                <!--<bibl xml:id="W634">
+                    <author key="A246">Peón y Contreras, José</author>
+                    <title>Veleidosa</title>
+                    <bibl type="source">
+                        <ptr target="#Torres-Rioseco"/>
+                    </bibl>
+                    <idno type="cligs">nh0834</idno>
+                    <ref>http://www.bicentenario.gob.mx/bdb/bdbpdf/laMatraca/VELEIDOSA-1891.pdf</ref>
+                    <country>México</country>
+                </bibl>
+                <bibl xml:id="W413">
+                    <author key="A166">Guerra, Rosa</author>
+                    <title>Lucía Miranda</title>
+                    <term type="subgenre_title">novela histórica</term>
+                    <idno type="cligs">nh0811</idno>
+                    <bibl type="source">
+                        <ptr target="#Lichtblau"/>
+                    </bibl>
+                    <country>Argentina</country>
+                </bibl>
+                <bibl xml:id="W395">
+                    <author key="A161">Gorriti, Juana Manuela</author>
+                    <title>El ángel caído</title>
+                    <idno type="cligs">nh0846</idno>
+                    <bibl type="source">
+                        <ptr target="#Lichtblau"/>
+                    </bibl>
+                    <!-\- resumen en LB -\->
+                    <country>Argentina</country>
+                </bibl>-->
                 <bibl xml:id="W1288">
                     <author key="A490">Torrado y Quiroga, Ramón</author>
                     <title>Estephoro el Pirata</title>
