@@ -1,0 +1,59 @@
+default namespace = "http://www.tei-c.org/ns/1.0"
+
+start =
+  element TEI {
+    element teiHeader {
+      element fileDesc {
+        element titleStmt {
+          element title {
+            attribute level { xsd:NCName },
+            attribute type { xsd:NCName }?,
+            text
+          }+,
+          element principal {
+            attribute xml:id { xsd:NCName },
+            text
+          }
+        },
+        element publicationStmt {
+          element publisher {
+            element ref {
+              attribute target { xsd:anyURI },
+              xsd:NCName
+            }
+          },
+          element pubPlace { xsd:NCName },
+          element date {
+            attribute when { xsd:integer },
+            xsd:integer
+          },
+          element idno {
+            attribute type { xsd:NCName },
+            xsd:anyURI
+          },
+          element availability {
+            attribute status { xsd:NCName },
+            element licence {
+              attribute target { xsd:anyURI },
+              text
+            }
+          }
+        },
+        element sourceDesc {
+          element p { text }
+        }
+      }
+    },
+    element text {
+      element body {
+        element list {
+          element item {
+            element term {
+              attribute type { xsd:NCName },
+              text
+            }+
+          }+
+        }
+      }
+    }
+  }

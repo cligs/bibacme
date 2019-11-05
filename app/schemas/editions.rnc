@@ -1,0 +1,122 @@
+default namespace = "http://www.tei-c.org/ns/1.0"
+
+start =
+  element TEI {
+    element teiHeader {
+      element fileDesc {
+        element titleStmt {
+          title+,
+          element principal {
+            attribute xml:id { xsd:NCName },
+            text
+          }
+        },
+        element publicationStmt {
+          publisher,
+          pubPlace,
+          date,
+          element idno {
+            attribute type { xsd:NCName },
+            xsd:anyURI
+          },
+          element availability {
+            attribute status { xsd:NCName },
+            element licence {
+              attribute target { xsd:anyURI },
+              text
+            }
+          }
+        },
+        element sourceDesc {
+          element p { text }
+        }
+      }
+    },
+    element text {
+      element body {
+        element listBibl {
+          element biblStruct {
+            attribute corresp { text },
+            attribute xml:id { xsd:NCName },
+            element analytic { author?, title+ }?,
+            element monogr {
+              author*,
+              (title
+               | element editor { text })+,
+              note*,
+              element edition {
+                attribute cert { xsd:NCName }?,
+                text
+              }*,
+              element imprint {
+                (pubPlace | publisher)+, date+, biblScope*
+              },
+              (biblScope
+               | element extent {
+                   attribute n { xsd:integer }?,
+                   attribute resp { text }?,
+                   text
+                 })*
+            },
+            element series { title+, biblScope? }*,
+            (note | ref)*
+          }+
+        }
+      }
+    }
+  }
+title =
+  element title {
+    attribute level { xsd:NCName }?,
+    attribute type { xsd:NCName }?,
+    (text | seg | title)+
+  }
+publisher =
+  element publisher {
+    attribute cert { xsd:NCName }?,
+    (text | ref | seg)+
+  }
+pubPlace =
+  element pubPlace {
+    attribute cert { xsd:NCName }?,
+    attribute corresp { text }?,
+    text
+  }
+date =
+  element date {
+    attribute cert { xsd:NCName }?,
+    attribute from { xsd:NMTOKEN }?,
+    attribute to { xsd:NMTOKEN }?,
+    attribute when { xsd:NMTOKEN }?,
+    text
+  }
+author =
+  element author {
+    attribute key { xsd:NCName },
+    text
+  }
+note =
+  element note {
+    attribute resp { text }?,
+    attribute source { text }?,
+    (text
+     | ref
+     | seg
+     | element bibl { text })+
+  }
+biblScope =
+  element biblScope {
+    attribute n { text }?,
+    attribute unit { xsd:NCName },
+    text
+  }
+ref =
+  element ref {
+    attribute target { xsd:anyURI }?,
+    (text | ref)+
+  }
+seg =
+  element seg {
+    attribute rend { xsd:NCName },
+    text
+  }

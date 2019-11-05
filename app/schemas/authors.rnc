@@ -1,0 +1,108 @@
+default namespace = "http://www.tei-c.org/ns/1.0"
+
+start =
+  element TEI {
+    element teiHeader {
+      element fileDesc {
+        element titleStmt {
+          element title {
+            attribute level { xsd:NCName },
+            attribute type { xsd:NCName }?,
+            text
+          }+,
+          element principal {
+            attribute xml:id { xsd:NCName },
+            text
+          }
+        },
+        element publicationStmt {
+          element publisher { ref },
+          element pubPlace { xsd:NCName },
+          date,
+          idno,
+          element availability {
+            attribute status { xsd:NCName },
+            element licence {
+              attribute target { xsd:anyURI },
+              text
+            }
+          }
+        },
+        element sourceDesc {
+          element p { text }
+        }
+      }
+    },
+    element text {
+      element body {
+        element listPerson {
+          element person {
+            attribute xml:id { xsd:NCName },
+            element persName {
+              attribute type { xsd:NCName }?,
+              element surname {
+                attribute type { xsd:NCName }?,
+                text
+              }?,
+              element forename {
+                attribute type { xsd:NCName }?,
+                text
+              }*,
+              (element name {
+                 attribute type { xsd:NCName }?,
+                 text
+               }*
+               | (note
+                  | element addName {
+                      attribute type { xsd:NCName }?,
+                      text
+                    })*)
+            }+,
+            element birth { date, placeName+ },
+            element death { date, placeName+ },
+            element sex {
+              attribute cert { xsd:NCName }?,
+              xsd:NCName
+            },
+            element nationality {
+              attribute cert { xsd:NCName }?,
+              text
+            },
+            idno*,
+            note?
+          }+
+        }
+      }
+    }
+  }
+ref =
+  element ref {
+    attribute target { xsd:anyURI }?,
+    xsd:anyURI
+  }
+date =
+  element date {
+    attribute cert { xsd:NCName }?,
+    attribute from { xsd:integer }?,
+    attribute notBefore { xsd:integer }?,
+    attribute to { xsd:integer }?,
+    attribute when { xsd:NMTOKEN }?,
+    text
+  }
+idno =
+  element idno {
+    attribute cert { xsd:NCName }?,
+    attribute type { xsd:NCName },
+    xsd:anyURI
+  }
+note =
+  element note {
+    attribute resp { text }?,
+    attribute source { text }?,
+    (text | ref)+
+  }
+placeName =
+  element placeName {
+    attribute cert { xsd:NCName }?,
+    text
+  }

@@ -1,0 +1,83 @@
+default namespace = "http://www.tei-c.org/ns/1.0"
+
+start =
+  element TEI {
+    element teiHeader {
+      element fileDesc {
+        element titleStmt {
+          title+,
+          element principal {
+            attribute xml:id { xsd:NCName },
+            text
+          }
+        },
+        element publicationStmt {
+          element publisher { ref },
+          element pubPlace { xsd:NCName },
+          element date {
+            attribute when { xsd:integer },
+            xsd:integer
+          },
+          idno,
+          element availability {
+            attribute status { xsd:NCName },
+            element licence {
+              attribute target { xsd:anyURI },
+              text
+            }
+          }
+        },
+        element sourceDesc {
+          element p { text }
+        }
+      }
+    },
+    element text {
+      element body {
+        element listBibl {
+          element bibl {
+            attribute xml:id { xsd:NCName },
+            element author {
+              attribute key { xsd:NCName },
+              text
+            }+,
+            title+,
+            (idno
+             | ref
+             | element note {
+                 attribute resp { text }?,
+                 attribute source { text }?,
+                 attribute type { xsd:NCName }?,
+                 (text
+                  | element ptr {
+                      attribute target { text }
+                    })+
+               }
+             | element term {
+                 attribute ref { text }?,
+                 attribute resp { text }?,
+                 attribute type { xsd:NCName },
+                 text
+               })+,
+            element country { xsd:NCName }?
+          }+
+        }
+      }
+    }
+  }
+title =
+  element title {
+    attribute level { xsd:NCName }?,
+    attribute type { xsd:NCName }?,
+    text
+  }
+ref =
+  element ref {
+    attribute target { xsd:anyURI }?,
+    xsd:anyURI
+  }
+idno =
+  element idno {
+    attribute type { xsd:NCName },
+    xsd:anyURI
+  }

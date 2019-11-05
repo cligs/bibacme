@@ -1915,21 +1915,6 @@
                     <sex>masculino</sex>
                     <nationality cert="low">argentina/o</nationality>
                 </person>
-                <person xml:id="A467">
-                    <persName>
-                        <surname>Stock</surname>
-                        <forename>Guillelmo</forename>
-                    </persName>
-                    <birth>
-                        <date when="1896">1896</date>
-                    </birth>
-                    <death>
-                        <date when="1944">1944</date>
-                    </death>
-                    <idno type="viaf">36431430</idno>
-                    <sex>masculino</sex>
-                    <nationality cert="low">argentina/o</nationality>
-                </person>
                 <person xml:id="A471">
                     <persName>
                         <surname>Mendía</surname>
@@ -2611,6 +2596,27 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="low">español/a</nationality>
+                </person>
+                <person xml:id="A122">
+                    <persName>
+                        <surname>Rosas de Moreno</surname>
+                        <forename>José</forename>
+                    </persName>
+                    <birth>
+                        <date when="1838">1838</date>
+                        <placeName>Lagos de Moreno</placeName>
+                        <placeName>Jalisco</placeName>
+                        <placeName>México</placeName>
+                    </birth>
+                    <death>
+                        <date when="1883">1883</date>
+                        <placeName>Lagos de Moreno</placeName>
+                        <placeName>Jalisco</placeName>
+                        <placeName>México</placeName>
+                    </death>
+                    <sex>masculino</sex>
+                    <nationality>mexicana/o</nationality>
+                    <idno type="viaf">36819526</idno>
                 </person>
             </listPerson>
         </body>
