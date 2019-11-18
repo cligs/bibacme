@@ -13,5 +13,9 @@
         <sch:rule context="tei:nationality">
             <sch:assert test=". = doc('../data/nationalities.xml')//tei:term[@type='general']">The nationality is missing in nationalities.xml.</sch:assert>
         </sch:rule>
+        <sch:rule context="@xml:id">
+            <sch:let name="author-id" value="."/>
+            <sch:report test="preceding::tei:person[@xml:id = $author-id]">This author id has already been defined.</sch:report>
+        </sch:rule>
     </sch:pattern>
 </sch:schema>

@@ -166,7 +166,7 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality>español/a</nationality>
-                    <note source="#Lichtblau">Escritor español radicado en la Argentina.</note>
+                    <note source="#Lichtblau_1997">Escritor español radicado en la Argentina.</note>
                 </person>
                 <person xml:id="A12">
                     <persName>
@@ -2665,7 +2665,7 @@
                     <nationality cert="medium">uruguaya/o</nationality>
                     <idno type="viaf">46513944</idno>
                     <idno type="viaf">260145856979322920824</idno>
-                    <note resp="#Lichtblau">Escritor uruguayo, emigrado a la Argentina 1853.</note>
+                    <note resp="#Lichtblau_1997">Escritor uruguayo, emigrado a la Argentina 1853.</note>
                 </person>
                 <person xml:id="A185">
                     <persName>
@@ -3329,7 +3329,7 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="medium">español/a</nationality>
-                    <note resp="#Lichtblau">Emigró a la Argentina en 1875.</note>
+                    <note resp="#Lichtblau_1997">Emigró a la Argentina en 1875.</note>
                 </person>
                 <person xml:id="A228">
                     <persName>
@@ -5286,6 +5286,10 @@
                         <surname>Iglesia</surname>
                         <forename>Álvaro de la</forename>
                         <addName type="pseudonym">Pedro Madruga</addName>
+                        <addName type="pseudonym">Eligio Aldao y Varela</addName>
+                        <addName type="pseudonym">Artemio</addName>
+                        <addName type="pseudonym">A. L. Baró</addName>
+                        <addName type="pseudonym">Vetusto</addName>
                     </persName>
                     <birth>
                         <date when="1859-04-03">3 de abril de 1859</date>
@@ -5300,9 +5304,7 @@
                     <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
                     <idno type="viaf">120788045</idno>
-                    <note>
-                        <ref>http://www.prosamodernista.com/prosa-modernista/prosa-modernista-criollista/alvaro-de-la-iglesia</ref>
-                    </note>
+                    <note source="#DLC_1999">Llegó a Cuba en 1874. Se estableció en Matanzas.</note>
                 </person>
                 <person xml:id="A368">
                     <persName>
@@ -5322,7 +5324,7 @@
                     <sex>masculino</sex>
                     <nationality>dominicana/o</nationality>
                     <idno type="viaf">3703780</idno>
-                    <note source="#DLC">Muy niño aún fue trasladado a Cuba, donde cursó todos sus
+                    <note source="#DLC_1999">Muy niño aún fue trasladado a Cuba, donde cursó todos sus
                         estudios. Residió la mayor parte de su vida en Matanzas.</note>
                 </person>
                 <person xml:id="A370">
@@ -5411,7 +5413,7 @@
                     <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
                     <idno type="viaf">39156046</idno>
-                    <note source="#DLC">Se educó en España.</note>
+                    <note source="#DLC_1999">Se educó en España.</note>
                 </person>
                 <person xml:id="A375">
                     <persName>
@@ -5630,7 +5632,7 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality>dominicana/o</nationality>
-                    <note source="#DLC">Muy niño aún fue trasladado a Cuba, donde cursó estudios y
+                    <note source="#DLC_1999">Muy niño aún fue trasladado a Cuba, donde cursó estudios y
                         adquirió una sólida formación jurídica y literaria.</note>
                 </person>
                 <person xml:id="A392">
@@ -5672,7 +5674,7 @@
                     <sex>masculino</sex>
                     <nationality>español/a</nationality>
                     <idno type="viaf">102336641</idno>
-                    <note source="#DLC">Llegó a La Habana por primera vez en 1825.</note>
+                    <note source="#DLC_1999">Llegó a La Habana por primera vez en 1825.</note>
                 </person>
                 <person xml:id="A395">
                     <persName>
@@ -5729,7 +5731,7 @@
                     </death>
                     <sex>femenino</sex>
                     <nationality>español/a</nationality>
-                    <note source="#DLC">En 1833 se traslada a Cuba donde se forma como escritora
+                    <note source="#DLC_1999">En 1833 se traslada a Cuba donde se forma como escritora
                         [...]</note>
                 </person>
                 <person xml:id="A398">
@@ -6611,7 +6613,7 @@
                     <sex>masculino</sex>
                     <nationality>chilena/o</nationality>
                     <idno type="viaf">76034367</idno>
-                    <note resp="#Lichtblau">Escritor chileno, radicado desde 1890 en Buenos Aires y
+                    <note resp="#Lichtblau_1997">Escritor chileno, radicado desde 1890 en Buenos Aires y
                         estrechamente vinculado con la escena argentina.</note>
                 </person>
                 <person xml:id="A466">
@@ -7000,6 +7002,24 @@
                     </death>
                     <sex>femenino</sex>
                     <nationality cert="medium">cubana/o</nationality>
+                </person>
+                <person xml:id="A496">
+                    <persName>
+                        <surname>Magariños Cervantes</surname>
+                        <forename>Alejandro</forename>
+                    </persName>
+                    <birth>
+                        <date when="1825-10-03">3 de octubre de 1825</date>
+                        <placeName>Montevideo</placeName>
+                        <placeName>Uruguay</placeName>
+                    </birth>
+                    <death>
+                        <date when="1893">1893</date>
+                        <placeName>Rocha</placeName>
+                        <placeName>Uruguay</placeName>
+                    </death>
+                    <sex>masculino</sex>
+                    <nationality>uruguaya/o</nationality>
                 </person>
             </listPerson>
         </body>

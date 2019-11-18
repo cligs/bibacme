@@ -1,4 +1,5 @@
 default namespace = "http://www.tei-c.org/ns/1.0"
+namespace cligs = "https://cligs.hypotheses.org/ns/cligs"
 
 start =
   element TEI {
@@ -44,9 +45,9 @@ start =
             title+,
             (idno
              | ref
+             | element country { xsd:NCName }
              | element note {
                  attribute resp { text }?,
-                 attribute source { text }?,
                  attribute type { xsd:NCName }?,
                  (text
                   | element ptr {
@@ -57,9 +58,9 @@ start =
                  attribute ref { text }?,
                  attribute resp { text }?,
                  attribute type { xsd:NCName },
+                 attribute cligs:importance { xsd:integer }?,
                  text
-               })+,
-            element country { xsd:NCName }?
+               })+
           }+
         }
       }

@@ -25,5 +25,9 @@
         <sch:rule context="tei:note[@type='source']">
             <sch:assert test="tei:ptr/substring-after(@target,'#') = doc('../data/sources.xml')//tei:listBibl/tei:bibl/@xml:id">This source is not mentioned in sources.xml.</sch:assert>
         </sch:rule>
+        <sch:rule context="@xml:id">
+            <sch:let name="work-id" value="."/>
+            <sch:report test="preceding::tei:bibl[@xml:id = $work-id]">This work id has already been defined.</sch:report>
+        </sch:rule>
     </sch:pattern>
 </sch:schema>

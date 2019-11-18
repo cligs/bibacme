@@ -15,5 +15,9 @@
         <sch:rule context="tei:listBibl//tei:pubPlace[.!='desconocido']">
             <sch:assert test="substring-after(@corresp,'countries.xml#') = doc('../data/countries.xml')//tei:listPlace/tei:place/@xml:id">This country key is missing in countries.xml.</sch:assert>
         </sch:rule>
+        <sch:rule context="@xml:id">
+            <sch:let name="edition-id" value="."/>
+            <sch:report test="preceding::tei:biblStruct[@xml:id = $edition-id]">This edition id has already been defined.</sch:report>
+        </sch:rule>
     </sch:pattern>
 </sch:schema>
