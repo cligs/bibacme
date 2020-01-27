@@ -29,6 +29,22 @@
     </teiHeader>
     <text>
         <body>
+            <listBibl type="author-nationality">
+                <bibl xml:id="W543">
+                    <author key="A221">Nieves, Manuel María</author>
+                    <title>Los mártires de Buenos Aires, o el verdugo de su república</title>
+                    <term type="subgenre.title.explicit">novela original</term>
+                    <term type="subgenre.title.explicit.norm" resp="#uhk">novela original</term>
+                    <term type="subgenre.title.implicit" resp="#uhk"></term>
+                    <term type="subgenre.litHist" resp="#Lichtblau_1959">Rosas theme</term>
+                    <!-- resumen en LB -->
+                    <!-- LB: first published in Madrid, reprinted in BA, author Spanish -->
+                    <country>Argentina</country>
+                    <note type="source">
+                        <ptr target="#Lichtblau_1997"/>
+                    </note>
+                </bibl>
+            </listBibl>
             <listBibl type="publication-unclear">
                 <bibl xml:id="W1291">
                     <author key="A391">Ángulo y Guridi, Alejandro</author>
@@ -93,6 +109,22 @@
                 </bibl>
             </listBibl>
             <listBibl type="translation">
+                <bibl xml:id="W1240">
+                    <author key="A469">Pélissot, Felisberto</author>
+                    <title>Camila O'Gorman</title>
+                    <term type="subgenre.title.explicit">novela</term>
+                    <term type="subgenre.title.explicit.norm" resp="#uhk">novela</term>
+                    <term type="subgenre.title.implicit" resp="#uhk">-</term>
+                    <term type="subgenre.title.interp" resp="#uhk">novela general</term>
+                    <term type="subgenre.litHist" resp="#Lichtblau_1959">Rosas theme</term>
+                    <term type="subgenre.litHist.interp" resp="#uhk">novela política</term>
+                    <term type="subgenre.summary" resp="#uhk" cert="medium">novela política</term>
+                    <country>Argentina</country>
+                    <note type="source">
+                        <ptr target="#WikimediaCommons"/>
+                    </note>
+                    <!-- Übersetzung -->
+                </bibl>
                 <bibl xml:id="W518">
                     <author key="A203">Mansilla de García, Eduarda</author>
                     <title>Pablo, o la vida en las pampas</title>
@@ -190,6 +222,22 @@
             </listBibl>
             <listBibl type="no-novel">
                 <!-- done -->
+                <bibl xml:id="W871">
+                    <!-- una serie de artículos -->
+                    <author key="A339">Ferrel y Félix, José</author>
+                    <title>Los de la mutua de elogios</title>
+                    <term type="subgenre.title.explicit">-</term>
+                    <term type="subgenre.title.explicit.norm" resp="#uhk">-</term>
+                    <term type="subgenre.title.implicit" resp="#uhk">-</term>
+                    <term type="subgenre.title.interp" resp="#uhk">novela general</term>
+                    <term type="subgenre.summary" subtype="signal" resp="#uhk">no identificado</term>
+                    <term type="subgenre.summary" subtype="theme" resp="#uhk">no identificado</term>
+                    <term type="subgenre.summary" subtype="current" resp="#uhk">no identificado</term>
+                    <country>México</country>
+                    <note type="source">
+                        <ptr target="#Torres-Rioseco_1933"/>
+                    </note>
+                </bibl>
                 <bibl xml:id="W1173">
                     <author key="A445">Alegría, Adolfo Isaac</author>
                     <title>El libro de Satanás</title>

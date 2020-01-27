@@ -68,6 +68,11 @@
                     <term type="female">francesa</term>
                 </item>
                 <item>
+                    <term type="general">italiana/o</term>
+                    <term type="male">italiano</term>
+                    <term type="female">italiana</term>
+                </item>
+                <item>
                     <term type="general">mexicana/o</term>
                     <term type="male">mexicano</term>
                     <term type="female">mexicana</term>
@@ -76,6 +81,11 @@
                     <term type="general">peruana/o</term>
                     <term type="male">peruano</term>
                     <term type="female">peruana</term>
+                </item>
+                <item>
+                    <term type="general">puertorriqueña/o</term>
+                    <term type="male">puertorriqueño</term>
+                    <term type="female">puertorriqueña</term>
                 </item>
                 <item>
                     <term type="general">uruguaya/o</term>

@@ -3,6 +3,10 @@
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <!-- ######## Kommentare zu einzelnen Autoren: -->
+    <!-- von Remos y Rubio, 1935, erwähnt: Ignacia García de Tarafa, Matilde o la joven habanera (1844),
+    novela costumbrista 
+    Miguel Teurbe Tolon (matancero), Lola Guara (1846), novela costumbrista 
+    in Remos y Rubio auch noch weitere Autoren, die im DLC nicht enthalten sind -->
     
     <!-- Zamacois, Niceto: Un ángel desterrado del cielo. Leyenda religiosa,
                         https://catalog.hathitrust.org/Record/011819844: Dichtung -->
@@ -2617,6 +2621,40 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">36819526</idno>
+                </person>
+                <person xml:id="A221">
+                    <persName>
+                        <surname>Nieves</surname>
+                        <forename>Manuel María</forename>
+                    </persName>
+                    <birth>
+                        <date>desconocido</date>
+                        <placeName>España</placeName>
+                    </birth>
+                    <death>
+                        <date>desconocido</date>
+                        <placeName>Argentina</placeName>
+                    </death>
+                    <sex>masculino</sex>
+                    <nationality>español/a</nationality>
+                    <idno type="viaf">87846557</idno>
+                </person>
+                <person xml:id="A469">
+                    <persName>
+                        <surname>Pélissot</surname>
+                        <forename>Felisberto</forename>
+                    </persName>
+                    <birth>
+                        <date>desconocido</date>
+                        <placeName>desconocido</placeName>
+                    </birth>
+                    <death>
+                        <date>desconocido</date>
+                        <placeName>desconocido</placeName>
+                    </death>
+                    <sex>masculino</sex>
+                    <nationality>francés/a</nationality>
+                    <idno type="viaf">311451792</idno>
                 </person>
             </listPerson>
         </body>

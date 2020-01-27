@@ -756,7 +756,6 @@
                         </imprint>
                         <extent n="590">En 8° M, XI-590 ps.</extent>
                     </monogr>
-                    <ref>https://catalog.hathitrust.org/Record/101863127</ref>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W45" xml:id="E61">
                     <monogr>
@@ -9191,20 +9190,6 @@
                         <extent n="181">181 pp.</extent>
                     </monogr>
                 </biblStruct>
-                <biblStruct corresp="works.xml#W543" xml:id="E779">
-                    <monogr>
-                        <author key="A221">Nieves, Manuel María</author>
-                        <title level="m" type="main">Los mártires de Buenos Aires, o el tirano Juan
-                            Manuel Rosas</title>
-                        <title level="m" type="sub">Novela original</title>
-                        <edition>Edición de lujo</edition>
-                        <imprint>
-                            <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
-                            <date when="1861">1861</date>
-                        </imprint>
-                        <extent n="568">568 pp.</extent>
-                    </monogr>
-                </biblStruct>
                 <biblStruct corresp="works.xml#W544" xml:id="E780">
                     <monogr>
                         <author key="A222">Noguera, Bernardino</author>
@@ -9387,6 +9372,10 @@
                         </imprint>
                         <extent n="407">407 pp.</extent>
                     </monogr>
+                    <series>
+                        <title level="s">Novelas argentinas</title>
+                        <biblScope unit="volume">Tomo VII</biblScope>
+                    </series>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W556" xml:id="E794">
                     <monogr>
@@ -12158,7 +12147,7 @@
                 </biblStruct>
                 <biblStruct corresp="works.xml#W779" xml:id="E1070">
                     <monogr>
-                        <author key="A306">Muñoz, Mariano M. y</author>
+                        <author key="A306">Muñoz, Mariano Meléndez y</author>
                         <title level="m" type="main">El misterioso</title>
                         <imprint>
                             <publisher>Imprenta por T. Cruz-Aedo</publisher>
@@ -13214,21 +13203,6 @@
                     </monogr>
                     <note resp="#TorresRioseco">(Subscrita en El Paso, Texas, 15 de junio, 1910.
                         Sólo contiene la primera parte.)</note>
-                </biblStruct>
-                <biblStruct corresp="works.xml#W871" xml:id="E1217">
-                    <monogr>
-                        <author key="A339">Ferrel y Félix, José</author>
-                        <title level="m" type="main">Los de la mutua de elogios</title>
-                        <imprint>
-                            <publisher>Imprenta de Retes</publisher>
-                            <pubPlace corresp="countries.xml#MX">Mazatlán</pubPlace>
-                            <date when="1892">1892</date>
-                        </imprint>
-                        <extent n="229">229 pp.</extent>
-                    </monogr>
-                    <ref>https://archive.org/details/losdelamutuadee01ferrgoog</ref>
-                    <ref>https://archive.org/details/losdelamutuadee00ferrgoog</ref>
-                    <ref>https://catalog.hathitrust.org/Record/100510512</ref>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W872" xml:id="E1218">
                     <monogr>
@@ -16791,10 +16765,12 @@
                     </monogr>
                     <series>
                         <title level="s" type="main">La Linterna Mágica</title>
+                        <title level="s" type="sub">Colección de novelas de costumbres mexicanas, artículos y poesías</title>
                         <title level="s" type="sub">Segunda Época</title>
                         <biblScope unit="volume">T. XIV</biblScope>
                     </series>
                     <ref>http://dgb.conaculta.gob.mx/coleccion_sep/libro_pdf/11000032201.pdf</ref>
+                    <ref>https://cd.dgb.uanl.mx/handle/201504211/14769</ref>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W1129" xml:id="E1597">
                     <monogr>
@@ -18105,23 +18081,6 @@
                     </monogr>
                     <ref>https://upload.wikimedia.org/wikipedia/commons/0/02/Asi_sea_-_Victorio_Sylva.pdf</ref>
                 </biblStruct>
-                <biblStruct corresp="works.xml#W1240" xml:id="E1742">
-                    <monogr>
-                        <author key="A469">Pélissot, Felisberto</author>
-                        <title level="m" type="main">Camila O'Gorman</title>
-                        <title level="m" type="sub">Novela escrita por Felisberto Pelissot</title>
-                        <edition>Nueva edición aumentada con datos interesantes, notablemente
-                            modificada y precedida del folleto histórico del Comercio del
-                            Plata</edition>
-                        <imprint>
-                            <publisher>Imprenta de Las Artes</publisher>
-                            <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
-                            <date when="1857">1857</date>
-                        </imprint>
-                        <extent n="251">251 pp.</extent>
-                    </monogr>
-                    <ref>https://upload.wikimedia.org/wikipedia/commons/a/aa/Camila_O%27Gorman_-_Pelissot_Felisberto.pdf</ref>
-                </biblStruct>
                 <biblStruct corresp="works.xml#W1241" xml:id="E1743">
                     <monogr>
                         <author key="A470">Mayer, E.</author>
@@ -18350,7 +18309,7 @@
                 <biblStruct corresp="works.xml#W1263" xml:id="E1771">
                     <monogr>
                         <author key="A484">Villafañe, Segundo I.</author>
-                        <title level="m" type="main">Don Lino Velázquez</title>
+                        <title level="m" type="main">Don Lino Velásquez</title>
                         <imprint>
                             <publisher>Félix Lajouane</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
@@ -18591,6 +18550,32 @@
                             <date from="1858-02-17" to="1858-06-09">17 de febrero a 9 de junio de 1858</date>
                         </imprint>
                         <extent n="147">147 pp.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="works.xml#W1298" xml:id="E1852">
+                    <monogr>
+                        <author key="A497">Rodríguez Émbil, Luis</author>
+                        <title type="main" level="m">La insurrección</title>
+                        <title type="sub" level="m">Novela</title>
+                        <imprint>
+                            <publisher>Libr. Paul Ollendorff</publisher>
+                            <pubPlace corresp="countries.xml#FR">Paris</pubPlace>
+                            <date when="1910" cert="low">1910</date>
+                        </imprint>
+                        <extent n="200">200 pp.</extent>
+                    </monogr>
+                </biblStruct>
+                <biblStruct corresp="works.xml#W1299" xml:id="E1853">
+                    <monogr>
+                        <author key="A498">Ezponda, Eduardo</author>
+                        <title type="main" level="m">¿Es ángel?</title>
+                        <title type="sub" level="m">Novela original de costumbres cubanas</title>
+                        <imprint>
+                            <publisher>A. Pego</publisher>
+                            <pubPlace corresp="countries.xml#CU">La Habana</pubPlace>
+                            <date when="1877">1877</date>
+                        </imprint>
+                        <extent n="571">2 vols., 304 + 267 pp.</extent>
                     </monogr>
                 </biblStruct>
             </listBibl>

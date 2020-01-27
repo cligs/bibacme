@@ -48,6 +48,22 @@
     </teiHeader>
     <text>
         <body>
+            <listBibl type="author-nationality">
+                <biblStruct corresp="works.xml#W543" xml:id="E779">
+                    <monogr>
+                        <author key="A221">Nieves, Manuel María</author>
+                        <title level="m" type="main">Los mártires de Buenos Aires, o el tirano Juan
+                            Manuel Rosas</title>
+                        <title level="m" type="sub">Novela original</title>
+                        <edition>Edición de lujo</edition>
+                        <imprint>
+                            <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
+                            <date when="1861">1861</date>
+                        </imprint>
+                        <extent n="568">568 pp.</extent>
+                    </monogr>
+                </biblStruct>
+            </listBibl>
             <listBibl type="publication-unclear">
                 <biblStruct corresp="W1291" xml:id="E1809">
                     <monogr>
@@ -183,6 +199,23 @@
                 </biblStruct>
             </listBibl>
             <listBibl type="translation">
+                <biblStruct corresp="works.xml#W1240" xml:id="E1742">
+                    <monogr>
+                        <author key="A469">Pélissot, Felisberto</author>
+                        <title level="m" type="main">Camila O'Gorman</title>
+                        <title level="m" type="sub">Novela escrita por Felisberto Pelissot</title>
+                        <edition>Nueva edición aumentada con datos interesantes, notablemente
+                            modificada y precedida del folleto histórico del Comercio del
+                            Plata</edition>
+                        <imprint>
+                            <publisher>Imprenta de Las Artes</publisher>
+                            <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
+                            <date when="1857">1857</date>
+                        </imprint>
+                        <extent n="251">251 pp.</extent>
+                    </monogr>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/a/aa/Camila_O%27Gorman_-_Pelissot_Felisberto.pdf</ref>
+                </biblStruct>
                 <biblStruct corresp="W518" xml:id="E735">
                     <analytic>
                         <author key="A203">Mansilla de García, Eduarda</author>
@@ -498,6 +531,21 @@
             </listBibl>
             <listBibl type="no-novel">
                 <!-- done -->
+                <biblStruct corresp="works.xml#W871" xml:id="E1217">
+                    <monogr>
+                        <author key="A339">Ferrel y Félix, José</author>
+                        <title level="m" type="main">Los de la mutua de elogios</title>
+                        <imprint>
+                            <publisher>Imprenta de Retes</publisher>
+                            <pubPlace corresp="countries.xml#MX">Mazatlán</pubPlace>
+                            <date when="1892">1892</date>
+                        </imprint>
+                        <extent n="229">229 pp.</extent>
+                    </monogr>
+                    <ref>https://archive.org/details/losdelamutuadee01ferrgoog</ref>
+                    <ref>https://archive.org/details/losdelamutuadee00ferrgoog</ref>
+                    <ref>https://catalog.hathitrust.org/Record/100510512</ref>
+                </biblStruct>
                 <biblStruct corresp="W980" xml:id="E1390">
                     <monogr>
                         <author key="A374">Guerrero Pallarés, Teodoro</author>

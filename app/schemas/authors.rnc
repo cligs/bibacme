@@ -69,7 +69,7 @@ start =
               text
             },
             idno*,
-            note?
+            note*
           }+
         }
       }

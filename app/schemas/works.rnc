@@ -55,9 +55,11 @@ start =
                     })+
                }
              | element term {
+                 attribute cert { text }?,
                  attribute ref { text }?,
                  attribute resp { text }?,
                  attribute type { xsd:NCName },
+                 attribute subtype { xsd:NCName }?,
                  attribute cligs:importance { xsd:integer }?,
                  text
                })+

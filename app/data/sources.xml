@@ -69,8 +69,8 @@
                         la República Argentina.</seg> 2012-2017. <ref
                         target="http://catalogo.bn.gov.ar">http://catalogo.bn.gov.ar</ref>
                 </bibl>
-                <bibl xml:id="CejadorFrauca">Cejador y Frauca, Julio. <seg rend="italic">Historia
-                        de la lengua y literatura castellana. Comprendidos los autores
+                <bibl xml:id="CejadorFrauca">Cejador y Frauca, Julio. <seg rend="italic">Historia de
+                        la lengua y literatura castellana. Comprendidos los autores
                         hispano-americanos.</seg> (Época regional y modernista: 1888-1907). (Segunda
                     parte). Tomo XI. Madrid. <ref
                         target="https://archive.org/details/historiadelaleng11ceja"
@@ -101,9 +101,9 @@
                 <bibl xml:id="Iguiniz">Iguiniz, Juan B. <seg rend="italic">Bibliografía de
                         novelistas mexicanos: ensayo biográfico, bibliográfico y crítico.</seg>
                     Imprenta de la Secretaría de relaciones exteriores, 1926.</bibl>
-                <bibl xml:id="DLC_1999">Instituto de Literatura y Lingüística de la Academia de Ciencias
-                    de Cuba (Ed.). <seg rend="italic">Diccionario de la literatura cubana.</seg>
-                    Alicante: Biblioteca Virtual Miguel de Cervantes, 1999. <ref
+                <bibl xml:id="DLC_1999">Instituto de Literatura y Lingüística de la Academia de
+                    Ciencias de Cuba (Ed.). <seg rend="italic">Diccionario de la literatura
+                        cubana.</seg> Alicante: Biblioteca Virtual Miguel de Cervantes, 1999. <ref
                         target="http://www.cervantesvirtual.com/obra/diccionario-de-la-literatura-cubana--0/"
                         >http://www.cervantesvirtual.com/obra/diccionario-de-la-literatura-cubana--0/</ref>
                 </bibl>
@@ -121,11 +121,14 @@
                         target="http://www.prosamodernista.com/"
                         >http://www.prosamodernista.com/</ref>
                 </bibl>
-                <bibl xml:id="Lichtblau_1997">Lichtblau, Myron. <seg rend="italic">The Argentine Novel:
-                        an annotated bibliography.</seg> Lanham, Maryland, 1997.</bibl>
+                <bibl xml:id="Lichtblau_1997">Lichtblau, Myron. <seg rend="italic">The Argentine
+                        Novel: an annotated bibliography.</seg> Lanham, Maryland, 1997.</bibl>
                 <bibl xml:id="Mata">Mata, Óscar. <seg rend="italic">La novela corta mexicana en el
                         siglo XIX.</seg> México: Universidad Nacional Autónoma de México,
                     1999.</bibl>
+                <bibl xml:id="Marshall_1948">Nunn, Marshall E. "Las obras menores de Cirilo
+                    Villaverde." <seg rend="italic">Revista Iberoamericana</seg> 14 (28). México,
+                    D.F., 1948.</bibl>
                 <bibl xml:id="Molina_2011">Molina, Hebe Beatriz. <seg rend="italic">Como crecen los
                         hongos. La novela argentina entre 1838 y 1872.</seg> Teseo 2011.</bibl>
                 <bibl xml:id="Padron">Padrón, Carlos M. "Los Canarios en América / José Antonio
@@ -137,6 +140,8 @@
                 <bibl xml:id="Gutenberg"><seg rend="italic">Project Gutenberg.</seg> S.l., 2017.
                         <ref target="http://www.gutenberg.org/"
                     >http://www.gutenberg.org/</ref></bibl>
+                <bibl xml:id="RemosRubio_1935">Remos y Rubio, Juan J. <seg rend="italic">Tendencias de la 
+                narración imaginativa en Cuba.</seg> La Habana: Casa Montalvo-Cárdenas, 1935.</bibl>
                 <bibl xml:id="SanchezMarmolI">Sánchez Mármol, Manuel. <seg rend="italic">Obras
                         completas.</seg> Tomo I. Novelas. Compilación, Prefacio, Introducción y
                     Notas Manuel Sol T. Villahermosa, Tabasco: Universidad Juárez Autónoma de
@@ -145,8 +150,8 @@
                         completas.</seg> Tomo II. Novelas y Cuentos. Compilación, Prefacio,
                     Introducción y Notas Manuel Sol T. Villahermosa, Tabasco: Universidad Juárez
                     Autónoma de Tabasco, 2011.</bibl>
-                <bibl xml:id="elem.mx">Secretaría de Cultura (Ed.). <seg rend="italic">Enciclopedia de
-                        la literatura en México.</seg> México, 2016. <ref
+                <bibl xml:id="elem.mx">Secretaría de Cultura (Ed.). <seg rend="italic">Enciclopedia
+                        de la literatura en México.</seg> México, 2016. <ref
                         target="http://www.elem.mx">http://www.elem.mx</ref>
                 </bibl>
                 <bibl xml:id="SolorzanoPonce">Solórzano Ponce, María Teresa. "Juan Antonio Mateos
@@ -154,9 +159,9 @@
                         escrita del México decimonónico.</seg> Volumen III. Galería de escritores.
                     Edited by Belem Clark de Lara and Elisa Speckman Guerra. México: Universidad
                     Nacional Autónoma de México, 2005. 333-341. </bibl>
-                <bibl xml:id="Torres-Rioseco_1933">Torres-Rioseco, Arturo. <seg rend="italic">Bibliografía
-                        de la novela mejicana.</seg> Cambridge, Massachusetts: Harvard University
-                    Press, 1933.</bibl>
+                <bibl xml:id="Torres-Rioseco_1933">Torres-Rioseco, Arturo. <seg rend="italic"
+                        >Bibliografía de la novela mejicana.</seg> Cambridge, Massachusetts: Harvard
+                    University Press, 1933.</bibl>
                 <bibl xml:id="Trelles">Trelles, Carlos. <seg rend="italic">Bibliografía Cubana del
                         Siglo XIX.</seg> Matanzas: Imprenta de Quirós y Estrada, 1911-1915. 8
                     tomos.</bibl>

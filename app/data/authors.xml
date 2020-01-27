@@ -1893,7 +1893,7 @@
                         <forename>Salvador</forename>
                     </persName>
                     <birth>
-                        <date when="1859">1859</date>
+                        <date when="1859-11-20">20 de noviembre de 1859</date>
                         <placeName>Guadalajara</placeName>
                         <placeName>Jalisco</placeName>
                         <placeName>México</placeName>
@@ -2665,7 +2665,8 @@
                     <nationality cert="medium">uruguaya/o</nationality>
                     <idno type="viaf">46513944</idno>
                     <idno type="viaf">260145856979322920824</idno>
-                    <note resp="#Lichtblau_1997">Escritor uruguayo, emigrado a la Argentina 1853.</note>
+                    <note resp="#Lichtblau_1997">Escritor uruguayo, emigrado a la Argentina
+                        1853.</note>
                 </person>
                 <person xml:id="A185">
                     <persName>
@@ -3204,23 +3205,6 @@
                     <sex>masculino</sex>
                     <nationality cert="medium">argentina/o</nationality>
                     <idno type="viaf">233145857085822922244</idno>
-                </person>
-                <person xml:id="A221">
-                    <persName>
-                        <surname>Nieves</surname>
-                        <forename>Manuel María</forename>
-                    </persName>
-                    <birth>
-                        <date>desconocido</date>
-                        <placeName>España</placeName>
-                    </birth>
-                    <death>
-                        <date>desconocido</date>
-                        <placeName>Argentina</placeName>
-                    </death>
-                    <sex>masculino</sex>
-                    <nationality>español/a</nationality>
-                    <idno type="viaf">87846557</idno>
                 </person>
                 <person xml:id="A222">
                     <persName>
@@ -4478,7 +4462,7 @@
                 <person xml:id="A306">
                     <persName>
                         <surname>Muñoz</surname>
-                        <forename>Mariano M. y</forename>
+                        <forename>Mariano Meléndez y</forename>
                     </persName>
                     <birth>
                         <date>desconocido</date>
@@ -4514,16 +4498,19 @@
                         <forename>Ernestina</forename>
                     </persName>
                     <birth>
-                        <date>desconocido</date>
-                        <placeName>desconocido</placeName>
+                        <date when="1854">1854</date>
+                        <placeName>Roma</placeName>
+                        <placeName>Italia</placeName>
                     </birth>
                     <death>
-                        <date>desconocido</date>
-                        <placeName>desconocido</placeName>
+                        <date when="1925">1925</date>
+                        <placeName>Ciudad de México</placeName>
+                        <placeName>México</placeName>
                     </death>
                     <sex>femenino</sex>
-                    <nationality cert="medium">mexicana/o</nationality>
+                    <nationality>italiana/o</nationality>
                     <idno type="viaf">87773785</idno>
+                    <note source="elem.mx">En 1868 llegó a México.</note>
                 </person>
                 <person xml:id="A312">
                     <persName>
@@ -5324,8 +5311,8 @@
                     <sex>masculino</sex>
                     <nationality>dominicana/o</nationality>
                     <idno type="viaf">3703780</idno>
-                    <note source="#DLC_1999">Muy niño aún fue trasladado a Cuba, donde cursó todos sus
-                        estudios. Residió la mayor parte de su vida en Matanzas.</note>
+                    <note source="#DLC_1999">Muy niño aún fue trasladado a Cuba, donde cursó todos
+                        sus estudios. Residió la mayor parte de su vida en Matanzas.</note>
                 </person>
                 <person xml:id="A370">
                     <persName>
@@ -5632,8 +5619,8 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality>dominicana/o</nationality>
-                    <note source="#DLC_1999">Muy niño aún fue trasladado a Cuba, donde cursó estudios y
-                        adquirió una sólida formación jurídica y literaria.</note>
+                    <note source="#DLC_1999">Muy niño aún fue trasladado a Cuba, donde cursó
+                        estudios y adquirió una sólida formación jurídica y literaria.</note>
                 </person>
                 <person xml:id="A392">
                     <persName>
@@ -5675,6 +5662,8 @@
                     <nationality>español/a</nationality>
                     <idno type="viaf">102336641</idno>
                     <note source="#DLC_1999">Llegó a La Habana por primera vez en 1825.</note>
+                    <note source="#RemosRubio_1935">un vizcaíno que desde los dieciséis años vivió
+                        en Cuba</note>
                 </person>
                 <person xml:id="A395">
                     <persName>
@@ -5731,8 +5720,8 @@
                     </death>
                     <sex>femenino</sex>
                     <nationality>español/a</nationality>
-                    <note source="#DLC_1999">En 1833 se traslada a Cuba donde se forma como escritora
-                        [...]</note>
+                    <note source="#DLC_1999">En 1833 se traslada a Cuba donde se forma como
+                        escritora [...]</note>
                 </person>
                 <person xml:id="A398">
                     <persName>
@@ -6613,8 +6602,8 @@
                     <sex>masculino</sex>
                     <nationality>chilena/o</nationality>
                     <idno type="viaf">76034367</idno>
-                    <note resp="#Lichtblau_1997">Escritor chileno, radicado desde 1890 en Buenos Aires y
-                        estrechamente vinculado con la escena argentina.</note>
+                    <note resp="#Lichtblau_1997">Escritor chileno, radicado desde 1890 en Buenos
+                        Aires y estrechamente vinculado con la escena argentina.</note>
                 </person>
                 <person xml:id="A466">
                     <persName>
@@ -6665,23 +6654,6 @@
                     <sex>masculino</sex>
                     <nationality cert="medium">argentina/o</nationality>
                     <idno type="viaf">310591190</idno>
-                </person>
-                <person xml:id="A469">
-                    <persName>
-                        <surname>Pélissot</surname>
-                        <forename>Felisberto</forename>
-                    </persName>
-                    <birth>
-                        <date>desconocido</date>
-                        <placeName>desconocido</placeName>
-                    </birth>
-                    <death>
-                        <date>desconocido</date>
-                        <placeName>desconocido</placeName>
-                    </death>
-                    <sex>masculino</sex>
-                    <nationality>francés/a</nationality>
-                    <idno type="viaf">311451792</idno>
                 </person>
                 <person xml:id="A470">
                     <persName>
@@ -6969,7 +6941,9 @@
                         <placeName>desconocido</placeName>
                     </death>
                     <sex>masculino</sex>
-                    <nationality cert="low">cubana/o</nationality>
+                    <nationality>español/a</nationality>
+                    <note resp="#RemosRubio_1935">Un escritor español que vivió en Cuba, siendo en
+                        la Habana redactor del "Repertorio Médico"</note>
                 </person>
                 <person xml:id="A494">
                     <persName>
@@ -7020,6 +6994,44 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality>uruguaya/o</nationality>
+                </person>
+                <person xml:id="A497">
+                    <persName>
+                        <surname>Rodríguez Émbil</surname>
+                        <forename>Luis</forename>
+                        <addName type="pseudonym">Julio Abril</addName>
+                        <addName type="pseudonym">Julián Sorel</addName>
+                    </persName>
+                    <birth>
+                        <date when="1879-08-30">30 de agosto de 1879</date>
+                        <placeName>La Habana</placeName>
+                        <placeName>Cuba</placeName>
+                    </birth>
+                    <death>
+                        <date when="1954-04-29">29 de abril de 1954</date>
+                        <placeName>La Habana</placeName>
+                        <placeName>Cuba</placeName>
+                    </death>
+                    <sex>masculino</sex>
+                    <nationality>cubana/o</nationality>
+                    <idno type="viaf">310568951</idno>
+                </person>
+                <person xml:id="A498">
+                    <persName>
+                        <surname>Ezponda</surname>
+                        <forename>Eduardo</forename>
+                    </persName>
+                    <birth>
+                        <date when="1815">1815</date>
+                        <placeName>Puerto Rico</placeName>
+                    </birth>
+                    <death>
+                        <date>desconocido</date>
+                        <placeName>desconocido</placeName>
+                    </death>
+                    <sex>masculino</sex>
+                    <nationality>puertorriqueña/o</nationality>
+                    <idno type="viaf">21790040</idno>
                 </person>
             </listPerson>
         </body>
