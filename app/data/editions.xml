@@ -1860,7 +1860,7 @@
                         <imprint>
                             <publisher>Imprenta de la Revista</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
-                            <date when="1956">1856</date>
+                            <date when="1856">1856</date>
                         </imprint>
                         <extent n="119">119 pp.</extent>
                     </monogr>
@@ -8505,7 +8505,7 @@
                         <imprint>
                             <publisher>Imprenta de La Patria Argentina</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
-                            <date from="1883">1883</date>
+                            <date when="1883">1883</date>
                         </imprint>
                         <extent n="194">194 pp.</extent>
                     </monogr>
