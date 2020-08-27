@@ -19,5 +19,9 @@
             <sch:let name="edition-id" value="."/>
             <sch:report test="preceding::tei:biblStruct[@xml:id = $edition-id]">This edition id has already been defined.</sch:report>
         </sch:rule>
+        <sch:rule context="@resp[. != '#uhk']">
+            <sch:let name="source-id" value="substring-after(.,'#')"/>
+            <sch:assert test="doc('../data/sources.xml')//tei:bibl[@xml:id = $source-id]">There is no corresponding bibliographic source for "<sch:value-of select="$source-id"/>" in sources.xml.</sch:assert>
+        </sch:rule>
     </sch:pattern>
 </sch:schema>

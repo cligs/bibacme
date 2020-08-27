@@ -51,7 +51,7 @@ start =
               (element name {
                  attribute type { xsd:NCName }?,
                  text
-               }*
+               }
                | (note
                   | element addName {
                       attribute type { xsd:NCName }?,
@@ -98,8 +98,10 @@ idno =
 note =
   element note {
     attribute resp { text }?,
-    attribute source { text }?,
-    (text | ref)+
+    attribute type { xsd:NCName }?,
+    (text
+     | ref
+     | element country { xsd:NCName })+
   }
 placeName =
   element placeName {

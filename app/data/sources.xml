@@ -24,155 +24,290 @@
             </publicationStmt>
             <sourceDesc>
                 <p>En este fichero se dan las fuentes consultadas para establecer las listas de
-                    autores (authors.xml), obras (works.xml) y ediciones (editions.xml).</p>
+                    autores (authors.xml), obras (works.xml) y ediciones (editions.xml) y para
+                    asignar los subgéneros a las novelas (en works.xml).</p>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
     <text>
         <body>
             <listBibl>
-                <bibl xml:id="BDH">
-                    <seg rend="italic">Biblioteca Digital Hispánica.</seg> Madrid: Biblioteca
-                    Nacional de España, 2016. <ref target="http://bdh.bne.es"
-                        >http://bdh.bne.es</ref>
+                <bibl xml:id="Aguilar-Mora_1990"> Aguilar Mora, Jorge. <seg rend="italic">Una muerte
+                        sencilla, justa, eterna. Cultura y guerra durante la revolución
+                        mexicana.</seg> México: Ediciones Era, <date when="1990">1990</date>. </bibl>
+                <bibl xml:id="Alfonso-Lopez_2011"> Alfonso López, Félix Julio. "Literatura y
+                    conflicto colonial en Cuba a fines del siglo XIX (1878-1898)." <seg
+                        rend="italic">el caimán Barbudo. La revista cultural de la juventud
+                        cubana.</seg> 21 December <date when="2011">2011</date>, <ref
+                        target="http://web.archive.org/web/20190722134040/http://www.caimanbarbudo.cu/articulos/2011/12/literatura-y-conflicto-colonial-en-cuba-a-fines-del-siglo-xix-1878-1898/"
+                        >http://web.archive.org/web/20190722134040/http://www.caimanbarbudo.cu/articulos/2011/12/literatura-y-conflicto-colonial-en-cuba-a-fines-del-siglo-xix-1878-1898/</ref>. </bibl>
+                <bibl xml:id="Alloatti_2004"> Alloatti, Norma. "El placer de escribir: las novelas
+                    de Emma de la Barra." <seg rend="italic">Confluencia</seg>, Vol. 20 (1), <date
+                        when="2004">2004</date>, p. 100-119. </bibl>
+                <bibl xml:id="Arambel-Guinazu_2000"> Arambel-Guiñazú, María Cristina "Decir lo
+                    indecible: Los relatos fantásticos de Juana Manuela Gorriti." <seg rend="italic"
+                        >Revista Hispánica Moderna</seg>, Año 53, No. 1 (Jun. <date when="2000"
+                        >2000</date>), p. 214-228. </bibl>
+                <bibl xml:id="Azougarh_2012"> Azougarh, Abdeslam. <seg rend="italic">Los Inicios de
+                        la Novela en Cuba: Cirilo Villaverde.</seg> Madrid: Vision Libros, <date
+                        when="2012">2012</date>. </bibl>
+                <bibl xml:id="Bautista_1982"> Bautista, Hilda. "Presentación." <seg rend="italic"
+                        >Perico (1885).</seg> By Arcadio Zentella. La Matraca, Primera Serie, 5.
+                    México, D. F: Premià Editora, <date when="1982">1982</date>. <!-- pages? -->
                 </bibl>
-                <bibl xml:id="BVY">
-                    <seg rend="italic">Biblioteca Virtual de Yucatán.</seg> S.l.: Secretaria de la
-                    Cultura y las Artes, Departamento de Patrimonio Cultural, Biblioteca
-                    Yucatanense, s.f. <ref target="http://www.bibliotecavirtualdeyucatan.com.mx/"
-                        >http://www.bibliotecavirtualdeyucatan.com.mx/</ref>
+                <bibl xml:id="BDH_2016"> Biblioteca Nacional de España (ed.). <seg rend="italic"
+                        >Biblioteca Digital Hispánica.</seg> Madrid: Biblioteca Nacional de España,
+                    2016ff. <ref target="http://bdh.bne.es">http://bdh.bne.es</ref>. </bibl>
+                <bibl xml:id="Berg_2006"> Berg, Mary G. "Prólogo. Peregrinaciones de un alma triste
+                    y su autora." <seg rend="italic">Peregrinaciones de una alma triste.</seg> By
+                    Juana Manuela Gorriti. Buenos Aires: Stockcero <date when="2006">2006</date>, p.
+                    VII-XX. <ref target="https://www.stockcero.com/pdfs/987-1136-42-0_SAMP.pdf"
+                        >https://www.stockcero.com/pdfs/987-1136-42-0_SAMP.pdf</ref>. </bibl>
+                <bibl xml:id="Brushwood_1966"> Brushwood, John S. <seg rend="italic">Mexico in its
+                        novel. A Nation's Search for Identity.</seg> Austin: University of Texas
+                    Press, <date when="1996">1966</date>. </bibl>
+                <bibl xml:id="Carballo_2004"> Carballo, Emmanuel. <seg rend="italic">Ensayos
+                        selectos.</seg> Selección y prólogo de Juan Domingo Argüelles. México:
+                    Universidad Nacional Autónoma de México, <date when="2004">2004</date>. </bibl>
+                <bibl xml:id="Castro-Leal_2008"> Castro Leal, Antonio. "Manuel Sánchez Mármol." <seg
+                        rend="italic">Nuestros Humanistas.</seg> Universidad Virtual Alfonsina,
+                        <date when="2008">2007-2008</date>, <ref
+                        target="http://web.archive.org/web/20090226111505/http://centenarios.org.mx:80/SanchezMarmol.htm"
+                        >http://web.archive.org/web/20090226111505/http://centenarios.org.mx:80/SanchezMarmol.htm</ref>
                 </bibl>
-                <bibl xml:id="CervantesVirtual">
-                    <seg rend="italic">Biblioteca Virtual Miguel de Cervantes.</seg> S.l., s.f. <ref
-                        target="http://www.cervantesvirtual.com/"
-                        >http://www.cervantesvirtual.com/</ref>
-                </bibl>
-                <bibl xml:id="Bouffartigue">Bouffartigue, Sylvie. "Mujeres en la narrativa de la
-                    Guerra de Independencia." Rey Tristán, Eduardo; Calvo González, Patricia (eds).
-                        <seg rend="italic">XIV Encuentro de Latinoamericanistas Españoles: congreso
-                        internacional</seg>, septiembre 2010, Santiago de Compostela, España.
-                    Universidade de Santiago de Compostela, Centro Interdisciplinario de Estudios
-                    Americanistas Gumersindo Busto; Consejo Español de Estudios Iberoamericanos,
-                    2010, p. 206-221. <ref>https://halshs.archives-ouvertes.fr/halshs-00529274</ref>
-                </bibl>
-                <bibl xml:id="Calcagno">Calcagno, Francisco. <seg rend="italic">Diccionario
-                        biográfico cubano.</seg> New York: Ponce de León, 1878. <ref
-                        target="http://hdl.handle.net/10347/12910"
-                        >http://hdl.handle.net/10347/12910</ref>
-                </bibl>
-                <bibl xml:id="Carballo">
-                    <seg rend="italic">Emmanuel Carballo. Ensayos selectos.</seg> Selección y
-                    prólogo de Juan Domingo Argüelles. Universidad Nacional Autónoma de México,
-                    2004. </bibl>
-                <bibl xml:id="CatalogoAR">
-                    <seg rend="italic">Catálogo Público de la Biblioteca Nacional Mariano Moreno de
-                        la República Argentina.</seg> 2012-2017. <ref
-                        target="http://catalogo.bn.gov.ar">http://catalogo.bn.gov.ar</ref>
-                </bibl>
-                <bibl xml:id="CejadorFrauca">Cejador y Frauca, Julio. <seg rend="italic">Historia de
-                        la lengua y literatura castellana. Comprendidos los autores
+                <bibl xml:id="Cejador-Frauca_1919">Cejador y Frauca, Julio. <seg rend="italic"
+                        >Historia de la lengua y literatura castellana. Comprendidos los autores
                         hispano-americanos.</seg> (Época regional y modernista: 1888-1907). (Segunda
-                    parte). Tomo XI. Madrid. <ref
+                    parte). Tomo XI. Madrid, <date when="1919">1919</date>. <ref
                         target="https://archive.org/details/historiadelaleng11ceja"
-                        >https://archive.org/details/historiadelaleng11ceja</ref>
-                </bibl>
-                <bibl xml:id="UANL">
-                    <seg rend="italic">Colección Digital UANL.</seg> Universidad Autónoma de Nuevo
-                    León 2017. <ref target="http://cd.dgb.uanl.mx">http://cd.dgb.uanl.mx</ref>
-                </bibl>
-                <bibl xml:id="EnCaribe">
-                    <seg rend="italic">En Caribe. Enciclopedia de Historia y Cultura del
-                        Caribe.</seg> Editado por la Fundación Global Democracia y Desarrollo
-                    (FUNGLODE), 2017. <ref target="http://www.encaribe.org"
-                        >http://www.encaribe.org</ref>
-                </bibl>
-                <bibl xml:id="HathiTrust">
-                    <seg rend="italic">HathiTrust Digital Library.</seg> S.l., s.f. <ref
-                        target="https://www.hathitrust.org/">https://www.hathitrust.org/</ref>
-                </bibl>
-                <bibl xml:id="HNDM">
-                    <seg rend="italic">Hemeroteca Nacional Digital de México.</seg> México:
-                    Universidad Nacional Autónoma de México, 2015.
-                        <ref>http://www.hndm.unam.mx</ref>
-                </bibl>
-                <bibl xml:id="Holmberg"> Holmberg, Eduardo L. <seg rend="italic">El tipo más
-                        original y otras páginas.</seg> Edición, notas y posfacio de Sandra
-                    Gasparini y Claudia Roman. Buenos Aires: Simurg, 2008. </bibl>
-                <bibl xml:id="Iguiniz">Iguiniz, Juan B. <seg rend="italic">Bibliografía de
-                        novelistas mexicanos: ensayo biográfico, bibliográfico y crítico.</seg>
-                    Imprenta de la Secretaría de relaciones exteriores, 1926.</bibl>
+                        >https://archive.org/details/historiadelaleng11ceja</ref>. </bibl>
+                <bibl xml:id="Charques-Gamez_2011"> Charques Gámez, Rocío. "Sab y el juego de las
+                    miradas." <seg rend="italic">Anales de Literatura Española</seg> 23 (<date
+                        when="2011">2011</date>), p. 353-362. </bibl>
+                <bibl xml:id="Cortes_1992"> Cortés, Eladio. <seg rend="italic">Dictionary of Mexican
+                        Literature.</seg> Westport, Connectiut; London: Greenwood Press, <date
+                        when="1992">1992</date>. </bibl>
+                <bibl xml:id="Cultura-Cubana_2014b"> "El fatalista, de Esteban Pichardo Tapia (1799
+                    – 1879)." <seg rend="italic">Cultura Cubana</seg>, <date when="2014-09-16">16
+                        September 2014</date>, <ref
+                        target="http://web.archive.org/web/20200408092556/http://culturacubana.org/2-3-5-1-el-fatalista-de-esteban-pichardo-tapia-1799-1879-2/"
+                        >http://web.archive.org/web/20200408092556/http://culturacubana.org/2-3-5-1-el-fatalista-de-esteban-pichardo-tapia-1799-1879-2/</ref>. </bibl>
+                <bibl xml:id="Dabove_2010"> Dabove, Juan Pablo. "Eduardo Gutiérrez: Narrativa de
+                    bandidos y novela popular argentina." <seg rend="italic">Historia crítica de la
+                        literatura argentina.</seg> Edited by Noé Jitrik. Vol. III. El brote de los
+                    géneros. Buenos Aires: Emecé, <date when="2010">2010</date>, p. 295-324. </bibl>
+                <bibl xml:id="Dill_1999"> Dill, Hans-Otto. <seg rend="italic">Geschichte der
+                        lateinamerikanischen Literatur im Überblick.</seg> Stuttgart: Reclam, <date
+                        when="1999">1999</date>. </bibl>
                 <bibl xml:id="DLC_1999">Instituto de Literatura y Lingüística de la Academia de
                     Ciencias de Cuba (Ed.). <seg rend="italic">Diccionario de la literatura
-                        cubana.</seg> Alicante: Biblioteca Virtual Miguel de Cervantes, 1999. <ref
+                        cubana.</seg> Alicante: Biblioteca Virtual Miguel de Cervantes, <date
+                        when="1999">1999</date>. <ref
                         target="http://www.cervantesvirtual.com/obra/diccionario-de-la-literatura-cubana--0/"
-                        >http://www.cervantesvirtual.com/obra/diccionario-de-la-literatura-cubana--0/</ref>
+                        >http://www.cervantesvirtual.com/obra/diccionario-de-la-literatura-cubana--0/</ref>. </bibl>
+                <bibl xml:id="Domenella_Gutierrez-de-Velasco_2011"> Domenella, Ana Rosa; Gutiérrez
+                    de Velasco, Luzelena. "Estudio introductorio. Profesionalismo de una escritora
+                    excepcional en su novela por entregas, espejo de costumbres mexicanas." Mílada
+                    Bazant de Saldaña (ed.). <seg rend="italic">Laura Méndez de Cuenca. Su herencia
+                        cultural.</seg> Tomo I: Novela. Estudio introductorio de Luzelena Gutiérrez
+                    de Velasco, Ana Rosa Domenella. México, D. F.: Siglo Veintiuno Editores, <date
+                        when="2011">2011</date>, p. 3-20. <!-- 20? -->
                 </bibl>
-                <bibl xml:id="InternetArchive">
-                    <seg rend="italic">Internet Archive.</seg> S.l., s.f.
-                        <ref>https://archive.org/</ref>
+                <bibl xml:id="ELEM_2016"> Fundación para las Letras Mexicanas A.C., Secretaría de
+                    Cultura (eds.). <seg rend="italic">Enciclopedia de la Literatura en
+                        México.</seg>
+                    <date when="2016">2016ff.</date>
+                    <ref target="http://elem.mx/">http://elem.mx/</ref>. </bibl>
+                <bibl xml:id="En-Caribe_2020"> FUNGLODE. Fundación Global Democracia y Desarrollo
+                    (ed.). <seg rend="italic">EnCaribe. Enciclopedia de Historia y Cultura del
+                        Caribe</seg>. <date when="2020">2020</date>, <ref
+                        target="http://www.encaribe.org">http://www.encaribe.org</ref>. </bibl>
+                <bibl xml:id="Fernandez-Arias-Campoamor_1952"> Fernández-Arias Campoamor, José. <seg
+                        rend="italic">Novelistas de Mejico: esquema de la historia de la novela
+                        mejicana (de Lizardi al 1950).</seg> Madrid: Ediciones Cultura Hispánica,
+                        <date when="1952">1952</date>. </bibl>
+                <bibl xml:id="Friol_1983"> Friol, Roberto. "Prólogo. Sobre un eslabón polémico."
+                        <seg rend="italic">En busca del eslabón.</seg> By Francisco Calcagno. La
+                    Habana, Cuba: Editorial Letras Cubanas, <date when="1983">1983</date>.
+                    <!-- pages? -->
                 </bibl>
-                <bibl xml:id="NovelaCorta">
-                    <seg rend="italic">La novela corta. Una biblioteca virtual.</seg> México:
-                    Universidad Nacional Autónoma de México, 2009. <ref
-                        target="http://www.lanovelacorta.com">http://www.lanovelacorta.com</ref>
+                <bibl xml:id="Galvez_1990"> Gálvez, Marina. <seg rend="italic">La novela
+                        hispanoamericana (hasta 1940). Madrid: Taurus, <date when="1990"
+                        >1990</date>.</seg>
                 </bibl>
-                <bibl xml:id="ProsaModernista">
-                    <seg rend="italic">La Prosa Modernista.</seg> S.l., s.f. <ref
-                        target="http://www.prosamodernista.com/"
-                        >http://www.prosamodernista.com/</ref>
-                </bibl>
-                <bibl xml:id="Lichtblau_1997">Lichtblau, Myron. <seg rend="italic">The Argentine
-                        Novel: an annotated bibliography.</seg> Lanham, Maryland, 1997.</bibl>
-                <bibl xml:id="Mata">Mata, Óscar. <seg rend="italic">La novela corta mexicana en el
-                        siglo XIX.</seg> México: Universidad Nacional Autónoma de México,
-                    1999.</bibl>
-                <bibl xml:id="Marshall_1948">Nunn, Marshall E. "Las obras menores de Cirilo
+                <bibl xml:id="Gasparini-Roman_2001"> Gasparini, Sandra, and Claudia Roman.
+                    "Presentación." <seg rend="italic">El tipo más original y otras páginas.</seg>
+                    By Eduardo L. Holmberg. Edición, notas y posfacio de Sandra Gasparini y Claudia
+                    Roman. Buenos Aires: Ediciones Simurg, <date when="2001">2001</date>. </bibl>
+                <bibl xml:id="Gonzalez_2005"> González, Reynaldo. "Ramón Meza: la ironía
+                    incomprendida." <seg rend="italic">La Jiribilla. Revista digital de cultura
+                        cubana.</seg> La Habana, año III, semana 19-25, marzo de <date when="2005"
+                        >2005</date>. <ref
+                        target="http://web.archive.org/web/20200408101227/http://www.lajiribilla.co.cu/2005/n202_03/202_32.html"
+                        >http://web.archive.org/web/20200408101227/http://www.lajiribilla.co.cu/2005/n202_03/202_32.html</ref>. </bibl>
+                <bibl xml:id="Gonzalez-Rosado_2015"> González Rosado, César Ramón. "'La Mestiza',
+                    Novela Romántica Costumbrista De Don Eligio Ancona." <seg rend="italic">Diario
+                        del Sureste.</seg>
+                    <date when="2015-06-19">19 June 2015</date>, <ref
+                        target="http://web.archive.org/web/20200407112842/http://www.diariodelsureste.com.mx/la-mestiza-novela-romantica-costumbrista-de-don-eligio-ancona/"
+                        >http://web.archive.org/web/20200407112842/http://www.diariodelsureste.com.mx/la-mestiza-novela-romantica-costumbrista-de-don-eligio-ancona/</ref>. </bibl>
+                <bibl xml:id="Hathi-Trust">
+                    <seg rend="italic">HathiTrust Digital Library.</seg> S.l., s.f. <ref
+                        target="https://www.hathitrust.org/">https://www.hathitrust.org/</ref>. </bibl>
+                <bibl xml:id="Iguiniz_1926"> Iguíniz, Juan B. <seg rend="italic">Bibliografía de
+                        novelistas mexicanos: ensayo biográfico, bibliográfico y crítico.</seg>
+                    México: Imprenta de la Secretaria de relaciones exteriores, <date when="1926"
+                        >1926</date>. </bibl>
+                <bibl xml:id="Internet-Archive">
+                    <seg rend="italic">Internet Archive.</seg> S.l., s.f. <ref
+                        target="https://archive.org/">https://archive.org/</ref>. </bibl>
+                <bibl xml:id="Labandeira-Fernandez_1982"> Labandeira Fernández, Amancio. "Cubanos y
+                    puertorriqueños que deben figurar en un catálogo de novelas y novelistas
+                    españoles del siglo XIX: identificaciones y precisiones." <seg rend="italic"
+                        >Anales de literatura hispanoamericana.</seg> No. 11 (<date when="1982"
+                        >1982</date>), p. 51-74. </bibl>
+                <bibl xml:id="Lara-Zavala_2005"> Lara Zavala, Hernán. "Justo Sierra O'Reilly: el
+                    hombre de letras." <seg rend="italic">La república de las letras. Asomos a la
+                        cultura escrita del México decimonónico. Volumen III: Galería de
+                        escritores.</seg> Edited by Belem Clark de Lara, Elisa Speckman Guerra.
+                    México: UNAM, <date when="2005">2005</date>, p. 149-162. </bibl>
+                <bibl xml:id="Lichtblau_1997"> Lichtblau, Myron. <seg rend="italic">The Argentine
+                        Novel: an annotated bibliography.</seg> Lanham, Maryland: Scarecrow,
+                        <date>1997</date>. </bibl>
+                <bibl xml:id="Lichtblau_1959"> Lichtblau, Myron. <seg rend="italic">The Argentine
+                        Novel in the Nineteenth Century.</seg> New York: Hispanic Institute in the
+                    United States. <date when="1959">1959</date>. </bibl>
+                <bibl xml:id="Lopez-Martin_2008"> López Martín, Lola. "Entre la geografía argentina
+                    y el paisaje literario. Viaje por el naturalismo científico, ideológico y
+                    narrativo de Eduardo Holmberg." <seg rend="italic">El viaje en la literatura
+                        hispanoamericana: el espíritu colombino.</seg> Edited by Sonia Mattalia,
+                    Pilar Celma and Pilar Alonso. Madrid/Frankfurt am Main: Iberoamericana/Vervuert:
+                        <date when="2008">2008</date>, p. 359-372. </bibl>
+                <bibl xml:id="Luis_1990"> Luis, William. <seg rend="italic">Literary Bondage.
+                        Slavery in Cuban Narrative.</seg> Austin: University of Texas Press, <date
+                        when="1990">1990</date>. </bibl>
+                <bibl xml:id="Martinez_2014"> Martínez, David Alejandro. "Por donde se sube al
+                    cielo." <seg rend="italic">Enciclopedia de la Literatura en México.</seg>
+                    <date when="2014">2014</date>, <ref
+                        target="http://web.archive.org/web/20190712193329/http://www.elem.mx/obra/datos/198916"
+                        >http://web.archive.org/web/20190712193329/http://www.elem.mx/obra/datos/198916</ref>. </bibl>
+                <bibl xml:id="Mata_1999"> Mata, Óscar. <seg rend="italic">La novela corta mexicana
+                        en el siglo XIX.</seg> México: Universidad Nacional Autónoma de México,
+                        <date when="1999">1999</date>. </bibl>
+                <bibl xml:id="Mexicana_2017"> Secretaría de Cultura (ed.). <seg rend="italic"
+                        >Mexicana. Repositorio del patrimonio cultural de México.</seg>
+                    <date when="2017">2017.</date>
+                    <ref target="https://mexicana.cultura.gob.mx"
+                        >https://mexicana.cultura.gob.mx</ref>. </bibl>
+                <bibl xml:id="Molina_2011"> Molina, Hebe Beatriz. <seg rend="italic">Como crecen los
+                        hongos. La novela argentina entre 1838 y 1872.</seg> Buenos Aires: Teseo,
+                        <date when="2011">2011</date>. </bibl>
+                <bibl xml:id="Molina_2001"> Molina, Sintia. <seg rend="italic">El Naturalismo en la
+                        Novela Cubana.</seg> Lanham, Maryland: University Press of America, <date
+                        when="2001">2001</date>. </bibl>
+                <bibl xml:id="Nunn_1948"> Nunn, Marshall E. "Las obras menores de Cirilo
                     Villaverde." <seg rend="italic">Revista Iberoamericana</seg> 14 (28). México,
-                    D.F., 1948.</bibl>
-                <bibl xml:id="Molina_2011">Molina, Hebe Beatriz. <seg rend="italic">Como crecen los
-                        hongos. La novela argentina entre 1838 y 1872.</seg> Teseo 2011.</bibl>
-                <bibl xml:id="Padron">Padrón, Carlos M. "Los Canarios en América / José Antonio
-                    Pérez Carrión: José de Jesús Márquez." <seg rend="italic">Padronel. A El Paso, y
-                        a Canarias toda.</seg> [Blog], 30 de agosto de 2011. <ref
-                        target="https://padronel.wordpress.com/2011/08/30/otros-los-canarios-en-amrica-jos-antonio-prez-carrin-jos-de-jess-mrquez-29/"
-                        >https://padronel.wordpress.com/2011/08/30/otros-los-canarios-en-amrica-jos-antonio-prez-carrin-jos-de-jess-mrquez-29/</ref>
+                    D.F., <date when="1948">1948</date>, p. 255-262. DOI: <ref
+                        target="https://doi.org/10.5195/reviberoamer.1948.1314"
+                        >https://doi.org/10.5195/reviberoamer.1948.1314</ref>. </bibl>
+                <bibl xml:id="Ortiz-Monasterio_2005"> Ortiz Monasterio, José. "Vicente Riva Palacio,
+                    polígrafo (1832-1896)." <seg rend="italic">La república de las letras. Asomos a
+                        la cultura escrita del México decimonónico.</seg> Volumen III. Galería de
+                    escritores. Edited by Belem Clark de Lara and Elisa Speckman Guerra. México:
+                    UNAM, <date when="2005">2005</date>, p. 343-362. <!-- 362? -->
                 </bibl>
-                <bibl xml:id="Gutenberg"><seg rend="italic">Project Gutenberg.</seg> S.l., 2017.
-                        <ref target="http://www.gutenberg.org/"
-                    >http://www.gutenberg.org/</ref></bibl>
-                <bibl xml:id="RemosRubio_1935">Remos y Rubio, Juan J. <seg rend="italic">Tendencias de la 
-                narración imaginativa en Cuba.</seg> La Habana: Casa Montalvo-Cárdenas, 1935.</bibl>
-                <bibl xml:id="SanchezMarmolI">Sánchez Mármol, Manuel. <seg rend="italic">Obras
+                <bibl xml:id="Pancrazio_2004"> Pancrazio, James J. <seg rend="italic">The Logic of
+                        Fetishism: Alejo Carpentier and the Cuban Tradition.</seg> Lewisburg:
+                    Bucknell University Press, <date when="2004">2004</date>. </bibl>
+                <bibl xml:id="Paz_1982"> Paz, Ireneo. <seg rend="italic">Amor de viejo (1874).</seg>
+                    Edited by Hilda Bautista, Rafael M. Becerra, Enrique Limón, Carlos Mapes, Felix
+                    Moreno, and Hilda Rivera. México: Premiá Editora, <date when="1982">1982</date>. </bibl>
+                <bibl xml:id="Quiroz-et-al_2015"> Abstract for Quiroz, Camacho, Rosa María Herrera
+                    Herrera, and María del Coral. "Perico de Arcadio Zentella. La recreación
+                    novelada del Tabasco decimonónico." <seg rend="italic">Repositorio
+                        Institucional</seg> de la Universidad Autónomona del Estado de México
+                    (UAEM), <date when="2015-03-17">17 March 2015</date>, <ref
+                        target="https://web.archive.org/web/20200408081921/http://ri.uaemex.mx/handle/20.500.11799/49662"
+                        >https://web.archive.org/web/20200408081921/http://ri.uaemex.mx/handle/20.500.11799/49662</ref>. </bibl>
+                <bibl xml:id="Read_1939"> Read, John Lloyd. <seg rend="italic">The Mexican
+                        historical novel. 1826-1910.</seg> New York: Instituto de las Españas en los
+                    Estados Unidos, <date when="1939">1939</date>. </bibl>
+                <bibl xml:id="Remos-Rubio_1935"> Remos y Rubio, Juan J. <seg rend="italic"
+                        >Tendencias de la narración imaginativa en Cuba.</seg> La Habana: Casa
+                    Montalvo-Cárdenas, <date when="1935">1935</date>. </bibl>
+                <bibl xml:id="Roessner_2007"> Rössner, Michael (ed.). <seg rend="italic"
+                        >Lateinamerikanische Literaturgeschichte.</seg> Stuttgart: J. B. Metzler,
+                        <date when="2007">2007</date>. </bibl>
+                <bibl xml:id="Salorio_Angel_2015"> Salorio, Alberto, and Diana del Ángel. "La
+                    Navidad en las montañas." <seg rend="italic">Enciclopedia de la Literatura en
+                        México</seg>, <date when="2015">2015</date>, <ref
+                        target="http://web.archive.org/web/20200407114710/http://www.elem.mx/obra/datos/6023"
+                        >http://web.archive.org/web/20200407114710/http://www.elem.mx/obra/datos/6023</ref>. </bibl>
+                <bibl xml:id="Sanchez_1953"> Sánchez, Luis Alberto. <seg rend="italic">Proceso y
+                        contenido de la novela hispano-americana.</seg> Madrid: Editorial Gredos,
+                        <date when="1953">1953</date>. </bibl>
+                <bibl xml:id="Sanchez-Marmol_2011"> Sánchez Mármol, Manuel. <seg rend="italic">Obras
                         completas.</seg> Tomo I. Novelas. Compilación, Prefacio, Introducción y
                     Notas Manuel Sol T. Villahermosa, Tabasco: Universidad Juárez Autónoma de
-                    Tabasco, 2011.</bibl>
-                <bibl xml:id="SanchezMarmolII">Sánchez Mármol, Manuel. <seg rend="italic">Obras
-                        completas.</seg> Tomo II. Novelas y Cuentos. Compilación, Prefacio,
-                    Introducción y Notas Manuel Sol T. Villahermosa, Tabasco: Universidad Juárez
-                    Autónoma de Tabasco, 2011.</bibl>
-                <bibl xml:id="elem.mx">Secretaría de Cultura (Ed.). <seg rend="italic">Enciclopedia
-                        de la literatura en México.</seg> México, 2016. <ref
-                        target="http://www.elem.mx">http://www.elem.mx</ref>
-                </bibl>
-                <bibl xml:id="SolorzanoPonce">Solórzano Ponce, María Teresa. "Juan Antonio Mateos
-                    (1831-1913)." <seg rend="italic">La república de las letras. Asomos a la cultura
-                        escrita del México decimonónico.</seg> Volumen III. Galería de escritores.
-                    Edited by Belem Clark de Lara and Elisa Speckman Guerra. México: Universidad
-                    Nacional Autónoma de México, 2005. 333-341. </bibl>
-                <bibl xml:id="Torres-Rioseco_1933">Torres-Rioseco, Arturo. <seg rend="italic"
+                    Tabasco, <date when="2011">2011</date>. </bibl>
+                <bibl xml:id="Sanchez_Vega-Marrot_2015"> Sánchez, Shanik and Jorge Vega Marrot. "El
+                    Zarco." <seg rend="italic">Enciclopedia de la Literatura Mexicana.</seg>
+                    <date when="2015">2015</date>, <ref
+                        target="http://web.archive.org/web/20200407144825/http://www.elem.mx/obra/datos/5609"
+                        >http://web.archive.org/web/20200407144825/http://www.elem.mx/obra/datos/5609</ref>. </bibl>
+                <bibl xml:id="Sandoval-Lara_2005"> Sandoval Lara, Adriana: "Las 'novelas sociales'
+                    del siglo XIX. Un primer acercamiento a José Rivera y Río." <seg rend="italic"
+                        >La república de las letras. Asomos a la cultura escrita del México
+                        decimonónico.</seg> Volumen I. Ambientes, asociaciones y grupos.
+                    Movimientos, temas y géneros literarios. Edited by Belem Clark de Lara and Elisa
+                    Speckman Guerra. México: Universidad Nacional Autónoma de México, <date
+                        when="2005">2005</date>, p. 303-314. </bibl>
+                <bibl xml:id="Schade_1997"> Schade, George D. "Cirilo Villaverde 1812-1894. Cuban
+                    prose writer." <seg rend="italic">Encyclopedia of Latin American
+                        Literature.</seg> Edited by Verity Smith. London, Chicago: Fitzroy Dearborn
+                    Publishers, <date when="1997">1997</date>, p. 845-846. </bibl>
+                <bibl xml:id="Schlickers_2003"> Schlickers, Sabine. <seg rend="italic">El lado
+                        oscuro de la modernización: estudios sobre la novela naturalista
+                        hispanoamericana.</seg> Madrid/Frankfurt: Iberoamericana/Vervuert, <date
+                        when="2003">2003</date>. </bibl>
+                <bibl xml:id="Sol_2011"> Sol, Manuel T. "Introducción." <seg rend="italic">Manuel
+                        Sánchez Mármol. Obras Completas.</seg> Tomo I. Novelas. Compilación,
+                    Prefacio, Introducción y Notas por Manuel T. Sol. Villahermosa, Tabasco:
+                    Universidad Juárez Autónoma de Tabasco, <date when="2011">2011</date>, p. 17-40.
+                        <ref
+                        target="https://web.archive.org/web/20200408074855/http://www.archivos.ujat.mx/2011/difusion/libros/26.pdf"
+                        >https://web.archive.org/web/20200408074855/http://www.archivos.ujat.mx/2011/difusion/libros/26.pdf</ref>. </bibl>
+                <bibl xml:id="Solorzano-Ponce_2005"> Solórzano Ponce, María Teresa. "Juan Antonio
+                    Mateos (1831-1913)." <seg rend="italic">La república de las letras. Asomos a la
+                        cultura escrita del México decimonónico.</seg> Volumen III. Galería de
+                    escritores. Edited by Belem Clark de Lara and Elisa Speckman Guerra. México:
+                    Universidad Nacional Autónoma de México, <date when="2005">2005</date>, p.
+                    333-341. </bibl>
+                <bibl xml:id="Suarez-Murias_1963"> Suárez-Murias, Marguerite C. <seg rend="italic"
+                        >La novela romántica en Hispanoamérica.</seg> New York: Hispanic Institute
+                    in the United States, <date when="1963">1963</date>. </bibl>
+                <bibl xml:id="Torres-Pou_2006"> Torres-Pou, Joan. "La carnavalización del discurso
+                    naturalista en <seg rend="italic">A fuego lento.</seg>
+                    <seg rend="italic">Letras</seg> 39, <date when="2006">2006</date>, p. 73-86. </bibl>
+                <bibl xml:id="Torres-Rioseco_1933"> Torres-Rioseco, Arturo. <seg rend="italic"
                         >Bibliografía de la novela mejicana.</seg> Cambridge, Massachusetts: Harvard
-                    University Press, 1933.</bibl>
-                <bibl xml:id="Trelles">Trelles, Carlos. <seg rend="italic">Bibliografía Cubana del
-                        Siglo XIX.</seg> Matanzas: Imprenta de Quirós y Estrada, 1911-1915. 8
-                    tomos.</bibl>
-                <bibl xml:id="WikimediaCommons">
+                    University Press, <date when="1933">1933</date>. </bibl>
+                <bibl xml:id="Trelles_1911-1915"> Trelles, Carlos. <seg rend="italic">Bibliografía
+                        Cubana del Siglo XIX.</seg> Matanzas: Imprenta de Quirós y Estrada, <date
+                        when="1915">1911-1915</date>. 8 volumes. </bibl>
+                <bibl xml:id="Trujillo-Munoz_2000"> Trujillo Muñoz, Gabriel. <seg rend="italic"
+                        >Biografías del futuro: la ciencia ficción mexicana y sus autores</seg>.
+                    Mexicali: Universidad Autónoma de Baja California, <date when="2000"
+                    >2000</date>. </bibl>
+                <bibl xml:id="Varela-Jacome_1982"> Varela Jácome, Benito. <seg rend="italic"
+                        >Evolución de la novela hispanoamericana en el siglo XIX.</seg> Madrid:
+                    Cupsa, <date when="1982">1982</date>. </bibl>
+                <bibl xml:id="Wikimedia-Commons">
                     <seg rend="italic">Wikimedia Commons.</seg> S.l., s.f. <ref
-                        target="https://commons.wikimedia.org">https://commons.wikimedia.org</ref>
-                </bibl>
-                <bibl xml:id="Wikisource">
-                    <seg rend="italic">Wikisource.</seg> S.l., s.f. <ref
-                        target="https://es.wikisource.org">https://es.wikisource.org</ref>
-                </bibl>
+                        target="https://commons.wikimedia.org">https://commons.wikimedia.org</ref>. </bibl>
+                <bibl xml:id="Wikipedia"> Fundación Wikimedia (ed.). <seg rend="italic">Wikipedia.
+                        La enciclopedia libre.</seg>
+                    <ref target="https://es.wikipedia.org">https://es.wikipedia.org</ref>. </bibl>
             </listBibl>
         </body>
     </text>

@@ -18,10 +18,7 @@ start =
         element publicationStmt {
           element publisher { ref },
           element pubPlace { xsd:NCName },
-          element date {
-            attribute when { xsd:integer },
-            xsd:integer
-          },
+          date,
           element idno {
             attribute type { xsd:NCName },
             xsd:anyURI
@@ -45,10 +42,11 @@ start =
           element bibl {
             attribute xml:id { xsd:NCName },
             (text
+             | date
              | ref
              | element seg {
                  attribute rend { xsd:NCName },
-                 text
+                 (text | date)+
                })+
           }+
         }
@@ -57,6 +55,11 @@ start =
   }
 ref =
   element ref {
-    attribute target { xsd:anyURI }?,
+    attribute target { xsd:anyURI },
     xsd:anyURI
+  }
+date =
+  element date {
+    attribute when { xsd:NMTOKEN }?,
+    text
   }

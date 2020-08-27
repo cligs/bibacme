@@ -46,6 +46,9 @@
                     </death>
                     <sex>desconocido</sex>
                     <nationality>desconocido</nationality>
+                    <note type="country">
+                        <country>desconocido</country>
+                    </note>
                 </person>
                 <person xml:id="A1">
                     <persName>
@@ -62,6 +65,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A4">
                     <persName>
@@ -78,6 +84,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A5">
                     <persName>
@@ -94,6 +103,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A6">
                     <persName>
@@ -115,6 +127,9 @@
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">72256647</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A7">
                     <persName>
@@ -131,6 +146,9 @@
                     </death>
                     <sex>femenino</sex>
                     <nationality>argentina/o</nationality>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A9">
                     <persName>
@@ -150,6 +168,9 @@
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">9446743</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A11">
                     <persName>
@@ -166,7 +187,10 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality>español/a</nationality>
-                    <note source="#Lichtblau_1997">Escritor español radicado en la Argentina.</note>
+                    <note resp="#Lichtblau_1997">Escritor español radicado en la Argentina.</note>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A12">
                     <persName>
@@ -183,6 +207,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="low">español/a</nationality>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A13">
                     <persName>
@@ -204,6 +231,9 @@
                     <sex>masculino</sex>
                     <nationality>español/a</nationality>
                     <idno type="viaf">4410979</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A14">
                     <persName>
@@ -224,6 +254,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A15">
                     <persName>
@@ -240,6 +273,9 @@
                     </death>
                     <sex>desconocido</sex>
                     <nationality>desconocido</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A16">
                     <persName>
@@ -260,6 +296,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">66327123</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A17">
                     <persName>
@@ -281,6 +320,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">46530579</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A18">
                     <persName>
@@ -301,6 +343,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">43337376</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A19">
                     <persName>
@@ -320,6 +365,9 @@
                     <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
                     <idno type="viaf">19277505</idno>
+                    <note type="country">
+                        <country>Cuba</country>
+                    </note>
                 </person>
                 <person xml:id="A22">
                     <persName>
@@ -341,6 +389,9 @@
                     <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
                     <idno type="viaf">2481255</idno>
+                    <note type="country">
+                        <country>Cuba</country>
+                    </note>
                 </person>
                 <person xml:id="A23">
                     <persName>
@@ -361,6 +412,9 @@
                     <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
                     <idno type="viaf">107699146</idno>
+                    <note type="country">
+                        <country>Cuba</country>
+                    </note>
                 </person>
                 <person xml:id="A24">
                     <persName>
@@ -379,6 +433,9 @@
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">241145857130222922986</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A25">
                     <persName>
@@ -398,6 +455,9 @@
                     <sex>masculino</sex>
                     <nationality>uruguaya/o</nationality>
                     <idno type="viaf">31908377</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A26">
                     <persName>
@@ -416,6 +476,9 @@
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">54479239</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A27">
                     <persName>
@@ -436,6 +499,9 @@
                     <sex>femenino</sex>
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">53164418</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A28">
                     <persName>
@@ -454,6 +520,9 @@
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">280936404</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A29">
                     <persName>
@@ -473,6 +542,9 @@
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">87175584</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A32">
                     <persName>
@@ -490,6 +562,9 @@
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">230145857107922922603</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A33">
                     <persName>
@@ -506,6 +581,9 @@
                     </death>
                     <sex>desconocido</sex>
                     <nationality>desconocido</nationality>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A34">
                     <persName>
@@ -527,6 +605,9 @@
                     <nationality>chilena/o</nationality>
                     <idno type="viaf">19324639</idno>
                     <idno type="viaf">6145857055422921454</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A35">
                     <persName>
@@ -543,6 +624,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="low">argentina/o</nationality>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A36">
                     <persName>
@@ -560,6 +644,9 @@
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">309749187</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A37">
                     <persName>
@@ -576,6 +663,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="low">argentina/o</nationality>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A38">
                     <persName>
@@ -595,6 +685,9 @@
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">74235581</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A39">
                     <persName>
@@ -613,6 +706,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A40">
                     <persName>
@@ -630,6 +726,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A41">
                     <persName>
@@ -646,6 +745,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="low">mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A42">
                     <persName>
@@ -662,6 +764,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="low">mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A43">
                     <persName>
@@ -679,6 +784,9 @@
                     <sex>masculino</sex>
                     <nationality cert="low">mexicana/o</nationality>
                     <idno type="viaf">44524343</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A44">
                     <persName>
@@ -695,6 +803,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="low">mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A45">
                     <persName>
@@ -711,6 +822,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="low">mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A46">
                     <persName>
@@ -728,6 +842,9 @@
                     <sex>masculino</sex>
                     <nationality cert="low">mexicana/o</nationality>
                     <idno type="viaf">168881294</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A48">
                     <persName>
@@ -744,6 +861,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="low">mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A49">
                     <persName>
@@ -764,6 +884,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A50">
                     <persName>
@@ -784,6 +907,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A51">
                     <persName>
@@ -800,6 +926,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A53">
                     <persName>
@@ -819,6 +948,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">42097921</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A54">
                     <persName>
@@ -834,6 +966,9 @@
                     </death>
                     <sex>desconocido</sex>
                     <nationality>desconocido</nationality>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A56">
                     <persName>
@@ -854,6 +989,9 @@
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">167981606</idno>
                     <idno type="viaf">157145857085522922242</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A57">
                     <persName>
@@ -871,6 +1009,9 @@
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">146145857077322922055</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A58">
                     <persName>
@@ -890,6 +1031,9 @@
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">24681042</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A59">
                     <persName>
@@ -909,6 +1053,9 @@
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">313560325</idno>
                     <idno type="viaf">36756845</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A60">
                     <persName>
@@ -926,6 +1073,9 @@
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">25492491</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A61">
                     <persName>
@@ -950,6 +1100,9 @@
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">169088974</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A63">
                     <persName>
@@ -970,6 +1123,9 @@
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">310572689</idno>
                     <idno type="viaf">285454743</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A64">
                     <persName>
@@ -990,6 +1146,9 @@
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">70466083</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A66">
                     <persName>
@@ -1006,6 +1165,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="medium">argentina/o</nationality>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A67">
                     <persName>
@@ -1024,6 +1186,9 @@
                     <sex>masculino</sex>
                     <nationality cert="medium">argentina/o</nationality>
                     <idno type="viaf">306369869</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A68">
                     <persName>
@@ -1040,6 +1205,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="low">argentina/o</nationality>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A69">
                     <persName>
@@ -1057,6 +1225,9 @@
                     <sex>masculino</sex>
                     <nationality cert="medium">argentina/o</nationality>
                     <idno type="viaf">19810292</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A72">
                     <persName>
@@ -1074,6 +1245,9 @@
                     <sex>masculino</sex>
                     <nationality cert="medium">argentina/o</nationality>
                     <idno type="viaf">4959550</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A73">
                     <persName>
@@ -1090,6 +1264,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="medium">argentina/o</nationality>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A74">
                     <persName>
@@ -1109,6 +1286,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">106924246</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A75">
                     <persName>
@@ -1124,6 +1304,9 @@
                     </death>
                     <sex>desconocido</sex>
                     <nationality>mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A77">
                     <persName>
@@ -1144,6 +1327,9 @@
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">233485278</idno>
                     <idno type="viaf">581145857117322922317</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A79">
                     <persName>
@@ -1164,6 +1350,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">7475794</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A80">
                     <persName>
@@ -1180,6 +1369,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="low">argentina/o</nationality>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A81">
                     <persName>
@@ -1196,6 +1388,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A82">
                     <persName>
@@ -1217,6 +1412,9 @@
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">160020168</idno>
                     <idno type="viaf">314833062</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A83">
                     <persName>
@@ -1234,6 +1432,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A84">
                     <persName>
@@ -1255,6 +1456,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">61593104</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A85">
                     <persName>
@@ -1275,6 +1479,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A86">
                     <persName>
@@ -1297,6 +1504,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">56696380</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A87">
                     <persName>
@@ -1318,6 +1528,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">36989647</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A88">
                     <persName>
@@ -1334,6 +1547,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A89">
                     <persName>
@@ -1351,6 +1567,9 @@
                     <sex>masculino</sex>
                     <nationality cert="low">cubana/o</nationality>
                     <idno type="viaf">513145857117022922316</idno>
+                    <note type="country">
+                        <country>Cuba</country>
+                    </note>
                 </person>
                 <person xml:id="A90">
                     <persName>
@@ -1371,6 +1590,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">93148207995400342820</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A91">
                     <persName>
@@ -1391,6 +1613,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">54234683</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A92">
                     <persName>
@@ -1407,6 +1632,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A93">
                     <persName>
@@ -1428,6 +1656,9 @@
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
                     <idno type="viaf">1730542</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A94">
                     <persName>
@@ -1450,6 +1681,9 @@
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
                     <idno type="viaf">29373147</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A95">
                     <persName>
@@ -1469,6 +1703,9 @@
                     <sex>masculino</sex>
                     <nationality cert="low">francés/a</nationality>
                     <idno type="viaf">51903953</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A97">
                     <persName>
@@ -1486,6 +1723,9 @@
                     <sex>masculino</sex>
                     <nationality cert="medium">argentina/o</nationality>
                     <idno type="viaf">194145857015022921172</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A98">
                     <persName>
@@ -1502,6 +1742,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A99">
                     <persName>
@@ -1518,6 +1761,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="medium">argentina/o</nationality>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A100">
                     <persName>
@@ -1540,6 +1786,9 @@
                     <note>
                         <ref>http://web.archive.org/web/20190424195449/http://dbe.rah.es/biografias/71522/silverio-dominguez-saenz</ref>
                     </note>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A101">
                     <persName>
@@ -1561,6 +1810,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">34493943</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A102">
                     <persName>
@@ -1579,6 +1831,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A103">
                     <persName>
@@ -1599,6 +1854,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">3941035</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A104">
                     <persName>
@@ -1619,6 +1877,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">12448840</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A107">
                     <persName>
@@ -1636,6 +1897,9 @@
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
                     <idno type="viaf">294481206</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A108">
                     <persName>
@@ -1655,6 +1919,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">54185176</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A109">
                     <persName>
@@ -1673,6 +1940,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">17138448</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A110">
                     <persName>
@@ -1693,6 +1963,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">97460</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A112">
                     <persName>
@@ -1713,6 +1986,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">13693206</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A113">
                     <persName>
@@ -1730,6 +2006,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A114">
                     <persName>
@@ -1751,6 +2030,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A115">
                     <persName>
@@ -1767,6 +2049,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A117">
                     <persName>
@@ -1784,6 +2069,9 @@
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
                     <idno type="viaf">317119094</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A118">
                     <persName>
@@ -1800,6 +2088,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A119">
                     <persName>
@@ -1816,6 +2107,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A120">
                     <persName>
@@ -1832,6 +2126,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A121">
                     <persName>
@@ -1849,6 +2146,9 @@
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
                     <idno type="viaf">282955374</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A123">
                     <persName>
@@ -1865,6 +2165,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A124">
                     <persName>
@@ -1886,6 +2189,9 @@
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
                     <idno type="viaf">100918931</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A125">
                     <persName>
@@ -1906,6 +2212,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">69081812</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A127">
                     <persName>
@@ -1926,6 +2235,9 @@
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">73749218</idno>
                     <idno type="viaf">104145857076022922012</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A129">
                     <persName>
@@ -1945,6 +2257,9 @@
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">313410074</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A130">
                     <persName>
@@ -1964,6 +2279,9 @@
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">232932227</idno>
                     <idno type="viaf">302509879</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A131">
                     <persName>
@@ -1981,6 +2299,9 @@
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">267390385</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A132">
                     <persName>
@@ -1997,6 +2318,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="medium">argentina/o</nationality>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A134">
                     <persName>
@@ -2013,6 +2337,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="medium">argentina/o</nationality>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A135">
                     <persName>
@@ -2029,6 +2356,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="medium">argentina/o</nationality>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A136">
                     <persName>
@@ -2045,6 +2375,9 @@
                     </death>
                     <sex>desconocido</sex>
                     <nationality cert="medium">argentina/o</nationality>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A137">
                     <persName>
@@ -2062,6 +2395,9 @@
                     <sex>masculino</sex>
                     <nationality cert="medium">argentina/o</nationality>
                     <idno type="viaf">296570663</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A142">
                     <persName>
@@ -2080,6 +2416,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality>desconocido</nationality>
+                    <note type="country">
+                        <country>Cuba</country>
+                    </note>
                 </person>
                 <person xml:id="A143">
                     <persName>
@@ -2099,6 +2438,9 @@
                     <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
                     <idno type="viaf">47570151</idno>
+                    <note type="country">
+                        <country>Cuba</country>
+                    </note>
                 </person>
                 <person xml:id="A144">
                     <persName>
@@ -2119,6 +2461,9 @@
                     <nationality>cubana/o</nationality>
                     <idno type="viaf">35923557</idno>
                     <idno type="viaf">7416148269863605230007</idno>
+                    <note type="country">
+                        <country>Cuba</country>
+                    </note>
                 </person>
                 <person xml:id="A145">
                     <persName>
@@ -2138,6 +2483,9 @@
                     <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
                     <idno type="viaf">61672066</idno>
+                    <note type="country">
+                        <country>Cuba</country>
+                    </note>
                 </person>
                 <person xml:id="A147">
                     <persName>
@@ -2161,6 +2509,9 @@
                     <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
                     <idno type="viaf">78425874</idno>
+                    <note type="country">
+                        <country>Cuba</country>
+                    </note>
                 </person>
                 <person xml:id="A150">
                     <persName>
@@ -2180,6 +2531,9 @@
                     <sex>masculino</sex>
                     <nationality cert="medium">cubana/o</nationality>
                     <idno type="viaf">17160970</idno>
+                    <note type="country">
+                        <country>Cuba</country>
+                    </note>
                 </person>
                 <person xml:id="A151">
                     <persName>
@@ -2199,6 +2553,9 @@
                     <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
                     <idno type="viaf">48124168</idno>
+                    <note type="country">
+                        <country>Cuba</country>
+                    </note>
                 </person>
                 <person xml:id="A152">
                     <persName>
@@ -2218,6 +2575,9 @@
                     <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
                     <idno type="viaf">26708536</idno>
+                    <note type="country">
+                        <country>Cuba</country>
+                    </note>
                 </person>
                 <person xml:id="A153">
                     <persName>
@@ -2237,6 +2597,9 @@
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">53052344</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A154">
                     <persName>
@@ -2256,6 +2619,9 @@
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">5010378</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A155">
                     <persName>
@@ -2276,6 +2642,9 @@
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">54182356</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A156">
                     <persName>
@@ -2295,6 +2664,9 @@
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">75232657</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A157">
                     <persName>
@@ -2314,6 +2686,9 @@
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">75232657</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A158">
                     <persName>
@@ -2330,6 +2705,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="medium">argentina/o</nationality>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A159">
                     <persName>
@@ -2346,6 +2724,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="medium">argentina/o</nationality>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A161">
                     <persName>
@@ -2366,6 +2747,9 @@
                     <sex>femenino</sex>
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">100239982</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A162">
                     <persName>
@@ -2385,6 +2769,9 @@
                     <sex>masculino</sex>
                     <nationality>español/a</nationality>
                     <idno type="viaf">3322065</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A163">
                     <persName>
@@ -2404,6 +2791,9 @@
                     <sex>masculino</sex>
                     <nationality>francés/a</nationality>
                     <idno type="viaf">106964814</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A166">
                     <persName>
@@ -2424,6 +2814,9 @@
                     <sex>femenino</sex>
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">72869266</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A167">
                     <persName>
@@ -2440,6 +2833,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="medium">argentina/o</nationality>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A169">
                     <persName>
@@ -2459,6 +2855,9 @@
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">24681057</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A170">
                     <persName>
@@ -2478,6 +2877,9 @@
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">87762458</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A171">
                     <persName>
@@ -2498,6 +2900,9 @@
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">22244612</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A172">
                     <persName>
@@ -2515,6 +2920,9 @@
                     <sex>masculino</sex>
                     <nationality cert="medium">argentina/o</nationality>
                     <idno type="viaf">22244612</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A174">
                     <persName>
@@ -2531,6 +2939,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality>peruana/o</nationality>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A175">
                     <persName>
@@ -2550,6 +2961,9 @@
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">64238553</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A176">
                     <persName>
@@ -2565,6 +2979,9 @@
                     </death>
                     <sex>desconocido</sex>
                     <nationality>desconocido</nationality>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A177">
                     <persName>
@@ -2581,6 +2998,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="medium">argentina/o</nationality>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A178">
                     <persName>
@@ -2597,6 +3017,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality>español/a</nationality>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A180">
                     <persName>
@@ -2613,6 +3036,9 @@
                     </death>
                     <sex>femenino</sex>
                     <nationality>desconocido</nationality>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A181">
                     <persName>
@@ -2630,6 +3056,9 @@
                     <sex>masculino</sex>
                     <nationality cert="medium">uruguaya/o</nationality>
                     <idno type="viaf">45770483</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A182">
                     <persName>
@@ -2646,6 +3075,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="medium">argentina/o</nationality>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A183">
                     <persName>
@@ -2667,6 +3099,9 @@
                     <idno type="viaf">260145856979322920824</idno>
                     <note resp="#Lichtblau_1997">Escritor uruguayo, emigrado a la Argentina
                         1853.</note>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A185">
                     <persName>
@@ -2686,6 +3121,9 @@
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">59115694</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A186">
                     <persName>
@@ -2703,6 +3141,9 @@
                     </death>
                     <sex>femenino</sex>
                     <nationality>uruguaya/o</nationality>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A188">
                     <persName>
@@ -2724,6 +3165,9 @@
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">15146080</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A190">
                     <persName>
@@ -2741,6 +3185,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="medium">argentina/o</nationality>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A191">
                     <persName>
@@ -2757,6 +3204,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="medium">argentina/o</nationality>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A192">
                     <persName>
@@ -2776,6 +3226,9 @@
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">6441813</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A193">
                     <persName>
@@ -2796,6 +3249,9 @@
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">195708976</idno>
                     <idno type="viaf">25146998423318940532</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A194">
                     <persName>
@@ -2812,6 +3268,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="medium">argentina/o</nationality>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A196">
                     <persName>
@@ -2833,6 +3292,9 @@
                     <sex>masculino</sex>
                     <nationality cert="medium">argentina/o</nationality>
                     <idno type="viaf">54160474</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A198">
                     <persName>
@@ -2852,6 +3314,9 @@
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">74653227</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A199">
                     <persName>
@@ -2869,6 +3334,9 @@
                     <sex>masculino</sex>
                     <nationality cert="medium">argentina/o</nationality>
                     <idno type="viaf">309573599</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A200">
                     <persName>
@@ -2886,6 +3354,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="medium">argentina/o</nationality>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A201">
                     <persName>
@@ -2903,6 +3374,9 @@
                     <sex>masculino</sex>
                     <nationality cert="medium">argentina/o</nationality>
                     <idno type="viaf">589145857131022922982</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A203">
                     <persName>
@@ -2923,6 +3397,9 @@
                     <sex>femenino</sex>
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">27384007</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A204">
                     <persName>
@@ -2942,6 +3419,9 @@
                     <sex>femenino</sex>
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">5250936</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A205">
                     <persName>
@@ -2961,6 +3441,9 @@
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">79093271</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A206">
                     <persName type="pseudonym">
@@ -2977,6 +3460,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="low">argentina/o</nationality>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A207">
                     <persName>
@@ -2993,6 +3479,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="low">argentina/o</nationality>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A208">
                     <persName>
@@ -3009,6 +3498,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="low">argentina/o</nationality>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A209">
                     <persName>
@@ -3025,6 +3517,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="low">argentina/o</nationality>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A210">
                     <persName>
@@ -3044,6 +3539,9 @@
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">86824536</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A211">
                     <persName>
@@ -3061,6 +3559,9 @@
                     <sex>masculino</sex>
                     <nationality cert="low">argentina/o</nationality>
                     <idno type="viaf">309747779</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A212">
                     <persName>
@@ -3077,6 +3578,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="low">argentina/o</nationality>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A213">
                     <persName>
@@ -3098,6 +3602,9 @@
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">72881706</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A214">
                     <persName>
@@ -3118,6 +3625,9 @@
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">2550812</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A215">
                     <persName>
@@ -3137,6 +3647,9 @@
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">71432318</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A217">
                     <persName>
@@ -3156,6 +3669,9 @@
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">309676679</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A218">
                     <persName>
@@ -3172,6 +3688,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="medium">argentina/o</nationality>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A219">
                     <persName>
@@ -3188,6 +3707,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A220">
                     <persName>
@@ -3205,6 +3727,9 @@
                     <sex>masculino</sex>
                     <nationality cert="medium">argentina/o</nationality>
                     <idno type="viaf">233145857085822922244</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A222">
                     <persName>
@@ -3221,6 +3746,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="medium">argentina/o</nationality>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A223">
                     <persName>
@@ -3240,6 +3768,9 @@
                     <sex>masculino</sex>
                     <nationality cert="low">argentina/o</nationality>
                     <idno type="viaf">18087012</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A224">
                     <persName>
@@ -3256,6 +3787,9 @@
                     </death>
                     <sex>femenino</sex>
                     <nationality cert="medium">argentina/o</nationality>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A225">
                     <persName>
@@ -3276,6 +3810,9 @@
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">11860267</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A226">
                     <persName>
@@ -3297,6 +3834,9 @@
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">12641495</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A227">
                     <persName>
@@ -3314,6 +3854,9 @@
                     <sex>masculino</sex>
                     <nationality cert="medium">español/a</nationality>
                     <note resp="#Lichtblau_1997">Emigró a la Argentina en 1875.</note>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A228">
                     <persName>
@@ -3331,6 +3874,9 @@
                     <sex>masculino</sex>
                     <nationality cert="medium">argentina/o</nationality>
                     <idno type="viaf">240591346</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A231">
                     <persName>
@@ -3348,6 +3894,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">19390750</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A232">
                     <persName>
@@ -3364,6 +3913,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A233">
                     <persName>
@@ -3380,6 +3932,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A234">
                     <persName>
@@ -3400,6 +3955,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A235">
                     <persName>
@@ -3417,6 +3975,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">7080506</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A236">
                     <persName>
@@ -3438,6 +3999,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">16411141</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A237">
                     <persName>
@@ -3455,6 +4019,9 @@
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
                     <idno type="viaf">309737095</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A238">
                     <persName>
@@ -3475,6 +4042,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">12214530</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A239">
                     <persName>
@@ -3491,6 +4061,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A240">
                     <persName>
@@ -3510,6 +4083,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">44318162</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A241">
                     <persName>
@@ -3528,6 +4104,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A242">
                     <persName>
@@ -3547,6 +4126,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">56630916</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A243">
                     <persName>
@@ -3563,6 +4145,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A244">
                     <persName>
@@ -3580,6 +4165,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A245">
                     <persName>
@@ -3600,6 +4188,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">163773223</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A246">
                     <persName>
@@ -3622,6 +4213,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">66552577</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A247">
                     <persName>
@@ -3639,6 +4233,9 @@
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
                     <idno type="viaf">100773105</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A248">
                     <persName>
@@ -3655,6 +4252,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A249">
                     <persName>
@@ -3672,6 +4272,9 @@
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
                     <idno type="viaf">294933711</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A251">
                     <persName>
@@ -3688,6 +4291,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A252">
                     <persName>
@@ -3707,6 +4313,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">75772218</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A253">
                     <persName>
@@ -3727,6 +4336,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">7476121</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A255">
                     <persName>
@@ -3744,6 +4356,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">13148874525249621714</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A256">
                     <persName>
@@ -3761,6 +4376,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A258">
                     <persName>
@@ -3780,6 +4398,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">45655975</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A259">
                     <persName>
@@ -3799,6 +4420,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A260">
                     <persName>
@@ -3819,6 +4443,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">87126959</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A261">
                     <persName>
@@ -3839,6 +4466,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">88148207980900342839</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A263">
                     <persName>
@@ -3858,6 +4488,9 @@
                     <sex>masculino</sex>
                     <nationality>español/a</nationality>
                     <idno type="viaf">2296900</idno>
+                    <note type="country">
+                        <country>Cuba</country>
+                    </note>
                 </person>
                 <person xml:id="A264">
                     <persName>
@@ -3877,6 +4510,9 @@
                     <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
                     <idno type="viaf">17243513</idno>
+                    <note type="country">
+                        <country>Cuba</country>
+                    </note>
                 </person>
                 <person xml:id="A265">
                     <persName>
@@ -3895,6 +4531,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
+                    <note type="country">
+                        <country>Cuba</country>
+                    </note>
                 </person>
                 <person xml:id="A266">
                     <persName>
@@ -3913,6 +4552,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
+                    <note type="country">
+                        <country>Cuba</country>
+                    </note>
                 </person>
                 <person xml:id="A267">
                     <persName>
@@ -3932,6 +4574,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
+                    <note type="country">
+                        <country>Cuba</country>
+                    </note>
                 </person>
                 <person xml:id="A268">
                     <persName>
@@ -3951,6 +4596,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
+                    <note type="country">
+                        <country>Cuba</country>
+                    </note>
                 </person>
                 <person xml:id="A269">
                     <persName>
@@ -3972,6 +4620,9 @@
                     <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
                     <idno type="viaf">73865537</idno>
+                    <note type="country">
+                        <country>Cuba</country>
+                    </note>
                 </person>
                 <person xml:id="A270">
                     <persName>
@@ -3998,6 +4649,9 @@
                     <sex>masculino</sex>
                     <nationality>español/a</nationality>
                     <idno type="viaf">13985017</idno>
+                    <note type="country">
+                        <country>Cuba</country>
+                    </note>
                 </person>
                 <person xml:id="A271">
                     <persName>
@@ -4020,6 +4674,9 @@
                     <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
                     <idno type="viaf">10028141</idno>
+                    <note type="country">
+                        <country>Cuba</country>
+                    </note>
                 </person>
                 <person xml:id="A272">
                     <persName>
@@ -4041,6 +4698,9 @@
                     <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
                     <idno type="viaf">39526863</idno>
+                    <note type="country">
+                        <country>Cuba</country>
+                    </note>
                 </person>
                 <person xml:id="A273">
                     <persName>
@@ -4059,6 +4719,9 @@
                     <sex>masculino</sex>
                     <nationality cert="low">cubana/o</nationality>
                     <idno type="viaf">309783035</idno>
+                    <note type="country">
+                        <country>Cuba</country>
+                    </note>
                 </person>
                 <person xml:id="A275">
                     <persName>
@@ -4079,6 +4742,9 @@
                     <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
                     <idno type="viaf">6422017</idno>
+                    <note type="country">
+                        <country>Cuba</country>
+                    </note>
                 </person>
                 <person xml:id="A276">
                     <persName>
@@ -4096,6 +4762,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A277">
                     <persName>
@@ -4112,6 +4781,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A279">
                     <persName>
@@ -4132,7 +4804,10 @@
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
                     <idno type="viaf">9436566</idno>
-                    <note source="#ELEM">Llegó a México a los 11 años.</note>
+                    <note resp="#ELEM_2016">Llegó a México a los 11 años.</note>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A288">
                     <persName>
@@ -4149,6 +4824,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A289">
                     <persName>
@@ -4165,6 +4843,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A290">
                     <persName>
@@ -4184,6 +4865,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">207392147</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A291">
                     <persName>
@@ -4200,6 +4884,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A292">
                     <persName>
@@ -4220,6 +4907,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">1559642</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A293">
                     <persName>
@@ -4237,6 +4927,9 @@
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
                     <idno type="viaf">14398624</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A294">
                     <persName>
@@ -4257,6 +4950,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality>español/a</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A295">
                     <persName>
@@ -4276,6 +4972,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">87096488</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A296">
                     <persName>
@@ -4295,6 +4994,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">39423998</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A297">
                     <persName>
@@ -4314,6 +5016,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">302815744</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A298">
                     <persName>
@@ -4336,6 +5041,9 @@
                     <sex>femenino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">41551553</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A299">
                     <persName>
@@ -4353,6 +5061,9 @@
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
                     <idno type="viaf">68118021</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A300">
                     <persName>
@@ -4369,6 +5080,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A301">
                     <persName>
@@ -4385,6 +5099,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A302">
                     <persName>
@@ -4402,6 +5119,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A303">
                     <persName>
@@ -4422,6 +5142,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A304">
                     <persName>
@@ -4442,6 +5165,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">43689635</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A305">
                     <persName>
@@ -4458,6 +5184,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A306">
                     <persName>
@@ -4474,6 +5203,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A308">
                     <persName>
@@ -4491,6 +5223,9 @@
                     <sex>femenino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
                     <idno type="viaf">87773763</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A309">
                     <persName>
@@ -4510,7 +5245,10 @@
                     <sex>femenino</sex>
                     <nationality>italiana/o</nationality>
                     <idno type="viaf">87773785</idno>
-                    <note source="elem.mx">En 1868 llegó a México.</note>
+                    <note resp="#ELEM_2016">En 1868 llegó a México.</note>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A312">
                     <persName>
@@ -4527,6 +5265,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A313">
                     <persName>
@@ -4546,6 +5287,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">29564117</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A314">
                     <persName>
@@ -4563,6 +5307,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A316">
                     <persName>
@@ -4579,6 +5326,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A317">
                     <persName>
@@ -4595,6 +5345,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A319">
                     <persName>
@@ -4615,6 +5368,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">30739492</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A320">
                     <persName>
@@ -4631,6 +5387,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A321">
                     <persName>
@@ -4647,6 +5406,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A323">
                     <persName>
@@ -4666,6 +5428,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">30872022</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A325">
                     <persName>
@@ -4687,6 +5452,9 @@
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
                     <idno type="viaf">8601148209319400460007</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A326">
                     <persName>
@@ -4705,6 +5473,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">61671056</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A327">
                     <persName>
@@ -4721,6 +5492,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A329">
                     <persName>
@@ -4737,6 +5511,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A330">
                     <persName>
@@ -4757,6 +5534,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A331">
                     <persName>
@@ -4778,6 +5558,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">698144782726996295481</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A332">
                     <persName>
@@ -4798,6 +5581,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">24688679</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A333">
                     <persName>
@@ -4814,6 +5600,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A334">
                     <persName>
@@ -4832,6 +5621,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">165474218</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A336">
                     <persName>
@@ -4851,6 +5643,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">27095815</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A337">
                     <persName>
@@ -4871,6 +5666,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">59113203</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A338">
                     <persName>
@@ -4887,6 +5685,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A339">
                     <persName>
@@ -4911,6 +5712,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">210416638</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A340">
                     <persName>
@@ -4928,6 +5732,9 @@
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
                     <idno type="viaf">233094282</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A341">
                     <persName>
@@ -4948,6 +5755,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">56646663</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A343">
                     <persName>
@@ -4964,6 +5774,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A344">
                     <persName>
@@ -4982,6 +5795,9 @@
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">308310804</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A345">
                     <persName>
@@ -5002,6 +5818,9 @@
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">17276107</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A347">
                     <persName>
@@ -5019,6 +5838,9 @@
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">220987508</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A348">
                     <persName>
@@ -5038,6 +5860,9 @@
                     <sex>femenino</sex>
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">278145856973322920819</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A349">
                     <persName>
@@ -5054,6 +5879,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality>español/a</nationality>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A350">
                     <persName>
@@ -5070,6 +5898,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="low">argentina/o</nationality>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A351">
                     <persName>
@@ -5089,6 +5920,9 @@
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">6600590</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A354">
                     <persName>
@@ -5108,6 +5942,9 @@
                     <sex>masculino</sex>
                     <nationality>uruguaya/o</nationality>
                     <idno type="viaf">19689428</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A355">
                     <persName>
@@ -5124,6 +5961,9 @@
                     </death>
                     <sex>femenino</sex>
                     <nationality cert="low">argentina/o</nationality>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A357">
                     <persName>
@@ -5144,6 +5984,9 @@
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">38853622</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A358">
                     <persName>
@@ -5160,6 +6003,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="low">argentina/o</nationality>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A359">
                     <persName>
@@ -5176,6 +6022,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="low">argentina/o</nationality>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A360">
                     <persName>
@@ -5195,6 +6044,9 @@
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">21075236</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A361">
                     <persName>
@@ -5211,6 +6063,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="low">argentina/o</nationality>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A362">
                     <persName>
@@ -5229,6 +6084,9 @@
                     <sex>femenino</sex>
                     <nationality cert="low">argentina/o</nationality>
                     <idno type="viaf">170432280</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A363">
                     <persName>
@@ -5249,6 +6107,9 @@
                     <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
                     <idno type="viaf">75976428</idno>
+                    <note type="country">
+                        <country>Cuba</country>
+                    </note>
                 </person>
                 <person xml:id="A366">
                     <persName>
@@ -5267,6 +6128,9 @@
                     <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
                     <idno type="viaf">189831366</idno>
+                    <note type="country">
+                        <country>Cuba</country>
+                    </note>
                 </person>
                 <person xml:id="A367">
                     <persName>
@@ -5291,7 +6155,10 @@
                     <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
                     <idno type="viaf">120788045</idno>
-                    <note source="#DLC_1999">Llegó a Cuba en 1874. Se estableció en Matanzas.</note>
+                    <note resp="#DLC_1999">Llegó a Cuba en 1874. Se estableció en Matanzas.</note>
+                    <note type="country">
+                        <country>Cuba</country>
+                    </note>
                 </person>
                 <person xml:id="A368">
                     <persName>
@@ -5311,8 +6178,11 @@
                     <sex>masculino</sex>
                     <nationality>dominicana/o</nationality>
                     <idno type="viaf">3703780</idno>
-                    <note source="#DLC_1999">Muy niño aún fue trasladado a Cuba, donde cursó todos
-                        sus estudios. Residió la mayor parte de su vida en Matanzas.</note>
+                    <note resp="#DLC_1999">Muy niño aún fue trasladado a Cuba, donde cursó todos sus
+                        estudios. Residió la mayor parte de su vida en Matanzas.</note>
+                    <note type="country">
+                        <country>Cuba</country>
+                    </note>
                 </person>
                 <person xml:id="A370">
                     <persName>
@@ -5333,6 +6203,9 @@
                     <sex>femenino</sex>
                     <nationality>cubana/o</nationality>
                     <idno type="viaf">76328537</idno>
+                    <note type="country">
+                        <country>Cuba</country>
+                    </note>
                 </person>
                 <person xml:id="A372">
                     <persName>
@@ -5354,7 +6227,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
-
+                    <note type="country">
+                        <country>Cuba</country>
+                    </note>
                 </person>
                 <person xml:id="A373">
                     <persName>
@@ -5374,6 +6249,9 @@
                     <sex>masculino</sex>
                     <nationality>español/a</nationality>
                     <idno type="viaf">67917073</idno>
+                    <note type="country">
+                        <country>Cuba</country>
+                    </note>
                 </person>
                 <person xml:id="A374">
                     <persName>
@@ -5400,7 +6278,10 @@
                     <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
                     <idno type="viaf">39156046</idno>
-                    <note source="#DLC_1999">Se educó en España.</note>
+                    <note resp="#DLC_1999">Se educó en España.</note>
+                    <note type="country">
+                        <country>Cuba</country>
+                    </note>
                 </person>
                 <person xml:id="A375">
                     <persName>
@@ -5420,6 +6301,9 @@
                     <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
                     <idno type="viaf">90698223</idno>
+                    <note type="country">
+                        <country>Cuba</country>
+                    </note>
                 </person>
                 <person xml:id="A377">
                     <persName>
@@ -5439,6 +6323,9 @@
                     <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
                     <idno type="viaf">38294080</idno>
+                    <note type="country">
+                        <country>Cuba</country>
+                    </note>
                 </person>
                 <person xml:id="A378">
                     <persName>
@@ -5464,6 +6351,9 @@
                     <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
                     <idno type="viaf">56453354</idno>
+                    <note type="country">
+                        <country>Cuba</country>
+                    </note>
                 </person>
                 <person xml:id="A379">
                     <persName>
@@ -5485,6 +6375,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
+                    <note type="country">
+                        <country>Cuba</country>
+                    </note>
                 </person>
                 <person xml:id="A382">
                     <persName>
@@ -5504,6 +6397,9 @@
                     <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
                     <idno type="viaf">66475635</idno>
+                    <note type="country">
+                        <country>Cuba</country>
+                    </note>
                 </person>
                 <person xml:id="A383">
                     <persName>
@@ -5524,6 +6420,9 @@
                     <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
                     <idno type="viaf">169901980</idno>
+                    <note type="country">
+                        <country>Cuba</country>
+                    </note>
                 </person>
                 <person xml:id="A385">
                     <persName>
@@ -5543,10 +6442,13 @@
                     <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
                     <idno type="viaf">25996054</idno>
+                    <note type="country">
+                        <country>Cuba</country>
+                    </note>
                 </person>
                 <person xml:id="A386">
                     <persName>
-                        <surname>Bacardi Moreau</surname>
+                        <surname>Bacardí Moreau</surname>
                         <forename>Emilio</forename>
                     </persName>
                     <birth>
@@ -5562,6 +6464,9 @@
                     <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
                     <idno type="viaf">28495747</idno>
+                    <note type="country">
+                        <country>Cuba</country>
+                    </note>
                 </person>
                 <person xml:id="A388">
                     <persName>
@@ -5581,6 +6486,9 @@
                     <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
                     <idno type="viaf">99347477</idno>
+                    <note type="country">
+                        <country>Cuba</country>
+                    </note>
                 </person>
                 <person xml:id="A389">
                     <persName>
@@ -5601,6 +6509,9 @@
                     <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
                     <idno type="viaf">28643072</idno>
+                    <note type="country">
+                        <country>Cuba</country>
+                    </note>
                 </person>
                 <person xml:id="A391">
                     <persName>
@@ -5619,8 +6530,11 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality>dominicana/o</nationality>
-                    <note source="#DLC_1999">Muy niño aún fue trasladado a Cuba, donde cursó
-                        estudios y adquirió una sólida formación jurídica y literaria.</note>
+                    <note resp="#DLC_1999">Muy niño aún fue trasladado a Cuba, donde cursó estudios
+                        y adquirió una sólida formación jurídica y literaria.</note>
+                    <note type="country">
+                        <country>Cuba</country>
+                    </note>
                 </person>
                 <person xml:id="A392">
                     <persName>
@@ -5642,6 +6556,9 @@
                     <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
                     <idno type="viaf">86959601</idno>
+                    <note type="country">
+                        <country>Cuba</country>
+                    </note>
                 </person>
                 <person xml:id="A394">
                     <persName>
@@ -5661,9 +6578,12 @@
                     <sex>masculino</sex>
                     <nationality>español/a</nationality>
                     <idno type="viaf">102336641</idno>
-                    <note source="#DLC_1999">Llegó a La Habana por primera vez en 1825.</note>
-                    <note source="#RemosRubio_1935">un vizcaíno que desde los dieciséis años vivió
-                        en Cuba</note>
+                    <note resp="#DLC_1999">Llegó a La Habana por primera vez en 1825.</note>
+                    <note resp="#Remos-Rubio_1935">un vizcaíno que desde los dieciséis años vivió en
+                        Cuba</note>
+                    <note type="country">
+                        <country>Cuba</country>
+                    </note>
                 </person>
                 <person xml:id="A395">
                     <persName>
@@ -5683,6 +6603,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
+                    <note type="country">
+                        <country>Cuba</country>
+                    </note>
                 </person>
                 <person xml:id="A396">
                     <persName>
@@ -5702,6 +6625,9 @@
                     <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
                     <idno type="viaf">90580958</idno>
+                    <note type="country">
+                        <country>Cuba</country>
+                    </note>
                 </person>
                 <person xml:id="A397">
                     <persName>
@@ -5720,8 +6646,11 @@
                     </death>
                     <sex>femenino</sex>
                     <nationality>español/a</nationality>
-                    <note source="#DLC_1999">En 1833 se traslada a Cuba donde se forma como
-                        escritora [...]</note>
+                    <note resp="#DLC_1999">En 1833 se traslada a Cuba donde se forma como escritora
+                        [...]</note>
+                    <note type="country">
+                        <country>Cuba</country>
+                    </note>
                 </person>
                 <person xml:id="A398">
                     <persName>
@@ -5742,6 +6671,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A399">
                     <persName>
@@ -5760,6 +6692,9 @@
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf" cert="low">277145858071623021837</idno>
                     <idno type="viaf" cert="low">219085872</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A400">
                     <persName>
@@ -5780,6 +6715,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A401">
                     <persName>
@@ -5797,6 +6735,9 @@
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
                     <idno type="viaf">309622291</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A402">
                     <persName>
@@ -5814,6 +6755,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A403">
                     <persName>
@@ -5835,6 +6779,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">56534761</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A404">
                     <persName>
@@ -5856,6 +6803,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">21360533</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A405">
                     <persName>
@@ -5873,6 +6823,9 @@
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
                     <idno type="viaf">50144344</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A406">
                     <persName>
@@ -5894,6 +6847,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">9935416</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A407">
                     <persName>
@@ -5914,6 +6870,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">24826957</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A408">
                     <persName>
@@ -5933,6 +6892,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">309772315</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A409">
                     <persName>
@@ -5950,6 +6912,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A410">
                     <persName>
@@ -5969,6 +6934,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A411">
                     <persName>
@@ -5986,6 +6954,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A414">
                     <persName>
@@ -6005,6 +6976,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">71478091</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A415">
                     <persName>
@@ -6022,6 +6996,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">54320468</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A416">
                     <persName>
@@ -6037,6 +7014,9 @@
                     </death>
                     <sex cert="medium">masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A418">
                     <persName>
@@ -6053,6 +7033,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A421">
                     <persName>
@@ -6069,10 +7052,13 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A422">
                     <persName>
-                        <surname>Castera</surname>
+                        <surname>Castera Cortés</surname>
                         <forename>Pedro</forename>
                     </persName>
                     <birth>
@@ -6087,6 +7073,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">73940156</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A423">
                     <persName>
@@ -6106,6 +7095,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">36751759</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A424">
                     <persName>
@@ -6122,6 +7114,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A426">
                     <persName>
@@ -6143,6 +7138,9 @@
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
                     <idno type="viaf">167548914</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A429">
                     <persName>
@@ -6162,6 +7160,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">78557534</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A430">
                     <persName>
@@ -6179,6 +7180,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A433">
                     <persName>
@@ -6197,6 +7201,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">54234356</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A434">
                     <persName>
@@ -6213,6 +7220,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="medium">mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A436">
                     <persName>
@@ -6230,6 +7240,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">21350975</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A437">
                     <persName>
@@ -6249,6 +7262,9 @@
                     <sex>femenino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">31933028</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A438">
                     <persName>
@@ -6270,6 +7286,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A441">
                     <persName>
@@ -6290,6 +7309,9 @@
                     <sex>femenino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">219790212</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A442">
                     <persName>
@@ -6307,6 +7329,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A444">
                     <persName>
@@ -6326,6 +7351,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">26132018</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A445">
                     <persName>
@@ -6346,6 +7374,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">313551341</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A446">
                     <persName>
@@ -6364,6 +7395,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">120148207996200342512</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A447">
                     <persName>
@@ -6380,6 +7414,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A448">
                     <persName>
@@ -6396,6 +7433,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A449">
                     <persName>
@@ -6418,6 +7458,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">4968421</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A451">
                     <persName>
@@ -6435,6 +7478,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">4141498</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A452">
                     <persName>
@@ -6454,6 +7500,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">4050957</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A453">
                     <persName>
@@ -6473,6 +7522,9 @@
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">13540530</idno>
                     <idno type="viaf">53940368</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A455">
                     <persName>
@@ -6489,6 +7541,9 @@
                     </death>
                     <sex>femenino</sex>
                     <nationality>mexicana/o</nationality>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A456">
                     <persName>
@@ -6508,6 +7563,9 @@
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
                     <idno type="viaf">22181589</idno>
+                    <note type="country">
+                        <country>México</country>
+                    </note>
                 </person>
                 <person xml:id="A457">
                     <persName>
@@ -6526,6 +7584,9 @@
                     <sex>masculino</sex>
                     <nationality cert="low">argentina/o</nationality>
                     <idno type="viaf">279145857106422922297</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A458">
                     <persName>
@@ -6545,6 +7606,9 @@
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">71403577</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A460">
                     <persName>
@@ -6564,6 +7628,9 @@
                     <sex>masculino</sex>
                     <nationality cert="low">uruguaya/o</nationality>
                     <idno type="viaf">38305850</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A461">
                     <persName>
@@ -6583,6 +7650,9 @@
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">74763927</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A464">
                     <persName>
@@ -6604,6 +7674,9 @@
                     <idno type="viaf">76034367</idno>
                     <note resp="#Lichtblau_1997">Escritor chileno, radicado desde 1890 en Buenos
                         Aires y estrechamente vinculado con la escena argentina.</note>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A466">
                     <persName>
@@ -6620,6 +7693,9 @@
                     </death>
                     <sex>femenino</sex>
                     <nationality cert="low">argentina/o</nationality>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A467">
                     <persName>
@@ -6637,6 +7713,9 @@
                     <sex>masculino</sex>
                     <nationality cert="low">argentina/o</nationality>
                     <idno type="viaf">36431430</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A468">
                     <persName>
@@ -6654,6 +7733,9 @@
                     <sex>masculino</sex>
                     <nationality cert="medium">argentina/o</nationality>
                     <idno type="viaf">310591190</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A470">
                     <persName>
@@ -6670,6 +7752,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="low">argentina/o</nationality>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A472">
                     <persName>
@@ -6688,6 +7773,9 @@
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">279190567</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A473">
                     <persName>
@@ -6705,6 +7793,9 @@
                     <sex>masculino</sex>
                     <nationality>boliviana/o</nationality>
                     <idno type="viaf">40698501</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A475">
                     <persName>
@@ -6724,6 +7815,9 @@
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">100187324</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A476">
                     <persName>
@@ -6740,6 +7834,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="low">argentina/o</nationality>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A477">
                     <persName>
@@ -6758,6 +7855,9 @@
                     <sex>masculino</sex>
                     <nationality cert="low">argentina/o</nationality>
                     <idno type="viaf">24814266</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A478">
                     <persName>
@@ -6778,6 +7878,9 @@
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">29906420</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A480">
                     <persName>
@@ -6794,6 +7897,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="low">argentina/o</nationality>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A481">
                     <persName>
@@ -6810,6 +7916,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="low">argentina/o</nationality>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A482">
                     <persName>
@@ -6826,6 +7935,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="low">argentina/o</nationality>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A483">
                     <persName>
@@ -6842,6 +7954,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="low">argentina/o</nationality>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A484">
                     <persName>
@@ -6858,6 +7973,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="low">argentina/o</nationality>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A485">
                     <persName>
@@ -6875,6 +7993,9 @@
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
                     <idno type="viaf">2484966</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A486">
                     <persName>
@@ -6891,6 +8012,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="low">argentina/o</nationality>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A487">
                     <persName>
@@ -6910,6 +8034,9 @@
                     <sex>masculino</sex>
                     <nationality cert="medium">español/a</nationality>
                     <idno type="viaf">http://viaf.org/viaf/309675876/</idno>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A491">
                     <persName>
@@ -6926,6 +8053,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality cert="low">español/a</nationality>
+                    <note type="country">
+                        <country>Cuba</country>
+                    </note>
                 </person>
                 <person xml:id="A492">
                     <persName>
@@ -6942,8 +8072,11 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality>español/a</nationality>
-                    <note resp="#RemosRubio_1935">Un escritor español que vivió en Cuba, siendo en
+                    <note resp="#Remos-Rubio_1935">Un escritor español que vivió en Cuba, siendo en
                         la Habana redactor del "Repertorio Médico"</note>
+                    <note type="country">
+                        <country>Cuba</country>
+                    </note>
                 </person>
                 <person xml:id="A494">
                     <persName>
@@ -6961,6 +8094,9 @@
                     </death>
                     <sex>femenino</sex>
                     <nationality>cubana/o</nationality>
+                    <note type="country">
+                        <country>Cuba</country>
+                    </note>
                 </person>
                 <person xml:id="A495">
                     <persName>
@@ -6976,6 +8112,9 @@
                     </death>
                     <sex>femenino</sex>
                     <nationality cert="medium">cubana/o</nationality>
+                    <note type="country">
+                        <country>Cuba</country>
+                    </note>
                 </person>
                 <person xml:id="A496">
                     <persName>
@@ -6994,6 +8133,9 @@
                     </death>
                     <sex>masculino</sex>
                     <nationality>uruguaya/o</nationality>
+                    <note type="country">
+                        <country>Argentina</country>
+                    </note>
                 </person>
                 <person xml:id="A497">
                     <persName>
@@ -7015,6 +8157,9 @@
                     <sex>masculino</sex>
                     <nationality>cubana/o</nationality>
                     <idno type="viaf">310568951</idno>
+                    <note type="country">
+                        <country>Cuba</country>
+                    </note>
                 </person>
                 <person xml:id="A498">
                     <persName>
@@ -7032,6 +8177,9 @@
                     <sex>masculino</sex>
                     <nationality>puertorriqueña/o</nationality>
                     <idno type="viaf">21790040</idno>
+                    <note type="country">
+                        <country>Cuba</country>
+                    </note>
                 </person>
             </listPerson>
         </body>

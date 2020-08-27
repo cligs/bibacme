@@ -13,9 +13,16 @@
         <sch:rule context="tei:nationality">
             <sch:assert test=". = doc('../data/nationalities.xml')//tei:term[@type='general']">The nationality is missing in nationalities.xml.</sch:assert>
         </sch:rule>
+        <sch:rule context="tei:country">
+            <sch:assert test=". = ('Argentina', 'Cuba', 'México', 'desconocido')">The country should be one of "Argentina", "Cuba", "México", "desconocido".</sch:assert>
+        </sch:rule>
         <sch:rule context="@xml:id">
             <sch:let name="author-id" value="."/>
             <sch:report test="preceding::tei:person[@xml:id = $author-id]">This author id has already been defined.</sch:report>
+        </sch:rule>
+        <sch:rule context="@resp">
+            <sch:let name="source-id" value="substring-after(.,'#')"/>
+            <sch:assert test="doc('../data/sources.xml')//tei:bibl[@xml:id = $source-id]">There is no corresponding bibliographic source for "<sch:value-of select="$source-id"/>" in sources.xml.</sch:assert>
         </sch:rule>
     </sch:pattern>
 </sch:schema>

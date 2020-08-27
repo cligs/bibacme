@@ -47,17 +47,17 @@
     </xsl:template>-->
     
     
-    <!--<xsl:template match="/">
-        <!-\- Wertelisten ausgeben -\->
+    <xsl:template match="/">
+        <!-- Wertelisten ausgeben -->
         <labels>
-            <labels group="title.interp">
-                <xsl:for-each-group select="//term[@type='subgenre.litHist.interp']" group-by="normalize-space(.)">
+            <labels group="summary.implicit">
+                <xsl:for-each-group select="//term[contains(@type,'summary') and contains(@type,'litHist')]" group-by="normalize-space(.)">
                     <xsl:sort/>
                     <label><xsl:value-of select="."/></label>
                 </xsl:for-each-group>
             </labels>
         </labels>
-    </xsl:template>-->
+    </xsl:template>
     
     <!--<xsl:template match="/">
         <!-\- Werte überprüfen: values of explicit.norm, implicit, interp that are not in signal -\->
@@ -87,8 +87,8 @@
         </entries>
     </xsl:template>-->
     
-    <xsl:template match="/">
-        <!-- Werte überprüfen: Werte in title.interp, die nicht in title.implicit oder explicit.norm abgedeckt sind -->
+    <!--<xsl:template match="/">
+        <!-\- Werte überprüfen: Werte in title.interp, die nicht in title.implicit oder explicit.norm abgedeckt sind -\->
         <entries>
             <xsl:for-each select="//bibl">
                 <xsl:variable name="titles" select="term[@type = 'subgenre.title.implicit' or @type='subgenre.title.explicit.norm']/normalize-space(.)"/>
@@ -99,7 +99,7 @@
                 </xsl:for-each>
             </xsl:for-each>
         </entries>
-    </xsl:template>
+    </xsl:template>-->
     
     <!--<xsl:template match="/">
         <!-\- Werte überprüfen: Werte in litHist.interp, die im Folgenden nicht abgedeckt sind -\->

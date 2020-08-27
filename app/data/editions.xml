@@ -111,8 +111,8 @@
                         </imprint>
                         <extent>en 8°, 240 p.</extent>
                     </monogr>
-                    <note resp="Labandeira-Fernandez">Se publicó también en folletín en el <seg
-                            rend="italic">Diario de la Marina</seg>.</note>
+                    <note resp="#Labandeira-Fernandez_1982">Se publicó también en folletín en el
+                            <seg rend="italic">Diario de la Marina</seg>.</note>
                     <ref>https://catalog.hathitrust.org/Record/100331705</ref>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W867" xml:id="E1195">
@@ -504,8 +504,8 @@
                     <series>
                         <title level="s">Biblioteca de El Heraldo</title>
                     </series>
-                    <note source="#Iguiniz_1926">El ejemplar que tuvimos a la vista sólo alcanza a
-                        la pp. 92 de la primera parte.</note>
+                    <note resp="#Iguiniz_1926">El ejemplar que tuvimos a la vista sólo alcanza a la
+                        pp. 92 de la primera parte.</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W34" xml:id="E40">
                     <monogr>
@@ -798,9 +798,9 @@
                     <series>
                         <title level="s">Cuentos de mi abuelo</title>
                     </series>
-                    <note resp="#Trelles">En el prólogo se declara que el primer capítulo de esta
-                        novela apareció en las columnas del Faro Industrial en Febrero de 1841.
-                            <bibl>Bibliografía, Tomo III, pp. 16.</bibl></note>
+                    <note resp="#Trelles_1911-1915">En el prólogo se declara que el primer capítulo
+                        de esta novela apareció en las columnas del Faro Industrial en Febrero de
+                        1841. <bibl>Bibliografía, Tomo III, pp. 16.</bibl></note>
                     <ref>https://catalog.hathitrust.org/Record/006587649</ref>
                     <ref>https://archive.org/details/cuentosdemiabue00villgoog/page/n8</ref>
                 </biblStruct>
@@ -1121,9 +1121,9 @@
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
                             <date when="1899">1899</date>
                         </imprint>
-                        <extent resp="#Lichtblau_1997" n="584">La novela se divide en tres partes, con
-                            sendas paginaciones: I. Las dos tragedias, 232 pp.; II. La confesión de
-                            un médico, 160 pp.; III. Religión o muerte, 192 pp.</extent>
+                        <extent resp="#Lichtblau_1997" n="584">La novela se divide en tres partes,
+                            con sendas paginaciones: I. Las dos tragedias, 232 pp.; II. La confesión
+                            de un médico, 160 pp.; III. Religión o muerte, 192 pp.</extent>
                     </monogr>
                     <ref>http://resolver.iai.spk-berlin.de/IAI0000602E00010000</ref>
                     <ref>http://resolver.iai.spk-berlin.de/IAI0000602E00020000</ref>
@@ -2006,8 +2006,8 @@
                             <biblScope unit="page" n="163">p. 191-354</biblScope>
                         </imprint>
                     </monogr>
-                    <note resp="#Lichtblau_1997">En el mismo volumen con la novela <seg rend="italic">El
-                            sacrificio</seg>.</note>
+                    <note resp="#Lichtblau_1997">En el mismo volumen con la novela <seg
+                            rend="italic">El sacrificio</seg>.</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W136" xml:id="E176">
                     <monogr>
@@ -2021,7 +2021,7 @@
                         </imprint>
                     </monogr>
                     <note resp="#Lichtblau_1997">En el mismo volumen con <seg rend="italic"
-                        >Joselín</seg>.</note>
+                            >Joselín</seg>.</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W137" xml:id="E177">
                     <monogr>
@@ -2626,7 +2626,7 @@
                         </imprint>
                         <extent n="190">190 pp.</extent>
                     </monogr>
-                    <note resp="#SanchezMarmolI">Primera versión de Juanita Sousa.</note>
+                    <note resp="#Sanchez-Marmol_2011">Primera versión de Juanita Sousa.</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W168" xml:id="E212">
                     <monogr>
@@ -2706,6 +2706,8 @@
                         <biblScope unit="volume">54</biblScope>
                     </series>
                     <note>Con una noticia biográfica del autor por D. Francisco Sosa.</note>
+                    <ref>https://archive.org/details/3717106_1</ref>
+                    <ref>https://archive.org/details/3717106_2</ref>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W173" xml:id="E224">
                     <monogr>
@@ -2752,7 +2754,22 @@
                         </imprint>
                         <extent n="126">En 8°, de 126 pp.</extent>
                     </monogr>
-                    <ref>http://www.lanovelacorta.com/1872-1922/cupp.php</ref>
+                </biblStruct>
+                <biblStruct corresp="works.xml#W183" xml:id="E1855">
+                    <analytic>
+                        <author key="A87">Sierra Méndez, Justo</author>
+                        <title level="m" type="main">Confesiones de un Pianista</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j">El Domingo: Semanario de Literatura, Ciencias y Mejoras
+                            Materiales</title>
+                        <imprint>
+                            <publisher>F. Díaz de León y S. White</publisher>
+                            <pubPlace corresp="countries.xml#MX">México</pubPlace>
+                            <date from="12-1872" to="02-1873">diciembre de 1872 a febrero de
+                                1873</date>
+                        </imprint>
+                    </monogr>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W184" xml:id="E238">
                     <monogr>
@@ -4390,9 +4407,9 @@
                         </imprint>
                         <extent n="589">4°, 589, (7) pp., con láminas</extent>
                     </monogr>
-                    <note resp="#TorresRioseco">Al fin: Imprenta Literaria de la Vda. de Segura e
-                        Hijos</note>
-                    <note resp="#TorresRioseco">Prologada por don Ignacio M. Altamirano</note>
+                    <note resp="#Torres-Rioseco_1933">Al fin: Imprenta Literaria de la Vda. de
+                        Segura e Hijos</note>
+                    <note resp="#Torres-Rioseco_1933">Prologada por don Ignacio M. Altamirano</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W262" xml:id="E361">
                     <monogr>
@@ -4479,7 +4496,7 @@
                         <title type="main" level="s">Novelas mexicanas escogidas del General D.
                             Vicente Riva Palacio</title>
                     </series>
-                    <note resp="#TorresRioseco">(A la v.: Imp. y Lit. de Henrich y Cía,
+                    <note resp="#Torres-Rioseco_1933">(A la v.: Imp. y Lit. de Henrich y Cía,
                         Barcelona.)</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W268" xml:id="E1825">
@@ -4522,6 +4539,7 @@
                         <title type="sub" level="m">Ilustraciones hechas en los talleres de El
                             Mundo</title>
                         <imprint>
+                            <publisher>Talleres de Tipografía y Fotograbado de "El Mundo."</publisher>
                             <pubPlace corresp="countries.xml#MX">México</pubPlace>
                             <date when="1900">1900</date>
                         </imprint>
@@ -4565,7 +4583,7 @@
                         <title type="main" level="s">Novelas mexicanas escogidas del General D.
                             Vicente Riva Palacio</title>
                     </series>
-                    <note resp="#TorresRioseco">(A la v.: Imp. y Lit. de Henrich y Cía,
+                    <note resp="#Torres-Rioseco_1933">(A la v.: Imp. y Lit. de Henrich y Cía,
                         Barcelona.)</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W265" xml:id="E357">
@@ -4607,8 +4625,8 @@
                         <title type="main" level="s">Novelas mexicanas escogidas del General D.
                             Vicente Riva Palacio</title>
                     </series>
-                    <note resp="#TorresRioseco">(A la v.: Imp. y Lit. de la Vda. de José Cunill,
-                        Barcelona.)</note>
+                    <note resp="#Torres-Rioseco_1933">(A la v.: Imp. y Lit. de la Vda. de José
+                        Cunill, Barcelona.)</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W264" xml:id="E358">
                     <monogr>
@@ -4655,7 +4673,8 @@
                         </imprint>
                         <extent n="598">4°, VIII, 598, (2) pp., con láminas</extent>
                     </monogr>
-                    <note resp="Torres-Rioseco">A la v.: Imprenta de I. Escalante y Compañía</note>
+                    <note resp="#Torres-Rioseco_1933">A la v.: Imprenta de I. Escalante y
+                        Compañía</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W269" xml:id="E367">
                     <monogr>
@@ -4880,9 +4899,9 @@
                         </imprint>
                         <extent n="439">En 4°, 439 pp.</extent>
                     </monogr>
-                    <note resp="#TorresRioseco">(Precedidas de una introducción que bajo el título
-                        de Los editores al lector subscribe D. Gonzalo A. Esteva. Contiene las
-                        siguientes novelas originales: Noche al raso, Una flor en su sepulcro,
+                    <note resp="#Torres-Rioseco_1933">(Precedidas de una introducción que bajo el
+                        título de Los editores al lector subscribe D. Gonzalo A. Esteva. Contiene
+                        las siguientes novelas originales: Noche al raso, Una flor en su sepulcro,
                         Aminta Rovero, Buondelmonti y La quinta modelo.)</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W281" xml:id="E383">
@@ -4901,9 +4920,9 @@
                         </imprint>
                         <extent n="439">En 4°, 439 pp.</extent>
                     </monogr>
-                    <note resp="#TorresRioseco">(Precedidas de una introducción que bajo el título
-                        de Los editores al lector subscribe D. Gonzalo A. Esteva. Contiene las
-                        siguientes novelas originales: Noche al raso, Una flor en su sepulcro,
+                    <note resp="#Torres-Rioseco_1933">(Precedidas de una introducción que bajo el
+                        título de Los editores al lector subscribe D. Gonzalo A. Esteva. Contiene
+                        las siguientes novelas originales: Noche al raso, Una flor en su sepulcro,
                         Aminta Rovero, Buondelmonti y La quinta modelo.)</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W284" xml:id="E1813">
@@ -4937,9 +4956,9 @@
                         </imprint>
                         <extent n="439">En 4°, 439 pp.</extent>
                     </monogr>
-                    <note resp="#TorresRioseco">(Precedidas de una introducción que bajo el título
-                        de Los editores al lector subscribe D. Gonzalo A. Esteva. Contiene las
-                        siguientes novelas originales: Noche al raso, Una flor en su sepulcro,
+                    <note resp="#Torres-Rioseco_1933">(Precedidas de una introducción que bajo el
+                        título de Los editores al lector subscribe D. Gonzalo A. Esteva. Contiene
+                        las siguientes novelas originales: Noche al raso, Una flor en su sepulcro,
                         Aminta Rovero, Buondelmonti y La quinta modelo.)</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W281" xml:id="E387">
@@ -4963,7 +4982,7 @@
                         <title level="s" type="main">Biblioteca de Autores Mexicanos</title>
                         <biblScope unit="volume">77</biblScope>
                     </series>
-                    <note resp="#TorresRioseco">(Contiene: Una flor en su sepulcro, La quinta
+                    <note resp="#Torres-Rioseco_1933">(Contiene: Una flor en su sepulcro, La quinta
                         modelo, y Artículos sueltos.)</note>
                     <ref>http://cdigital.dgb.uanl.mx/la/1080013901_C/1080013906_T6/1080013906_T6.html</ref>
                 </biblStruct>
@@ -4988,7 +5007,7 @@
                         <title level="s" type="main">Biblioteca de Autores Mexicanos</title>
                         <biblScope unit="volume">77</biblScope>
                     </series>
-                    <note resp="#TorresRioseco">(Contiene: Una flor en su sepulcro, La quinta
+                    <note resp="#Torres-Rioseco_1933">(Contiene: Una flor en su sepulcro, La quinta
                         modelo, y Artículos sueltos.)</note>
                     <ref>http://cdigital.dgb.uanl.mx/la/1080013901_C/1080013906_T6/1080013906_T6.html</ref>
                 </biblStruct>
@@ -5041,8 +5060,8 @@
                         </imprint>
                         <extent n="796">En 8°, 796, 11 pp., más el retrato del autor</extent>
                     </monogr>
-                    <note resp="#TorresRioseco">(A la v.: Tip. y Lit. La Europea, de J. Aguilar Vera
-                        y Cía., S. en C.)</note>
+                    <note resp="#Torres-Rioseco_1933">(A la v.: Tip. y Lit. La Europea, de J.
+                        Aguilar Vera y Cía., S. en C.)</note>
                     <ref>http://cdigital.dgb.uanl.mx/la/1020028371/1020028371.html</ref>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W289" xml:id="E393">
@@ -5071,8 +5090,8 @@
                         </imprint>
                         <extent n="142">En 4°, (2), 142 pp.</extent>
                     </monogr>
-                    <note resp="#TorresRioseco">(Subscrita en Guadalajara, 18 de junio, 1909, y
-                        dedicada a los directores de varios periódicos de esa ciudad.)</note>
+                    <note resp="#Torres-Rioseco_1933">(Subscrita en Guadalajara, 18 de junio, 1909,
+                        y dedicada a los directores de varios periódicos de esa ciudad.)</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W297" xml:id="E409">
                     <monogr>
@@ -5086,7 +5105,7 @@
                         </imprint>
                         <extent n="183">En 4° mayor, (4), 183 pp.</extent>
                     </monogr>
-                    <note resp="#TorresRioseco">(Escrita, según lo manifiesta su autor, con el
+                    <note resp="#Torres-Rioseco_1933">(Escrita, según lo manifiesta su autor, con el
                         objeto de demostrar "que la secta Católica y Apostólica Romana, por su
                         grandes heregías, no es la verdadera religión cristiana.")</note>
                 </biblStruct>
@@ -5116,8 +5135,8 @@
                         </imprint>
                         <extent n="331">En 8°, 331 pp.</extent>
                     </monogr>
-                    <note resp="#TorresRioseco">(Subscrita en agosto, 1902. Seguida de Margarita,
-                        por Domingo S. Trueba.)</note>
+                    <note resp="#Torres-Rioseco_1933">(Subscrita en agosto, 1902. Seguida de
+                        Margarita, por Domingo S. Trueba.)</note>
                     <ref>https://catalog.hathitrust.org/Record/008449135</ref>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W300" xml:id="E412">
@@ -5133,7 +5152,8 @@
                         </imprint>
                         <extent n="128">En 8°, 128 pp.</extent>
                     </monogr>
-                    <note resp="#TorresRioseco">(Subscrita en México, 30 de abril, 1907.)</note>
+                    <note resp="#Torres-Rioseco_1933">(Subscrita en México, 30 de abril,
+                        1907.)</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W301" xml:id="E413">
                     <monogr>
@@ -5162,7 +5182,7 @@
                         </imprint>
                         <extent n="136">En 8°, IV, 136 pp.</extent>
                     </monogr>
-                    <note resp="#TorresRioseco">(Prologada por D. G. González Mier.)</note>
+                    <note resp="#Torres-Rioseco_1933">(Prologada por D. G. González Mier.)</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W304" xml:id="E416">
                     <monogr>
@@ -6261,7 +6281,7 @@
                         <title level="j" type="main">Sud-América</title>
                         <imprint>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
-                            <date from="1884-08-04" to="1884-10-04">4 de agosto a 4 de octubre de
+                            <date from="1881-08-04" to="1881-10-04">4 de agosto a 4 de octubre de
                                 1881</date>
                         </imprint>
                     </monogr>
@@ -6522,7 +6542,7 @@
                         </imprint>
                         <biblScope unit="page" n="43">p. 117-160</biblScope>
                     </monogr>
-                    <note resp="Lichtblau_1997">A dos columnas. Dividido en dos partes que
+                    <note resp="#Lichtblau_1997">A dos columnas. Dividido en dos partes que
                         corresponden a la doble foliación indicada.</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W425" xml:id="E575">
@@ -6630,7 +6650,8 @@
                     <series>
                         <title type="main" level="s">(Dramas cómicos)</title>
                     </series>
-                    <note resp="#Lichtblau_1997">Continuación de <seg rend="italic">Carlo Lanza</seg>
+                    <note resp="#Lichtblau_1997">Continuación de <seg rend="italic">Carlo
+                            Lanza</seg>
                     </note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W428" xml:id="E581">
@@ -6917,7 +6938,7 @@
                         </imprint>
                         <extent n="171">171 pp.</extent>
                     </monogr>
-                    <note resp="Lichtblau">a dos columnas</note>
+                    <note resp="#Lichtblau_1997">a dos columnas</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W436" xml:id="E596">
                     <monogr>
@@ -7143,7 +7164,7 @@
                         </imprint>
                         <extent n="128">128 pp.</extent>
                     </monogr>
-                    <note resp="Lichtblau">a dos columnas</note>
+                    <note resp="#Lichtblau_1997">a dos columnas</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W440" xml:id="E608">
                     <monogr>
@@ -7198,7 +7219,7 @@
                                 diciembre de 1881</date>
                         </imprint>
                     </monogr>
-                    <note resp="Lichtblau">folletín</note>
+                    <note resp="#Lichtblau_1997">folletín</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W442" xml:id="E612">
                     <monogr>
@@ -7753,6 +7774,7 @@
                             <biblScope unit="page" n="57">p. 3-60</biblScope>
                         </imprint>
                     </monogr>
+                    <ref>https://catalog.hathitrust.org/Record/000517862</ref>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W457" xml:id="E647">
                     <analytic>
@@ -8590,7 +8612,8 @@
                         </imprint>
                         <extent n="307">307 pp.</extent>
                     </monogr>
-                    <note resp="#Lichtblau_1997">La novela apareció bajo el seudónimo de "Daniel."</note>
+                    <note resp="#Lichtblau_1997">La novela apareció bajo el seudónimo de
+                        "Daniel."</note>
                     <ref>https://catalog.hathitrust.org/Record/100624737</ref>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W517" xml:id="E734">
@@ -8723,6 +8746,19 @@
                     </monogr>
                     <note resp="#Lichtblau_1997">Dos tomos en un solo libro.</note>
                 </biblStruct>
+                <biblStruct corresp="works.xml#W522" xml:id="E1854">
+                    <monogr>
+                        <author key="A205">Mármol, José</author>
+                        <title type="main" level="m">Amalia</title>
+                        <imprint>
+                            <publisher>F. A. Brockhaus</publisher>
+                            <pubPlace corresp="countries.xml#DE">Leipzig</pubPlace>
+                            <date when="1877">1877</date>
+                        </imprint>
+                        <extent>2 v. 19 cm.</extent>
+                    </monogr>
+                    <ref>https://catalog.hathitrust.org/Record/009833693</ref>
+                </biblStruct>
                 <biblStruct corresp="works.xml#W522" xml:id="E742">
                     <monogr>
                         <author key="A205">Mármol, José</author>
@@ -8754,7 +8790,7 @@
                     <monogr>
                         <author key="A205">Mármol, José</author>
                         <title type="main" level="m">Amalia</title>
-                        <title type="sub" level="m">(Novela histórica americana)</title>
+                        <title type="sub" level="m">Novela histórica americana</title>
                         <edition>reimpresión</edition>
                         <imprint>
                             <publisher>Garnier</publisher>
@@ -8763,6 +8799,8 @@
                         </imprint>
                         <extent n="718">Vol. I, 364 pp.; Vol. II, 354 pp.</extent>
                     </monogr>
+                    <ref>http://resolver.iai.spk-berlin.de/IAI0000604800010000</ref>
+                    <ref>http://resolver.iai.spk-berlin.de/IAI0000604800040000</ref>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W522" xml:id="E745">
                     <monogr>
@@ -9090,9 +9128,9 @@
                         </imprint>
                         <extent n="155">155 pp.</extent>
                     </monogr>
-                    <note resp="#Lichtblau_1997">Prólogo de Pablo Figueroa. Esta edición incluye también
-                        "Memorias de un botón de rosa," cuento que Mitre publicado originalmente en
-                        Valparaíso en 1848.</note>
+                    <note resp="#Lichtblau_1997">Prólogo de Pablo Figueroa. Esta edición incluye
+                        también "Memorias de un botón de rosa," cuento que Mitre publicado
+                        originalmente en Valparaíso en 1848.</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W538" xml:id="E772">
                     <analytic>
@@ -9931,7 +9969,7 @@
                         </imprint>
                         <extent n="249">En 8°, (2), IV, 249 pp.</extent>
                     </monogr>
-                    <note resp="#TorresRioseco">(Sólo apareció el tomo primero.)</note>
+                    <note resp="#Torres-Rioseco_1933">(Sólo apareció el tomo primero.)</note>
                     <ref>https://catalog.hathitrust.org/Record/008731870</ref>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W589" xml:id="E836">
@@ -9948,7 +9986,7 @@
                         </imprint>
                         <extent n="1991">2 volúmenes en 4°, 840 y 1151 pp., con láminas</extent>
                     </monogr>
-                    <note resp="#TorresRioseco">(A la v.: Tip. La Academia, Barcelona.)</note>
+                    <note resp="#Torres-Rioseco_1933">(A la v.: Tip. La Academia, Barcelona.)</note>
                     <ref>https://catalog.hathitrust.org/Record/100977424</ref>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W589" xml:id="E837">
@@ -10043,7 +10081,7 @@
                         </imprint>
                         <extent n="451">En 4°, de 451, (4) pp. más 20 láminas</extent>
                     </monogr>
-                    <note resp="#TorresRioseco">(Incluídas en el volumen las dos partes de que
+                    <note resp="#Torres-Rioseco_1933">(Incluídas en el volumen las dos partes de que
                         consta la obra.)</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W613" xml:id="E866">
@@ -10786,8 +10824,8 @@
                             <date when="1887">1887</date>
                         </imprint>
                     </monogr>
-                    <note resp="#TorresRioseco">González Obregón, Novelistas Mexicanos. México,
-                        1889, pp. 42.</note>
+                    <note resp="#Torres-Rioseco_1933">González Obregón, Novelistas Mexicanos.
+                        México, 1889, pp. 42.</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W663" xml:id="E924">
                     <monogr>
@@ -10970,7 +11008,7 @@
                     <ref>https://catalog.hathitrust.org/Record/001518916</ref>
                     <ref>http://bibliotecadigital.jcyl.es/es/consulta/registro.cmd?id=1398</ref>
                     <ref>https://books.google.com.gt/books?id=wBACksmWqrQC</ref>
-                    <note resp="#Trelles">Se publicó por entregas.</note>
+                    <note resp="#Trelles_1911-1915">Se publicó por entregas.</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W687" xml:id="E950">
                     <monogr>
@@ -11151,7 +11189,8 @@
                         </imprint>
                         <extent n="79">En 8° de 79 pp.</extent>
                     </monogr>
-                    <note resp="#TorresRioseco">(Subscrita en Victoria, septiembre, 1893.)</note>
+                    <note resp="#Torres-Rioseco_1933">(Subscrita en Victoria, septiembre,
+                        1893.)</note>
                     <ref>https://catalog.hathitrust.org/Record/101403156</ref>
                     <ref>https://archive.org/details/ntipatepisodiod00krgoog</ref>
                 </biblStruct>
@@ -11196,7 +11235,7 @@
                         </imprint>
                         <extent n="129">En 4°, de 129 pp. más 4 láminas</extent>
                     </monogr>
-                    <note resp="#TorresRioseco">(Prologada por D. Ireneo Paz.)</note>
+                    <note resp="#Torres-Rioseco_1933">(Prologada por D. Ireneo Paz.)</note>
                     <ref>https://catalog.hathitrust.org/Record/008405449</ref>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W711" xml:id="E977">
@@ -11423,7 +11462,7 @@
                             <date when="1907">1907</date>
                         </imprint>
                     </monogr>
-                    <note resp="#uh">La publicación de la novela se menciona en el árticulo
+                    <note resp="#uhk">La publicación de la novela se menciona en el árticulo
                         "Ceferino Martínez Riestra: un escritor" por José Ignacio Gracia Noriega,
                         publicado en La Nueva España el 14 de octubre de 2002.
                             <ref>http://www.llanes.as/nor/nie/20021014.htm</ref>
@@ -11455,7 +11494,7 @@
                         </imprint>
                         <extent n="757">en 4°, de VII, 757 pp., con láminas</extent>
                     </monogr>
-                    <note resp="#TorresRioseco">(Prologada por D. José Rivera y Río)</note>
+                    <note resp="#Torres-Rioseco_1933">(Prologada por D. José Rivera y Río)</note>
                     <ref>http://cdigital.dgb.uanl.mx/la/1020006182/1020006182.html</ref>
                     <ref>https://archive.org/details/elcerrodelascam00mategoog</ref>
                     <ref>https://archive.org/details/bub_gb_FYX2iq_A4nAC</ref>
@@ -11506,7 +11545,8 @@
                         </imprint>
                         <extent n="755">en 4°, (4) de 755, V pp., con láminas</extent>
                     </monogr>
-                    <note resp="#TorresRioseco">(Prologada por don Hilarión Frías y Soto.)</note>
+                    <note resp="#Torres-Rioseco_1933">(Prologada por don Hilarión Frías y
+                        Soto.)</note>
                     <ref>https://catalog.hathitrust.org/Record/008618646</ref>
                     <ref>http://resolver.iai.spk-berlin.de/IAI000066DD00000000</ref>
                 </biblStruct>
@@ -11588,7 +11628,8 @@
                         </imprint>
                         <extent>6 tomos en 3 volúmenes, en 4°</extent>
                     </monogr>
-                    <note resp="#TorresRioseco">(Porrúa. Catálogo, febrero, 1909, pp. 39.)</note>
+                    <note resp="#Torres-Rioseco_1933">(Porrúa. Catálogo, febrero, 1909, pp.
+                        39.)</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W745" xml:id="E1028">
                     <monogr>
@@ -11718,8 +11759,8 @@
                         </imprint>
                         <extent n="632">2 vol. en 8°, 260 y 372 pp.</extent>
                     </monogr>
-                    <note resp="#TorresRioseco">La segunda parte lleva por título La Guerra de tres
-                        años.</note>
+                    <note resp="#Torres-Rioseco_1933">La segunda parte lleva por título La Guerra de
+                        tres años.</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W749" xml:id="E1036">
                     <monogr>
@@ -11735,8 +11776,8 @@
                         </imprint>
                         <extent n="382">1 vol. en 8°, 382 pp.</extent>
                     </monogr>
-                    <note resp="#TorresRioseco">(Biblioteca Nacional. Catálogo de obras mexicanas,
-                        pp. 35.)</note>
+                    <note resp="#Torres-Rioseco_1933">(Biblioteca Nacional. Catálogo de obras
+                        mexicanas, pp. 35.)</note>
                     <ref>http://cd.dgb.uanl.mx/handle/201504211/8431</ref>
                     <ref>https://catalog.hathitrust.org/Record/101403355</ref>
                 </biblStruct>
@@ -11944,7 +11985,7 @@
                     <series>
                         <title level="s" type="main">Biblioteca de Autores Tabasqueños</title>
                     </series>
-                    <note resp="#TorresRioseco">(Prologada por D. Felipe A. Margalli)</note>
+                    <note resp="#Torres-Rioseco_1933">(Prologada por D. Felipe A. Margalli)</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W765" xml:id="E1054">
                     <monogr>
@@ -11963,8 +12004,8 @@
                     <series>
                         <title level="s" type="main">Biblioteca de Autores Tabasqueños</title>
                     </series>
-                    <note resp="#TorresRioseco">(Segunda edición de la anterior, aunque con diverso
-                        título. Con una carta, a guisa de prólogo, del Lic. Manuel Sánchez
+                    <note resp="#Torres-Rioseco_1933">(Segunda edición de la anterior, aunque con
+                        diverso título. Con una carta, a guisa de prólogo, del Lic. Manuel Sánchez
                         Mármol.)</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W766" xml:id="E1055">
@@ -11995,7 +12036,7 @@
                     <series>
                         <title level="s" type="main">Biblioteca de El Eco de Ambos Mundos</title>
                     </series>
-                    <note resp="#TorresRioseco">(Con prólogo de D. Juan de Dios Peza.)</note>
+                    <note resp="#Torres-Rioseco_1933">(Con prólogo de D. Juan de Dios Peza.)</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W769" xml:id="E1058">
                     <monogr>
@@ -12012,7 +12053,8 @@
                     <series>
                         <title level="s" type="main">Biblioteca de El Eco de Ambos Mundos</title>
                     </series>
-                    <note resp="#TorresRioseco">(Con prólogo de D. Manuel de Olaguíbel.)</note>
+                    <note resp="#Torres-Rioseco_1933">(Con prólogo de D. Manuel de
+                        Olaguíbel.)</note>
                     <ref>http://132.248.9.32:8080/fondoantiguo2/1419121-658215/JPEG/Index.html</ref>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W769" xml:id="E1059">
@@ -12042,7 +12084,7 @@
                         </imprint>
                         <extent n="308">En 8°, de 308 pp.</extent>
                     </monogr>
-                    <note resp="#TorresRioseco">(Prologada por D. Manuel Acuña.)</note>
+                    <note resp="#Torres-Rioseco_1933">(Prologada por D. Manuel Acuña.)</note>
                     <ref>http://cd.dgb.uanl.mx/handle/201504211/9771</ref>
                     <ref>http://dgb.conaculta.gob.mx/coleccion_sep/libro_pdf/12000026292.pdf</ref>
                 </biblStruct>
@@ -12058,7 +12100,8 @@
                         </imprint>
                         <extent n="427">En 8°, de 427 pp.</extent>
                     </monogr>
-                    <note resp="#TorresRioseco">(Con prólogo de D. Ignacio M. Altamirano.)</note>
+                    <note resp="#Torres-Rioseco_1933">(Con prólogo de D. Ignacio M.
+                        Altamirano.)</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W773" xml:id="E1063">
                     <monogr>
@@ -12156,7 +12199,8 @@
                         </imprint>
                         <extent n="318">En 8°, de 318 pp. más láminas</extent>
                     </monogr>
-                    <note resp="#TorresRioseco">(Iguiniz trae: Mariano M. de (sic) Muñoz.)</note>
+                    <note resp="#Torres-Rioseco_1933">(Iguiniz trae: Mariano M. de (sic)
+                        Muñoz.)</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W781" xml:id="E1073">
                     <monogr>
@@ -12200,7 +12244,7 @@
                         </imprint>
                         <extent n="600">2 vol. en 8°, de 256 y 344 pp.</extent>
                     </monogr>
-                    <note resp="#TorresRioseco">(Subscrita en México, diciembre, 1883.)</note>
+                    <note resp="#Torres-Rioseco_1933">(Subscrita en México, diciembre, 1883.)</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W787" xml:id="E1082">
                     <monogr>
@@ -12417,7 +12461,7 @@
                         <extent n="172">En 4°, de 172 pp.</extent>
                     </monogr>
                     <ref>https://catalog.hathitrust.org/Record/101402516</ref>
-                    <note resp="#TorresRioseco">(Comprende sólo la primera parte.)</note>
+                    <note resp="#Torres-Rioseco_1933">(Comprende sólo la primera parte.)</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W817" xml:id="E1126">
                     <monogr>
@@ -12444,9 +12488,9 @@
                         </imprint>
                         <extent n="272">En 4°, de (2), 272, III, (5) pp. más 10 láminas</extent>
                     </monogr>
-                    <note resp="#TorresRioseco">(Con prólogo del Ing. José Joaquín Arriaga, carta
-                        del Gral. Manuel M. Escobar a D. Mariano Villanueva y Francesconi y prólogo
-                        del autor. Subscrita en Veracruz, 29 de junio, 1874.)</note>
+                    <note resp="#Torres-Rioseco_1933">(Con prólogo del Ing. José Joaquín Arriaga,
+                        carta del Gral. Manuel M. Escobar a D. Mariano Villanueva y Francesconi y
+                        prólogo del autor. Subscrita en Veracruz, 29 de junio, 1874.)</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W820" xml:id="E1129">
                     <monogr>
@@ -12621,8 +12665,8 @@
                         </imprint>
                         <extent n="231">En 8°, de XX, 231 pp.</extent>
                     </monogr>
-                    <note resp="#TorresRioseco">(Precedida de una carta-prólogo de D. Juan de la
-                        Atlántida.)</note>
+                    <note resp="#Torres-Rioseco_1933">(Precedida de una carta-prólogo de D. Juan de
+                        la Atlántida.)</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W830" xml:id="E1142">
                     <monogr>
@@ -12636,7 +12680,7 @@
                         </imprint>
                         <extent n="259">En 8°, de (4), VIII, 259 pp.</extent>
                     </monogr>
-                    <note resp="#TorresRioseco">(Epígrafe de D. Juan Valera.)</note>
+                    <note resp="#Torres-Rioseco_1933">(Epígrafe de D. Juan Valera.)</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W831" xml:id="E1143">
                     <monogr>
@@ -12713,8 +12757,8 @@
                         </imprint>
                         <extent n="237">En 4°, de (8), 237 pp.</extent>
                     </monogr>
-                    <note resp="#TorresRioseco">(Subscrita en Washington, D. C., 15 de abril de
-                        1903. "Villalobos," Guatemala, 28 de marzo de 1906.)</note>
+                    <note resp="#Torres-Rioseco_1933">(Subscrita en Washington, D. C., 15 de abril
+                        de 1903. "Villalobos," Guatemala, 28 de marzo de 1906.)</note>
                     <ref>https://archive.org/details/reconquista00gambgoog</ref>
                     <ref>http://cd.dgb.uanl.mx/handle/201504211/8688</ref>
                     <ref>http://cd.dgb.uanl.mx/handle/201504211/9754</ref>
@@ -12757,7 +12801,7 @@
                         </imprint>
                         <extent n="395">En 4°, de 395 pp.</extent>
                     </monogr>
-                    <note resp="#TorresRioseco">(Subscrita en Guatemala, 7 de abril,
+                    <note resp="#Torres-Rioseco_1933">(Subscrita en Guatemala, 7 de abril,
                         1900-Villalobos, 14 de febrero, 1902.)</note>
                     <ref>http://cd.dgb.uanl.mx/handle/201504211/14655</ref>
                 </biblStruct>
@@ -12774,7 +12818,7 @@
                         </imprint>
                         <extent n="390">En 8°, de VIII, 390 pp.</extent>
                     </monogr>
-                    <note resp="#TorresRioseco">(A la v: Talleres Araluce, Barcelona.)</note>
+                    <note resp="#Torres-Rioseco_1933">(A la v: Talleres Araluce, Barcelona.)</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W838" xml:id="E1153">
                     <monogr>
@@ -12793,7 +12837,7 @@
                         <title level="s" type="main">Obras completas</title>
                         <biblScope unit="volume">T. I</biblScope>
                     </series>
-                    <note resp="#TorresRioseco">(A la v: Talleres Araluce, Barcelona.)</note>
+                    <note resp="#Torres-Rioseco_1933">(A la v: Talleres Araluce, Barcelona.)</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W839" xml:id="E1154">
                     <monogr>
@@ -12806,10 +12850,10 @@
                         </imprint>
                         <extent n="412">En 4°, de 412 pp.</extent>
                     </monogr>
-                    <note resp="#TorresRioseco">(A la v.: Madrid, Establecimiento Tip., Campomanes,
-                        4.)</note>
-                    <note resp="#TorresRioseco">(Subscrita en Bruselas, 22 de junio, 1911-Brujas, 23
-                        de agosto, 1912.)</note>
+                    <note resp="#Torres-Rioseco_1933">(A la v.: Madrid, Establecimiento Tip.,
+                        Campomanes, 4.)</note>
+                    <note resp="#Torres-Rioseco_1933">(Subscrita en Bruselas, 22 de junio,
+                        1911-Brujas, 23 de agosto, 1912.)</note>
                     <ref>https://archive.org/details/lallaga00gamb_0</ref>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W843" xml:id="E1164">
@@ -12988,7 +13032,7 @@
                         </imprint>
                         <extent n="143">En 4°, de 143 pp.</extent>
                     </monogr>
-                    <note resp="#TorresRioseco">(En el forro aparece que es la segunda
+                    <note resp="#Torres-Rioseco_1933">(En el forro aparece que es la segunda
                         edición.)</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W858" xml:id="E1183">
@@ -13003,7 +13047,7 @@
                         </imprint>
                         <extent n="228">En 8°, de 228 pp.</extent>
                     </monogr>
-                    <note resp="#TorresRioseco">(Subscrita en México, agosto-noviembre,
+                    <note resp="#Torres-Rioseco_1933">(Subscrita en México, agosto-noviembre,
                         1904.)</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W859" xml:id="E1184">
@@ -13018,8 +13062,8 @@
                         </imprint>
                         <extent n="495">En 8°, de XXV, 495 pp.</extent>
                     </monogr>
-                    <note resp="#TorresRioseco">(Subscrita en México, junio, 1905-enero, 1906, y
-                        prologada por D. José Escofet.)</note>
+                    <note resp="#Torres-Rioseco_1933">(Subscrita en México, junio, 1905-enero, 1906,
+                        y prologada por D. José Escofet.)</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W859" xml:id="E1185">
                     <monogr>
@@ -13048,7 +13092,7 @@
                         </imprint>
                         <extent n="286">En 8°, de 286 pp.</extent>
                     </monogr>
-                    <note resp="#TorresRioseco">(Subscrita en México, abril, 1907-julio,
+                    <note resp="#Torres-Rioseco_1933">(Subscrita en México, abril, 1907-julio,
                         1908.)</note>
                     <ref>https://catalog.hathitrust.org/Record/001590048</ref>
                 </biblStruct>
@@ -13078,8 +13122,8 @@
                         </imprint>
                         <extent n="288">En 16°, de 288 pp.</extent>
                     </monogr>
-                    <note resp="#TorresRioseco">(Las siguientes ediciones aparecen con título de
-                        Amalia.)</note>
+                    <note resp="#Torres-Rioseco_1933">(Las siguientes ediciones aparecen con título
+                        de Amalia.)</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W862" xml:id="E1189">
                     <monogr>
@@ -13096,7 +13140,7 @@
                     <series>
                         <title level="s" type="main">Biblioteca Mexicana</title>
                     </series>
-                    <note resp="#TorresRioseco">(A la v.: Tip. Moderna, Aribau, 60.)</note>
+                    <note resp="#Torres-Rioseco_1933">(A la v.: Tip. Moderna, Aribau, 60.)</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W862" xml:id="E1190">
                     <monogr>
@@ -13110,8 +13154,8 @@
                         </imprint>
                         <extent n="247">En 8°, de 247 pp., ilustr.</extent>
                     </monogr>
-                    <note resp="#TorresRioseco">(A la v.: Establecimiento Tip. de Feliu y Susanna,
-                        Barcelona.)</note>
+                    <note resp="#Torres-Rioseco_1933">(A la v.: Establecimiento Tip. de Feliu y
+                        Susanna, Barcelona.)</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W865" xml:id="E1193">
                     <analytic>
@@ -13149,7 +13193,7 @@
                         </imprint>
                         <extent>En 4° menor, de VI, 271, 3 pp.</extent>
                     </monogr>
-                    <note resp="#TorresRioseco">(A la v.: Reimpresas por Antonio Díaz.)</note>
+                    <note resp="#Torres-Rioseco_1933">(A la v.: Reimpresas por Antonio Díaz.)</note>
                     <ref>https://archive.org/details/lasnochestriste00lizagoog</ref>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W869" xml:id="E1214">
@@ -13201,8 +13245,8 @@
                         </imprint>
                         <extent n="191">En 4°, de 191 pp.</extent>
                     </monogr>
-                    <note resp="#TorresRioseco">(Subscrita en El Paso, Texas, 15 de junio, 1910.
-                        Sólo contiene la primera parte.)</note>
+                    <note resp="#Torres-Rioseco_1933">(Subscrita en El Paso, Texas, 15 de junio,
+                        1910. Sólo contiene la primera parte.)</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W872" xml:id="E1218">
                     <monogr>
@@ -13229,8 +13273,8 @@
                         </imprint>
                         <extent n="312">En 4°, de 312, V pp.</extent>
                     </monogr>
-                    <note resp="#TorresRioseco">(Subscrita en la Cárcel de Belén, de la Ciudad de
-                        México, diciembre, 1895.)</note>
+                    <note resp="#Torres-Rioseco_1933">(Subscrita en la Cárcel de Belén, de la Ciudad
+                        de México, diciembre, 1895.)</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W874" xml:id="E1220">
                     <monogr>
@@ -13328,7 +13372,7 @@
                         </imprint>
                         <extent n="256">En 8°, de 256 pp., ilustrada.</extent>
                     </monogr>
-                    <note resp="#TorresRioseco">(Al frente: Tip. Moderna, Aribau, 60.)</note>
+                    <note resp="#Torres-Rioseco_1933">(Al frente: Tip. Moderna, Aribau, 60.)</note>
                     <ref>https://cd.dgb.uanl.mx/handle/201504211/14755</ref>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W877" xml:id="E1226">
@@ -13410,7 +13454,7 @@
                         </imprint>
                         <extent n="780">En 4°, de (2), 780 pp. más una lámina.</extent>
                     </monogr>
-                    <note resp="#Iguiniz">Subscrita en Mazatlán, a 2 de febrero de 1908.</note>
+                    <note resp="#Iguiniz_1926">Subscrita en Mazatlán, a 2 de febrero de 1908.</note>
                     <ref>http://bdh.bne.es/bnesearch/detalle/bdh0000098310</ref>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W882" xml:id="E1233">
@@ -13478,7 +13522,8 @@
                         </imprint>
                         <extent n="373">373 pp.</extent>
                     </monogr>
-                    <ref>https://catalog.hathitrust.org/Record/008003755</ref>
+                    <ref>http://resolver.iai.spk-berlin.de/IAI000057A700000000</ref>
+                    <!-- 1911? -->
                 </biblStruct>
                 <biblStruct corresp="works.xml#W890" xml:id="E1241">
                     <monogr>
@@ -14424,7 +14469,7 @@
                     «Noticia biográfica», por Nicomedes Pastor Díaz. «Adición a los 
                     anteriores apuntes», por Enrique Gil. Adición al tomo 5 con artículos 
                     críticos sobre varias obras de la autora y cartas dirigidas a ella. 
-                    Madrid, Imp. y estereotipia de M. Rivadeneyra, 1869-1871. 5 t. WELCHE WERKE DARIN? -->
+                    Madrid, Imp. y estereotipia de M. Rivadeneyra, 1869-1871. 5 t. (which works)? -->
                 <biblStruct corresp="works.xml#W945" xml:id="E1322">
                     <monogr>
                         <author key="A370">Gómez de Avellaneda, Gertrudis</author>
@@ -14686,7 +14731,7 @@
                         </imprint>
                         <extent n="374">en 8°, 374 pp.</extent>
                     </monogr>
-                    <note resp="#Trelles">En la cubierta se lee la fecha de 1857.</note>
+                    <note resp="#Trelles_1911-1915">En la cubierta se lee la fecha de 1857.</note>
                     <ref>https://catalog.hathitrust.org/Record/008620018</ref>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W967" xml:id="E1357">
@@ -15194,7 +15239,7 @@
                 </biblStruct>
                 <biblStruct corresp="works.xml#W1008" xml:id="E1429">
                     <monogr>
-                        <author key="A386">Bacardi Moreau, Emilio</author>
+                        <author key="A386">Bacardí Moreau, Emilio</author>
                         <title level="m" type="main">Vía Crucis</title>
                         <title level="m" type="sub">Primera parte: Páginas de ayer</title>
                         <imprint>
@@ -15308,7 +15353,7 @@
                         </imprint>
                         <extent n="237">en 8° M, 237 pp. y 4 láminas</extent>
                     </monogr>
-                    <note resp="#Trelles">Es una edición muy corregida.</note>
+                    <note resp="#Trelles_1911-1915">Es una edición muy corregida.</note>
                     <ref>https://books.google.de/books?id=pjE_AAAAYAAJ</ref>
                     <ref>https://catalog.hathitrust.org/Record/011638496</ref>
                     <ref>https://catalog.hathitrust.org/Record/008676791</ref>
@@ -15715,7 +15760,7 @@
                             <date when="1890">1890</date>
                         </imprint>
                     </monogr>
-                    <note resp="#ELEM">fue publicada por entregas en 1890</note>
+                    <note resp="#ELEM_2016">fue publicada por entregas en 1890</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W1063" xml:id="E1490">
                     <monogr>
@@ -15728,7 +15773,7 @@
                         </imprint>
                         <extent n="358">En 4°, de VIII, 358 pp.</extent>
                     </monogr>
-                    <note resp="#TorresRioseco">(Con un prólogo de D. Francisco Sosa.)</note>
+                    <note resp="#Torres-Rioseco_1933">(Con un prólogo de D. Francisco Sosa.)</note>
                     <ref>http://132.248.9.32:8080/fondoantiguo2/1481887-656194/JPEG/Index.html</ref>
                     <ref>https://clasicos.librosmexico.mx/sites/default/files/pdf_libros/17920-2-95439.pdf</ref>
                 </biblStruct>
@@ -15821,7 +15866,7 @@
                         <title level="s" type="main">Biblioteca de Autores Mexicanos</title>
                         <biblScope unit="volume">47</biblScope>
                     </series>
-                    <note resp="#TorresRioseco">(Subscrita en Jalapa, noviembre, 1902.)</note>
+                    <note resp="#Torres-Rioseco_1933">(Subscrita en Jalapa, noviembre, 1902.)</note>
                     <ref>http://www.cervantesvirtual.com/obra/obras-de-don-rafael-delgado-los-parientes-ricos/</ref>
                     <ref>https://archive.org/details/obrasdelg00delg</ref>
                     <ref>https://archive.org/details/3676983_2</ref>
@@ -15996,7 +16041,7 @@
                         <title level="s" type="main">Biblioteca de Autores Mexicanos</title>
                         <biblScope unit="volume">43</biblScope>
                     </series>
-                    <note resp="#TorresRioseco">(Precedida de una biografía del mismo por D.
+                    <note resp="#Torres-Rioseco_1933">(Precedida de una biografía del mismo por D.
                         Alejandro Villaseñor y Villaseñor.)</note>
                     <ref>http://www.cervantesvirtual.com/obra/gil-gomez-el-insurgente-novela-historica--0/</ref>
                 </biblStruct>
@@ -16104,7 +16149,8 @@
                         </imprint>
                         <extent n="61">En 4°, de 61 pp.</extent>
                     </monogr>
-                    <note resp="#TorresRioseco">(Subscrita en Tacubaya, 1° de julio, 1903.)</note>
+                    <note resp="#Torres-Rioseco_1933">(Subscrita en Tacubaya, 1° de julio,
+                        1903.)</note>
                     <ref>https://catalog.hathitrust.org/Record/101402647</ref>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W1075" xml:id="E1511">
@@ -16128,7 +16174,7 @@
                         <biblScope unit="volume">67</biblScope>
                     </series>
                     <ref>https://archive.org/details/obrasdeldrmanuel00domi</ref>
-                    <note resp="#TorresRioseco">(Precedida de una biografía anónima del
+                    <note resp="#Torres-Rioseco_1933">(Precedida de una biografía anónima del
                         mismo.)</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W1076" xml:id="E1512">
@@ -16153,7 +16199,7 @@
                         <biblScope unit="volume">67</biblScope>
                     </series>
                     <ref>https://archive.org/details/obrasdeldrmanuel00domi</ref>
-                    <note resp="#TorresRioseco">(Precedida de una biografía anónima del
+                    <note resp="#Torres-Rioseco_1933">(Precedida de una biografía anónima del
                         mismo.)</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W1077" xml:id="E1513">
@@ -16177,7 +16223,7 @@
                         <biblScope unit="volume">67</biblScope>
                     </series>
                     <ref>https://archive.org/details/obrasdeldrmanuel00domi</ref>
-                    <note resp="#TorresRioseco">(Precedida de una biografía anónima del
+                    <note resp="#Torres-Rioseco_1933">(Precedida de una biografía anónima del
                         mismo.)</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W1079" xml:id="E1516">
@@ -16277,12 +16323,12 @@
                         </imprint>
                         <extent n="102">En 4°, de (6), 102 pp.</extent>
                     </monogr>
-                    <note resp="#Iguiniz">Subscripta en 1903.</note>
+                    <note resp="#Iguiniz_1926">Subscripta en 1903.</note>
                     <ref>https://archive.org/details/lacunadepiedra00castgoog</ref>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W1096" xml:id="E1534">
                     <monogr>
-                        <author key="A422">Castera, Pedro</author>
+                        <author key="A422">Castera Cortés, Pedro</author>
                         <title type="main" level="m">Carmen</title>
                         <title type="sub" level="m">(Memorias de un Corazón)</title>
                         <edition>Edición de "La República."</edition>
@@ -16293,13 +16339,13 @@
                         </imprint>
                         <extent n="411">En 8°, de (4), 411, 41 pp.</extent>
                     </monogr>
-                    <note resp="#Iguiniz">Le precede un prólogo del Gral. Vicente Riva Palacio, y
-                        lleva un apéndice con juicios críticos de D. Juan de Dios Peza, D. Joaquín
+                    <note resp="#Iguiniz_1926">Le precede un prólogo del Gral. Vicente Riva Palacio,
+                        y lleva un apéndice con juicios críticos de D. Juan de Dios Peza, D. Joaquín
                         Trejo, D. Juan Cordero R. y D. M. Lizarrturri.</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W1096" xml:id="E1535">
                     <monogr>
-                        <author key="A422">Castera, Pedro</author>
+                        <author key="A422">Castera Cortés, Pedro</author>
                         <title type="main" level="m">Carmen</title>
                         <title type="sub" level="m">(Memorias de un Corazón)</title>
                         <imprint>
@@ -16312,7 +16358,7 @@
                 </biblStruct>
                 <biblStruct corresp="works.xml#W1096" xml:id="E1536">
                     <monogr>
-                        <author key="A422">Castera, Pedro</author>
+                        <author key="A422">Castera Cortés, Pedro</author>
                         <title type="main" level="m">Carmen</title>
                         <title type="sub" level="m">(Memorias de un Corazón)</title>
                         <imprint>
@@ -16327,7 +16373,7 @@
                 </biblStruct>
                 <biblStruct corresp="works.xml#W1096" xml:id="E1537">
                     <monogr>
-                        <author key="A422">Castera, Pedro</author>
+                        <author key="A422">Castera Cortés, Pedro</author>
                         <title type="main" level="m">Carmen</title>
                         <title type="sub" level="m">(Memorias de un Corazón)</title>
                         <imprint>
@@ -16337,12 +16383,12 @@
                         </imprint>
                         <extent n="262">En 8°, de VI, 262 pp.</extent>
                     </monogr>
-                    <note resp="#Iguiniz">Edición clandestina, impresa en Guadalajara (Jal.), en la
-                        Imprenta de D. Tomás Ramírez.</note>
+                    <note resp="#Iguiniz_1926">Edición clandestina, impresa en Guadalajara (Jal.),
+                        en la Imprenta de D. Tomás Ramírez.</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W1096" xml:id="E1538">
                     <monogr>
-                        <author key="A422">Castera, Pedro</author>
+                        <author key="A422">Castera Cortés, Pedro</author>
                         <title type="main" level="m">Carmen</title>
                         <title type="sub" level="m">(Memorias de un Corazón)</title>
                         <edition>Tercera edición</edition>
@@ -16359,7 +16405,7 @@
                 </biblStruct>
                 <biblStruct corresp="works.xml#W1097" xml:id="E1539">
                     <monogr>
-                        <author key="A422">Castera, Pedro</author>
+                        <author key="A422">Castera Cortés, Pedro</author>
                         <title type="main" level="m">Los Maduros</title>
                         <edition>Edición del "La República"</edition>
                         <imprint>
@@ -16373,8 +16419,8 @@
                 </biblStruct>
                 <biblStruct corresp="works.xml#W1098" xml:id="E1540">
                     <monogr>
-                        <author key="A422">Castera, Pedro</author>
-                        <title type="main" level="m">Dramas de un Corazón</title>
+                        <author key="A422">Castera Cortés, Pedro</author>
+                        <title type="main" level="m">Dramas en un Corazón</title>
                         <imprint>
                             <publisher>Tipografía de E. Dublán y Compañía</publisher>
                             <pubPlace corresp="countries.xml#MX">México</pubPlace>
@@ -16388,7 +16434,7 @@
                 </biblStruct>
                 <biblStruct corresp="works.xml#W1099" xml:id="E1541">
                     <monogr>
-                        <author key="A422">Castera, Pedro</author>
+                        <author key="A422">Castera Cortés, Pedro</author>
                         <title type="main" level="m">Querens</title>
                         <title type="sub" level="m">Novela original de Pedro Castera</title>
                         <imprint>
@@ -16434,7 +16480,7 @@
                         </imprint>
                         <extent n="449">En 4°, de XXXVII, 449 pp.</extent>
                     </monogr>
-                    <note resp="#Iguiniz">El autor de la biografía preliminar, cuya iniciales
+                    <note resp="#Iguiniz_1926">El autor de la biografía preliminar, cuya iniciales
                         aparecen en la portada, es D. Luis G. Ortiz.</note>
                     <ref>http://cd.dgb.uanl.mx/handle/201504211/9734</ref>
                     <ref>http://132.248.9.32:8080/fondoantiguo2/1481791-16213/JPEG/Index.html</ref>
@@ -16459,8 +16505,8 @@
                         <title level="s" type="main">Biblioteca de Autores Mexicanos</title>
                         <biblScope unit="volume">44</biblScope>
                     </series>
-                    <note resp="#Iguiniz">Precedidas de una biografía del mismo por D. Alejandro
-                        Villaseñor y Villaseñor.</note>
+                    <note resp="#Iguiniz_1926">Precedidas de una biografía del mismo por D.
+                        Alejandro Villaseñor y Villaseñor.</note>
                     <ref>http://www.cervantesvirtual.com/obra/obras-de-don-florencio-m-del-castillo-novelas-cortas/</ref>
                     <ref>http://cd.dgb.uanl.mx/handle/201504211/14794</ref>
                 </biblStruct>
@@ -16538,7 +16584,7 @@
                         <extent n="518">En 8°, de XXIII, 518 pp. mas el retrato del autor, y
                             precedida de la bibliografía del mismo</extent>
                     </monogr>
-                    <note resp="#Iguiniz">Contiene <seg rend="italic">La Siega</seg> y <seg
+                    <note resp="#Iguiniz_1926">Contiene <seg rend="italic">La Siega</seg> y <seg
                             rend="italic">El hombre nuevo</seg>.</note>
                     <ref>https://archive.org/details/obrasceni01ceni</ref>
                 </biblStruct>
@@ -16572,7 +16618,7 @@
                         <extent n="518">En 8°, de XXIII, 518 pp. mas el retrato del autor, y
                             precedida de la bibliografía del mismo</extent>
                     </monogr>
-                    <note resp="#Iguiniz">Contiene <seg rend="italic">La Siega</seg> y <seg
+                    <note resp="#Iguiniz_1926">Contiene <seg rend="italic">La Siega</seg> y <seg
                             rend="italic">El hombre nuevo</seg>.</note>
                     <ref>https://archive.org/details/obrasceni01ceni</ref>
                 </biblStruct>
@@ -16590,7 +16636,7 @@
                         </imprint>
                         <extent n="494">En 8°, de 494 pp. más una lámina</extent>
                     </monogr>
-                    <note resp="#Iguiniz">El resto de la obra no ha sido publicado.</note>
+                    <note resp="#Iguiniz_1926">El resto de la obra no ha sido publicado.</note>
                     <ref>https://catalog.hathitrust.org/Record/100104637</ref>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W1124" xml:id="E1590">
@@ -16649,6 +16695,7 @@
                         <title level="s" type="sub">Segunda Época</title>
                         <biblScope unit="volume">T. II-III</biblScope>
                     </series>
+                    <ref>https://cd.dgb.uanl.mx/handle/201504211/14769</ref>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W1126" xml:id="E1593">
                     <monogr>
@@ -16765,7 +16812,8 @@
                     </monogr>
                     <series>
                         <title level="s" type="main">La Linterna Mágica</title>
-                        <title level="s" type="sub">Colección de novelas de costumbres mexicanas, artículos y poesías</title>
+                        <title level="s" type="sub">Colección de novelas de costumbres mexicanas,
+                            artículos y poesías</title>
                         <title level="s" type="sub">Segunda Época</title>
                         <biblScope unit="volume">T. XIV</biblScope>
                     </series>
@@ -16926,7 +16974,7 @@
                             <publisher>Imp. El Atlántico</publisher>
                             <pubPlace corresp="countries.xml#ES">Santander</pubPlace>
                             <date when="1890">1890</date>
-                            <biblScope unit="page" n="">p. </biblScope>
+                            <biblScope unit="page" n="180">p. 7-187</biblScope>
                         </imprint>
                         <extent n="187">1 vol. en 8°, de 187 pp.</extent>
                     </monogr>
@@ -16966,7 +17014,8 @@
                         </imprint>
                         <extent n="178">En 8°, de 178 pp.</extent>
                     </monogr>
-                    <note resp="#TorresRioseco">Con prólogo de D. Francisco Gómez Flores</note>
+                    <note resp="#Torres-Rioseco_1933">Con prólogo de D. Francisco Gómez
+                        Flores</note>
                     <ref>http://132.248.9.32:8080/fondoantiguo2/1481883-656158/JPEG/Index.html</ref>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W1140" xml:id="E1618">
@@ -17004,7 +17053,7 @@
                         </imprint>
                         <extent n="256">En 4°, de 256 pp.</extent>
                     </monogr>
-                    <note resp="#Iguiniz">Subscrito en México, en 1874.</note>
+                    <note resp="#Iguiniz_1926">Subscrito en México, en 1874.</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W1144" xml:id="E1626">
                     <monogr>
@@ -17046,7 +17095,7 @@
                         </imprint>
                         <extent n="88">En 8°, de 88 pp.</extent>
                     </monogr>
-                    <note resp="#Iguiniz">Subscrita en México, en 1875.</note>
+                    <note resp="#Iguiniz_1926">Subscrita en México, en 1875.</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W1147" xml:id="E1629">
                     <monogr>
@@ -17120,7 +17169,7 @@
                         </imprint>
                         <extent n="347">En 8°, de (4), 347 pp.</extent>
                     </monogr>
-                    <note resp="#Iguiniz">Subscrita en París, a 16 de julio de 1909.</note>
+                    <note resp="#Iguiniz_1926">Subscrita en París, a 16 de julio de 1909.</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W1165" xml:id="E1648">
                     <monogr>
@@ -17133,8 +17182,8 @@
                         </imprint>
                         <extent n="182">En 8°, de 182 pp.</extent>
                     </monogr>
-                    <note resp="#Iguiniz">Subscrita en Barcelona, a 26 de agosto de 1909. Seguida de
-                        Sangre y fuego.</note>
+                    <note resp="#Iguiniz_1926">Subscrita en Barcelona, a 26 de agosto de 1909.
+                        Seguida de Sangre y fuego.</note>
                     <note>Signatura IAI: Span xu 3509 [8]°</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W1166" xml:id="E1649">
@@ -17152,7 +17201,7 @@
                         </imprint>
                         <extent n="703">2 v. en 4°, de (6), 2, IV, 387 y 316 pp.</extent>
                     </monogr>
-                    <note resp="#Iguiniz">Precedida de una introducción de D. Rafael Miranda
+                    <note resp="#Iguiniz_1926">Precedida de una introducción de D. Rafael Miranda
                         Villela, y subscrita en México, a 24 de junio de 1872.</note>
                     <ref>https://archive.org/details/3668693</ref>
                     <ref>https://catalog.hathitrust.org/Record/100194347</ref>
@@ -17284,7 +17333,7 @@
                         </imprint>
                         <extent n="441">En 4°, de 441 (4) pp.</extent>
                     </monogr>
-                    <note resp="#Iguiniz">Contiene, además, Julia, La Navidad en las montañas y
+                    <note resp="#Iguiniz_1926">Contiene, además, Julia, La Navidad en las montañas y
                         Clemencia, y forman el tomo primero de las obras completas del autor.</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W1177" xml:id="E1663">
@@ -17303,7 +17352,7 @@
                         </imprint>
                         <extent n="441">En 4°, de 441 (4) pp.</extent>
                     </monogr>
-                    <note resp="#Iguiniz">Contiene, además, Julia, La Navidad en las montañas y
+                    <note resp="#Iguiniz_1926">Contiene, además, Julia, La Navidad en las montañas y
                         Clemencia, y forman el tomo primero de las obras completas del autor.</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W1177" xml:id="E1664">
@@ -17346,8 +17395,8 @@
                         </imprint>
                         <extent n="260">En 4°, de (260) pp.</extent>
                     </monogr>
-                    <note resp="#Iguiniz">Ocupa los folios 185-445 del tomo primero de las obras
-                        completas del autor, registradas bajo el número 1.</note>
+                    <note resp="#Iguiniz_1926">Ocupa los folios 185-445 del tomo primero de las
+                        obras completas del autor, registradas bajo el número 1.</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W1177" xml:id="E1667">
                     <monogr>
@@ -17366,7 +17415,7 @@
                         </imprint>
                         <extent n="268">En 8°, de 268 pp., con láminas.</extent>
                     </monogr>
-                    <note resp="#Iguiniz">Termina con las Rimas del mismo autor.</note>
+                    <note resp="#Iguiniz_1926">Termina con las Rimas del mismo autor.</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W1177" xml:id="E1668">
                     <monogr>
@@ -17393,7 +17442,7 @@
                             <date>desconocido</date>
                         </imprint>
                     </monogr>
-                    <note resp="#Iguiniz">Mencionada por Altamirano en la sexta edición de
+                    <note resp="#Iguiniz_1926">Mencionada por Altamirano en la sexta edición de
                         Clemencia.</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W1178" xml:id="E1670">
@@ -17412,7 +17461,7 @@
                         </imprint>
                         <extent n="441">En 4°, de 441 (4) pp.</extent>
                     </monogr>
-                    <note resp="#Iguiniz">Contiene, además, Julia, La Navidad en las montañas y
+                    <note resp="#Iguiniz_1926">Contiene, además, Julia, La Navidad en las montañas y
                         Clemencia, y forman el tomo primero de las obras completas del autor.</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W1178" xml:id="E1671">
@@ -17486,7 +17535,7 @@
                         </imprint>
                         <extent n="128">En 4°, de 128 pp.</extent>
                     </monogr>
-                    <note resp="Iguiniz_1926">Forma el tomo II de las obras completas del
+                    <note resp="#Iguiniz_1926">Forma el tomo II de las obras completas del
                         autor.</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W1181" xml:id="E1679">
@@ -17775,7 +17824,7 @@
                         </imprint>
                         <extent n="252">En 4°, de 252 pp.</extent>
                     </monogr>
-                    <note resp="#Iguiniz">Subscrita en Lagos, en julio de 1908.</note>
+                    <note resp="#Iguiniz_1926">Subscrita en Lagos, en julio de 1908.</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W1215" xml:id="E1715">
                     <monogr>
@@ -17860,6 +17909,7 @@
                         <biblScope unit="volume">Vol. I</biblScope>
                     </series>
                     <ref>http://www.cervantesvirtual.com/obra/libro-extrano-tomo-i--0/</ref>
+                    <ref>https://commons.wikimedia.org/wiki/File:Libro_extra%C3%B1o_I_-_Francisco_A._Sicardi.pdf</ref>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W1224" xml:id="E1724">
                     <monogr>
@@ -18229,8 +18279,8 @@
                     <monogr>
                         <author key="A478">Varela, Luis Vicente</author>
                         <title level="m" type="main">Clemencia</title>
-                        <title level="m" type="sub">Continuación de <seg rend="italic">La
-                                huella del crimen</seg>
+                        <title level="m" type="sub">Continuación de <seg rend="italic">La huella del
+                                crimen</seg>
                             <title level="m" type="sub">Novela Jurídica Original</title>
                         </title>
                         <imprint>
@@ -18370,7 +18420,7 @@
                         </imprint>
                         <extent n="334">334 pp.</extent>
                     </monogr>
-                    <note resp="#uh">Según Lichtblau, publicada anteriormente en el folletín de La
+                    <note resp="#uhk">Según Lichtblau, publicada anteriormente en el folletín de La
                         Prensa en 1886, pero inconclusa.</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W1267" xml:id="E1776">
@@ -18521,7 +18571,7 @@
                         </imprint>
                         <extent n="184">En 8°, 184 ps.</extent>
                     </monogr>
-                    <note resp="#Trelles">Anuncio en El Noticioso de 23 de Febrero.
+                    <note resp="#Trelles_1911-1915">Anuncio en El Noticioso de 23 de Febrero.
                             <bibl>Bibliografía, Tomo III, pp. 33.</bibl></note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W1297" xml:id="E1850">
@@ -18547,7 +18597,8 @@
                         <title type="main" level="j">El Estímulo</title>
                         <imprint>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
-                            <date from="1858-02-17" to="1858-06-09">17 de febrero a 9 de junio de 1858</date>
+                            <date from="1858-02-17" to="1858-06-09">17 de febrero a 9 de junio de
+                                1858</date>
                         </imprint>
                         <extent n="147">147 pp.</extent>
                     </monogr>

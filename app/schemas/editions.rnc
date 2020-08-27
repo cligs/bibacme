@@ -98,7 +98,6 @@ author =
 note =
   element note {
     attribute resp { text }?,
-    attribute source { text }?,
     (text
      | ref
      | seg

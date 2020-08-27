@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<labels xmlns:cligs="https://cligs.hypotheses.org/ns/cligs">
+                  <labels group="summary.implicit">
+                                    <label>Bildungsroman</label>
+                                    <label>Künstlerroman</label>
+                                    <label>crónica</label>
+                                    <label>memorias</label>
+                                    <label>novela de viajes</label>
+                                    <label>novela modernista</label>
+                                    <label>novela psicológica</label>
+                                    <label>novela satírica</label>
+                                    <label>novela abolicionista</label>
+                                    <label>novela científica</label>
+                                    <label>novela clasicista</label>
+                                    <label>novela criminal</label>
+                                    <label>novela de aventuras</label>
+                                    <label>novela de costumbres</label>
+                                    <label>novela de familia</label>
+                                    <label>novela de la ciudad</label>
+                                    <label>novela de misterio</label>
+                                    <label>novela didáctica</label>
+                                    <label>novela documentaria</label>
+                                    <label>novela epistolar</label>
+                                    <label>novela fantástica</label>
+                                    <label>novela gauchesca</label>
+                                    <label>novela histórica</label>
+                                    <label>novela indigenista</label>
+                                    <label>novela moralista</label>
+                                    <label>novela naturalista</label>
+                                    <label>novela picaresca</label>
+                                    <label>novela política</label>
+                                    <label>novela realista</label>
+                                    <label>novela regional</label>
+                                    <label>novela romántica</label>
+                                    <label>novela sentimental</label>
+                                    <label>novela social</label>
+                                    <label>novela verista</label>
+                  </labels>
+</labels>
