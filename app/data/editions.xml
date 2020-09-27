@@ -7033,7 +7033,7 @@
                         <imprint>
                             <publisher>N. Tommasi</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
-                            <date>desconocido</date>
+                            <date when="1888" cert="low">1888</date>
                         </imprint>
                         <extent n="272">272 pp.</extent>
                     </monogr>
@@ -7044,6 +7044,10 @@
                             <seg rend="italic">La Mazorca</seg>." </note>
                     <ref>https://catalog.hathitrust.org/Record/008383486</ref>
                     <ref>https://catalog.hathitrust.org/Record/008958310</ref>
+                    <note resp="#uhk">The year of publication is an estimation. Lichtblau 1997
+                        reports an edition edited by N. Tommasi without a year. The preceding and
+                        following parts of Dramas del terror (La Mazorca and El puñal del tirano)
+                        were also published in 1888.</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W438" xml:id="E1791">
                     <monogr>
@@ -8356,12 +8360,14 @@
                         <imprint>
                             <publisher>Imprenta de mayo</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
-                            <date when="1854">1854</date>
+                            <date>desconocido</date>
                         </imprint>
                         <extent n="703">703 pp.</extent>
                     </monogr>
                     <ref>https://catalog.hathitrust.org/Record/007393229</ref>
                     <ref>https://catalog.hathitrust.org/Record/100320879</ref>
+                    <note resp="#uhk">The preface is dated 1854, but the date of the edition itself
+                        is not indicated on the title page.</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W493" xml:id="E699">
                     <monogr>
@@ -10452,7 +10458,7 @@
                             <publisher>Imprenta, Litografía y Encuadernación de Ireneo
                                 Paz</publisher>
                             <pubPlace corresp="countries.xml#MX">México</pubPlace>
-                            <date when="1902">1902</date>
+                            <date from="1902" to="1904">1902-1904</date>
                         </imprint>
                         <extent n="789">2 v. en 4°, de 466, (4) y 323, (4) pp. con láminas</extent>
                     </monogr>
@@ -14952,13 +14958,13 @@
                         <imprint>
                             <publisher>Imprenta de L. Tasso</publisher>
                             <pubPlace corresp="countries.xml#ES">Barcelona</pubPlace>
-                            <date from="1885" to="1886">1885-1886</date>
+                            <date when="1885">1885</date>
                         </imprint>
                         <extent>2 volúmenes: 212 pp.; ?</extent>
                     </monogr>
                     <ref>https://archive.org/details/irenealbarnovel00guitgoog</ref>
                     <ref>https://catalog.hathitrust.org/Record/100329667</ref>
-                    <!-- in beiden Fällen nur Tomo primero -->
+                    <!-- in beiden Fällen nur Tomo primero, der zweite dann wohl 1886 -->
                 </biblStruct>
                 <biblStruct corresp="works.xml#W984" xml:id="E1395">
                     <monogr>
@@ -15486,7 +15492,7 @@
                         <imprint>
                             <publisher>Imprenta del Gobierno por S.M.</publisher>
                             <pubPlace corresp="countries.xml#CU">La Habana</pubPlace>
-                            <date from="1843" to="1844">1843-1844</date>
+                            <date when="1843">1843</date>
                         </imprint>
                         <biblScope unit="volume">T. 1</biblScope>
                         <biblScope unit="page" n="161">p. 5-166</biblScope>
@@ -15503,7 +15509,7 @@
                         <imprint>
                             <publisher>Imprenta del Gobierno por S.M.</publisher>
                             <pubPlace corresp="countries.xml#CU">La Habana</pubPlace>
-                            <date from="1843" to="1844">1843-1844</date>
+                            <date when="1844">1844</date>
                         </imprint>
                         <biblScope unit="volume">T. 2</biblScope>
                         <biblScope unit="page" n="226">p. 5-231</biblScope>
@@ -16072,7 +16078,7 @@
                         <title type="main" level="j">El Diario de Avisos</title>
                         <imprint>
                             <pubPlace corresp="countries.xml#MX">México</pubPlace>
-                            <date when="1860">1858</date>
+                            <date when="1858">1858</date>
                         </imprint>
                     </monogr>
                 </biblStruct>
@@ -16845,7 +16851,7 @@
                         <imprint>
                             <publisher>Ignacio Cumplido</publisher>
                             <pubPlace corresp="countries.xml#MX">México</pubPlace>
-                            <date when="1871">1872</date>
+                            <date when="1872">1872</date>
                         </imprint>
                         <extent n="711">2 tomos, de 353 y 358 pp.</extent>
                     </monogr>
@@ -16887,7 +16893,7 @@
                         <imprint>
                             <publisher>Imprenta de la Bohemia Literaria</publisher>
                             <pubPlace corresp="countries.xml#MX">México</pubPlace>
-                            <date when="1871">1872</date>
+                            <date when="1872">1872</date>
                         </imprint>
                     </monogr>
                     <series>
