@@ -535,7 +535,7 @@
                         <placeName>España</placeName>
                     </birth>
                     <death>
-                        <date when="1927">1827</date>
+                        <date when="1927">1927</date>
                         <placeName>Buenos Aires</placeName>
                         <placeName>Argentina</placeName>
                     </death>
@@ -2522,6 +2522,7 @@
                         <date when="1799-12-26">26 de diciembre de 1799</date>
                         <placeName>Santiago de los Caballeros</placeName>
                         <placeName>Santo Domingo</placeName>
+                        <placeName>República Dominicana</placeName>
                     </birth>
                     <death>
                         <date when="1879">1879</date>
@@ -3046,7 +3047,7 @@
                         <forename>Pedro S.</forename>
                     </persName>
                     <birth>
-                        <date when="1874">1847</date>
+                        <date when="1846">1846</date>
                         <placeName>Uruguay</placeName>
                     </birth>
                     <death>
@@ -3535,6 +3536,7 @@
                     <death>
                         <date when="1962-03-28">28 de marzo de 1962</date>
                         <placeName>Buenos Aires</placeName>
+                        <placeName>Argentina</placeName>
                     </death>
                     <sex>masculino</sex>
                     <nationality>argentina/o</nationality>
@@ -3756,7 +3758,7 @@
                         <forename>Carlos María</forename>
                     </persName>
                     <birth>
-                        <date when="1860">1860</date>
+                        <date when="1860-05-20">20 de mayo de 1860</date>
                         <placeName>Buenos Aires</placeName>
                         <placeName>Argentina</placeName>
                     </birth>
@@ -4096,6 +4098,7 @@
                         <date when="1867">1867</date>
                         <placeName>Mazatlán</placeName>
                         <placeName>Sinaloa</placeName>
+                        <placeName>México</placeName>
                     </birth>
                     <death>
                         <date when="1915">1915</date>
@@ -4436,7 +4439,7 @@
                         <placeName>México</placeName>
                     </birth>
                     <death>
-                        <date when="1951">1951</date>
+                        <date when="1851">1851</date>
                         <placeName>Ciudad de México</placeName>
                         <placeName>México</placeName>
                     </death>
@@ -6122,7 +6125,7 @@
                         <placeName>Cuba</placeName>
                     </birth>
                     <death>
-                        <date when="1859">1859</date>
+                        <date when="1959">1959</date>
                         <placeName>desconocido</placeName>
                     </death>
                     <sex>masculino</sex>
@@ -6521,12 +6524,12 @@
                     <birth>
                         <date when="1822-05-03">3 de mayo de 1822</date>
                         <placeName>Santo Domingo</placeName>
-                        <placeName>Repúblicana Dominicana</placeName>
+                        <placeName>República Dominicana</placeName>
                     </birth>
                     <death>
                         <date when="1906-01-17">17 de enero de 1906</date>
                         <placeName>Santo Domingo</placeName>
-                        <placeName>Repúblicana Dominicana</placeName>
+                        <placeName>República Dominicana</placeName>
                     </death>
                     <sex>masculino</sex>
                     <nationality>dominicana/o</nationality>
@@ -6951,6 +6954,7 @@
                     <death>
                         <date when="1894-05-21">21 de mayo de 1894</date>
                         <placeName>Ciudad de México</placeName>
+                        <placeName>México</placeName>
                     </death>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
@@ -6968,10 +6972,12 @@
                     <birth>
                         <date when="1868-07-09">9 de julio de 1868</date>
                         <placeName>Ciudad de México</placeName>
+                        <placeName>México</placeName>
                     </birth>
                     <death>
                         <date when="1908-02-08">8 de febrero 1908</date>
                         <placeName>Ciudad de México</placeName>
+                        <placeName>México</placeName>
                     </death>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
@@ -6988,10 +6994,12 @@
                     <birth>
                         <date when="1876-04-25">25 de abril de 1876</date>
                         <placeName>Guanajuato</placeName>
+                        <placeName>México</placeName>
                     </birth>
                     <death>
                         <date when="1945">1945</date>
                         <placeName>Ciudad de México</placeName>
+                        <placeName>México</placeName>
                     </death>
                     <sex>masculino</sex>
                     <nationality>mexicana/o</nationality>
@@ -7638,7 +7646,7 @@
                         <forename>Francisco A.</forename>
                     </persName>
                     <birth>
-                        <date when="1856-04-21">21 de abril de 1865</date>
+                        <date when="1856-04-21">21 de abril de 1856</date>
                         <placeName>Buenos Aires</placeName>
                         <placeName>Argentina</placeName>
                     </birth>
@@ -7703,7 +7711,7 @@
                         <forename>Guillelmo</forename>
                     </persName>
                     <birth>
-                        <date when="1896">1896</date>
+                        <date when="1869">1869</date>
                         <placeName>desconocido</placeName>
                     </birth>
                     <death>

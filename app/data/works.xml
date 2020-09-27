@@ -3231,13 +3231,10 @@
                <term type="subgenre.title.explicit.norm" resp="#uhk">confesiones</term>
                <term type="subgenre.title.implicit" resp="#uhk">Künstlerroman</term>
                <term type="subgenre.litHist" resp="#Mata_1999">segundo romanticismo</term>
-               <term type="subgenre.litHist" resp="#Fernandez-Arias-Campoamor_1952"
-                  >Modernismo</term>
                <note type="subgenre.litHist" resp="#Mata_1999">[...] gana el amor de la veleidosa
                   Emilia, quien lo había rechazado cuando era un don nadie, en tanto que Luisa, la
                   novia que siempre lo amó, muere sola y abandonada</note>
                <term type="subgenre.litHist.interp" resp="#uhk">novela romántica</term>
-               <term type="subgenre.litHist.interp" resp="#uhk">novela modernista</term>
                <term type="subgenre.litHist.interp" resp="#uhk">novela sentimental</term>
                <term type="subgenre.summary.signal.explicit" resp="#uhk">confesiones</term>
                <term type="subgenre.summary.signal.implicit" resp="#uhk">Künstlerroman</term>
@@ -3245,8 +3242,6 @@
                <term type="subgenre.summary.theme.implicit" resp="#uhk" cligs:importance="2"
                   >Künstlerroman</term>
                <term type="subgenre.summary.theme.litHist" resp="#uhk">novela sentimental</term>
-               <term type="subgenre.summary.current.litHist" resp="#uhk" cligs:importance="2">novela
-                  modernista</term>
                <term type="subgenre.summary.current.litHist" resp="#uhk">novela romántica</term>
                <term type="subgenre.summary.mode.representation.explicit" resp="#uhk"
                   >confesiones</term>
@@ -14195,6 +14190,8 @@
                <term type="subgenre.title.implicit" resp="#uhk">novela sentimental</term>
                <term type="subgenre.title.implicit" resp="#uhk">novela romántica</term>
                <term type="subgenre.litHist" resp="#Fernandez-Arias-Campoamor_1952">Realismo</term>
+               <term type="subgenre.litHist" resp="#Brushwood_1966">Romantic sentimentality</term>
+               <term type="subgenre.litHist" resp="#Cortes_1992">Romantic sentimentality</term>
                <term type="subgenre.litHist.interp" resp="#uhk">novela sentimental</term>
                <term type="subgenre.litHist.interp" resp="#uhk">novela realista</term>
                <term type="subgenre.litHist.interp" resp="#uhk">novela romántica</term>

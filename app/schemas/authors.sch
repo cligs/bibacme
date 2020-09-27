@@ -16,6 +16,12 @@
         <sch:rule context="tei:country">
             <sch:assert test=". = ('Argentina', 'Cuba', 'México', 'desconocido')">The country should be one of "Argentina", "Cuba", "México", "desconocido".</sch:assert>
         </sch:rule>
+        <sch:rule context="tei:birth[tei:date/@when]">
+            <sch:assert test="tei:date/substring(@when,1,4) = tokenize(tei:date, '\s')[last()]">The birth year in @when does not correspond to the element content.</sch:assert>
+        </sch:rule>
+        <sch:rule context="tei:death[tei:date/@when]">
+            <sch:assert test="tei:date/substring(@when,1,4) = tokenize(tei:date, '\s')[last()]">The death year in @when does not correspond to the element content.</sch:assert>
+        </sch:rule>
         <sch:rule context="@xml:id">
             <sch:let name="author-id" value="."/>
             <sch:report test="preceding::tei:person[@xml:id = $author-id]">This author id has already been defined.</sch:report>

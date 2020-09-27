@@ -612,7 +612,8 @@
                             Idea</title>
                         <imprint>
                             <publisher>Tipografía de F. Ghigliazza</publisher>
-                            <pubPlace corresp="countries.xml#MX">San Juan Bautista</pubPlace>
+                            <pubPlace corresp="countries.xml#MX">San Juan Bautista,
+                                Tabasco</pubPlace>
                             <date when="1885">1885</date>
                         </imprint>
                         <extent n="234">En 8°, 234 pp.</extent>
@@ -629,7 +630,8 @@
                         <edition>Segunda edición</edition>
                         <imprint>
                             <publisher>La Universidad</publisher>
-                            <pubPlace corresp="countries.xml#MX">San Juan Bautista</pubPlace>
+                            <pubPlace corresp="countries.xml#MX">San Juan Bautista,
+                                Tabasco</pubPlace>
                             <date when="1906">1906</date>
                         </imprint>
                         <extent n="227">227 pp.</extent>
@@ -645,7 +647,7 @@
                         <edition>Segunda edición</edition>
                         <imprint>
                             <publisher>Tip. Lit. de Ramón González</publisher>
-                            <pubPlace corresp="countries.xml#MX">San Juan Baustista,
+                            <pubPlace corresp="countries.xml#MX">San Juan Bautista,
                                 Tabasco</pubPlace>
                             <date when="1906">1906</date>
                         </imprint>
@@ -670,7 +672,7 @@
                         <title type="sub" level="m">Novela orijinal de costumbres cubanas</title>
                         <imprint>
                             <publisher>Imprenta de la Librería del Mercurio</publisher>
-                            <pubPlace corresp="countries.xml#CH">Santiago</pubPlace>
+                            <pubPlace corresp="countries.xml#CH">Santiago de Chile</pubPlace>
                             <date when="1875">1875</date>
                         </imprint>
                         <extent n="182">x, 182 pp.</extent>
@@ -790,7 +792,7 @@
                         <title type="sub" level="m">Novela histórica cubana</title>
                         <imprint>
                             <publisher>Manuel M. Hernández, editor</publisher>
-                            <pubPlace corresp="countries.xml#US">New York</pubPlace>
+                            <pubPlace corresp="countries.xml#US">Nueva York</pubPlace>
                             <date when="1889">1889</date>
                         </imprint>
                         <extent n="142">En 8° M, 142 ps.</extent>
@@ -1288,7 +1290,8 @@
                         <title level="m" type="sub">(Novela histórica argentina)</title>
                         <imprint>
                             <publisher>F. Sempere</publisher>
-                            <pubPlace corresp="countries.xml#ES">Valencia/Madrid</pubPlace>
+                            <pubPlace corresp="countries.xml#ES">Valencia</pubPlace>
+                            <pubPlace corresp="countries.xml#ES">Madrid</pubPlace>
                             <date when="1907">1907</date>
                         </imprint>
                         <extent n="255">255 pp.</extent>
@@ -1805,7 +1808,7 @@
                         <title type="main" level="m">Música sentimental—silbidos de un vago</title>
                         <imprint>
                             <publisher>E. Denné</publisher>
-                            <pubPlace corresp="countries.xml#FR">Paris</pubPlace>
+                            <pubPlace corresp="countries.xml#FR">París</pubPlace>
                             <date when="1884">1884</date>
                         </imprint>
                         <extent n="306">306 pp.</extent>
@@ -2621,7 +2624,8 @@
                         <title level="m" type="sub">Novela por Fulano de Tal</title>
                         <imprint>
                             <publisher>Tipografía Juventud Tabasqueña</publisher>
-                            <pubPlace corresp="countries.xml#MX">San Juan Baustista</pubPlace>
+                            <pubPlace corresp="countries.xml#MX">San Juan Bautista,
+                                Tabasco</pubPlace>
                             <date when="1890">1890</date>
                         </imprint>
                         <extent n="190">190 pp.</extent>
@@ -2716,7 +2720,7 @@
                         <title level="m" type="sub">Novela en forma de cartas</title>
                         <imprint>
                             <publisher>Tipografía de Victoriano Agüeros</publisher>
-                            <pubPlace corresp="countries.xml#MX">Yucatán</pubPlace>
+                            <pubPlace corresp="countries.xml#MX">Mérida</pubPlace>
                             <date when="1841">1841</date>
                         </imprint>
                     </monogr>
@@ -2766,7 +2770,7 @@
                         <imprint>
                             <publisher>F. Díaz de León y S. White</publisher>
                             <pubPlace corresp="countries.xml#MX">México</pubPlace>
-                            <date from="12-1872" to="02-1873">diciembre de 1872 a febrero de
+                            <date from="1872-12" to="1873-02">diciembre de 1872 a febrero de
                                 1873</date>
                         </imprint>
                     </monogr>
@@ -4539,7 +4543,8 @@
                         <title type="sub" level="m">Ilustraciones hechas en los talleres de El
                             Mundo</title>
                         <imprint>
-                            <publisher>Talleres de Tipografía y Fotograbado de "El Mundo."</publisher>
+                            <publisher>Talleres de Tipografía y Fotograbado de "El
+                                Mundo."</publisher>
                             <pubPlace corresp="countries.xml#MX">México</pubPlace>
                             <date when="1900">1900</date>
                         </imprint>
@@ -5673,8 +5678,7 @@
                         <title level="m" type="sub">Novela</title>
                         <imprint>
                             <publisher>Imprenta El Destello</publisher>
-                            <pubPlace corresp="countries.xml#CU">Guanajuay (Pinar del
-                                Rio)</pubPlace>
+                            <pubPlace corresp="countries.xml#CU">Guanajay, Pinar del Río</pubPlace>
                             <date when="1863">1863</date>
                         </imprint>
                     </monogr>
@@ -5686,7 +5690,7 @@
                         <title level="m" type="sub">Novela</title>
                         <imprint>
                             <publisher>Imprenta El Destello</publisher>
-                            <pubPlace corresp="countries.xml#CU">Guanajuay</pubPlace>
+                            <pubPlace corresp="countries.xml#CU">Guanajay, Pinar del Río</pubPlace>
                             <date when="1863">1863</date>
                         </imprint>
                     </monogr>
@@ -5724,8 +5728,8 @@
                             desterrado</title>
                         <imprint>
                             <publisher>Imp. La Protección</publisher>
-                            <pubPlace corresp="countries.xml#CU">San Antonio de los Baños
-                                (Habana)</pubPlace>
+                            <pubPlace corresp="countries.xml#CU">San Antonio de los Baños, La
+                                Habana</pubPlace>
                             <date when="1888">1888</date>
                         </imprint>
                     </monogr>
@@ -5978,7 +5982,8 @@
                         <title level="m" type="sub">(entre indios y milicos)</title>
                         <imprint>
                             <publisher>J. Peuser</publisher>
-                            <pubPlace corresp="countries.xml#AR">Buenos Aires/La Plata</pubPlace>
+                            <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
+                            <pubPlace corresp="countries.xml#AR">La Plata</pubPlace>
                             <date when="1891">1891</date>
                             <biblScope unit="page" n="154">p. 98-252</biblScope>
                         </imprint>
@@ -6537,7 +6542,7 @@
                     <monogr>
                         <title type="main" level="m">La Patria Argentina</title>
                         <imprint>
-                            <pubPlace corresp="countries.xml#AR">La Patria Argentina</pubPlace>
+                            <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
                             <date when="1883">1883</date>
                         </imprint>
                         <biblScope unit="page" n="43">p. 117-160</biblScope>
@@ -8050,7 +8055,7 @@
                         <edition>2a ed.</edition>
                         <imprint>
                             <publisher>Revue "Sud-Americaine"</publisher>
-                            <pubPlace corresp="countries.xml#FR">Paris</pubPlace>
+                            <pubPlace corresp="countries.xml#FR">París</pubPlace>
                             <date when="1885">1885</date>
                         </imprint>
                         <extent n="307">307 pp.</extent>
@@ -8153,7 +8158,7 @@
                         <title level="m" type="sub">(Una vida en tiempos de Felipe Segundo)</title>
                         <imprint>
                             <publisher>Garnier</publisher>
-                            <pubPlace corresp="countries.xml#FR">Paris</pubPlace>
+                            <pubPlace corresp="countries.xml#FR">París</pubPlace>
                             <date when="1910">1910</date>
                         </imprint>
                         <extent n="406">406 pp.</extent>
@@ -8766,7 +8771,7 @@
                         <title type="sub" level="m">(Novela histórica americana)</title>
                         <imprint>
                             <publisher>Garnier</publisher>
-                            <pubPlace corresp="countries.xml#FR">Paris</pubPlace>
+                            <pubPlace corresp="countries.xml#FR">París</pubPlace>
                             <date when="1874">1874</date>
                         </imprint>
                         <extent n="718">Vol. I, 364 pp.; Vol. II, 354 pp.</extent>
@@ -8780,7 +8785,7 @@
                         <edition>reimpresión</edition>
                         <imprint>
                             <publisher>Garnier</publisher>
-                            <pubPlace corresp="countries.xml#FR">Paris</pubPlace>
+                            <pubPlace corresp="countries.xml#FR">París</pubPlace>
                             <date when="1898">1898</date>
                         </imprint>
                         <extent n="718">Vol. I, 364 pp.; Vol. II, 354 pp.</extent>
@@ -8794,7 +8799,7 @@
                         <edition>reimpresión</edition>
                         <imprint>
                             <publisher>Garnier</publisher>
-                            <pubPlace corresp="countries.xml#FR">Paris</pubPlace>
+                            <pubPlace corresp="countries.xml#FR">París</pubPlace>
                             <date when="1901">1901</date>
                         </imprint>
                         <extent n="718">Vol. I, 364 pp.; Vol. II, 354 pp.</extent>
@@ -9309,6 +9314,14 @@
                             <date cert="low" when="1874">1874</date>
                         </imprint>
                     </monogr>
+                    <note resp="#Lichtblau_1997">No he podido ubicar esta novela a la que hace
+                        referencia Hemilce Cárrega en su artículo. "Cuando contaba catorce años,
+                        Ocantos dio los primeros indicios de su vocación literaria, ya que a esa
+                        edad escribió la novela <seg rend="italic">El esclavo</seg>. La aparición de
+                        esta obra coincidió con su primera visita a Francia, adonde habría de volver
+                        en 1881." [Hemilce Cárrega, "Carlos María Ocantos y una olvidada novela
+                        argentina." <seg rend="italic">La Prensa</seg>, Secc. Lit. (17 enero
+                        1965)].</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W550" xml:id="E786">
                     <monogr>
@@ -9421,7 +9434,7 @@
                         <title level="m" type="main">Quilito</title>
                         <imprint>
                             <publisher>Garnier</publisher>
-                            <pubPlace corresp="countries.xml#FR">Paris</pubPlace>
+                            <pubPlace corresp="countries.xml#FR">París</pubPlace>
                             <date when="1891">1891</date>
                         </imprint>
                         <extent n="459">459 pp.</extent>
@@ -9538,7 +9551,7 @@
                         <title level="m" type="sub">(Novela histórica americana)</title>
                         <imprint>
                             <publisher>Garnier</publisher>
-                            <pubPlace corresp="countries.xml#FR">Paris</pubPlace>
+                            <pubPlace corresp="countries.xml#FR">París</pubPlace>
                             <date when="1889">1889</date>
                         </imprint>
                         <extent n="317">317 pp.</extent>
@@ -9599,7 +9612,7 @@
                         <title level="m" type="sub">Novela de costumbres</title>
                         <imprint>
                             <publisher>Garnier</publisher>
-                            <pubPlace corresp="countries.xml#FR">Paris</pubPlace>
+                            <pubPlace corresp="countries.xml#FR">París</pubPlace>
                             <date when="1889">1889</date>
                         </imprint>
                         <extent n="274">274 pp.</extent>
@@ -9753,7 +9766,8 @@
                         <imprint>
                             <publisher>Ed. Juan B. Tielemans y Wenceslao Paniagua; Imprenta El
                                 Porvenir, a cargo de Manuel M. Trujillo</publisher>
-                            <pubPlace corresp="countries.xml#MX">San Cristóbal</pubPlace>
+                            <pubPlace corresp="countries.xml#MX">San Cristóbal de Las
+                                Casas</pubPlace>
                             <date when="1873">1873</date>
                         </imprint>
                         <extent n="512">En 4°, (4), 512 pp.</extent>
@@ -9767,7 +9781,8 @@
                         <imprint>
                             <publisher>Ed. Juan B. Tielemans y Wenceslao Paniagua; Imprenta El
                                 Porvenir, a cargo de Manuel M. Trujillo</publisher>
-                            <pubPlace corresp="countries.xml#MX">San Cristóbal</pubPlace>
+                            <pubPlace corresp="countries.xml#MX">San Cristóbal de Las
+                                Casas</pubPlace>
                             <date when="1870">1870</date>
                         </imprint>
                         <extent n="654">En 4°, 654 pp.</extent>
@@ -10138,7 +10153,7 @@
                         <imprint>
                             <publisher>O. Paz y Cía., ed.; Linotip. y Tip. de C. G. Vincent y
                                 Cía</publisher>
-                            <pubPlace corresp="countries.xml#US">Los Angeles</pubPlace>
+                            <pubPlace corresp="countries.xml#US">Los Ángeles</pubPlace>
                             <date>desconocido</date>
                         </imprint>
                         <extent n="485">2 volúmenes en 4°, 182 y 303 pp., con láminas</extent>
@@ -10572,7 +10587,7 @@
                         <edition>Edición del Dario del Hogar</edition>
                         <imprint>
                             <publisher>Pastor Urcelay, editor</publisher>
-                            <pubPlace corresp="countries.xml#MX">Mérida, Yucatán</pubPlace>
+                            <pubPlace corresp="countries.xml#MX">Mérida</pubPlace>
                             <date when="1887">1887</date>
                         </imprint>
                         <extent n="206">206 pp.</extent>
@@ -10833,7 +10848,7 @@
                         <title level="m" type="main">Perlas y lágrimas</title>
                         <title level="m" type="sub">Novela</title>
                         <imprint>
-                            <pubPlace corresp="countries.xml#CU">Cárdenas (Matanzas)</pubPlace>
+                            <pubPlace corresp="countries.xml#CU">Cárdenas, Matanzas</pubPlace>
                             <date when="1868">1868</date>
                         </imprint>
                     </monogr>
@@ -10986,7 +11001,7 @@
                     <monogr>
                         <title type="main" level="j">El Latino Americano</title>
                         <imprint>
-                            <pubPlace corresp="countries.xml#US">New York</pubPlace>
+                            <pubPlace corresp="countries.xml#US">Nueva York</pubPlace>
                             <date when="1885">1885</date>
                         </imprint>
                     </monogr>
@@ -11946,7 +11961,8 @@
                         <title level="m" type="main">La gruta del madrigal</title>
                         <title level="m" type="sub">Novela histórica</title>
                         <imprint>
-                            <pubPlace corresp="countries.xml#MX">San Juan Bautista</pubPlace>
+                            <pubPlace corresp="countries.xml#MX">San Juan Bautista,
+                                Tabasco</pubPlace>
                             <date when="1886">1886</date>
                         </imprint>
                         <extent n="287">287 pp.</extent>
@@ -11959,7 +11975,8 @@
                         <title level="m" type="sub">Novela histórica de Tabasco</title>
                         <imprint>
                             <publisher>Talleres de Lit., Enc. y Rayados de M. Gabucio M.</publisher>
-                            <pubPlace corresp="countries.xml#MX">San Juan Bautista</pubPlace>
+                            <pubPlace corresp="countries.xml#MX">San Juan Bautista,
+                                Tabasco</pubPlace>
                             <date when="1901">1901</date>
                         </imprint>
                         <extent n="242">En 4°, de 242 pp.</extent>
@@ -12153,7 +12170,7 @@
                         <title level="m" type="main">El último esfuerzo</title>
                         <imprint>
                             <publisher>Imprenta y Litografía de R. Caballero</publisher>
-                            <pubPlace corresp="countries.xml#MX">Mérida de Yucatán</pubPlace>
+                            <pubPlace corresp="countries.xml#MX">Mérida</pubPlace>
                             <date when="1896">1896</date>
                         </imprint>
                         <extent n="193">En 8°, de 193 pp.</extent>
@@ -12166,7 +12183,7 @@
                         <imprint>
                             <publisher>Juan Ausuca Alosso, ed.; Imprenta de La Revista de
                                 Mérida</publisher>
-                            <pubPlace corresp="countries.xml#MX">Mérida de Yucatán</pubPlace>
+                            <pubPlace corresp="countries.xml#MX">Mérida</pubPlace>
                             <date when="1905">1905</date>
                         </imprint>
                         <extent n="178">En 8°, de 178 pp.</extent>
@@ -12845,7 +12862,7 @@
                         <title level="m" type="main">La llaga</title>
                         <imprint>
                             <publisher>Eusebio Gómez de la Puente</publisher>
-                            <pubPlace corresp="countries.xml#MX">México, D. F.</pubPlace>
+                            <pubPlace corresp="countries.xml#MX">México</pubPlace>
                             <date when="1910" cert="low">1910</date>
                         </imprint>
                         <extent n="412">En 4°, de 412 pp.</extent>
@@ -13387,7 +13404,7 @@
                         <imprint>
                             <publisher>Imprenta y Casa Editorial de Valadés y Cía.,
                                 Sucs.</publisher>
-                            <pubPlace corresp="countries.xml#MX">Mazatlán, Sin., México</pubPlace>
+                            <pubPlace corresp="countries.xml#MX">Mazatlán</pubPlace>
                             <date when="1906">1906</date>
                         </imprint>
                         <extent n="304">En 8°, de (4), VII, 304, II pp. con el retrato del
@@ -14264,7 +14281,7 @@
                         <title level="m" type="sub">Novela histórica</title>
                         <imprint>
                             <publisher>Imprenta de J. R. Navarro</publisher>
-                            <pubPlace corresp="countries.xml#MX">Méjico</pubPlace>
+                            <pubPlace corresp="countries.xml#MX">México</pubPlace>
                             <date when="1853">1853</date>
                         </imprint>
                         <extent n="178">178 pp.</extent>
@@ -14290,7 +14307,7 @@
                         <title level="m" type="sub">Novela histórica</title>
                         <imprint>
                             <publisher>Imprenta de V. G. Torres</publisher>
-                            <pubPlace corresp="countries.xml#MX">Méjico</pubPlace>
+                            <pubPlace corresp="countries.xml#MX">México</pubPlace>
                             <date when="1851">1851</date>
                         </imprint>
                         <extent n="169">169 pp.</extent>
@@ -14615,7 +14632,7 @@
                         <title type="sub" level="m">Leyenda histórica</title>
                         <imprint>
                             <publisher>Imprenta de Claye</publisher>
-                            <pubPlace corresp="countries.xml#FR">Paris</pubPlace>
+                            <pubPlace corresp="countries.xml#FR">París</pubPlace>
                             <date when="1858">1858</date>
                         </imprint>
                         <extent n="176">en 8°, 176 pp.</extent>
@@ -14720,7 +14737,7 @@
                 </biblStruct>
                 <biblStruct corresp="works.xml#W967" xml:id="E1356">
                     <monogr>
-                        <author key="A374">Guerrero Pallarés, Teodoro</author>
+                        <author key="A374">Guerrero y Pallarés, Teodoro</author>
                         <title type="main" level="m">Anatomía del corazón</title>
                         <title type="sub" level="m">Novela original</title>
                         <edition>Segunda edición</edition>
@@ -14736,7 +14753,7 @@
                 </biblStruct>
                 <biblStruct corresp="works.xml#W967" xml:id="E1357">
                     <monogr>
-                        <author key="A374">Guerrero Pallarés, Teodoro</author>
+                        <author key="A374">Guerrero y Pallarés, Teodoro</author>
                         <title type="main" level="m">Anatomía del corazón</title>
                         <title type="sub" level="m">Novela original</title>
                         <edition>Tercera edición. Prólogo de Gertrudis Gómez de Avellaneda</edition>
@@ -14749,13 +14766,13 @@
                 </biblStruct>
                 <biblStruct corresp="works.xml#W967" xml:id="E1358">
                     <monogr>
-                        <author key="A374">Guerrero Pallarés, Teodoro</author>
+                        <author key="A374">Guerrero y Pallarés, Teodoro</author>
                         <title type="main" level="m">Anatomía del corazón</title>
                         <title type="sub" level="m">Novela original</title>
                         <edition>Cuarta edición</edition>
                         <imprint>
                             <publisher>Imp. del Tiempo</publisher>
-                            <pubPlace corresp="countries.xml#CU">Habana</pubPlace>
+                            <pubPlace corresp="countries.xml#CU">La Habana</pubPlace>
                             <date when="1858">1858</date>
                         </imprint>
                         <extent n="380">380 pp.</extent>
@@ -14763,7 +14780,7 @@
                 </biblStruct>
                 <biblStruct corresp="works.xml#W967" xml:id="E1359">
                     <monogr>
-                        <author key="A374">Guerrero Pallarés, Teodoro</author>
+                        <author key="A374">Guerrero y Pallarés, Teodoro</author>
                         <title type="main" level="m">Anatomía del corazón</title>
                         <title type="sub" level="m">Novela original</title>
                         <edition>Octava edición</edition>
@@ -14777,12 +14794,12 @@
                 </biblStruct>
                 <biblStruct corresp="works.xml#W967" xml:id="E1360">
                     <monogr>
-                        <author key="A374">Guerrero Pallarés, Teodoro</author>
+                        <author key="A374">Guerrero y Pallarés, Teodoro</author>
                         <title type="main" level="m">Anatomía del corazón</title>
                         <title type="sub" level="m">Estudio social</title>
                         <imprint>
                             <publisher>Imp. El Iris</publisher>
-                            <pubPlace corresp="countries.xml#CU">Habana</pubPlace>
+                            <pubPlace corresp="countries.xml#CU">La Habana</pubPlace>
                             <date when="1867">1867</date>
                         </imprint>
                         <extent n="571">en 4°, 571 pp.</extent>
@@ -14792,7 +14809,7 @@
                 </biblStruct>
                 <biblStruct corresp="works.xml#W967" xml:id="E1383">
                     <monogr>
-                        <author key="A374">Guerrero Pallarés, Teodoro</author>
+                        <author key="A374">Guerrero y Pallarés, Teodoro</author>
                         <title type="main" level="m">Anatomía del corazón</title>
                         <title type="sub" level="m">(segunda parte)</title>
                         <imprint>
@@ -14806,7 +14823,7 @@
                 <biblStruct corresp="works.xml#W967" xml:id="E1384">
                     <!-- primera edición -->
                     <analytic>
-                        <author key="A374">Guerrero Pallarés, Teodoro</author>
+                        <author key="A374">Guerrero y Pallarés, Teodoro</author>
                         <title type="main" level="a">Anatomía del corazón</title>
                         <title type="sub" level="a">Novela original</title>
                     </analytic>
@@ -14821,19 +14838,19 @@
                 </biblStruct>
                 <biblStruct corresp="works.xml#W975" xml:id="E1380">
                     <monogr>
-                        <author key="A374">Guerrero Pallarés, Teodoro</author>
+                        <author key="A374">Guerrero y Pallarés, Teodoro</author>
                         <title type="main" level="m">Madrid por dentro</title>
                         <title type="sub" level="m">Cuadros de la vida cortesana</title>
                         <imprint>
                             <publisher>Imp. El Iris</publisher>
-                            <pubPlace corresp="countries.xml#CU">Habana</pubPlace>
+                            <pubPlace corresp="countries.xml#CU">La Habana</pubPlace>
                             <date when="1865">1865</date>
                         </imprint>
                     </monogr>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W975" xml:id="E1381">
                     <monogr>
-                        <author key="A374">Guerrero Pallarés, Teodoro</author>
+                        <author key="A374">Guerrero y Pallarés, Teodoro</author>
                         <title type="main" level="m">Madrid por dentro</title>
                         <title type="sub" level="m">Cuento de salón</title>
                         <edition>Tercera edición</edition>
@@ -14847,7 +14864,7 @@
                 </biblStruct>
                 <biblStruct corresp="works.xml#W976" xml:id="E1382">
                     <monogr>
-                        <author key="A374">Guerrero Pallarés, Teodoro</author>
+                        <author key="A374">Guerrero y Pallarés, Teodoro</author>
                         <title type="main" level="m">La nube negra</title>
                         <title type="sub" level="m">Novela original</title>
                         <imprint>
@@ -14862,7 +14879,7 @@
                 </biblStruct>
                 <biblStruct corresp="works.xml#W977" xml:id="E1385">
                     <monogr>
-                        <author key="A374">Guerrero Pallarés, Teodoro</author>
+                        <author key="A374">Guerrero y Pallarés, Teodoro</author>
                         <title type="main" level="m">El escabel de la fortuna</title>
                         <title type="sub" level="m">Novela original</title>
                         <imprint>
@@ -14875,7 +14892,7 @@
                 </biblStruct>
                 <biblStruct corresp="works.xml#W977" xml:id="E1386">
                     <monogr>
-                        <author key="A374">Guerrero Pallarés, Teodoro</author>
+                        <author key="A374">Guerrero y Pallarés, Teodoro</author>
                         <title type="main" level="m">El escabel de la fortuna</title>
                         <title type="sub" level="m">Novela original</title>
                         <edition>Segunda edición</edition>
@@ -14889,7 +14906,7 @@
                 </biblStruct>
                 <biblStruct corresp="works.xml#W978" xml:id="E1387">
                     <monogr>
-                        <author key="A374">Guerrero Pallarés, Teodoro</author>
+                        <author key="A374">Guerrero y Pallarés, Teodoro</author>
                         <title type="main" level="m">Los mártires del amor</title>
                         <title type="sub" level="m">Novela original</title>
                         <imprint>
@@ -14901,7 +14918,7 @@
                 </biblStruct>
                 <biblStruct corresp="works.xml#W978" xml:id="E1388">
                     <monogr>
-                        <author key="A374">Guerrero Pallarés, Teodoro</author>
+                        <author key="A374">Guerrero y Pallarés, Teodoro</author>
                         <title type="main" level="m">Los mártires del amor</title>
                         <title type="sub" level="m">Novela original</title>
                         <edition>Segunda edición</edition>
@@ -14914,7 +14931,7 @@
                 </biblStruct>
                 <biblStruct corresp="works.xml#W979" xml:id="E1389">
                     <monogr>
-                        <author key="A374">Guerrero Pallarés, Teodoro</author>
+                        <author key="A374">Guerrero y Pallarés, Teodoro</author>
                         <title type="main" level="m">Las huellas del crimen</title>
                         <title type="sub" level="m">Novela cubana</title>
                         <imprint>
@@ -15257,7 +15274,7 @@
                         <title type="sub" level="m">Novela</title>
                         <imprint>
                             <publisher>Imp. de Frank</publisher>
-                            <pubPlace corresp="countries.xml#CU">Remedios (Las Villas)</pubPlace>
+                            <pubPlace corresp="countries.xml#CU">Remedios, Las Villas</pubPlace>
                             <date when="1866">1866</date>
                         </imprint>
                         <extent>2 volúmenes</extent>
@@ -15270,7 +15287,7 @@
                         <title type="sub" level="m">Novela</title>
                         <imprint>
                             <publisher>Imp. de Domingo González Rubio</publisher>
-                            <pubPlace corresp="countries.xml#CO">Barranquilla (Colombia)</pubPlace>
+                            <pubPlace corresp="countries.xml#CO">Barranquilla, Colombia</pubPlace>
                             <date when="1874">1874</date>
                         </imprint>
                     </monogr>
@@ -15302,8 +15319,8 @@
                             autor</title>
                         <imprint>
                             <publisher>Tipografía de García</publisher>
-                            <pubPlace corresp="countries.xml#CO">Cartagena de Indias
-                                (Colombia)</pubPlace>
+                            <pubPlace corresp="countries.xml#CO">Cartagena de Indias,
+                                Colombia</pubPlace>
                             <date from="1896" to="1897">1896-1897</date>
                         </imprint>
                         <extent n="401">401 pp.</extent>
@@ -15440,7 +15457,7 @@
                         <title level="m" type="sub">Novela festiva de costumbres cubanas</title>
                         <imprint>
                             <publisher>Imprenta La América</publisher>
-                            <pubPlace corresp="countries.xml#CU">Guanajay (Pinar del Río)</pubPlace>
+                            <pubPlace corresp="countries.xml#CU">Guanajay, Pinar del Río</pubPlace>
                             <date when="1892">1892</date>
                         </imprint>
                         <extent n="196">196 pp.</extent>
@@ -15664,7 +15681,7 @@
                         <title type="main" level="m">Herlinda</title>
                         <imprint>
                             <publisher>Imprenta del Autor</publisher>
-                            <pubPlace corresp="countries.xml#MX">Guadalajara, Jalisco</pubPlace>
+                            <pubPlace corresp="countries.xml#MX">Guadalajara</pubPlace>
                             <date when="1901">1901</date>
                         </imprint>
                         <extent n="151">En 8°, de XV, 151, (3) pp., más una lámina</extent>
@@ -15756,7 +15773,7 @@
                     <monogr>
                         <title level="j" type="main">Revista Nacional de Letras y Ciencias</title>
                         <imprint>
-                            <pubPlace corresp="countries.xml#MX">México, D. F.</pubPlace>
+                            <pubPlace corresp="countries.xml#MX">México</pubPlace>
                             <date when="1890">1890</date>
                         </imprint>
                     </monogr>
@@ -15768,7 +15785,7 @@
                         <title type="main" level="m">La Calandria</title>
                         <imprint>
                             <publisher>Pablo Franch, ed.</publisher>
-                            <pubPlace corresp="countries.xml#MX">Orizaba</pubPlace>
+                            <pubPlace corresp="countries.xml#MX">Orizaba, Veracruz</pubPlace>
                             <date when="1891">1891</date>
                         </imprint>
                         <extent n="358">En 4°, de VIII, 358 pp.</extent>
@@ -17164,7 +17181,7 @@
                         <title level="m" type="main">La Peña del Infortunio</title>
                         <imprint>
                             <publisher>Librería Paul Ollendorf</publisher>
-                            <pubPlace corresp="countries.xml#FR">Paris</pubPlace>
+                            <pubPlace corresp="countries.xml#FR">París</pubPlace>
                             <date when="1909">1909</date>
                         </imprint>
                         <extent n="347">En 8°, de (4), 347 pp.</extent>
@@ -17407,7 +17424,7 @@
                         <imprint>
                             <publisher>Casa Editorial de Maucci Hermanos e Hijos</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
-                            <pubPlace corresp="countries.xml#CU">Habana</pubPlace>
+                            <pubPlace corresp="countries.xml#CU">La Habana</pubPlace>
                             <publisher>Tip. Casa Editorial Sopena</publisher>
                             <pubPlace corresp="countries.xml#ES">Valencia</pubPlace>
                             <pubPlace corresp="countries.xml#ES">Barcelona</pubPlace>
@@ -17568,7 +17585,7 @@
                             Sosa</title>
                         <imprint>
                             <publisher>Librería de Quiroga</publisher>
-                            <pubPlace corresp="countries.xml#US">San Antonio, Tex.</pubPlace>
+                            <pubPlace corresp="countries.xml#US">San Antonio, Texas</pubPlace>
                             <date>desconocido</date>
                         </imprint>
                         <extent n="211">En 8°, de 211 pp.</extent>
@@ -17684,7 +17701,7 @@
                         <title type="sub" level="m">Tomo I</title>
                         <imprint>
                             <publisher>Imprenta de "El Peninsular"</publisher>
-                            <pubPlace corresp="countries.xml#MX">Mérida de Yucatán</pubPlace>
+                            <pubPlace corresp="countries.xml#MX">Mérida</pubPlace>
                             <date when="1904">1904</date>
                         </imprint>
                         <extent n="557">2 v. en 8°, de VIII, 263 y 294 pp.</extent>
@@ -18044,7 +18061,7 @@
                         <title level="m" type="main">El faro</title>
                         <imprint>
                             <publisher>Pedro Roselli</publisher>
-                            <pubPlace corresp="countries.xml#FR">Paris</pubPlace>
+                            <pubPlace corresp="countries.xml#FR">París</pubPlace>
                             <date when="1902">1902</date>
                         </imprint>
                         <extent n="190">190 pp.</extent>
@@ -18057,7 +18074,7 @@
                         <title level="m" type="main">El faro</title>
                         <imprint>
                             <publisher>Garnier</publisher>
-                            <pubPlace corresp="countries.xml#FR">Paris</pubPlace>
+                            <pubPlace corresp="countries.xml#FR">París</pubPlace>
                             <date when="1903">1903</date>
                         </imprint>
                         <extent n="191">191 pp.</extent>
@@ -18069,7 +18086,7 @@
                         <title level="m" type="main">Huincahual</title>
                         <imprint>
                             <publisher>Pedro Roselli</publisher>
-                            <pubPlace corresp="countries.xml#FR">Paris</pubPlace>
+                            <pubPlace corresp="countries.xml#FR">París</pubPlace>
                             <date when="1888">1888</date>
                         </imprint>
                         <extent n="194">194 pp.</extent>
@@ -18201,7 +18218,7 @@
                         <title level="m" type="sub">Notas íntimas de un pintor</title>
                         <imprint>
                             <publisher>Garnier</publisher>
-                            <pubPlace corresp="countries.xml#FR">Paris</pubPlace>
+                            <pubPlace corresp="countries.xml#FR">París</pubPlace>
                             <date when="1903">1903</date>
                         </imprint>
                         <extent n="232">232 pp.</extent>
@@ -18540,7 +18557,7 @@
                         <title type="sub" level="m">Novela por una Señorita cubana</title>
                         <imprint>
                             <publisher>Imprenta de Boloña</publisher>
-                            <pubPlace corresp="countries.xml#CU">Habana</pubPlace>
+                            <pubPlace corresp="countries.xml#CU">La Habana</pubPlace>
                             <date when="1839">1839</date>
                         </imprint>
                         <extent n="200">En 8°, 200 ps.</extent>
@@ -18554,7 +18571,7 @@
                         <title type="sub" level="m">Novela primera por J. M. E.</title>
                         <imprint>
                             <publisher>Imprenta del Comercio</publisher>
-                            <pubPlace corresp="countries.xml#CU">Habana</pubPlace>
+                            <pubPlace corresp="countries.xml#CU">La Habana</pubPlace>
                             <date when="1841">1841</date>
                         </imprint>
                         <extent n="96">En 8°, 96 ps.</extent>
@@ -18566,7 +18583,7 @@
                         <title type="main" level="m">El Calcalista</title>
                         <title type="sub" level="m">Novela</title>
                         <imprint>
-                            <pubPlace corresp="countries.xml#CU" cert="low">Habana</pubPlace>
+                            <pubPlace corresp="countries.xml#CU" cert="low">La Habana</pubPlace>
                             <date when="1842">1842</date>
                         </imprint>
                         <extent n="184">En 8°, 184 ps.</extent>
@@ -18610,7 +18627,7 @@
                         <title type="sub" level="m">Novela</title>
                         <imprint>
                             <publisher>Libr. Paul Ollendorff</publisher>
-                            <pubPlace corresp="countries.xml#FR">Paris</pubPlace>
+                            <pubPlace corresp="countries.xml#FR">París</pubPlace>
                             <date when="1910" cert="low">1910</date>
                         </imprint>
                         <extent n="200">200 pp.</extent>
