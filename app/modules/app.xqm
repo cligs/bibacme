@@ -6,7 +6,7 @@ module namespace app="http://localhost/app";
 declare namespace tei="http://www.tei-c.org/ns/1.0";
 declare default collation "?lang=es";
 declare variable $app:root := "/db/apps/bibacme";
-declare variable $app:home := "/exist/apps/bibacme/"; (: end with slash :)
+declare variable $app:home := "/"; (: end with slash :)
 declare variable $app:works := doc(concat($app:root, "/data/works.xml"))//tei:listBibl/tei:bibl;
 declare variable $app:authors := doc(concat($app:root, "/data/authors.xml"))//tei:person;
 declare variable $app:editions := doc(concat($app:root, "/data/editions.xml"))//tei:listBibl/tei:biblStruct;
@@ -532,14 +532,14 @@ declare function app:autores-por-nacionalidad(){
     (<h2>Sinopsis</h2>,
     (: number of authors per country :)
     let $data := map {
-        "x" := data:get-nationalities(),
-        "y" := data:get-nationality-numbers()
+        "x" : data:get-nationalities(),
+        "y" : data:get-nationality-numbers()
     }
     let $params := map {
-        "title" := "Autores por nacionalidad / origen",
-        "containerId" := "ChartAutores_1",
-        "xaxis-title" := "nacionalidad / origen",
-        "yaxis-title" := "número de autores"
+        "title" : "Autores por nacionalidad / origen",
+        "containerId" : "ChartAutores_1",
+        "xaxis-title" : "nacionalidad / origen",
+        "yaxis-title" : "número de autores"
     }
     return
     (<div id="ChartAutores_1" style="width:700px;height:600px;margin: 0 auto;"></div>,
@@ -551,12 +551,12 @@ declare function app:autores-por-sexo(){
     (<h2>Sinopsis</h2>,
     (: number of authors by sex :)
     let $data := map {
-        "labels" := data:get-sexes(),
-        "values" := data:get-sex-numbers()
+        "labels" : data:get-sexes(),
+        "values" : data:get-sex-numbers()
     }
     let $params := map {
-        "title" := "Autores por sexo",
-        "containerId" := "ChartAutores_2"
+        "title" : "Autores por sexo",
+        "containerId" : "ChartAutores_2"
     }
     return
     (<div id="ChartAutores_2" style="width:500px;height:500px;margin: 0 auto;"></div>,
@@ -574,15 +574,15 @@ declare function app:obras-por-ano(){
     let $num-editions := for $year in (1830 to 1910)
                         return count($first-ed-years[xs:integer(.) = $year])
     let $params := map {
-        "title" := "Obras por año",
-        "containerId" := "ChartObras_5",
-        "xaxis-title" := "año",
-        "yaxis-title" := "número de obras",
-        "y_range" := 40
+        "title" : "Obras por año",
+        "containerId" : "ChartObras_5",
+        "xaxis-title" : "año",
+        "yaxis-title" : "número de obras",
+        "y_range" : 40
     }
     let $data := map {
-        "x" := (1830 to 1910),
-        "y" := $num-editions
+        "x" : (1830 to 1910),
+        "y" : $num-editions
     }
     return 
     (<div id="ChartObras_5" style="width:900px;height:500px;margin: 0 auto;"></div>,
@@ -597,16 +597,16 @@ declare function app:obras-por-ano(){
     let $num-editions := for $year in (1830 to 1910)
                         return count($first-ed-years[xs:integer(.) = $year])
     let $params := map {
-        "title" := "Obras por año (escritas por autores de nacionalidad argentina)",
-        "containerId" := "ChartObras_6",
-        "xaxis-title" := "año",
-        "yaxis-title" := "número de obras",
-        "color" := "light blue",
-        "y_range" := 40
+        "title" : "Obras por año (escritas por autores de nacionalidad argentina)",
+        "containerId" : "ChartObras_6",
+        "xaxis-title" : "año",
+        "yaxis-title" : "número de obras",
+        "color" : "light blue",
+        "y_range" : 40
     }
     let $data := map {
-        "x" := (1830 to 1910),
-        "y" := $num-editions
+        "x" : (1830 to 1910),
+        "y" : $num-editions
     }
     return 
     (<div id="ChartObras_6" style="width:900px;height:500px;margin: 0 auto;"></div>,
@@ -621,16 +621,16 @@ declare function app:obras-por-ano(){
     let $num-editions := for $year in (1830 to 1910)
                         return count($first-ed-years[xs:integer(.) = $year])
     let $params := map {
-        "title" := "Obras por año (escritas por autores originarios de Cuba)",
-        "containerId" := "ChartObras_7",
-        "xaxis-title" := "año",
-        "yaxis-title" := "número de obras",
-        "color" := "#CC0000",
-        "y_range" := 40
+        "title" : "Obras por año (escritas por autores originarios de Cuba)",
+        "containerId" : "ChartObras_7",
+        "xaxis-title" : "año",
+        "yaxis-title" : "número de obras",
+        "color" : "#CC0000",
+        "y_range" : 40
     }
     let $data := map {
-        "x" := (1830 to 1910),
-        "y" := $num-editions
+        "x" : (1830 to 1910),
+        "y" : $num-editions
     }
     return 
     (<div id="ChartObras_7" style="width:900px;height:400px;margin: 0 auto;"></div>,
@@ -645,16 +645,16 @@ declare function app:obras-por-ano(){
     let $num-editions := for $year in (1830 to 1910)
                         return count($first-ed-years[xs:integer(.) = $year])
     let $params := map {
-        "title" := "Obras por año (escritas por autores de nacionalidad mexicana)",
-        "containerId" := "ChartObras_8",
-        "xaxis-title" := "año",
-        "yaxis-title" := "número de obras",
-        "color" := "#006633",
-        "y_range" := 40
+        "title" : "Obras por año (escritas por autores de nacionalidad mexicana)",
+        "containerId" : "ChartObras_8",
+        "xaxis-title" : "año",
+        "yaxis-title" : "número de obras",
+        "color" : "#006633",
+        "y_range" : 40
     }
     let $data := map {
-        "x" := (1830 to 1910),
-        "y" := $num-editions
+        "x" : (1830 to 1910),
+        "y" : $num-editions
     }
     return 
     (<div id="ChartObras_8" style="width:900px;height:500px;margin: 0 auto;"></div>,
@@ -670,14 +670,14 @@ declare function app:obras-por-autor(){
     let $map := data:get-work-numbers-by-author()
     let $values := app:get-map-values($map)
     let $data := map {
-        "x" := $values
+        "x" : $values
     }
     let $params := map {
-        "title" := "Obras por autor",
-        "containerId" := "ChartObras_4",
-        "xaxis-title" := "número de obras",
-        "yaxis-title" := "número de autores",
-        "legend-name" := "autores"
+        "title" : "Obras por autor",
+        "containerId" : "ChartObras_4",
+        "xaxis-title" : "número de obras",
+        "yaxis-title" : "número de autores",
+        "legend-name" : "autores"
     }
     return
     (<div id="ChartObras_4" style="width:900px;height:500px;margin: 0 auto;"></div>,
@@ -692,14 +692,14 @@ declare function app:obras-por-nacionalidad-de-autor(){
     let $keys := app:get-map-keys($map)
     let $values := app:get-map-values($map)
     let $data := map {
-        "x" := $keys,
-        "y" := $values
+        "x" : $keys,
+        "y" : $values
     }
     let $params := map {
-        "title" := "Obras por nacionalidad / origen de autor",
-        "containerId" := "ChartObras_1",
-        "xaxis-title" := "nacionalidad / origen de autor",
-        "yaxis-title" := "número de obras"
+        "title" : "Obras por nacionalidad / origen de autor",
+        "containerId" : "ChartObras_1",
+        "xaxis-title" : "nacionalidad / origen de autor",
+        "yaxis-title" : "número de obras"
     }
     return
     (<div id="ChartObras_1" style="width:700px;height:600px;margin: 0 auto;"></div>,
@@ -714,14 +714,14 @@ declare function app:obras-por-pais-de-primera-edicion(){
     let $keys := app:get-map-keys($map)
     let $values := app:get-map-values($map)
     let $data := map {
-        "x" := $keys,
-        "y" := $values
+        "x" : $keys,
+        "y" : $values
     }
     let $params := map {
-        "title" := "Obras por país de primera edición",
-        "containerId" := "ChartObras_2",
-        "xaxis-title" := "país del lugar de publicación",
-        "yaxis-title" := "número de obras"
+        "title" : "Obras por país de primera edición",
+        "containerId" : "ChartObras_2",
+        "xaxis-title" : "país del lugar de publicación",
+        "yaxis-title" : "número de obras"
     }
     return
     (<div id="ChartObras_2" style="width:700px;height:600px;margin: 0 auto;"></div>,
@@ -739,14 +739,14 @@ declare function app:obras-por-decada(){
     let $num-editions := for $dec in $app:decades
                         return count($first-ed-decs[. = $dec])
     let $params := map {
-        "title" := "Obras por década",
-        "containerId" := "ChartObras_3",
-        "xaxis-title" := "década",
-        "yaxis-title" := "número de obras"
+        "title" : "Obras por década",
+        "containerId" : "ChartObras_3",
+        "xaxis-title" : "década",
+        "yaxis-title" : "número de obras"
     }
     let $data := map {
-        "x" := $app:decade-labels,
-        "y" := $num-editions
+        "x" : $app:decade-labels,
+        "y" : $num-editions
     }
     return 
     (<div id="ChartObras_3" style="width:900px;height:600px;margin: 0 auto;"></div>,
@@ -765,14 +765,14 @@ declare function app:ediciones-por-decada(){
     let $num-editions := for $dec in $app:decades
                         return count($ed-decs[. = $dec])
     let $params := map {
-        "title" := "Ediciones por década",
-        "containerId" := "ChartEdiciones_1",
-        "xaxis-title" := "década",
-        "yaxis-title" := "número de ediciones"
+        "title" : "Ediciones por década",
+        "containerId" : "ChartEdiciones_1",
+        "xaxis-title" : "década",
+        "yaxis-title" : "número de ediciones"
     }
     let $data := map {
-        "x" := $app:decade-labels,
-        "y" := $num-editions
+        "x" : $app:decade-labels,
+        "y" : $num-editions
     }
     return 
     (<div id="ChartEdiciones_1" style="width:900px;height:600px;margin: 0 auto;"></div>,
@@ -788,14 +788,14 @@ declare function app:ediciones-por-obra(){
                          let $work-id := $work/@xml:id
                          return count($app:editions//range:field-eq("work-key", $work-id))
     let $params := map {
-        "title" := "Ediciones por obra",
-        "containerId" := "ChartEdiciones_2",
-        "xaxis-title" := "número de ediciones",
-        "yaxis-title" := "número de obras",
-        "legend-name" := "obras"
+        "title" : "Ediciones por obra",
+        "containerId" : "ChartEdiciones_2",
+        "xaxis-title" : "número de ediciones",
+        "yaxis-title" : "número de obras",
+        "legend-name" : "obras"
     }
     let $data := map {
-        "x" := $num-editions
+        "x" : $num-editions
     }
     return 
     (<div id="ChartEdiciones_2" style="width:900px;height:600px;margin: 0 auto;"></div>,

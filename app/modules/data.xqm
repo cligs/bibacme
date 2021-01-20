@@ -153,7 +153,7 @@ declare function data:get-sex-numbers() as xs:integer+{
 
 declare function data:get-work-numbers-by-nationality() as map(xs:string, xs:integer){
     (: fetch the number of works by the author's nationality :)
-    map:new(
+    map:merge(
         for $nat in distinct-values($app:authors//tei:nationality)
         let $author-ids := $app:authors[tei:nationality = $nat]/@xml:id
         let $count := count($app:works[tei:author/@key = $author-ids])
@@ -163,7 +163,7 @@ declare function data:get-work-numbers-by-nationality() as map(xs:string, xs:int
 
 declare function data:get-work-numbers-by-pubPlace-first() as map(xs:string, xs:integer) {
     (: fetch the number of works by the publication place (country) of the first edition :)
-    let $work-map := map:new(
+    let $work-map := map:merge(
                         for $work in $app:works
                         let $work-id := $work/@xml:id
                         let $editions := data:get-work-editions($work-id)
@@ -182,7 +182,7 @@ declare function data:get-work-numbers-by-pubPlace-first() as map(xs:string, xs:
                         let $place := $app:countries[@xml:id = $ed-first-place]/tei:placeName
                         return map:entry($work-id, $place)
     )
-    let $place-map := map:new(
+    let $place-map := map:merge(
                         let $values := for $key in map:keys($work-map)
                                        let $value := map:get($work-map, $key)
                                        return $value
@@ -223,7 +223,7 @@ declare function data:get-first-letter($name as xs:string) as xs:string{
 
 
 declare function data:get-work-numbers-by-author() as map(xs:string, xs:integer){
-    map:new(
+    map:merge(
         for $author in $app:authors
         let $author-id := $author/@xml:id
         let $author-works := $app:works//range:field-eq("author-key", $author-id)
