@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <meta xmlns="http://exist-db.org/xquery/repo">
-    <description>Bibliografía de novelas argentinas, cubanas y mexicanas</description>
-    <author>Ulrike Henny</author>
-    <website/>
+    <description>Bibliografía de novelas argentinas, cubanas y mexicanas (1830-1910)</description>
+    <author>Ulrike Henny-Krahmer</author>
+    <website>http://bibacme.cligs.digital-humanities.de</website>
     <status>beta</status>
     <license>GNU-LGPL</license>
     <copyright>true</copyright>
