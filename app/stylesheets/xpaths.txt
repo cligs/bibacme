@@ -1,1 +1,0 @@
-//bibl[term[@type="subgenre.title.explicit.norm"][contains(normalize-space(lower-case(.)),'novela histórica')]][not(term[@type="subgenre.title.explicit"][contains(normalize-space(lower-case(.)),'novela histórica')])]

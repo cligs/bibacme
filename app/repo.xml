@@ -3,13 +3,13 @@
     <description>Bibliografía de novelas argentinas, cubanas y mexicanas (1830-1910)</description>
     <author>Ulrike Henny-Krahmer</author>
     <website>http://bibacme.cligs.digital-humanities.de</website>
-    <status>beta</status>
-    <license>GNU-LGPL</license>
+    <status>stable</status>
+    <license>GNU General Public License, version 3.0</license>
     <copyright>true</copyright>
     <type>application</type>
     <target>bibacme</target>
     <!--<prepare>pre-install.xql</prepare>-->
-    <!--<finish>post-install.xql</finish>-->
+    <finish>post-install.xql</finish>
     <permissions user="admin" group="dba" mode="rw-rw-r--"/>
     <deployed>2017-03-17T13:06:51.133+01:00</deployed>
 </meta>

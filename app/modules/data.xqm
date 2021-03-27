@@ -10,7 +10,7 @@ import module namespace app="http://localhost/app" at "app.xqm";
 
 declare function data:get-publication-countries($work-id as xs:string) as xs:string+{
     (: fetch publication countries of work editions :)
-    let $edition-countries := data:get-work-editions($work-id)//tei:pubPlace/@corresp
+    let $edition-countries := data:get-work-editions($work-id)//tei:pubPlace/@corresp/substring-after(., 'countries.xml#')
     return distinct-values($edition-countries)
 };
 
@@ -18,9 +18,8 @@ declare function data:get-publication-countries($work-id as xs:string) as xs:str
 
 declare function data:get-work-editions($work-id as xs:string) as node()+{
     (: get the editions corresponding to a work :)
-    (: $app:editions[some $id in tokenize(@corresp, "\s") satisfies $id = $work-id] :)
-    let $regex := concat($work-id, "(\s|$)")
-    let $editions := $app:editions[matches(@corresp, $regex)]
+    let $corresp := concat("works.xml#", $work-id)
+    let $editions := $app:editions//range:field-eq("work-key", $corresp)
     return $editions
 };
 
@@ -178,7 +177,7 @@ declare function data:get-work-numbers-by-pubPlace-first() as map(xs:string, xs:
                         let $year-first-ed := min($edition-years)
                         let $year-first-ed := if ($year-first-ed) then $year-first-ed else 0
                         let $ed-first := ($editions[data:get-edition-year((.//tei:date)[1]) = $year-first-ed])[1]
-                        let $ed-first-place := ($ed-first//tei:pubPlace)[1]/@corresp
+                        let $ed-first-place := ($ed-first//tei:pubPlace)[1]/@corresp/substring-after(., "countries.xml#")
                         let $place := $app:countries[@xml:id = $ed-first-place]/tei:placeName
                         return map:entry($work-id, $place)
     )

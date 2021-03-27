@@ -8,11 +8,11 @@ declare variable $exist:root external;
 
 import module namespace data="http://localhost/data" at "modules/data.xqm";
 
-if ($exist:path eq "/") then
-    (: forward root path to index.xq :)
+if ($exist:path eq "" or $exist:path eq "/") then
+    (: forward empty or root path to index.xq :)
     <dispatch xmlns="http://exist.sourceforge.net/NS/exist">
         <forward url="{$exist:controller}/index.xq"/>
-    </dispatch>
+    </dispatch> 
 else if ($exist:path eq "/autores") then
     <dispatch xmlns="http://exist.sourceforge.net/NS/exist">
         <forward url="{$exist:controller}/index.xq">

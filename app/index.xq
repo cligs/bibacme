@@ -5,6 +5,7 @@ declare option exist:serialize "method=html5 media-type=text/html";
 
 import module namespace app = "http://localhost/app" at "modules/app.xqm";
 
+(: mark entries which are currently selected in the navigation with a special CSS class :)
 declare function local:select-nav($view as xs:string?, $nav-entry as xs:string+) as xs:string {
     if ($view = $nav-entry or concat($view, "s") = $nav-entry)
     then
@@ -197,12 +198,10 @@ return
                                                                                             else
                                                                                                 <section
                                                                                                     class="index">
-                                                                                                    <!-- erklären: warum die drei Länder -->
                                                                                                     <p>Bib-ACMé reúne datos sobre novelas argentinas, cubanas y mexicanas que se publicaron
                                                                                                         entre 1830 y 1910.</p>
                                                                                                     <p>El objetivo de la bibliografía es sobre todo hacer posible una visión general
                                                                                                         de las novelas que se publicaron en este período y ámbito geográfico y cultural.</p>
-                                                                                                    <!-- erklären: was sind die Räume, um die es geht -->
                                                                                                     <p>Bib-ACMé se basa en bibliografías existentes (sobre todo en los trabajos de Myron Lichtblau,
                                                                                                         Carlos Trelles y Juan Iguiniz), llevando los registros impresos a un entorno digital para facilitar
                                                                                                         análisis cuantitativos sobre autores, obras y ediciones.</p>
@@ -226,8 +225,8 @@ return
             <footer>
                 <section>
                     <p>Ulrike Henny-Krahmer (ed). <em>Bib-ACMé. Bibliografía digital de novelas
-                            argentinas, cubanas y mexicanas (1830-1910).</em> Würzburg, 2017.</p>
-                    <p><strong>Contacto</strong>: ulrike.henny /at/ uni-wuerzburg.de</p>
+                            argentinas, cubanas y mexicanas (1830-1910).</em><br/> Würzburg: CLiGS, 2017ff.</p>
+                    <p><strong>Contacto</strong>: ulrike.henny /at/ web.de</p>
                 </section>
                 <aside><a
                         href="https://cligs.hypotheses.org"

@@ -5,8 +5,9 @@ module namespace app="http://localhost/app";
 
 declare namespace tei="http://www.tei-c.org/ns/1.0";
 declare default collation "?lang=es";
-declare variable $app:root := "/db/apps/bibacme";
-declare variable $app:home := "/"; (: end with slash :)
+declare variable $app:root := "/db/apps/bibacme"; (: where the app is in the database :)
+declare variable $app:home := "/apps/bibacme/"; (: where the app is relative to the domain; end with slash;
+on http://bibacme.cligs.digital-humanities.de this should just be "/" :)
 declare variable $app:works := doc(concat($app:root, "/data/works.xml"))//tei:listBibl/tei:bibl;
 declare variable $app:authors := doc(concat($app:root, "/data/authors.xml"))//tei:person;
 declare variable $app:editions := doc(concat($app:root, "/data/editions.xml"))//tei:listBibl/tei:biblStruct;
@@ -311,7 +312,8 @@ declare function app:work($id as xs:string){
     let $work := $app:works[@xml:id = $id]
     let $title := $work/tei:title/data(.)
     let $authors := $work/tei:author
-    let $editions := $app:editions[some $work-id in tokenize(@corresp,'\s') satisfies $work-id = $id]
+    let $corresp := concat("works.xml#", $id)
+    let $editions := $app:editions//range:field-eq("work-key", $corresp)
     return
     (<section class="work">
         <h2>{$title}</h2>
@@ -351,8 +353,8 @@ declare function app:editions($currpage as numeric, $currauthor as xs:string?, $
                                let $decade := data:get-edition-decade($date)
                                let $year := data:get-edition-year($date)
                                let $year := if ($year != 0) then $year else ()
-                               let $country := $place/@corresp
-                               let $work-ids := tokenize($edition/@corresp,"\s")
+                               let $country := $place/@corresp/substring-after(., 'countries.xml#')
+                               let $work-ids := $edition/@corresp/substring-after(., 'works.xml#')
                                let $letter := data:get-first-letter($title)
                                let $order-title := translate($title,"¡¿","")
                                where every $val in 
@@ -782,10 +784,11 @@ declare function app:ediciones-por-decada(){
 
 
 declare function app:ediciones-por-obra(){
-    (<h2>Sinopsis</h2>,
+    (
+    <h2>Sinopsis</h2>,
     (: number of editions per work :)
     let $num-editions := for $work in $app:works
-                         let $work-id := $work/@xml:id
+                         let $work-id := concat("works.xml#", $work/@xml:id)
                          return count($app:editions//range:field-eq("work-key", $work-id))
     let $params := map {
         "title" : "Ediciones por obra",
@@ -797,9 +800,12 @@ declare function app:ediciones-por-obra(){
     let $data := map {
         "x" : $num-editions
     }
-    return 
-    (<div id="ChartEdiciones_2" style="width:900px;height:600px;margin: 0 auto;"></div>,
-        overviews:histogram($params, $data)))
+    return
+        (
+        <div id="ChartEdiciones_2" style="width:900px;height:600px;margin: 0 auto;"></div>,
+        overviews:histogram($params, $data)
+        )
+    )
 };
 
 
