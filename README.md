@@ -13,6 +13,6 @@ El trabajo se inició en el contexto del proyecto ["Estilística computacional d
 
 Si utiliza esta aplicación o los datos incluidos, por favor haga referencia a ella. Se propone citar la aplicación de la siguiente manera: 
 
-Ulrike Henny-Krahmer (ed.) (2017-2021). _Bib-ACMé. Bibliografía digital de novelas argentinas, cubanas y mexicanas (1830-1910)._ Versión 1.1. Github.com. URL: https://github.com/cligs/bibacme. DOI: https://doi.org/10.5281/zenodo.4453491.
+Ulrike Henny-Krahmer (ed.) (2017-2021). _Bib-ACMé. Bibliografía digital de novelas argentinas, cubanas y mexicanas (1830-1910)._ Versión 1.2. Github.com. URL: https://github.com/cligs/bibacme. DOI: https://doi.org/10.5281/zenodo.4453491.
 
 Si tiene sugerencias o comentarios por favor contacte ulrike.henny /at/ web.de
