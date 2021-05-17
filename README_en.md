@@ -13,6 +13,6 @@ This work was initiated in the context of the project ["Computational Literary G
 
 If you use the application or the data, please cite it as:
 
-Ulrike Henny-Krahmer (ed.) (2017-2021). _Bib-ACMé. Bibliografía digital de novelas argentinas, cubanas y mexicanas (1830-1910)._ Versión 1.1. Github.com. URL: https://github.com/cligs/bibacme. DOI: https://doi.org/10.5281/zenodo.4453491.
+Ulrike Henny-Krahmer (ed.) (2017-2021). _Bib-ACMé. Bibliografía digital de novelas argentinas, cubanas y mexicanas (1830-1910)._ Versión 1.2. Github.com. URL: https://github.com/cligs/bibacme. DOI: https://doi.org/10.5281/zenodo.4453491.
 
 If you have any suggestions or comments please contact ulrike.henny /at/ web.de
