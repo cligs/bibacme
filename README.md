@@ -1,6 +1,7 @@
 [(english)](README_en.md)
 
 # Bib-ACMé: Bibliografía digital de novelas argentinas, cubanas y mexicanas (1830-1910)
+[![DOI](https://zenodo.org/badge/87552639.svg)](https://zenodo.org/badge/latestdoi/87552639)
 
 La bibliografía digital Bib-ACMé reúne datos sobre novelas argentinas, cubanas y mexicanas que se publicaron entre 1830 y 1910. El objetivo de la bibliografía es sobre todo hacer posible una visión general de las novelas que se publicaron en este período y ámbito geográfico y cultural. Bib-ACMé se basa en bibliografías existentes de la literatura y de las novelas argentinas, cubanas y mexicanas del siglo XIX (sobre todo los trabajos de [Myron Lichtblau](https://catalog.hathitrust.org/Record/003156022), [Arturo Torres-Rioseco](https://catalog.hathitrust.org/Record/001168729) y el [Diccionario de la Literatura Cubana](http://www.cervantesvirtual.com/obra/diccionario-de-la-literatura-cubana--0/)), llevando los registros impresos a un entorno digital para facilitar análisis cuantitativos sobre autores, obras y ediciones.
 
@@ -12,6 +13,6 @@ El trabajo se inició en el contexto del proyecto ["Estilística computacional d
 
 Si utiliza esta aplicación o los datos incluidos, por favor haga referencia a ella. Se propone citar la aplicación de la siguiente manera: 
 
-*Ulrike Henny-Krahmer (ed). Bib-ACMé. Bibliografía digital de novelas argentinas, cubanas y mexicanas (1830-1910). Würzburg, 2017ff.*
+Ulrike Henny-Krahmer (ed.) (2017-2021). _Bib-ACMé. Bibliografía digital de novelas argentinas, cubanas y mexicanas (1830-1910)._ Versión 1.2. Github.com. URL: https://github.com/cligs/bibacme. DOI: https://doi.org/10.5281/zenodo.4453491.
 
 Si tiene sugerencias o comentarios por favor contacte ulrike.henny /at/ web.de
