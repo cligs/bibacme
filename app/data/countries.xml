@@ -78,6 +78,34 @@
                     <placeName>Estados Unidos</placeName>
                 </place>
             </listPlace>
+            <!-- publication places:
+                
+            - Buenos Aires
+            - Barcelona
+            - La Habana
+            - La Plata
+            - Córdoba
+            - México
+            - Veracruz
+            - Nueva York
+            - San Juan Bautista, Tabasco
+            - Santiago de Chile
+            - Matanzas
+            - Madrid
+            - Montevideo
+            - Guatemala
+            - Rosario
+            - Valencia
+            - Zacatecas
+            - Guadalupe
+            - Salamanca
+            - Celaya, Guanajuato
+            - Guadalajara
+            - Mérida
+            - Río Grande City, Texas
+            - París
+            - Oaxaca
+            -->
         </body>
     </text>
 </TEI>

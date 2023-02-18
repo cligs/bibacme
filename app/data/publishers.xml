@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="acronym">Bib-ACMé</title>
+                <title level="m" type="main">Bibliografía digital de novelas argentinas, cubanas y mexicanas
+                    (1830-1910)</title>
+                <title level="a">Editoriales</title>
+                <principal xml:id="uhk">Ulrike Henny-Krahmer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://cligs.hypotheses.org/">CLiGS</ref>
+                </publisher>
+                <pubPlace>Rostock</pubPlace>
+                <date when="2022">2022</date>
+                <idno type="url">http://bibacme.cligs.digital-humanities.de/</idno>
+                <availability status="free">
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA
+                        4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>La lista contiene editoriales de publicación de las obras reunidas en esta
+                    bibliografía.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listOrg>
+                <org xml:id="P1">
+                    <orgName>Imprenta de Buffet y Bosch</orgName>
+                    <country>Argentina</country>
+                    <settlement>Buenos Aires</settlement>
+                </org>
+                <org xml:id="P2">
+                    <orgName>Emilio de Mársico</orgName>
+                    <country>Argentina</country>
+                    <settlement>Buenos Aires</settlement>
+                </org>
+                <org xml:id="P3">
+                    <orgName>Henrich</orgName>
+                    <country>España</country>
+                    <settlement>Barcelona</settlement>
+                </org>
+                <org xml:id="P4">
+                    <orgName>M. A. Rosas</orgName>
+                    <country>Argentina</country>
+                    <settlement>Buenos Aires</settlement>
+                </org>
+                <org xml:id="P5">
+                    <orgName>J. Molinas</orgName>
+                    <country>España</country>
+                    <settlement>Barcelona</settlement>
+                </org>
+                <org xml:id="P6">
+                    <orgName>La Propaganda Literaria</orgName>
+                    <country>Cuba</country>
+                    <settlement>La Habana</settlement>
+                </org>
+                <org xml:id="P7">
+                    <orgName>Imprenta El Trabajo de Narciso López</orgName>
+                    <country>Cuba</country>
+                    <settlement>La Habana</settlement>
+                </org>
+                <org xml:id="P8">
+                    <orgName>Imprenta de Mayo</orgName>
+                    <country>Argentina</country>
+                    <settlement>Buenos Aires</settlement>
+                </org>
+                <org xml:id="P9">
+                    <orgName>Ivaldi y Checchi</orgName>
+                    <orgName>Ivaldi &amp; Checchi, Editores</orgName>
+                    <country>Argentina</country>
+                    <settlement>Buenos Aires</settlement>
+                </org>
+                <org xml:id="P10">
+                    <orgName>Talleres Gráficos Joaquín Sesé</orgName>
+                    <country>Argentina</country>
+                    <settlement>La Plata</settlement>
+                </org>
+                <org xml:id="P11">
+                    <orgName>Imprenta Argentina</orgName>
+                    <country>Argentina</country>
+                    <settlement>Córdoba</settlement>
+                </org>
+                <org xml:id="P12">
+                    <orgName>Pedro Irume</orgName>
+                    <country>Argentina</country>
+                    <settlement>Buenos Aires</settlement>
+                </org>
+                <org xml:id="P13">
+                    <orgName>Imprenta de Luz del Alma</orgName>
+                    <country>Argentina</country>
+                    <settlement>Buenos Aires</settlement>
+                </org>
+                <org xml:id="P14">
+                    <orgName>Imprenta del Courrier de la Plata</orgName>
+                    <country>Argentina</country>
+                    <settlement>Buenos Aires</settlement>
+                </org>
+                <org xml:id="P15">
+                    <orgName>Presa</orgName>
+                    <country>Argentina</country>
+                    <settlement>Buenos Aires</settlement>
+                    <country>México</country>
+                    <settlement>México</settlement>
+                    <country>España</country>
+                    <settlement>Barcelona</settlement>
+                </org>
+                <org xml:id="P16">
+                    <orgName>M. Biedma</orgName>
+                    <orgName>Imprenta de M. Biedma</orgName>
+                    <country>Argentina</country>
+                    <settlement>Buenos Aires</settlement>
+                </org>
+                <org xml:id="P17">
+                    <orgName>Imprenta Literaria</orgName>
+                    <country>México</country>
+                    <settlement>México</settlement>
+                </org>
+                <org xml:id="P18">
+                    <orgName>Maucci Hermanos</orgName>
+                    <country>México</country>
+                    <settlement>México</settlement>
+                </org>
+                <org xml:id="P19">
+                    <orgName>Imprenta de Ignacio Cumplido</orgName>
+                    <country>México</country>
+                    <settlement>México</settlement>
+                </org>
+                <org xml:id="P20">
+                    <orgName>Eusebio Sánchez</orgName>
+                    <country>México</country>
+                    <settlement>México</settlement>
+                </org>
+                <org xml:id="P21">
+                    <orgName>Imprenta Políglota</orgName>
+                    <country>México</country>
+                    <settlement>México</settlement>
+                </org>
+                <org xml:id="P22">
+                    <orgName>Tipografía de R. de Zayas</orgName>
+                    <country>México</country>
+                    <settlement>Veracruz</settlement>
+                </org>
+                <org xml:id="P23">
+                    <orgName>D. Appleton y Compañía, ed.</orgName>
+                    <country>Estados Unidos</country>
+                    <settlement>Nueva York</settlement>
+                </org>
+                <org xml:id="P24">
+                    <orgName>Tipografía de El Heraldo</orgName>
+                    <country>México</country>
+                    <settlement>México</settlement>
+                </org>
+                <org xml:id="P25">
+                    <orgName>Tipografía La Española</orgName>
+                    <country>México</country>
+                    <settlement>México</settlement>
+                </org>
+                <org xml:id="P26">
+                    <orgName>Imprenta, Litografía y Enc. de Ireneo Paz</orgName>
+                    <orgName>Imprenta y Litografía de Ireneo Paz</orgName>
+                    <country>México</country>
+                    <settlement>México</settlement>
+                </org>
+                <org xml:id="P27">
+                    <orgName>Tipografía de F. Ghigliazza</orgName>
+                    <orgName>Tipografía "Juventud Tabasqueña" de F. Ghigliazza</orgName>
+                    <orgName>Tipografía Juventud Tabasqueña</orgName>
+                    <country>México</country>
+                    <region>Tabasco</region>
+                    <settlement>San Juan Bautista</settlement>
+                </org>
+                <org xml:id="P28">
+                    <orgName>La Universidad</orgName>
+                    <country>México</country>
+                    <region>Tabasco</region>
+                    <settlement>San Juan Bautista</settlement>
+                </org>
+                <org xml:id="P29">
+                    <orgName>Tip. Lit. de Ramón González</orgName>
+                    <country>México</country>
+                    <region>Tabasco</region>
+                    <settlement>San Juan Bautista</settlement>
+                </org>
+                <org xml:id="P30">
+                    <orgName>Imprenta de la Librería del Mercurio</orgName>
+                    <country>Chile</country>
+                    <settlement>Santiago de Chile</settlement>
+                </org>
+                <org xml:id="P31">
+                    <orgName>Imp. de R. Oliva</orgName>
+                    <orgName>Imprenta de Oliva</orgName>
+                    <country>Cuba</country>
+                    <settlement>La Habana</settlement>
+                </org>
+                <org xml:id="P32">
+                    <orgName>Imprenta Literaria</orgName>
+                    <country>Cuba</country>
+                    <settlement>La Habana</settlement>
+                </org>
+                <org xml:id="P33">
+                    <orgName>Imprenta de El Espejo</orgName>
+                    <country>Estados Unidos</country>
+                    <settlement>Nueva York</settlement>
+                </org>
+                <org xml:id="P34">
+                    <orgName>Imprenta de La Discusión</orgName>
+                    <country>Cuba</country>
+                    <settlement>La Habana</settlement>
+                </org>
+                <org xml:id="P35">
+                    <orgName>Manuel M. Hernández, editor</orgName>
+                    <country>Estados Unidos</country>
+                    <settlement>Nueva York</settlement>
+                </org>
+                <org xml:id="P36">
+                    <orgName>Imprenta La Lucha</orgName>
+                    <country>Cuba</country>
+                    <settlement>La Habana</settlement>
+                </org>
+                <org xml:id="P37">
+                    <orgName>Imprenta de pp. Massana</orgName>
+                    <country>Cuba</country>
+                    <settlement>La Habana</settlement>
+                </org>
+                <org xml:id="P38">
+                    <orgName>Gorgas y Compañía, editores</orgName>
+                    <country>España</country>
+                    <settlement>Barcelona</settlement>
+                </org>
+                <org xml:id="P39">
+                    <orgName>Tipografía de Estrada, Díaz y López</orgName>
+                    <country>España</country>
+                    <settlement>Madrid</settlement>
+                </org>
+                <org xml:id="P40">
+                    <orgName>Lajouane</orgName>
+                    <orgName>Félix Lajouane</orgName>
+                    <country>Argentina</country>
+                    <settlement>Buenos Aires</settlement>
+                </org>
+                <org xml:id="P41">
+                    <orgName>Imprent a Vapor</orgName>
+                    <country>Argentina</country>
+                    <settlement>Buenos Aires</settlement>
+                </org>
+                <org xml:id="P42">
+                    <orgName>B. Valdettaro</orgName>
+                    <country>Argentina</country>
+                    <settlement>Buenos Aires</settlement>
+                </org>
+                <org xml:id="P43">
+                    <orgName>Imprenta Elzeviriana de "La Tribuna Popular"</orgName>
+                    <country>Uruguay</country>
+                    <settlement>Montevideo</settlement>
+                </org>
+                <org xml:id="P44">
+                    <orgName>Barreiro y Ramos</orgName>
+                    <country>Uruguay</country>
+                    <settlement>Montevideo</settlement>
+                    <country>Argentina</country>
+                    <settlement>Buenos Aires</settlement>
+                </org>
+                <org xml:id="P45">
+                    <orgName>Imprenta de Las Artes</orgName>
+                    <country>Argentina</country>
+                    <settlement>Buenos Aires</settlement>
+                </org>
+                <org xml:id="P46">
+                    <orgName>Maucci</orgName>
+                    <country>Argentina</country>
+                    <settlement>Buenos Aires</settlement>
+                </org>
+                <org xml:id="P47">
+                    <orgName>Biblioteca de La Nación</orgName>
+                    <orgName>La Nación</orgName>
+                    <country>Argentina</country>
+                    <settlement>Buenos Aires</settlement>
+                </org>
+                <org xml:id="P48">
+                    <orgName>Moen</orgName>
+                    <orgName>Arnoldo Moen</orgName>
+                    <country>Argentina</country>
+                    <settlement>Buenos Aires</settlement>
+                </org>
+                <org xml:id="P49">
+                    <orgName>J. Cúneo</orgName>
+                    <country>Argentina</country>
+                    <settlement>Buenos Aires</settlement>
+                </org>
+                <org xml:id="P50">
+                    <orgName>Maucci</orgName>
+                    <country>España</country>
+                    <settlement>Barcelona</settlement>
+                </org>
+                <org xml:id="P51">
+                    <orgName>La Unión</orgName>
+                    <country>Guatemala</country>
+                    <settlement>Guatemala</settlement>
+                </org>
+                <org xml:id="P52">
+                    <orgName>Casa editora de A. Bietti</orgName>
+                    <country>Argentina</country>
+                    <settlement>Buenos Aires</settlement>
+                </org>
+                <org xml:id="P53">
+                    <orgName>Imprenta de El Nacional</orgName>
+                    <country>Argentina</country>
+                    <settlement>Buenos Aires</settlement>
+                </org>
+                <org xml:id="P54">
+                    <orgName>Imprenta Americana</orgName>
+                    <country>Argentina</country>
+                    <settlement>Buenos Aires</settlement>
+                </org>
+                <org xml:id="P55">
+                    <orgName>Casa Editora Franco-Española</orgName>
+                    <country>Argentina</country>
+                    <settlement>Buenos Aires</settlement>
+                    <country>España</country>
+                    <settlement>Barcelona</settlement>
+                </org>
+                <org xml:id="P56">
+                    <orgName>J.A. Berra</orgName>
+                    <country>Argentina</country>
+                    <settlement>Buenos Aires</settlement>
+                </org>
+                <org xml:id="P57">
+                    <orgName>Ignacio Mosquera</orgName>
+                    <country>Argentina</country>
+                    <settlement>Buenos Aires</settlement>
+                </org>
+                <org xml:id="P58">
+                    <orgName>Sud-Americana</orgName>
+                    <country>Argentina</country>
+                    <settlement>Buenos Aires</settlement>
+                </org>
+                <org xml:id="P59">
+                    <orgName>Elzeviriana</orgName>
+                    <country>Argentina</country>
+                    <settlement>Buenos Aires</settlement>
+                </org>
+                <org xml:id="P60">
+                    <orgName>D. Jorro</orgName>
+                    <country>España</country>
+                    <settlement>Madrid</settlement>
+                </org>
+                <org xml:id="P61">
+                    <orgName>F. Sempere</orgName>
+                    <country>España</country>
+                    <settlement>Valencia</settlement>
+                    <settlement>Madrid</settlement>
+                </org>
+                <org xml:id="P62">
+                    <orgName>Imprenta del Comercio</orgName>
+                    <country>México</country>
+                    <settlement>Zacatecas</settlement>
+                </org>
+                <org xml:id="P63">
+                    <orgName>Imprenta y Litografía de N. Espinosa</orgName>
+                    <country>México</country>
+                    <settlement>Zacatecas</settlement>
+                </org>
+                <org xml:id="P64">
+                    <orgName>Tipografía Enrique García</orgName>
+                    <country>México</country>
+                    <settlement>Zacatecas</settlement>
+                </org>
+                <org xml:id="P65">
+                    <orgName>Tip. del Hospicio de niños</orgName>
+                    <country>México</country>
+                    <settlement>Guadalupe</settlement>
+                </org>
+                <org xml:id="P66">
+                    <orgName>Imp. de V. G. Torres a cargo de M. García</orgName>
+                    <country>México</country>
+                    <settlement>México</settlement>
+                </org>
+                <org xml:id="P67">
+                    <orgName>Imprenta de El Tiempo</orgName>
+                    <orgName>Imprenta de El Tiempo, de V. Agüeros</orgName>
+                    <orgName>Talleres Tip. de V. Agüeros</orgName>
+                    <orgName>Tipografía de Victoriano Agüeros, ed.</orgName>
+                    <country>México</country>
+                    <settlement>México</settlement>
+                </org>
+                <org xml:id="P68">
+                    <orgName>Imp. de la Penitenciaría</orgName>
+                    <country>España</country>
+                    <settlement>Salamanca</settlement>
+                </org>
+                <org xml:id="P69">
+                    <orgName>Imprenta de Epifanio D. Orozco</orgName>
+                    <country>México</country>
+                    <settlement>México</settlement>
+                </org>
+                <org xml:id="P70">
+                    <orgName>Imprenta y Papelería La Universal, de Ruiz Hno.</orgName>
+                    <country>Cuba</country>
+                    <settlement>La Habana</settlement>
+                </org>
+                <org xml:id="P71">
+                    <orgName>Tipografía Miranda</orgName>
+                    <country>México</country>
+                    <settlement>Celaya, Guanajuato</settlement>
+                </org>
+                <org xml:id="P72">
+                    <orgName>Imprenta Políglota</orgName>
+                    <country>México</country>
+                    <settlement>México</settlement>
+                </org>
+                <org xml:id="P73">
+                    <orgName>Tipografía de la Civilización</orgName>
+                    <country>México</country>
+                    <settlement>Guadalajara</settlement>
+                </org>
+                <org xml:id="P74">
+                    <orgName>Imprenta Manuel Mimienza</orgName>
+                    <country>México</country>
+                    <settlement>Mérida</settlement>
+                </org>
+                <org xml:id="P75">
+                    <orgName>Imprenta del Autor</orgName>
+                    <country>México</country>
+                    <settlement>México</settlement>
+                </org>
+                <org xml:id="P76">
+                    <orgName>Imprenta de Jesús T. Recio</orgName>
+                    <country>Estados Unidos</country>
+                    <settlement>Río Grande City, Texas</settlement>
+                </org>
+                <org xml:id="P77">
+                    <orgName>J. Peuser</orgName>
+                    <country>Argentina</country>
+                    <settlement>Buenos Aires</settlement>
+                </org>
+                <org xml:id="P78">
+                    <orgName>El Porvenir</orgName>
+                    <country>Argentina</country>
+                    <settlement>Buenos Aires</settlement>
+                </org>
+                <org xml:id="P79">
+                    <orgName>Imprenta y Litografía "La Buenos Aires"</orgName>
+                    <country>Argentina</country>
+                    <settlement>Buenos Aires</settlement>
+                </org>
+                <org xml:id="P80">
+                    <orgName>Sud-América</orgName>
+                    <country>Argentina</country>
+                    <settlement>Buenos Aires</settlement>
+                </org>
+                <org xml:id="P81">
+                    <orgName>E. Denné</orgName>
+                    <country>Francia</country>
+                    <settlement>París</settlement>
+                </org>
+                <org xml:id="P82">
+                    <orgName>Librería de Jesús Menéndez</orgName>
+                    <country>Argentina</country>
+                    <settlement>Buenos Aires</settlement>
+                </org>
+                <org xml:id="P83">
+                    <orgName>Imprenta de la Revista</orgName>
+                    <country>Argentina</country>
+                    <settlement>Buenos Aires</settlement>
+                </org>
+                <org xml:id="P84">
+                    <orgName>Bredahl</orgName>
+                    <country>Argentina</country>
+                    <settlement>Buenos Aires</settlement>
+                </org>
+                <org xml:id="P85">
+                    <orgName>Biblioteca Nacional "Nec Plus Ultra"</orgName>
+                    <country>Argentina</country>
+                    <settlement>Buenos Aires</settlement>
+                </org>
+                <org xml:id="P86">
+                    <orgName>Petrocchi</orgName>
+                    <country>Argentina</country>
+                    <settlement>Buenos Aires</settlement>
+                </org>
+                <org xml:id="P87">
+                    <orgName>L. J. Rosso</orgName>
+                    <country>Argentina</country>
+                    <settlement>Buenos Aires</settlement>
+                </org>
+                <org xml:id="P88">
+                    <orgName>Imprenta de J. M. Lara</orgName>
+                    <country>México</country>
+                    <settlement>México</settlement>
+                </org>
+                <org xml:id="P89">
+                    <orgName>Villa y Hno., imp.</orgName>
+                    <country>Cuba</country>
+                    <settlement>La Habana</settlement>
+                </org>
+                <org xml:id="P90">
+                    <orgName>J. Ballescá y Cía., Suc.</orgName>
+                    <country>México</country>
+                    <settlement>México</settlement>
+                </org>
+                <org xml:id="P91">
+                    <orgName>Imprenta San-Germán</orgName>
+                    <country>México</country>
+                    <settlement>Oaxaca</settlement>
+                </org>
+                <org xml:id="P92">
+                    <orgName>Imprenta y Encuadernación de M. Nava</orgName>
+                    <country>México</country>
+                    <settlement>Oaxaca</settlement>
+                </org>
+                <org xml:id="P93">
+                    <orgName>Tipografía 2ª del Salto de Agua y Igualdad 2010</orgName>
+                    <country>México</country>
+                    <settlement>México</settlement>
+                </org>
+                <org xml:id="P94">
+                    <orgName>F. Díaz de León</orgName>
+                    <orgName>F. Díaz de León y S. White</orgName>
+                    <country>México</country>
+                    <settlement>México</settlement>
+                </org>
+                <org xml:id="P95">
+                    <orgName>Imprenta de I. Escalante</orgName>
+                    <country>México</country>
+                    <settlement>México</settlement>
+                </org>
+                <org xml:id="P96">
+                    <orgName>F. Laso y Compañía</orgName>
+                    <country>México</country>
+                    <settlement>México</settlement>
+                </org>
+                <org xml:id="P97">
+                    <orgName>Tipografía de "La República"</orgName>
+                    <country>México</country>
+                    <settlement>México</settlement>
+                </org>
+                <org xml:id="P98">
+                    <orgName>Tipografía de la Secretaría de Fomento</orgName>
+                    <country>México</country>
+                    <settlement>México</settlement>
+                </org>
+                <org xml:id="P99">
+                    <orgName>Tipografía Literaria de F. Mata</orgName>
+                    <country>México</country>
+                    <settlement>México</settlement>
+                </org>
+                <org xml:id="P100">
+                    <orgName></orgName>
+                    <country></country>
+                    <settlement></settlement>
+                </org>
+            </listOrg>
+        </body>
+    </text>
+</TEI>

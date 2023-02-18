@@ -74,6 +74,7 @@ title =
 publisher =
   element publisher {
     attribute cert { xsd:NCName }?,
+    attribute corresp { text }?,
     (text | ref | seg)+
   }
 pubPlace =
@@ -98,6 +99,7 @@ author =
 note =
   element note {
     attribute resp { text }?,
+    attribute type { xsd:NCName }?,
     (text
      | ref
      | seg

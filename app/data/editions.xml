@@ -38,7 +38,7 @@
                         <title type="main" level="m">Castruccio</title>
                         <title type="sub" level="m">(Episodio novelesco de actualidad)</title>
                         <imprint>
-                            <publisher>Imprenta de Buffet y Bosch</publisher>
+                            <publisher corresp="publishers.xml#P1">Imprenta de Buffet y Bosch</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
                             <date when="1889">1889</date>
                         </imprint>
@@ -51,7 +51,7 @@
                         <title type="main" level="m">Otilia</title>
                         <title type="sub" level="m">(Episodio de la guerra de Cuba)</title>
                         <imprint>
-                            <publisher>Emilio de Mársico</publisher>
+                            <publisher corresp="publishers.xml#P2">Emilio de Mársico</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
                             <date when="1887">1887</date>
                         </imprint>
@@ -64,13 +64,14 @@
                         <title type="main" level="m">Otilia</title>
                         <title type="sub" level="m">Novela americana</title>
                         <imprint>
-                            <publisher>Henrich</publisher>
+                            <publisher corresp="publishers.xml#P3">Henrich</publisher>
                             <pubPlace corresp="countries.xml#ES">Barcelona</pubPlace>
                             <date when="1895">1895</date>
                         </imprint>
                         <extent n="319">319 pp.</extent>
                     </monogr>
                     <ref>https://catalog.hathitrust.org/Record/100327394</ref>
+                    <note type="subgenre.summary.identity.explicit">novela americana</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W4" xml:id="E4">
                     <monogr>
@@ -78,7 +79,7 @@
                         <title level="m" type="main">La ciudad heroica</title>
                         <title level="m" type="sub">Novela histórica</title>
                         <imprint>
-                            <publisher>M. A. Rosas</publisher>
+                            <publisher corresp="publishers.xml#P4">M. A. Rosas</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
                             <date when="1904">1904</date>
                         </imprint>
@@ -91,7 +92,7 @@
                         <title level="m" type="main">Los Misterios de la Habana</title>
                         <title level="m" type="sub">Novela de costumbres</title>
                         <imprint>
-                            <publisher>J. Molinas</publisher>
+                            <publisher corresp="publishers.xml#P5">J. Molinas</publisher>
                             <pubPlace corresp="countries.xml#ES">Barcelona</pubPlace>
                             <date when="1879">1879</date>
                         </imprint>
@@ -105,7 +106,7 @@
                         <title level="m" type="main">Adelfa</title>
                         <title level="m" type="sub">Una historia de amor</title>
                         <imprint>
-                            <publisher>La Propaganda Literaria</publisher>
+                            <publisher corresp="publishers.xml#P6">La Propaganda Literaria</publisher>
                             <pubPlace corresp="countries.xml#CU">La Habana</pubPlace>
                             <date when="1899">1899</date>
                         </imprint>
@@ -123,7 +124,7 @@
                                 rend="italic">Georgina de Flores</seg>
                         </title>
                         <imprint>
-                            <publisher>Imprenta El Trabajo de Narciso López</publisher>
+                            <publisher corresp="publishers.xml#P7">Imprenta El Trabajo de Narciso López</publisher>
                             <pubPlace corresp="countries.xml#CU">La Habana</pubPlace>
                             <date when="1902">1902</date>
                         </imprint>
@@ -135,6 +136,7 @@
                         <author key="A4">Alberto, Jorge</author>
                         <title type="main" level="m">Estela</title>
                         <imprint>
+                            <publisher>desconocido</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
                             <date when="1880">1880</date>
                         </imprint>
@@ -148,12 +150,13 @@
                         <title type="main" level="m">Espinas de amor</title>
                         <title type="sub" level="m">Novela histórica original</title>
                         <imprint>
-                            <publisher>Imprenta de Mayo</publisher>
+                            <publisher corresp="publishers.xml#P8">Imprenta de Mayo</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
                             <date when="1860">1860</date>
                         </imprint>
                         <extent n="112">112 pp.</extent>
                     </monogr>
+                    <note type="subgenre.summary.identity.explicit">novela original</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W9" xml:id="E12">
                     <monogr>
@@ -174,7 +177,7 @@
                         <title type="main" level="m">En el mar austral</title>
                         <title type="sub" level="m">(Croquis fueguinos)</title>
                         <imprint>
-                            <publisher>Ivaldi y Checchi</publisher>
+                            <publisher corresp="publishers.xml#P9">Ivaldi y Checchi</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
                             <date when="1898">1898</date>
                         </imprint>
@@ -189,6 +192,7 @@
                         <author key="A6">Álvarez, José Sixto</author>
                         <title type="main" level="m">Memorias de un vigilante</title>
                         <imprint>
+                            <publisher>desconocido</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
                             <date when="1897">1897</date>
                         </imprint>
@@ -196,6 +200,7 @@
                     </monogr>
                     <series>
                         <title level="s" type="main">Misterios de Buenos Aires</title>
+                        <title level="s">Biblioteca del pueblo</title>
                     </series>
                     <ref>https://upload.wikimedia.org/wikipedia/commons/5/59/Misterios_Buenos_Aires_-_Fabio_Carrizo%2C_Seud._de_Jose_S._Alvarez_y_Jose_Arturo_Scotto.pdf</ref>
                 </biblStruct>
@@ -205,20 +210,21 @@
                         <title type="main" level="m">Un viaje al país de los matreros</title>
                         <title type="sub" level="m">Cinematógrafo criollo</title>
                         <imprint>
-                            <publisher>Ivaldi &amp; Checchi, Editores</publisher>
+                            <publisher corresp="publishers.xml#P9">Ivaldi &amp; Checchi, Editores</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
                             <date when="1897">1897</date>
                         </imprint>
                         <extent n="152">152 pp.</extent>
                     </monogr>
                     <ref>https://commons.wikimedia.org/wiki/File:Un_viaje_al_pais_de_los_matreros_-_Fray_Mocho.pdf</ref>
+                    <note type="subgenre.summary.identity.explicit">novela criolla</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W11" xml:id="E1839">
                     <monogr>
                         <author key="A6">Álvarez, José Sixto</author>
                         <title type="main" level="m">Tierra de matreros</title>
                         <imprint>
-                            <publisher>Talleres Gráficos Joaquín Sesé</publisher>
+                            <publisher corresp="publishers.xml#P10">Talleres Gráficos Joaquín Sesé</publisher>
                             <pubPlace corresp="countries.xml#AR">La Plata</pubPlace>
                             <date when="1910">1910</date>
                         </imprint>
@@ -231,7 +237,7 @@
                         <author key="A7">Allende de Buffo, Leonor</author>
                         <title type="main" level="m">Flavio Solari</title>
                         <imprint>
-                            <publisher>Imprenta Argentina</publisher>
+                            <publisher corresp="publishers.xml#P11">Imprenta Argentina</publisher>
                             <pubPlace corresp="countries.xml#AR">Córdoba</pubPlace>
                             <date when="1907">1907</date>
                         </imprint>
@@ -258,7 +264,7 @@
                         <author key="A0">Anónimo</author>
                         <title type="main" level="m">El asesino de Francisco Azcárate</title>
                         <imprint>
-                            <publisher>Pedro Irume</publisher>
+                            <publisher corresp="publishers.xml#P12">Pedro Irume</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
                             <date when="1886">1886</date>
                         </imprint>
@@ -272,7 +278,7 @@
                         <title type="sub" level="m">Novela escrita por el "reporter" de Luz del
                             Alma</title>
                         <imprint>
-                            <publisher>Luz del Alma</publisher>
+                            <publisher corresp="publishers.xml#P13">Imprenta de Luz del Alma</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
                             <date when="1887">1887</date>
                         </imprint>
@@ -286,7 +292,7 @@
                         <title type="main" level="m">¿Inocentes o culpables?</title>
                         <title type="sub" level="m">(Novela naturalista)</title>
                         <imprint>
-                            <publisher>Imprenta del Courrier de la Plata</publisher>
+                            <publisher corresp="publishers.xml#P14">Imprenta del Courrier de la Plata</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
                             <date when="1884">1884</date>
                         </imprint>
@@ -326,7 +332,7 @@
                         <title type="main" level="m">El despotismo del oro</title>
                         <title type="sub" level="m">Novela original</title>
                         <imprint>
-                            <publisher>Presa</publisher>
+                            <publisher corresp="publishers.xml#P15">Presa</publisher>
                             <pubPlace corresp="countries.xml#ES">Barcelona</pubPlace>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
                             <pubPlace corresp="countries.xml#MX">México</pubPlace>
@@ -335,13 +341,14 @@
                         <extent n="224">224 pp.</extent>
                     </monogr>
                     <ref>https://catalog.hathitrust.org/Record/001369280</ref>
+                    <note type="subgenre.summary.identity.explicit">novela original</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W20" xml:id="E26">
                     <monogr>
                         <author key="A12">Auzon, Maximiliano Eugenio</author>
                         <title type="main" level="m">Severina</title>
                         <imprint>
-                            <publisher>M. Biedma</publisher>
+                            <publisher corresp="publishers.xml#P16">M. Biedma</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
                             <date when="1887">1887</date>
                         </imprint>
@@ -355,7 +362,7 @@
                         <title type="main" level="m">El Capítan Rossi</title>
                         <title type="sub" level="m">Novela histórica original</title>
                         <imprint>
-                            <publisher>Imprenta Literaria</publisher>
+                            <publisher corresp="publishers.xml#P17">Imprenta Literaria</publisher>
                             <pubPlace corresp="countries.xml#MX">México</pubPlace>
                             <date when="1864">1864</date>
                         </imprint>
@@ -363,6 +370,7 @@
                     </monogr>
                     <ref>https://catalog.hathitrust.org/Record/008448970</ref>
                     <ref>https://cd.dgb.uanl.mx/handle/201504211/14743</ref>
+                    <note type="subgenre.summary.identity.explicit">novela original</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W24" xml:id="E30">
                     <monogr>
@@ -370,7 +378,7 @@
                         <title type="main" level="m">El mendigo</title>
                         <title type="sub" level="m">Novela histórica original</title>
                         <imprint>
-                            <publisher>Imprenta Literaria</publisher>
+                            <publisher corresp="publishers.xml#P17">Imprenta Literaria</publisher>
                             <pubPlace corresp="countries.xml#MX">México</pubPlace>
                             <date from="1864" to="1865">1864-1865</date>
                         </imprint>
@@ -378,6 +386,7 @@
                             pp.</extent>
                     </monogr>
                     <ref>https://cd.dgb.uanl.mx/handle/201504211/14814</ref>
+                    <note type="subgenre.summary.identity.explicit">novela original</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W24" xml:id="E28">
                     <monogr>
@@ -385,20 +394,21 @@
                         <title type="main" level="m">El mendigo de San Ángel</title>
                         <title type="sub" level="m">Novela histórica original</title>
                         <imprint>
-                            <publisher>Maucci Hermanos</publisher>
+                            <publisher corresp="publishers.xml#México">Maucci Hermanos</publisher>
                             <pubPlace corresp="countries.xml#MX">México</pubPlace>
                             <date>desconocido</date>
                         </imprint>
                         <extent n="1180">2 tomos: 592 pp.; 588 pp.</extent>
                     </monogr>
                     <ref>https://cd.dgb.uanl.mx/handle/201504211/8450</ref>
+                    <note type="subgenre.summary.identity.explicit">novela original</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W25" xml:id="E31">
                     <monogr>
                         <author key="A13">Zamacois, Niceto de</author>
                         <title type="main" level="m">La destrucción de Pompeya</title>
                         <imprint>
-                            <publisher>Imprenta de Ignacio Cumplido</publisher>
+                            <publisher corresp="publishers.xml#P19">Imprenta de Ignacio Cumplido</publisher>
                             <pubPlace corresp="countries.xml#MX">México</pubPlace>
                             <date when="1871">1871</date>
                         </imprint>
@@ -412,7 +422,7 @@
                         <author key="A14">Zárate, Eduardo E.</author>
                         <title type="main" level="m">Jalapa</title>
                         <imprint>
-                            <publisher>Eusebio Sánchez</publisher>
+                            <publisher corresp="publishers.xml#P20">Eusebio Sánchez</publisher>
                             <pubPlace corresp="countries.xml#MX">México</pubPlace>
                             <date when="1894">1894</date>
                             <biblScope unit="volume">I</biblScope>
@@ -422,6 +432,7 @@
                     <series>
                         <title level="s">Episodios mexicanos</title>
                     </series>
+                    <note type="subgenre.summary.identity.explicit">novela mexicana</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W206" xml:id="E270">
                     <analytic>
@@ -432,7 +443,7 @@
                         <title type="main" level="m">Cuatro leyendas</title>
                         <edition>Edición de La República</edition>
                         <imprint>
-                            <publisher>Imprenta Políglota</publisher>
+                            <publisher corresp="publishers.xml#P21">Imprenta Políglota</publisher>
                             <pubPlace corresp="countries.xml#MX">México</pubPlace>
                             <date when="1883">1883</date>
                             <biblScope unit="page" n="89">p. 57-146</biblScope>
@@ -449,7 +460,7 @@
                         <title type="sub" level="m">Memorias de Agustín S.</title>
                         <title type="sub" level="m">Novela dedicada a Santiago Sierra</title>
                         <imprint>
-                            <publisher>Tipografía de R. de Zayas</publisher>
+                            <publisher corresp="publishers.xml#P22">Tipografía de R. de Zayas</publisher>
                             <pubPlace corresp="countries.xml#MX">Veracruz</pubPlace>
                             <date when="1881">1881</date>
                         </imprint>
@@ -462,12 +473,13 @@
                         <title type="main" level="m">Oceánica</title>
                         <title type="sub" level="m">Novela original</title>
                         <imprint>
-                            <publisher>Tipografía de R. de Zayas</publisher>
+                            <publisher corresp="publishers.xml#P22">Tipografía de R. de Zayas</publisher>
                             <pubPlace corresp="countries.xml#MX">Veracruz</pubPlace>
                             <date when="1887">1887</date>
                         </imprint>
                         <extent n="236">En 4°, 236 pp.</extent>
                     </monogr>
+                    <note type="subgenre.summary.identity.explicit">novela original</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W32" xml:id="E38">
                     <monogr>
@@ -478,7 +490,7 @@
                         <title type="sub" level="m">Ilustrada con láminas y grabados, por sus hijos
                             Rafael y Marius</title>
                         <imprint>
-                            <publisher>D. Appleton y Compañía, ed.</publisher>
+                            <publisher corresp="publishers.xml#P23">D. Appleton y Compañía, ed.</publisher>
                             <pubPlace corresp="countries.xml#US">Nueva York</pubPlace>
                             <date when="1902">1902</date>
                         </imprint>
@@ -494,7 +506,7 @@
                         <title type="sub" level="m">Aventuras del Capitán Raúl Obregón</title>
                         <title type="sub" level="m">Novela histórica</title>
                         <imprint>
-                            <publisher>Tipografía de El Heraldo</publisher>
+                            <publisher corresp="publishers.xml#P24">Tipografía de El Heraldo</publisher>
                             <pubPlace corresp="countries.xml#MX">México</pubPlace>
                             <date when="1898">1898</date>
                             <biblScope unit="part">primera parte</biblScope>
@@ -515,7 +527,7 @@
                             vida</title>
                         <title type="sub" level="m">Novela de costumbres</title>
                         <imprint>
-                            <publisher>Tipografía La Española</publisher>
+                            <publisher corresp="publishers.xml#P25">Tipografía La Española</publisher>
                             <pubPlace corresp="countries.xml#MX">México</pubPlace>
                             <date when="1899">1899</date>
                             <biblScope unit="part">primera parte</biblScope>
@@ -533,12 +545,13 @@
                             mexicano</title>
                         <title type="sub" level="m">Novela original de costumbres</title>
                         <imprint>
-                            <publisher>Imprenta, Litografía y Enc. de Ireneo Paz</publisher>
+                            <publisher corresp="publishers.xml#P26">Imprenta, Litografía y Enc. de Ireneo Paz</publisher>
                             <pubPlace corresp="countries.xml#MX">México</pubPlace>
                             <date when="1901">1901</date>
                         </imprint>
                         <extent n="832">3 volúmenes en 4°, XIII, 249, 279 y 304 pp.</extent>
                     </monogr>
+                    <note type="subgenre.summary.identity.explicit">novela original</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W36" xml:id="E42">
                     <monogr>
@@ -548,7 +561,7 @@
                         <title type="sub" level="m">Estudio filosófico sobre la nobleza del corazón
                             y la del linaje</title>
                         <imprint>
-                            <publisher>Maucci Hermanos</publisher>
+                            <publisher corresp="publishers.xml#P18">Maucci Hermanos</publisher>
                             <pubPlace corresp="countries.xml#MX">México</pubPlace>
                             <date when="1899">1899</date>
                         </imprint>
@@ -561,6 +574,7 @@
                     <ref>https://catalog.hathitrust.org/Record/100408372</ref>
                     <ref>https://books.google.de/books/about/Amor_sublime.html?id=wUxEAQAAMAAJ</ref>
                     <ref>http://bdh.bne.es/bnesearch/detalle/bdh0000143350</ref>
+                    <note type="subgenre.summary.identity.explicit">novela mexicana</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W36" xml:id="E43">
                     <monogr>
@@ -572,7 +586,7 @@
                         <edition>segunda edición de 10,000 ejemplares, autorizada y corregida por el
                             autor</edition>
                         <imprint>
-                            <publisher>Maucci Hermanos</publisher>
+                            <publisher corresp="publishers.xml#P18">Maucci Hermanos</publisher>
                             <pubPlace corresp="countries.xml#MX">México</pubPlace>
                             <date>desconocido</date>
                         </imprint>
@@ -581,6 +595,7 @@
                     <series>
                         <title level="s">Biblioteca Mexicana</title>
                     </series>
+                    <note type="subgenre.summary.identity.explicit">novela mexicana</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W36" xml:id="E44">
                     <monogr>
@@ -592,7 +607,7 @@
                         <edition>tercera edición de 10,000 ejemplares adornada de espléndidos
                             fotograbados, autorizada y corregida por el autor</edition>
                         <imprint>
-                            <publisher>Maucci Hermanos</publisher>
+                            <publisher corresp="publishers.xml#P18">Maucci Hermanos</publisher>
                             <pubPlace corresp="countries.xml#MX">México</pubPlace>
                             <date when="1909">1909</date>
                         </imprint>
@@ -603,6 +618,7 @@
                     </series>
                     <ref>https://catalog.hathitrust.org/Record/101404363</ref>
                     <ref>https://itunes.apple.com/do/book/amor-sublime/id1073966213</ref>
+                    <note type="subgenre.summary.identity.explicit">novela mexicana</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W37" xml:id="E45">
                     <monogr>
@@ -611,7 +627,7 @@
                         <title type="sub" level="m">Esbozos a la brocha, por Z. Ed. de La
                             Idea</title>
                         <imprint>
-                            <publisher>Tipografía de F. Ghigliazza</publisher>
+                            <publisher corresp="publishers.xml#P27">Tipografía de F. Ghigliazza</publisher>
                             <pubPlace corresp="countries.xml#MX">San Juan Bautista,
                                 Tabasco</pubPlace>
                             <date when="1885">1885</date>
@@ -629,7 +645,7 @@
                             Cunduacán</title>
                         <edition>Segunda edición</edition>
                         <imprint>
-                            <publisher>La Universidad</publisher>
+                            <publisher corresp="publishers.xml#P28">La Universidad</publisher>
                             <pubPlace corresp="countries.xml#MX">San Juan Bautista,
                                 Tabasco</pubPlace>
                             <date when="1906">1906</date>
@@ -646,7 +662,7 @@
                         <title type="sub" level="m">Perico</title>
                         <edition>Segunda edición</edition>
                         <imprint>
-                            <publisher>Tip. Lit. de Ramón González</publisher>
+                            <publisher corresp="publishers.xml#P29">Tip. Lit. de Ramón González</publisher>
                             <pubPlace corresp="countries.xml#MX">San Juan Bautista,
                                 Tabasco</pubPlace>
                             <date when="1906">1906</date>
@@ -671,13 +687,15 @@
                         <title type="main" level="m">El negro Francisco</title>
                         <title type="sub" level="m">Novela orijinal de costumbres cubanas</title>
                         <imprint>
-                            <publisher>Imprenta de la Librería del Mercurio</publisher>
+                            <publisher corresp="publishers.xml#P30">Imprenta de la Librería del Mercurio</publisher>
                             <pubPlace corresp="countries.xml#CH">Santiago de Chile</pubPlace>
                             <date when="1875">1875</date>
                         </imprint>
                         <extent n="182">x, 182 pp.</extent>
                     </monogr>
                     <ref>https://catalog.hathitrust.org/Record/100333165</ref>
+                    <note type="subgenre.summary.identity.explicit">novela original</note>
+                    <note type="subgenre.summary.identity.explicit">novela cubana</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W42" xml:id="E196">
                     <analytic>
@@ -692,6 +710,7 @@
                             <date when="1840">1840</date>
                         </imprint>
                     </monogr>
+                    <note type="subgenre.summary.identity.explicit">novela habanera</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W42" xml:id="E53">
                     <monogr>
@@ -699,7 +718,7 @@
                         <title type="main" level="m">La joven de la flecha de oro</title>
                         <title type="sub" level="m">Historia habanera</title>
                         <imprint>
-                            <publisher>Imp. de R. Oliva</publisher>
+                            <publisher corresp="publishers.xml#P31">Imp. de R. Oliva</publisher>
                             <pubPlace corresp="countries.xml#CU">La Habana</pubPlace>
                             <date when="1841">1841</date>
                         </imprint>
@@ -707,6 +726,7 @@
                     </monogr>
                     <ref>https://books.google.de/books?id=PpECAAAAYAAJ</ref>
                     <ref>https://catalog.hathitrust.org/Record/011617769</ref>
+                    <note type="subgenre.summary.identity.explicit">novela habanera</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W42" xml:id="E54">
                     <monogr>
@@ -718,6 +738,7 @@
                             <date when="1841">1841</date>
                         </imprint>
                     </monogr>
+                    <note type="subgenre.summary.identity.explicit">novela habanera</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W44" xml:id="E58">
                     <monogr>
@@ -725,12 +746,13 @@
                         <title type="main" level="m">Teresa</title>
                         <title type="sub" level="m">Novela original</title>
                         <imprint>
-                            <publisher>Imprenta de Oliva</publisher>
+                            <publisher corresp="publishers.xml#P31">Imprenta de Oliva</publisher>
                             <pubPlace corresp="countries.xml#CU">La Habana</pubPlace>
                             <date when="1839">1839</date>
                         </imprint>
                         <extent n="93">En 8°, de 93 ps.</extent>
                     </monogr>
+                    <note type="subgenre.summary.identity.explicit">novela original</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W45" xml:id="E59">
                     <monogr>
@@ -738,13 +760,14 @@
                         <title type="main" level="m">Cecilia Valdés; o, La Loma del Ángel</title>
                         <title type="sub" level="m">Novela cubana</title>
                         <imprint>
-                            <publisher>Imprenta Literaria</publisher>
+                            <publisher corresp="publishers.xml#P32">Imprenta Literaria</publisher>
                             <pubPlace corresp="countries.xml#CU">La Habana</pubPlace>
                             <date when="1839">1839</date>
                             <biblScope unit="volume">tomo I</biblScope>
                         </imprint>
                         <extent n="246">En 8° M, 246 ps. y 1 lámina</extent>
                     </monogr>
+                    <note type="subgenre.summary.identity.explicit">novela cubana</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W45" xml:id="E60">
                     <monogr>
@@ -752,12 +775,13 @@
                         <title type="main" level="m">Cecilia Valdés; o, La Loma del Ángel</title>
                         <title type="sub" level="m">Novela de costumbres cubanas</title>
                         <imprint>
-                            <publisher>Imprenta de El Espejo</publisher>
+                            <publisher corresp="publishers.xml#P33">Imprenta de El Espejo</publisher>
                             <pubPlace corresp="countries.xml#US">Nueva York</pubPlace>
                             <date when="1882">1882</date>
                         </imprint>
                         <extent n="590">En 8° M, XI-590 ps.</extent>
                     </monogr>
+                    <note type="subgenre.summary.identity.explicit">novela cubana</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W45" xml:id="E61">
                     <monogr>
@@ -765,12 +789,13 @@
                         <title type="main" level="m">Cecilia Valdés; o, La Loma del Ángel</title>
                         <title type="sub" level="m">Novela de costumbres cubanas</title>
                         <imprint>
-                            <publisher>Imprenta de La Discusión</publisher>
+                            <publisher corresp="publisher.xml#P34">Imprenta de La Discusión</publisher>
                             <pubPlace corresp="countries.xml#CU">La Habana</pubPlace>
                             <date when="1903">1903</date>
                         </imprint>
                         <extent n="658">En 8° M, XI-658 ps.</extent>
                     </monogr>
+                    <note type="subgenre.summary.identity.explicit">novela cubana</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W45" xml:id="E62">
                     <monogr>
@@ -778,12 +803,13 @@
                         <title type="main" level="m">Cecilia Valdés; o, La Loma del Ángel</title>
                         <title type="sub" level="m">Novela de costumbres cubanas</title>
                         <imprint>
-                            <publisher>Imprenta de La Discusión</publisher>
+                            <publisher corresp="publisher.xml#P34">Imprenta de La Discusión</publisher>
                             <pubPlace corresp="countries.xml#CU">La Habana</pubPlace>
                             <date when="1908">1908</date>
                         </imprint>
                         <extent n="410">En 4°, VI-410 ps.</extent>
                     </monogr>
+                    <note type="subgenre.summary.identity.explicit">novela cubana</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W46" xml:id="E63">
                     <monogr>
@@ -791,7 +817,7 @@
                         <title type="main" level="m">El penitente</title>
                         <title type="sub" level="m">Novela histórica cubana</title>
                         <imprint>
-                            <publisher>Manuel M. Hernández, editor</publisher>
+                            <publisher corresp="publishers.xml#P35">Manuel M. Hernández, editor</publisher>
                             <pubPlace corresp="countries.xml#US">Nueva York</pubPlace>
                             <date when="1889">1889</date>
                         </imprint>
@@ -805,6 +831,7 @@
                         1841. <bibl>Bibliografía, Tomo III, pp. 16.</bibl></note>
                     <ref>https://catalog.hathitrust.org/Record/006587649</ref>
                     <ref>https://archive.org/details/cuentosdemiabue00villgoog/page/n8</ref>
+                    <note type="subgenre.summary.identity.explicit">novela cubana</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W48" xml:id="E65">
                     <monogr>
@@ -812,12 +839,13 @@
                         <title level="m" type="main">El guajiro</title>
                         <title level="m" type="sub">Cuadro de costumbres cubanas</title>
                         <imprint>
-                            <publisher>Imprenta La Lucha</publisher>
+                            <publisher corresp="publishers.xml#P36">Imprenta La Lucha</publisher>
                             <pubPlace corresp="countries.xml#CU">La Habana</pubPlace>
                             <date when="1890">1890</date>
                         </imprint>
                         <extent n="144">12°, 144 pp.</extent>
                     </monogr>
+                    <note type="subgenre.summary.identity.explicit">novela cubana</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W48" xml:id="E66">
                     <analytic>
@@ -838,7 +866,7 @@
                         <title type="main" level="m">Dos amores</title>
                         <title type="sub" level="m">Novela original cubana</title>
                         <imprint>
-                            <publisher>Imprenta de pp. Massana</publisher>
+                            <publisher corresp="publishers.xml#P37">Imprenta de pp. Massana</publisher>
                             <pubPlace corresp="countries.xml#CU">La Habana</pubPlace>
                             <date when="1858">1858</date>
                         </imprint>
@@ -847,6 +875,8 @@
                     <series>
                         <title level="s">Biblioteca de "La Ilustración Cubana"</title>
                     </series>
+                    <note type="subgenre.summary.identity.explicit">novela original</note>
+                    <note type="subgenre.summary.identity.explicit">novela cubana</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W49" xml:id="E68">
                     <monogr>
@@ -854,7 +884,7 @@
                         <title type="main" level="m">Dos amores</title>
                         <title type="sub" level="m">Novela original cubana</title>
                         <imprint>
-                            <publisher>Gorgas y Compañía, editores</publisher>
+                            <publisher corresp="publishers.xml#P38">Gorgas y Compañía, editores</publisher>
                             <pubPlace corresp="countries.xml#ES">Barcelona</pubPlace>
                             <date when="1887">1887</date>
                         </imprint>
@@ -863,6 +893,8 @@
                     <series>
                         <title level="s">Biblioteca de "La Ilustración Cubana"</title>
                     </series>
+                    <note type="subgenre.summary.identity.explicit">novela original</note>
+                    <note type="subgenre.summary.identity.explicit">novela cubana</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W53" xml:id="E72">
                     <monogr>
@@ -870,20 +902,21 @@
                         <title type="main" level="m">Enriqueta</title>
                         <title type="sub" level="m">Novela original</title>
                         <imprint>
-                            <publisher>Tipografía de Estrada, Díaz y López</publisher>
+                            <publisher corresp="publishers.xml#P39">Tipografía de Estrada, Díaz y López</publisher>
                             <pubPlace corresp="countries.xml#ES">Madrid</pubPlace>
                             <date when="1868">1868</date>
                         </imprint>
                         <extent n="247">247 pp.</extent>
                     </monogr>
                     <ref>https://catalog.hathitrust.org/Record/100365872</ref>
+                    <note type="subgenre.summary.identity.explicit">novela original</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W54" xml:id="E73">
                     <monogr>
                         <author key="A24">Babuglia, Antonio</author>
                         <title type="main" level="m">Nenna</title>
                         <imprint>
-                            <publisher>Emilio de Mársico</publisher>
+                            <publisher corresp="publishers.xml#P2">Emilio de Mársico</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
                             <date when="1887">1887</date>
                         </imprint>
@@ -895,7 +928,7 @@
                         <author key="A24">Babuglia, Antonio</author>
                         <title type="main" level="m">Wanda</title>
                         <imprint>
-                            <publisher>Emilio de Mársico</publisher>
+                            <publisher corresp="publishers.xml#P2">Emilio de Mársico</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
                             <date when="1888">1888</date>
                         </imprint>
@@ -908,7 +941,7 @@
                         <author key="A25">Bahamonde, Manuel</author>
                         <title type="main" level="m">Abismos</title>
                         <imprint>
-                            <publisher>Lajouane</publisher>
+                            <publisher corresp="publishers.xml#P40">Lajouane</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
                             <date when="1890">1890</date>
                         </imprint>
@@ -921,6 +954,7 @@
                         <title type="main" level="m">Borrascas</title>
                         <title type="sub" level="m">Novela</title>
                         <imprint>
+                            <publisher corresp="publishers.xml#P41">Imprenta a Vapor</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
                             <date when="1894" cert="medium">c. 1894</date>
                         </imprint>
@@ -938,6 +972,18 @@
                         </imprint>
                         <extent n="393">393 pp.</extent>
                     </monogr>
+                </biblStruct>
+                <biblStruct corresp="works.xml#W58" xml:id="E1856">
+                    <monogr>
+                        <author key="A25">Bahamonde, Manuel</author>
+                        <title type="main" level="m">Buenos Aires novelesco</title>
+                        <imprint>
+                            <publisher corresp="publishers.xml#P43">Imprenta Elzeviriana de "La Tribuna Popular"</publisher>
+                            <pubPlace corresp="countries.xml#UR">Montevideo</pubPlace>
+                            <date when="1889">1889</date>
+                        </imprint>
+                        <extent n="393">393 pp.</extent>
+                    </monogr>
                     <ref>https://catalog.hathitrust.org/Record/100607227</ref>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W59" xml:id="E78">
@@ -946,20 +992,21 @@
                         <title type="main" level="m">Mareos</title>
                         <title type="sub" level="m">(Novela americana)</title>
                         <imprint>
-                            <publisher>B. Valdettaro</publisher>
+                            <publisher corresp="publishers.xml#P42">B. Valdettaro</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
                             <date when="1892">1892</date>
                         </imprint>
                         <extent n="225">225 pp.</extent>
                     </monogr>
                     <ref>https://catalog.hathitrust.org/Record/008715185</ref>
+                    <note type="subgenre.summary.identity.explicit">novela americana</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W60" xml:id="E79">
                     <monogr>
                         <author key="A25">Bahamonde, Manuel</author>
                         <title type="main" level="m">El último Dobaiba</title>
                         <imprint>
-                            <publisher>Barreiro y Ramos</publisher>
+                            <publisher corresp="publishers.xml#P44">Barreiro y Ramos</publisher>
                             <pubPlace corresp="countries.xml#UR">Montevideo</pubPlace>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
                             <date when="1890">1890</date>
@@ -973,19 +1020,20 @@
                         <title type="main" level="m">El prisionero de Santos Lugares</title>
                         <title type="sub" level="m">Historia-novela original contemporánea</title>
                         <imprint>
-                            <publisher>Imprenta de Las Artes</publisher>
+                            <publisher corresp="publishers.xml#P45">Imprenta de Las Artes</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
                             <date when="1857">1857</date>
                         </imprint>
                         <extent n="192">192 pp.</extent>
                     </monogr>
+                    <note type="subgenre.summary.identity.explicit">novela original</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W63" xml:id="E82">
                     <monogr>
                         <author key="A27">Barra, Emma de la</author>
                         <title type="main" level="m">Mecha Iturbe</title>
                         <imprint>
-                            <publisher>Maucci</publisher>
+                            <publisher corresp="publishers.xml#P46">Maucci</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
                             <date when="1906">1906</date>
                         </imprint>
@@ -998,7 +1046,7 @@
                         <author key="A27">Barra, Emma de la</author>
                         <title type="main" level="m">Stella</title>
                         <imprint>
-                            <publisher>Biblioteca de La Nación</publisher>
+                            <publisher corresp="publishers.xml#P47">Biblioteca de La Nación</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
                             <date when="1905">1905</date>
                         </imprint>
@@ -1010,7 +1058,7 @@
                         <author key="A27">Barra, Emma de la</author>
                         <title type="main" level="m">Stella</title>
                         <imprint>
-                            <publisher>Moen</publisher>
+                            <publisher corresp="publishers.xml#P48">Moen</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
                             <date when="1905">1905</date>
                         </imprint>
@@ -1022,7 +1070,7 @@
                         <author key="A27">Barra, Emma de la</author>
                         <title type="main" level="m">Stella</title>
                         <imprint>
-                            <publisher>J. Cúneo</publisher>
+                            <publisher corresp="publishers.xml#P49">J. Cúneo</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
                             <date when="1906">1906</date>
                         </imprint>
@@ -1036,13 +1084,14 @@
                         <title type="main" level="m">Stella</title>
                         <title type="sub" level="m">(Novela de costumbres argentinas)</title>
                         <imprint>
-                            <publisher>Maucci</publisher>
+                            <publisher corresp="publishers.xml#P50">Maucci</publisher>
                             <pubPlace corresp="countries.xml#ES">Barcelona</pubPlace>
                             <date when="1908">1908</date>
                         </imprint>
                         <extent n="409">409 pp.</extent>
                     </monogr>
                     <note resp="#Lichtblau_1997">Prólogo de Edmundo d'Amicis.</note>
+                    <note type="subgenre.summary.identity.explicit">novela argentina</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W64" xml:id="E87">
                     <monogr>
@@ -1051,7 +1100,7 @@
                         <title type="sub" level="m">(Novela de costumbres argentinas)</title>
                         <edition>reimpresión</edition>
                         <imprint>
-                            <publisher>Maucci</publisher>
+                            <publisher corresp="publishers.xml#P50">Maucci</publisher>
                             <pubPlace corresp="countries.xml#ES">Barcelona</pubPlace>
                             <date when="1909">1909</date>
                         </imprint>
@@ -1059,6 +1108,7 @@
                     </monogr>
                     <note resp="#Lichtblau_1997">Prólogo de Edmundo d'Amicis.</note>
                     <ref>https://catalog.hathitrust.org/Record/006609471</ref>
+                    <note type="subgenre.summary.identity.explicit">novela argentina</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W64" xml:id="E88">
                     <monogr>
@@ -1066,13 +1116,14 @@
                         <title type="main" level="m">Stella</title>
                         <title type="sub" level="m">(Novela de costumbres argentinas)</title>
                         <imprint>
-                            <publisher>La Unión</publisher>
+                            <publisher corresp="publishers.xml#P51">La Unión</publisher>
                             <pubPlace corresp="countries.xml#GU">Guatemala</pubPlace>
                             <date when="1909">1909</date>
                         </imprint>
                         <extent n="423">423 pp.</extent>
                     </monogr>
                     <note resp="#Lichtblau_1997">Prólogo de Edmundo d'Amicis.</note>
+                    <note type="subgenre.summary.identity.explicit">novela argentina</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W65" xml:id="E89">
                     <monogr>
@@ -1106,7 +1157,7 @@
                         <author key="A29">Barreda, Rafael</author>
                         <title level="m" type="main">Misterios del corazón</title>
                         <imprint>
-                            <publisher>Casa editora de A. Bietti</publisher>
+                            <publisher corresp="publishers.xml#P52">Casa editora de A. Bietti</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
                             <date when="1897">1897</date>
                         </imprint>
@@ -1119,7 +1170,7 @@
                         <author key="A29">Barreda, Rafael</author>
                         <title type="main" level="m">Pepa Larrica</title>
                         <imprint>
-                            <publisher>Imprenta de El Nacional</publisher>
+                            <publisher corresp="publishers.xml#P53">Imprenta de El Nacional</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
                             <date when="1899">1899</date>
                         </imprint>
@@ -1150,19 +1201,20 @@
                         <title type="main" level="m">Una venganza funesta</title>
                         <title type="sub" level="m">Novela orijinal</title>
                         <imprint>
-                            <publisher>Imprenta Americana</publisher>
+                            <publisher corresp="publishers.xml#P54">Imprenta Americana</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
                             <date when="1856">1856</date>
                         </imprint>
                         <extent>2 tomos en 8°</extent>
                     </monogr>
+                    <note type="subgenre.summary.identity.explicit">novela original</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W75" xml:id="E99">
                     <monogr>
                         <author key="A32">Blanco, Angel Julio</author>
                         <title type="main" level="m">Emeterio de Leao</title>
                         <imprint>
-                            <publisher>Imprenta Americana</publisher>
+                            <publisher corresp="publishers.xml#P54">Imprenta Americana</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
                             <date when="1857">1857</date>
                         </imprint>
@@ -1174,7 +1226,7 @@
                         <title type="main" level="m">Salvaje</title>
                         <title type="sub" level="m">(Novela Argentina)</title>
                         <imprint>
-                            <publisher>Franco-Española</publisher>
+                            <publisher corresp="publishers.xml#P55">Casa Editora Franco-Española</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
                             <pubPlace corresp="countries.xml#ES">Barcelona</pubPlace>
                             <date when="1891">1891</date>
@@ -1185,6 +1237,7 @@
                     <ref>https://catalog.hathitrust.org/Record/100351424</ref>
                     <ref>http://libsysdigi.library.illinois.edu/oca/Books2008-12/3552225/</ref>
                     <ref>https://commons.wikimedia.org/wiki/File:Salvaje_-_C._M._Blanco.pdf</ref>
+                    <note type="subgenre.summary.identity.explicit">novela argentina</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W78" xml:id="E102">
                     <monogr>
@@ -1192,6 +1245,7 @@
                         <title type="main" level="m">¡Revolución!</title>
                         <title type="sub" level="m">(Novela histórica americana)</title>
                         <imprint>
+                            <publisher corresp="publishers.xml#P56">J.A. Berra</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
                             <date when="1894">1894</date>
                         </imprint>
@@ -1199,6 +1253,7 @@
                     </monogr>
                     <ref>https://archive.org/details/revolucinnovela00hollgoog</ref>
                     <ref>https://catalog.hathitrust.org/Record/100351416</ref>
+                    <note type="subgenre.summary.identity.explicit">novela americana</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W80" xml:id="E104">
                     <monogr>
@@ -1217,7 +1272,7 @@
                         <title type="main" level="m">El doctor Jacobo</title>
                         <title type="sub" level="m">(Estudio social)</title>
                         <imprint>
-                            <publisher>Ignacio Mosquera</publisher>
+                            <publisher corresp="publishers.xml#P57">Ignacio Mosquera</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
                             <date when="1891">1891</date>
                         </imprint>
@@ -1228,7 +1283,7 @@
                         <author key="A12">Auzon, Maximiliano Eugenio</author>
                         <title type="main" level="m">Conflicto entre dos amores</title>
                         <imprint>
-                            <publisher>Sud-Americana</publisher>
+                            <publisher corresp="publishers.xml#P58">Sud-Americana</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
                             <date when="1890">1890</date>
                         </imprint>
@@ -1249,7 +1304,7 @@
                         <author key="A38">Bunge, Carlos Octavio</author>
                         <title level="m" type="main">Mi amigo Luis</title>
                         <imprint>
-                            <publisher>Elzeviriana</publisher>
+                            <publisher corresp="publishers.xml#P59">Elzeviriana</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
                             <date when="1895">1895</date>
                         </imprint>
@@ -1260,7 +1315,7 @@
                         <author key="A38">Bunge, Carlos Octavio</author>
                         <title level="m" type="main">La novela de la sangre</title>
                         <imprint>
-                            <publisher>D. Jorro</publisher>
+                            <publisher corresp="publishers.xml#P60">D. Jorro</publisher>
                             <pubPlace corresp="countries.xml#ES">Madrid</pubPlace>
                             <date when="1903">1903</date>
                         </imprint>
@@ -1274,7 +1329,7 @@
                         <author key="A38">Bunge, Carlos Octavio</author>
                         <title level="m" type="main">La novela de la sangre</title>
                         <imprint>
-                            <publisher>La Nación</publisher>
+                            <publisher corresp="publisher.xml#P47">La Nación</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
                             <date when="1904">1904</date>
                         </imprint>
@@ -1289,7 +1344,7 @@
                         <title level="m" type="main">La novela de la sangre</title>
                         <title level="m" type="sub">(Novela histórica argentina)</title>
                         <imprint>
-                            <publisher>F. Sempere</publisher>
+                            <publisher corresp="publishers.xml#P61">F. Sempere</publisher>
                             <pubPlace corresp="countries.xml#ES">Valencia</pubPlace>
                             <pubPlace corresp="countries.xml#ES">Madrid</pubPlace>
                             <date when="1907">1907</date>
@@ -1298,6 +1353,7 @@
                     </monogr>
                     <ref>http://bdh.bne.es/bnesearch/detalle/bdh0000124379</ref>
                     <ref>https://catalog.hathitrust.org/Record/009832372</ref>
+                    <note type="subgenre.summary.identity.explicit">novela argentina</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W84" xml:id="E110">
                     <monogr>
@@ -1305,7 +1361,7 @@
                         <title level="m" type="main">Xarcas silenciario</title>
                         <title level="m" type="sub">(Novela)</title>
                         <imprint>
-                            <publisher>Henrich</publisher>
+                            <publisher corresp="publishers.xml#P3">Henrich</publisher>
                             <pubPlace corresp="countries.xml#ES">Barcelona</pubPlace>
                             <date when="1903">1903</date>
                         </imprint>
@@ -1323,6 +1379,7 @@
                         <title level="m" type="main">Viaje a través de la estirpe y otras
                             narraciones</title>
                         <imprint>
+                            <publisher corresp="publishers.xml#P47">La Nación</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
                             <date when="1908">1908</date>
                             <biblScope unit="page" n="90">p. 7-97</biblScope>
@@ -1341,12 +1398,13 @@
                         <title level="m" type="main">El Millón de Libras Esterlinas</title>
                         <title level="m" type="sub">Novela original de Guillermo del Valle</title>
                         <imprint>
-                            <publisher>Imprenta del Comercio</publisher>
+                            <publisher corresp="publishers.xml#P62">Imprenta del Comercio</publisher>
                             <pubPlace corresp="countries.xml#MX">Zacatecas</pubPlace>
                             <date when="1884">1884</date>
                         </imprint>
                         <extent n="111">En 8°, de 111 pp. más una lámina</extent>
                     </monogr>
+                    <note type="subgenre.summary.identity.explicit">novela original</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W91" xml:id="E118">
                     <monogr>
@@ -1356,12 +1414,13 @@
                         <title level="m" type="sub">Novela original</title>
                         <edition>segunda edición, de El Eco Social</edition>
                         <imprint>
-                            <publisher>Imprenta y Litografía de N. Espinosa</publisher>
+                            <publisher corresp="publishers.xml#P63">Imprenta y Litografía de N. Espinosa</publisher>
                             <pubPlace corresp="countries.xml#MX">Zacatecas</pubPlace>
                             <date when="1889">1889</date>
                         </imprint>
                         <extent n="133">En 16°, de 133 pp.</extent>
                     </monogr>
+                    <note type="subgenre.summary.identity.explicit">novela original</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W91" xml:id="E119">
                     <monogr>
@@ -1371,13 +1430,14 @@
                         <title level="m" type="sub">Novela original</title>
                         <edition>tercera edición</edition>
                         <imprint>
-                            <publisher>Tipografía Enrique García</publisher>
+                            <publisher corresp="publishers.xml#P64">Tipografía Enrique García</publisher>
                             <pubPlace corresp="countries.xml#MX">Zacatecas</pubPlace>
                             <date when="1907">1907</date>
                         </imprint>
                         <extent n="139">En 16°, de 139 pp.</extent>
                     </monogr>
                     <ref>https://catalog.hathitrust.org/Record/100629952</ref>
+                    <note type="subgenre.summary.identity.explicit">novela original</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W92" xml:id="E120">
                     <monogr>
@@ -1386,7 +1446,7 @@
                         <title level="m" type="sub">Novela por Guillermo del Valle</title>
                         <edition>primera edición</edition>
                         <imprint>
-                            <publisher>Tip. del Hospicio de niños</publisher>
+                            <publisher corresp="publishers.xml#P65">Tip. del Hospicio de niños</publisher>
                             <pubPlace corresp="countries.xml#MX">Guadalupe</pubPlace>
                             <date when="1887">1887</date>
                         </imprint>
@@ -1399,7 +1459,7 @@
                         <title level="m" type="main">Virgen del Valle</title>
                         <edition>Edición del Monitor Republicano</edition>
                         <imprint>
-                            <publisher>Imp. de V. G. Torres a cargo de M. García</publisher>
+                            <publisher corresp="publishers.xml#P66">Imp. de V. G. Torres a cargo de M. García</publisher>
                             <pubPlace corresp="countries.xml#MX">México</pubPlace>
                             <date when="1875">1875</date>
                         </imprint>
@@ -1412,6 +1472,7 @@
                         <title level="m" type="main">Virgen del Valle</title>
                         <edition>Edición de El Tiempo</edition>
                         <imprint>
+                            <publisher corresp="publishers.xml#P67">Imprenta de El Tiempo</publisher>
                             <pubPlace corresp="countries.xml#MX">México</pubPlace>
                             <date when="1887">1887</date>
                         </imprint>
@@ -1425,7 +1486,7 @@
                         <title level="m" type="sub">Cuento por Ramón Valle (Escrito para El
                             Tiempo)</title>
                         <imprint>
-                            <publisher>Imp. de "El Tiempo"</publisher>
+                            <publisher corresp="publishers.xml#P67">Imp. de "El Tiempo"</publisher>
                             <pubPlace corresp="countries.xml#MX">México</pubPlace>
                             <date when="1887">1887</date>
                         </imprint>
@@ -1439,7 +1500,7 @@
                         <title level="m" type="sub">Novela histórica por J. Valle de
                             Santiesteban</title>
                         <imprint>
-                            <publisher>Imp. de la Penitenciaría</publisher>
+                            <publisher corresp="publishers.xml#P68">Imp. de la Penitenciaría</publisher>
                             <pubPlace corresp="countries.xml#ES">Salamanca</pubPlace>
                             <date when="1886">1886</date>
                         </imprint>
@@ -1452,7 +1513,7 @@
                         <title level="m" type="main">Alberto o Historia de Dos Amantes</title>
                         <title level="m" type="sub">Escrita por Rodolfo Valles</title>
                         <imprint>
-                            <publisher>Imprenta de Epifanio D. Orozco</publisher>
+                            <publisher corresp="publishers.xml#P69">Imprenta de Epifanio D. Orozco</publisher>
                             <pubPlace corresp="countries.xml#MX">México</pubPlace>
                             <date when="1888">1888</date>
                         </imprint>
@@ -1465,7 +1526,7 @@
                         <title level="m" type="main">Enriqueta Fáber</title>
                         <title level="m" type="sub">Ensayo de novela histórica</title>
                         <imprint>
-                            <publisher>Imprenta y Papelería La Universal, de Ruiz Hno.</publisher>
+                            <publisher corresp="publishers.xml#P70">Imprenta y Papelería La Universal, de Ruiz Hno.</publisher>
                             <pubPlace corresp="countries.xml#CU">La Habana</pubPlace>
                             <date when="1894">1894</date>
                         </imprint>
@@ -1479,7 +1540,7 @@
                         <title level="m" type="main">Pancho Pérez</title>
                         <title level="m" type="sub">Novela de costumbres</title>
                         <imprint>
-                            <publisher>Tipografía Miranda</publisher>
+                            <publisher corresp="publishers.xml#P71">Tipografía Miranda</publisher>
                             <pubPlace corresp="countries.xml#MX">Celaya, Guanajuato</pubPlace>
                             <date when="1910">1910</date>
                         </imprint>
@@ -1504,7 +1565,7 @@
                         <title level="m" type="sub">Novela</title>
                         <edition>Edición de La República</edition>
                         <imprint>
-                            <publisher>Imprenta Políglota</publisher>
+                            <publisher corresp="publishers.xml#P72">Imprenta Políglota</publisher>
                             <pubPlace corresp="countries.xml#MX">México</pubPlace>
                             <date when="1884">1884</date>
                             <biblScope unit="part">primera parte</biblScope>
@@ -1520,7 +1581,7 @@
                         <title level="m" type="sub">Reflexiones sobre varios puntos morales y
                             religiosos</title>
                         <imprint>
-                            <publisher>Tipografía de la Civilización</publisher>
+                            <publisher corresp="publishers.xml#P73">Tipografía de la Civilización</publisher>
                             <pubPlace corresp="countries.xml#MX">Guadalajara</pubPlace>
                             <date when="1889">1889</date>
                         </imprint>
@@ -1535,7 +1596,7 @@
                         <title level="m" type="sub">Episodio histórico de la sublevación de los
                             indios de Yucatán</title>
                         <imprint>
-                            <publisher>Imprenta Manuel Mimienza</publisher>
+                            <publisher corresp="publishers.xml#P74">Imprenta Manuel Mimienza</publisher>
                             <pubPlace corresp="countries.xml#MX">Mérida</pubPlace>
                             <date when="1865">1865</date>
                             <biblScope unit="volume">tomo I</biblScope>
@@ -1549,7 +1610,7 @@
                         <author key="A50">Villanueva, Agustín</author>
                         <title level="m" type="main">Un millonario en diez años</title>
                         <imprint>
-                            <publisher>Imprenta de El Tiempo, de V. Agüeros</publisher>
+                            <publisher corresp="publishers.xml#P67">Imprenta de El Tiempo, de V. Agüeros</publisher>
                             <pubPlace corresp="countries.xml#MX">México</pubPlace>
                             <date when="1903">1903</date>
                         </imprint>
@@ -1562,7 +1623,7 @@
                         <title level="m" type="main">Memorias fantásticas del pájaro verde</title>
                         <title level="m" type="sub">Ensayos para una novela</title>
                         <imprint>
-                            <publisher>Imprenta del autor</publisher>
+                            <publisher corresp="publishers.xml#P75">Imprenta del Autor</publisher>
                             <pubPlace corresp="countries.xml#MX">México</pubPlace>
                             <date when="1868">1868</date>
                             <biblScope unit="volume">Tomo I</biblScope>
@@ -1577,7 +1638,7 @@
                         <title level="m" type="main">Memorias de un estudiante</title>
                         <title level="m" type="sub">Novela histórica mexicana</title>
                         <imprint>
-                            <publisher>Imprenta de Jesús T. Recio</publisher>
+                            <publisher corresp="publishers.xml#P76">Imprenta de Jesús T. Recio</publisher>
                             <pubPlace corresp="countries.xml#US">Río Grande City, Texas</pubPlace>
                             <date when="1893">1893</date>
                         </imprint>
@@ -1585,6 +1646,7 @@
                     </monogr>
                     <note>(Edición de folletín de El Bien Público. Novela histórica sobre el
                         reconocimiento de la deuda inglesa.)</note>
+                    <note type="subgenre.summary.identity.explicit">novela mexicana</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W107" xml:id="E137">
                     <monogr>
@@ -1593,20 +1655,21 @@
                         <title level="m" type="main">Memorias de un estudiante</title>
                         <title level="m" type="sub">Novela mexicana</title>
                         <imprint>
-                            <publisher>Tipografía de El Tiempo</publisher>
+                            <publisher corresp="publishers.xml#P67">Tipografía de El Tiempo</publisher>
                             <pubPlace corresp="countries.xml#MX">México</pubPlace>
                             <date when="1897">1897</date>
                         </imprint>
                         <extent n="597">En 8°, 597 pp.</extent>
                     </monogr>
                     <ref>https://catalog.hathitrust.org/Record/100518324</ref>
+                    <note type="subgenre.summary.identity.explicit">novela mexicana</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W108" xml:id="E138">
                     <monogr>
                         <author key="A54">C.</author>
                         <title level="m" type="main">Los celos y la electricidad</title>
                         <imprint>
-                            <publisher>J. Peuser</publisher>
+                            <publisher corresp="publishers.xml#P77">J. Peuser</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
                             <date when="1886">1886</date>
                         </imprint>
@@ -1618,7 +1681,7 @@
                         <author key="A54">C.</author>
                         <title level="m" type="main">El ex-abrupto de don Cándido</title>
                         <imprint>
-                            <publisher>J. Peuser</publisher>
+                            <publisher corresp="publishers.xmlP77">J. Peuser</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
                             <date when="1886">1886</date>
                         </imprint>
@@ -1633,7 +1696,7 @@
                             diablo</title>
                         <title level="m" type="sub">(Novela histórica)</title>
                         <imprint>
-                            <publisher>Imprenta de M. Biedma</publisher>
+                            <publisher corresp="publishers.xml#P16">Imprenta de M. Biedma</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
                             <date when="1887">1887</date>
                         </imprint>
@@ -1648,7 +1711,7 @@
                         <title level="m" type="main">La campana de San Telmo y la conspiración de
                             1839 contra el dictador Rosas</title>
                         <imprint>
-                            <publisher>Imprenta de M. Biedma</publisher>
+                            <publisher corresp="publishers.xml#P16">Imprenta de M. Biedma</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
                             <date when="1897">1897</date>
                         </imprint>
@@ -1661,7 +1724,7 @@
                         <title level="m" type="main">La campana de San Telmo y la conspiración de
                             1839 contra el dictador Rosas</title>
                         <imprint>
-                            <publisher>Imprenta de M. Biedma</publisher>
+                            <publisher corresp="publishers.xml#P16">Imprenta de M. Biedma</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
                             <date when="1900">1900</date>
                         </imprint>
@@ -1676,7 +1739,7 @@
                         <title level="m" type="main">Lina Montalván, o el terremoto que destruyó el
                             Callao y la ciudad de Lima en 1746</title>
                         <imprint>
-                            <publisher>El Porvenir</publisher>
+                            <publisher corresp="publishers.xml#P78">El Porvenir</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
                             <date when="1880">1880</date>
                         </imprint>
@@ -1693,7 +1756,7 @@
                         <title level="m" type="main">Lina Montalván, o el terremoto que destruyó el
                             Callao y la ciudad de Lima en 1746</title>
                         <imprint>
-                            <publisher>Imprenta de M. Biedma</publisher>
+                            <publisher corresp="publishers.xml#P16">Imprenta de M. Biedma</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
                             <date when="1905">1905</date>
                         </imprint>
@@ -1709,11 +1772,13 @@
                         <title level="m" type="main">La sociedad y sus víctimas</title>
                         <title level="m" type="sub">(Escenas bonaerenses)</title>
                         <imprint>
+                            <publisher corresp="publishers.xml#P79">Imprenta y Litografía "La Buenos Aires"</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
                             <date when="1902">1902</date>
                         </imprint>
                         <extent n="246">246 pp.</extent>
                     </monogr>
+                    <note type="subgenre.summary.identity.explicit">novela bonaerense</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W115" xml:id="E145">
                     <monogr>
@@ -1735,7 +1800,7 @@
                         <title type="sub" level="m">(Estudio)</title>
                         <edition>segunda edición</edition>
                         <imprint>
-                            <publisher>Félix Lajouane</publisher>
+                            <publisher corresp="publishers.xml#P40">Félix Lajouane</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
                             <date when="1885">1885</date>
                         </imprint>
@@ -1751,7 +1816,7 @@
                         <title type="sub" level="m">(Estudio)</title>
                         <edition>tercera edición</edition>
                         <imprint>
-                            <publisher>Félix Lajouane</publisher>
+                            <publisher corresp="publishers.xml#P40">Félix Lajouane</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
                             <date when="1885">1885</date>
                         </imprint>
@@ -1765,7 +1830,7 @@
                         <title type="sub" level="m">(Estudio)</title>
                         <edition>cuarta edición</edition>
                         <imprint>
-                            <publisher>Félix Lajouane</publisher>
+                            <publisher corresp="publishers.xml#P40">Félix Lajouane</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
                             <date when="1885">1885</date>
                         </imprint>
@@ -1780,7 +1845,7 @@
                     <monogr>
                         <title type="main" level="j">Sud-América</title>
                         <imprint>
-                            <publisher>Sud-América</publisher>
+                            <publisher corresp="publishers.xml#P80">Sud-América</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
                             <date from="1887-09-12" to="1887-11-14">12 de septiembre de 1887 a 14 de
                                 noviembre de 1887</date>
@@ -1793,7 +1858,7 @@
                         <author key="A58">Cambaceres, Eugenio</author>
                         <title type="main" level="a">En la sangre</title>
                         <imprint>
-                            <publisher>Sud-América</publisher>
+                            <publisher corresp="publishers.xml#P80">Sud-América</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
                             <date when="1887">1887</date>
                         </imprint>
@@ -1807,7 +1872,7 @@
                         <author key="A58">Cambaceres, Eugenio</author>
                         <title type="main" level="m">Música sentimental—silbidos de un vago</title>
                         <imprint>
-                            <publisher>E. Denné</publisher>
+                            <publisher corresp="publishers.xml#P81">E. Denné</publisher>
                             <pubPlace corresp="countries.xml#FR">París</pubPlace>
                             <date when="1884">1884</date>
                         </imprint>
@@ -1820,7 +1885,7 @@
                         <author key="A58">Cambaceres, Eugenio</author>
                         <title type="main" level="m">Pot-pourri—silbidos de un vago</title>
                         <imprint>
-                            <publisher>M. Biedma</publisher>
+                            <publisher corresp="publishers.xml#P16">M. Biedma</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
                             <date when="1882">1882</date>
                         </imprint>
@@ -1835,7 +1900,7 @@
                         <author key="A58">Cambaceres, Eugenio</author>
                         <title type="main" level="m">Pot-pourri—silbidos de un vago</title>
                         <imprint>
-                            <publisher>E. Denné</publisher>
+                            <publisher corresp="publishers.xml#P81">E. Denné</publisher>
                             <pubPlace corresp="countries.xml#FR">París</pubPlace>
                             <date when="1883">1883</date>
                         </imprint>
@@ -1853,7 +1918,20 @@
                         </imprint>
                         <extent n="480">480 pp.</extent>
                     </monogr>
-                    <ref>https://catalog.hathitrust.org/Record/101405420</ref>
+                </biblStruct>
+                <biblStruct corresp="works.xml#W119" xml:id="E1857">
+                    <monogr>
+                        <author key="A59">Campo, Cupertino del</author>
+                        <title type="main" level="m">El romance de un médico</title>
+                        <edition>2a edición</edition>
+                        <imprint>
+                            <publisher corresp="publishers.xml#P82">Librería de Jesús Menéndez</publisher>
+                            <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
+                            <date when="1908">1908</date>
+                        </imprint>
+                        <extent n="567">567 pp.</extent>
+                    </monogr>
+                    <ref>https://catalog.hathitrust.org/Record/102499195</ref>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W120" xml:id="E152">
                     <monogr>
@@ -1861,13 +1939,14 @@
                         <title type="main" level="m">Camila, o la virtud triunfante</title>
                         <title type="sub" level="m">Novela original de E. de C.</title>
                         <imprint>
-                            <publisher>Imprenta de la Revista</publisher>
+                            <publisher corresp="publishers.xml#P83">Imprenta de la Revista</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
                             <date when="1856">1856</date>
                         </imprint>
                         <extent n="119">119 pp.</extent>
                     </monogr>
                     <ref>https://upload.wikimedia.org/wikipedia/commons/6/62/Camila_o_la_virtud_triunfante_-_Estanislao_del_Campo.pdf</ref>
+                    <note type="subgenre.summary.identity.explicit">novela original</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W121" xml:id="E153">
                     <monogr>
@@ -1876,7 +1955,7 @@
                         <title type="sub" level="m">Novela original</title>
                         <edition>Edición de Magariños Cervantes</edition>
                         <imprint>
-                            <publisher>Imprenta de mayo</publisher>
+                            <publisher corresp="publishers.xml#P8">Imprenta de Mayo</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
                             <date when="1858">1858</date>
                             <biblScope unit="page" n="80">p. 25-105</biblScope>
@@ -1885,6 +1964,7 @@
                     </monogr>
                     <ref>http://www.cervantesvirtual.com/obra-visor-din/esther-novela-original--0/html/</ref>
                     <ref>https://upload.wikimedia.org/wikipedia/commons/3/3f/Esther._Novela_original_-_Miguel_Can%C3%A9_%28p%29.pdf</ref>
+                    <note type="subgenre.summary.identity.explicit">novela original</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W122" xml:id="E154">
                     <analytic>
@@ -1907,7 +1987,7 @@
                         <title type="main" level="m">La familia de Sconner</title>
                         <edition>Edición de Magariños Cervantes</edition>
                         <imprint>
-                            <publisher>Imprenta de mayo</publisher>
+                            <publisher corresp="publishers.xml#P8">Imprenta de Mayo</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
                             <date when="1858">1858</date>
                             <biblScope unit="page" n="113">p. 106-219</biblScope>
@@ -1935,7 +2015,7 @@
                         <title level="m" type="main">Quimera</title>
                         <title level="m" type="sub">Boceto de costumbres</title>
                         <imprint>
-                            <publisher>Bredahl</publisher>
+                            <publisher corresp="publishers.xml#P84">Bredahl</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
                             <date when="1899">1899</date>
                         </imprint>
@@ -1966,7 +2046,7 @@
                     <monogr>
                         <title level="m">Un libro más</title>
                         <imprint>
-                            <publisher>F. Lajouane</publisher>
+                            <publisher corresp="publishers.xml#P40">F. Lajouane</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
                             <date when="1887">1887</date>
                             <biblScope unit="page" n="84">9-93</biblScope>
@@ -1979,7 +2059,7 @@
                         <title level="m" type="main">Hogar sin fuego</title>
                         <title level="m" type="sub">(Novela social)</title>
                         <imprint>
-                            <publisher>Biblioteca Nacional "Nec Plus Ultra"</publisher>
+                            <publisher corresp="publishers.xml#P85">Biblioteca Nacional "Nec Plus Ultra"</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
                             <date when="1907">1907</date>
                         </imprint>
@@ -1991,7 +2071,7 @@
                         <author key="A67">Ceppi, José</author>
                         <title level="m" type="main">Lejos del terruño</title>
                         <imprint>
-                            <publisher>Maucci</publisher>
+                            <publisher corresp="publishers.xml#P46">Maucci</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
                             <date when="1905">1905</date>
                         </imprint>
@@ -2003,7 +2083,7 @@
                         <author key="A68">Clermont, Enrique de</author>
                         <title level="m" type="main">Joselín</title>
                         <imprint>
-                            <publisher>Petrocchi</publisher>
+                            <publisher corresp="publishers.xml#P86">Petrocchi</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
                             <date when="1908">1908</date>
                             <biblScope unit="page" n="163">p. 191-354</biblScope>
@@ -2017,7 +2097,7 @@
                         <author key="A68">Clermont, Enrique de</author>
                         <title level="m" type="main">El sacrificio</title>
                         <imprint>
-                            <publisher>Petrocchi</publisher>
+                            <publisher corresp="publishers.xml#P86">Petrocchi</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
                             <date when="1908">1908</date>
                             <biblScope unit="page" n="182">p. 3-185</biblScope>
@@ -2032,12 +2112,13 @@
                         <title level="m" type="main">La bandera</title>
                         <title level="m" type="sub">Novela original</title>
                         <imprint>
-                            <publisher>L. J. Rosso</publisher>
+                            <publisher corresp="publishers.xml#P87">L. J. Rosso</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
                             <date when="1903">1903</date>
                         </imprint>
                         <extent n="226">226 pp.</extent>
                     </monogr>
+                    <note type="subgenre.summary.identity.explicit">novela original</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W141" xml:id="E181">
                     <monogr>
@@ -2045,7 +2126,7 @@
                         <title level="m" type="main">La eterna angustia</title>
                         <title level="m" type="sub">(Novela)</title>
                         <imprint>
-                            <publisher>Arnoldo Moen</publisher>
+                            <publisher corresp="publishers.xml#P48">Arnoldo Moen</publisher>
                             <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
                             <date when="1908">1908</date>
                         </imprint>
@@ -2106,12 +2187,13 @@
                         <title level="m" type="sub">Novela moral dedicada a los que sufren</title>
                         <title level="m" type="sub">Original</title>
                         <imprint>
-                            <publisher>Talleres Tip. de V. Agüeros</publisher>
+                            <publisher corresp="publishers.xml#P67">Talleres Tip. de V. Agüeros</publisher>
                             <pubPlace corresp="countries.xml#MX">México</pubPlace>
                             <date when="1904">1904</date>
                         </imprint>
                         <extent n="164">En 8°, 164 pp.</extent>
                     </monogr>
+                    <note type="subgenre.summary.identity.explicit">novela original</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W149" xml:id="E191">
                     <monogr>
@@ -2119,7 +2201,7 @@
                         <title level="m" type="main">Ironías de la vida</title>
                         <title level="m" type="sub">Novela de costumbres nacionales</title>
                         <imprint>
-                            <publisher>Imprenta de J. M. Lara</publisher>
+                            <publisher corresp="publishers.xml#P88">Imprenta de J. M. Lara</publisher>
                             <pubPlace corresp="countries.xml#MX">México</pubPlace>
                             <date when="1851">1851</date>
                             <biblScope unit="volume">Tomo I</biblScope>
@@ -2129,6 +2211,7 @@
                     <ref>https://archive.org/details/ironiasdelavidan01tova</ref>
                     <ref>https://archive.org/details/ironiasdelavidan02tova</ref>
                     <ref>http://bdh.bne.es/bnesearch/detalle/bdh0000045225</ref>
+                    <note type="subgenre.summary.identity.explicit">novela nacional</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W150" xml:id="E192">
                     <monogr>
@@ -2136,13 +2219,14 @@
                         <title level="m" type="main">La hora de Dios</title>
                         <title level="m" type="sub">Novela de costumbres mejicanas</title>
                         <imprint>
-                            <publisher>Villa y Hno., imp.</publisher>
+                            <publisher corresp="publishers.xml#P89">Villa y Hno., imp.</publisher>
                             <pubPlace corresp="countries.xml#CU">La Habana</pubPlace>
                             <date when="1865">1865</date>
                         </imprint>
                         <extent n="260">En 4°, 260 pp.</extent>
                     </monogr>
                     <note>Subscrita en La Habana, 24 de enero, 1865.</note>
+                    <note type="subgenre.summary.identity.explicit">novela mexicana</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W152" xml:id="E194">
                     <analytic>
@@ -2156,7 +2240,7 @@
                             vida nacional desde 1851 a 1861, recogido y puesto en forma amena e
                             instructiva por el Lic. D. Victoriano Salado Álvarez</title>
                         <imprint>
-                            <publisher>J. Ballescá y Cía., Suc.</publisher>
+                            <publisher corresp="publishers.xml#P90">J. Ballescá y Cía., Suc.</publisher>
                             <pubPlace corresp="countries.xml#MX">México</pubPlace>
                             <date from="1902" to="1903">1902-1903</date>
                         </imprint>
@@ -2166,6 +2250,7 @@
                         <biblScope unit="page" n="214">9-223</biblScope>
                     </monogr>
                     <ref>https://cd.dgb.uanl.mx/handle/201504211/14718</ref>
+                    <note type="subgenre.summary.identity.explicit">novela nacional</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W486" xml:id="E1843">
                     <analytic>
@@ -2179,7 +2264,7 @@
                             vida nacional desde 1851 a 1861, recogido y puesto en forma amena e
                             instructiva por el Lic. D. Victoriano Salado Álvarez</title>
                         <imprint>
-                            <publisher>J. Ballescá y Cía., Suc.</publisher>
+                            <publisher corresp="publishers.xml#P90">J. Ballescá y Cía., Suc.</publisher>
                             <pubPlace corresp="countries.xml#MX">México</pubPlace>
                             <date from="1902" to="1903">1902-1903</date>
                         </imprint>
@@ -2189,6 +2274,7 @@
                         <biblScope unit="page" n="346">5-351</biblScope>
                     </monogr>
                     <ref>https://cd.dgb.uanl.mx/handle/201504211/14718</ref>
+                    <note type="subgenre.summary.identity.explicit">novela nacional</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W924" xml:id="E1844">
                     <analytic>
@@ -2202,7 +2288,7 @@
                             vida nacional desde 1851 a 1861, recogido y puesto en forma amena e
                             instructiva por el Lic. D. Victoriano Salado Álvarez</title>
                         <imprint>
-                            <publisher>J. Ballescá y Cía., Suc.</publisher>
+                            <publisher corresp="publishers.xml#P90">J. Ballescá y Cía., Suc.</publisher>
                             <pubPlace corresp="countries.xml#MX">México</pubPlace>
                             <date from="1902" to="1903">1902-1903</date>
                         </imprint>
@@ -2212,6 +2298,7 @@
                         <biblScope unit="page" n="256">354-610</biblScope>
                     </monogr>
                     <ref>https://cd.dgb.uanl.mx/handle/201504211/14718</ref>
+                    <note type="subgenre.summary.identity.explicit">novela nacional</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W1216" xml:id="E1845">
                     <analytic>
@@ -2225,7 +2312,7 @@
                             vida nacional desde 1851 a 1861, recogido y puesto en forma amena e
                             instructiva por el Lic. D. Victoriano Salado Álvarez</title>
                         <imprint>
-                            <publisher>J. Ballescá y Cía., Suc.</publisher>
+                            <publisher corresp="publishers.xml#P90">J. Ballescá y Cía., Suc.</publisher>
                             <pubPlace corresp="countries.xml#MX">México</pubPlace>
                             <date from="1902" to="1903">1902-1903</date>
                         </imprint>
@@ -2235,6 +2322,7 @@
                         <biblScope unit="page" n="439">5-444</biblScope>
                     </monogr>
                     <ref>https://cd.dgb.uanl.mx/handle/201504211/14718</ref>
+                    <note type="subgenre.summary.identity.explicit">novela nacional</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W153" xml:id="E195">
                     <analytic>
@@ -2250,7 +2338,7 @@
                             Correspondiente de la Academia Mexicana de la Lengua</title>
                         <title level="m" type="sub">Dibujos de D. A. Utrillo</title>
                         <imprint>
-                            <publisher>Ed. J. Ballescá y Cía., Suc.; Impr. y Lit. de Henrich y
+                            <publisher corresp="publishers.xml#P90">Ed. J. Ballescá y Cía., Suc.; Impr. y Lit. de Henrich y
                                 Cía.</publisher>
                             <pubPlace corresp="countries.xml#MX">México</pubPlace>
                             <date when="1903">1903</date>
@@ -2270,6 +2358,7 @@
                     <ref>https://archive.org/details/laintervencinye01unkngoog</ref>
                     <ref>https://archive.org/details/laintervencinye00alvagoog</ref>
                     <ref>https://cd.dgb.uanl.mx/handle/201504211/13318</ref>
+                    <note type="subgenre.summary.identity.explicit">novela nacional</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W154" xml:id="E1840">
                     <analytic>
@@ -2283,7 +2372,7 @@
                             Correspondiente de la Academia Mexicana de la Lengua</title>
                         <title level="m" type="sub">Dibujos de D. A. Utrillo</title>
                         <imprint>
-                            <publisher>Ed. J. Ballescá y Cía., Suc.; Impr. y Lit. de Henrich y
+                            <publisher corresp="publishers.xml#P90">Ed. J. Ballescá y Cía., Suc.; Impr. y Lit. de Henrich y
                                 Cía.</publisher>
                             <pubPlace corresp="countries.xml#MX">México</pubPlace>
                             <date when="1903">1903</date>
@@ -2303,6 +2392,7 @@
                     <ref>https://archive.org/details/laintervencinye01unkngoog</ref>
                     <ref>https://archive.org/details/laintervencinye00alvagoog</ref>
                     <ref>https://cd.dgb.uanl.mx/handle/201504211/13318</ref>
+                    <note type="subgenre.summary.identity.explicit">novela nacional</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W1217" xml:id="E1846">
                     <analytic>
@@ -2318,7 +2408,7 @@
                             Correspondiente de la Academia Mexicana de la Lengua</title>
                         <title level="m" type="sub">Dibujos de D. A. Utrillo</title>
                         <imprint>
-                            <publisher>Ed. J. Ballescá y Cía., Suc.; Impr. y Lit. de Henrich y
+                            <publisher corresp="publishers.xml#P90">Ed. J. Ballescá y Cía., Suc.; Impr. y Lit. de Henrich y
                                 Cía.</publisher>
                             <pubPlace corresp="countries.xml#MX">México</pubPlace>
                             <date when="1903">1903</date>
@@ -2338,6 +2428,7 @@
                     <ref>https://archive.org/details/laintervencinye01unkngoog</ref>
                     <ref>https://archive.org/details/laintervencinye00alvagoog</ref>
                     <ref>https://cd.dgb.uanl.mx/handle/201504211/13318</ref>
+                    <note type="subgenre.summary.identity.explicit">novela nacional</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W1218" xml:id="E1847">
                     <analytic>
@@ -2351,7 +2442,7 @@
                             Correspondiente de la Academia Mexicana de la Lengua</title>
                         <title level="m" type="sub">Dibujos de D. A. Utrillo</title>
                         <imprint>
-                            <publisher>Ed. J. Ballescá y Cía., Suc.; Impr. y Lit. de Henrich y
+                            <publisher corresp="publishers.xml#P90">Ed. J. Ballescá y Cía., Suc.; Impr. y Lit. de Henrich y
                                 Cía.</publisher>
                             <pubPlace corresp="countries.xml#MX">México</pubPlace>
                             <date when="1903">1903</date>
@@ -2371,6 +2462,7 @@
                     <ref>https://archive.org/details/laintervencinye01unkngoog</ref>
                     <ref>https://archive.org/details/laintervencinye00alvagoog</ref>
                     <ref>https://cd.dgb.uanl.mx/handle/201504211/13318</ref>
+                    <note type="subgenre.summary.identity.explicit">novela nacional</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W1295" xml:id="E1848">
                     <analytic>
@@ -2384,7 +2476,7 @@
                             Correspondiente de la Academia Mexicana de la Lengua</title>
                         <title level="m" type="sub">Dibujos de D. A. Utrillo</title>
                         <imprint>
-                            <publisher>Ed. J. Ballescá y Cía., Suc.; Impr. y Lit. de Henrich y
+                            <publisher corresp="publishers.xml#P90">Ed. J. Ballescá y Cía., Suc.; Impr. y Lit. de Henrich y
                                 Cía.</publisher>
                             <pubPlace corresp="countries.xml#MX">México</pubPlace>
                             <date when="1903">1903</date>
@@ -2404,6 +2496,7 @@
                     <ref>https://archive.org/details/laintervencinye01unkngoog</ref>
                     <ref>https://archive.org/details/laintervencinye00alvagoog</ref>
                     <ref>https://cd.dgb.uanl.mx/handle/201504211/13318</ref>
+                    <note type="subgenre.summary.identity.explicit">novela nacional</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W1296" xml:id="E1849">
                     <analytic>
@@ -2417,7 +2510,7 @@
                             Correspondiente de la Academia Mexicana de la Lengua</title>
                         <title level="m" type="sub">Dibujos de D. A. Utrillo</title>
                         <imprint>
-                            <publisher>Ed. J. Ballescá y Cía., Suc.; Impr. y Lit. de Henrich y
+                            <publisher corresp="publishers.xml#P90">Ed. J. Ballescá y Cía., Suc.; Impr. y Lit. de Henrich y
                                 Cía.</publisher>
                             <pubPlace corresp="countries.xml#MX">México</pubPlace>
                             <date when="1903">1903</date>
@@ -2437,6 +2530,7 @@
                     <ref>https://archive.org/details/laintervencinye01unkngoog</ref>
                     <ref>https://archive.org/details/laintervencinye00alvagoog</ref>
                     <ref>https://cd.dgb.uanl.mx/handle/201504211/13318</ref>
+                    <note type="subgenre.summary.identity.explicit">novela nacional</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W155" xml:id="E197">
                     <monogr>
@@ -2445,7 +2539,7 @@
                         <edition>Edición de El Ideal, revista literaria, dedicada al bello sexo y al
                             pueblo</edition>
                         <imprint>
-                            <publisher>Imprenta San-Germán</publisher>
+                            <publisher corresp="publishers.xml#P91">Imprenta San-Germán</publisher>
                             <pubPlace corresp="countries.xml#MX">Oaxaca</pubPlace>
                             <date when="1904">1904</date>
                         </imprint>
@@ -2462,7 +2556,7 @@
                         <title level="m" type="sub">Con un prólogo de D. Luis González
                             Obregón</title>
                         <imprint>
-                            <publisher>Imprenta y Encuadernación de M. Nava</publisher>
+                            <publisher corresp="publishers.xml#P92">Imprenta y Encuadernación de M. Nava</publisher>
                             <pubPlace corresp="countries.xml#MX">Oaxaca</pubPlace>
                             <date when="1901">1901</date>
                         </imprint>
@@ -2475,6 +2569,8 @@
                     <ref>http://132.248.9.32:8080/fondoantiguo2/1481749-16272/JPEG/Index.html</ref>
                     <ref>https://catalog.hathitrust.org/Record/006513933</ref>
                     <ref>https://catalog.hathitrust.org/Record/012309312</ref>
+                    <note type="subgenre.summary.identity.explicit">novela mexicana</note>
+                    <note type="subgenre.summary.identity.explicit">novela nacional</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W157" xml:id="E199">
                     <monogr>
@@ -2482,12 +2578,13 @@
                         <title level="m" type="main">¡Grito de independencia!</title>
                         <title level="m" type="sub">Novela mexicana, por Fuego</title>
                         <imprint>
-                            <publisher>Tipografía 2ª del Salto de Agua y Igualdad 2010</publisher>
+                            <publisher corresp="publishers.xml#P93">Tipografía 2ª del Salto de Agua y Igualdad 2010</publisher>
                             <pubPlace corresp="countries.xml#MX">México</pubPlace>
                             <date when="1904">1904</date>
                         </imprint>
                         <extent n="124">En 8°, 124 pp.</extent>
                     </monogr>
+                    <note type="subgenre.summary.identity.explicit">novela mexicana</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W158" xml:id="E200">
                     <monogr>
@@ -2495,12 +2592,13 @@
                         <title level="m" type="main">El ladrón de la casa de cambio</title>
                         <title level="m" type="sub">Novela mexicana, por Fuego</title>
                         <imprint>
-                            <publisher>Tipografía 2ª del Salto de Agua y Igualdad 2010</publisher>
+                            <publisher corresp="publishers.xml#P93">Tipografía 2ª del Salto de Agua y Igualdad 2010</publisher>
                             <pubPlace corresp="countries.xml#MX">México</pubPlace>
                             <date when="1904">1904</date>
                         </imprint>
                         <extent n="124">En 8°, 124 pp.</extent>
                     </monogr>
+                    <note type="subgenre.summary.identity.explicit">novela mexicana</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W159" xml:id="E201">
                     <monogr>
@@ -2508,12 +2606,13 @@
                         <title level="m" type="main">Misterios de un consultorio</title>
                         <title level="m" type="sub">Novela mexicana, por Fuego</title>
                         <imprint>
-                            <publisher>Tipografía 2ª del Salto de Agua y Igualdad 2010</publisher>
+                            <publisher corresp="publishers.xml#P93">Tipografía 2ª del Salto de Agua y Igualdad 2010</publisher>
                             <pubPlace corresp="countries.xml#MX">México</pubPlace>
                             <date when="1904">1904</date>
                         </imprint>
                         <extent n="124">En 8°, 124 pp., con láminas</extent>
                     </monogr>
+                    <note type="subgenre.summary.identity.explicit">novela mexicana</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W160" xml:id="E202">
                     <monogr>
@@ -2521,7 +2620,7 @@
                         <title level="m" type="main">Pasión de tiple</title>
                         <title level="m" type="sub">Por Fuego</title>
                         <imprint>
-                            <publisher>Tipografía 2ª del Salto de Agua y Igualdad 2010</publisher>
+                            <publisher corresp="publishers.xml#P93">Tipografía 2ª del Salto de Agua y Igualdad 2010</publisher>
                             <pubPlace corresp="countries.xml#MX">México</pubPlace>
                             <date when="1904">1904</date>
                         </imprint>
@@ -2538,13 +2637,15 @@
                         <title level="m" type="sub">Novela histórica mexicana</title>
                         <title level="m" type="sub">Original de Abraham Sánchez Arce (Fuego)</title>
                         <imprint>
-                            <publisher>Tipografía 2ª del Salto de Agua y Igualdad 2010</publisher>
+                            <publisher corresp="publishers.xml#P93">Tipografía 2ª del Salto de Agua y Igualdad 2010</publisher>
                             <pubPlace corresp="countries.xml#MX">México</pubPlace>
                             <date when="1904">1904</date>
                         </imprint>
                         <extent n="124">En 8°, 124 pp., con láminas</extent>
                     </monogr>
                     <ref>https://catalog.hathitrust.org/Record/101687389</ref>
+                    <note type="subgenre.summary.identity.explicit">novela mexicana</note>
+                    <note type="subgenre.summary.identity.explicit">novela original</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W162" xml:id="E204">
                     <monogr>
@@ -2552,7 +2653,7 @@
                         <title level="m" type="main">Antón Pérez</title>
                         <title level="m" type="sub">Novela</title>
                         <imprint>
-                            <publisher>F. Díaz de León</publisher>
+                            <publisher corresp="publishers.xml#P94">F. Díaz de León</publisher>
                             <pubPlace corresp="countries.xml#MX">México</pubPlace>
                             <date when="1903">1903</date>
                         </imprint>
@@ -2566,7 +2667,7 @@
                         <title level="m" type="main">Previvida</title>
                         <title level="m" type="sub">Novela</title>
                         <imprint>
-                            <publisher>Imprenta de I. Escalante</publisher>
+                            <publisher corresp="publishers.xml#P95">Imprenta de I. Escalante</publisher>
                             <pubPlace corresp="countries.xml#MX">México</pubPlace>
                             <date when="1906">1906</date>
                         </imprint>
@@ -2595,7 +2696,7 @@
                         <title level="m" type="main">Pocahontas</title>
                         <title level="m" type="sub">(Relación fantástica)</title>
                         <imprint>
-                            <publisher>Tipografía "Juventud Tabasqueña" de F. Ghigliazza</publisher>
+                            <publisher corresp="publishers.xml#P27">Tipografía "Juventud Tabasqueña" de F. Ghigliazza</publisher>
                             <pubPlace corresp="countries.xml#MX">San Juan Bautista,
                                 Tabasco</pubPlace>
                             <date when="1882">1882</date>
@@ -2609,7 +2710,7 @@
                         <title level="m" type="main">Juanita Sousa</title>
                         <edition>segunda edición</edition>
                         <imprint>
-                            <publisher>F. Laso y Compañía</publisher>
+                            <publisher corresp="publishers.xml#P96">F. Laso y Compañía</publisher>
                             <pubPlace corresp="countries.xml#MX">México</pubPlace>
                             <date when="1901">1901</date>
                         </imprint>
@@ -2623,7 +2724,7 @@
                         <title level="m" type="main">La Pálida</title>
                         <title level="m" type="sub">Novela por Fulano de Tal</title>
                         <imprint>
-                            <publisher>Tipografía Juventud Tabasqueña</publisher>
+                            <publisher corresp="publishers.xml#P27">Tipografía Juventud Tabasqueña</publisher>
                             <pubPlace corresp="countries.xml#MX">San Juan Bautista,
                                 Tabasco</pubPlace>
                             <date when="1890">1890</date>
@@ -2638,7 +2739,7 @@
                         <title level="a" type="main">Auras de abril</title>
                         <title level="a" type="sub">Novela</title>
                         <imprint>
-                            <publisher>Imprenta de El Tiempo</publisher>
+                            <publisher corresp="publishers.xml#P67">Imprenta de El Tiempo</publisher>
                             <pubPlace corresp="countries.xml#MX">México</pubPlace>
                             <date when="1897">1897</date>
                         </imprint>
@@ -2665,13 +2766,14 @@
                         <title level="m" type="sub">Novela yucateca por El Sr. Dr. D. Justo
                             Sierra</title>
                         <imprint>
-                            <publisher>Imprenta del Comercio</publisher>
+                            <publisher corresp="publishers.xml#P62">Imprenta del Comercio</publisher>
                             <pubPlace corresp="countries.xml#MX">Mérida</pubPlace>
                             <date when="1874">1874</date>
                         </imprint>
                         <extent n="728">En 4°, de 728 pp.</extent>
                     </monogr>
                     <note>Prologada por el Pbro. Dr. D. Crescencio Carrillo y Ancona.</note>
+                    <note type="subgenre.summary.identity.explicit">novela yucateca</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W174" xml:id="E222">
                     <analytic>
@@ -2687,6 +2789,7 @@
                             <date when="1848">1848</date>
                         </imprint>
                     </monogr>
+                    <note type="subgenre.summary.identity.explicit">novela yucateca</note>
                 </biblStruct>
                 <biblStruct corresp="works.xml#W173" xml:id="E223">
                     <monogr>
@@ -2694,7 +2797,7 @@
                         <title level="m" type="main">Un Año en el Hospital de San Lázaro</title>
                         <title level="m" type="sub">Novela</title>
                         <imprint>
-                            <publisher>Tipografía de Victoriano Agüeros, ed.</publisher>
+                            <publisher corresp="publishers.xml#P67">Tipografía de Victoriano Agüeros, ed.</publisher>
                             <pubPlace corresp="countries.xml#MX">Mérida</pubPlace>
                             <date when="1905">1905</date>
                         </imprint>
@@ -2719,7 +2822,7 @@
                         <title level="m" type="main">Un Año en el Hospital de San Lázaro</title>
                         <title level="m" type="sub">Novela en forma de cartas</title>
                         <imprint>
-                            <publisher>Tipografía de Victoriano Agüeros</publisher>
+                            <publisher corresp="publishers.xml#P67">Tipografía de Victoriano Agüeros</publisher>
                             <pubPlace corresp="countries.xml#MX">Mérida</pubPlace>
                             <date when="1841">1841</date>
                         </imprint>
@@ -2730,7 +2833,7 @@
                         <author key="A86">Sierra O'Reilly, Justo</author>
                         <title level="m" type="main">La hija del judío</title>
                         <imprint>
-                            <publisher>Tipografía de Victoriano Agüeros, ed.</publisher>
+                            <publisher corresp="publishers.xml#P67">Tipografía de Victoriano Agüeros, ed.</publisher>
                             <pubPlace corresp="countries.xml#MX">Mérida</pubPlace>
                             <date when="1908">1908</date>
                         </imprint>
@@ -2752,7 +2855,7 @@
                         <author key="A87">Sierra Méndez, Justo</author>
                         <title level="m" type="main">Confesiones de un Pianista</title>
                         <imprint>
-                            <publisher>Tipografía de "La República"</publisher>
+                            <publisher corresp="publishers.xml#P97">Tipografía de "La República"</publisher>
                             <pubPlace corresp="countries.xml#MX">México</pubPlace>
                             <date when="1882">1882</date>
                         </imprint>
@@ -2768,7 +2871,7 @@
                         <title level="j">El Domingo: Semanario de Literatura, Ciencias y Mejoras
                             Materiales</title>
                         <imprint>
-                            <publisher>F. Díaz de León y S. White</publisher>
+                            <publisher corresp="publishers.xml#P94">F. Díaz de León y S. White</publisher>
                             <pubPlace corresp="countries.xml#MX">México</pubPlace>
                             <date from="1872-12" to="1873-02">diciembre de 1872 a febrero de
                                 1873</date>
@@ -2781,7 +2884,7 @@
                         <title level="m" type="main">Carmen en amparo de la obrera</title>
                         <title level="m" type="sub">Lecturas morales</title>
                         <imprint>
-                            <publisher>Tipografía de la Secretaría de Fomento</publisher>
+                            <publisher corresp="publishers.xml#P98">Tipografía de la Secretaría de Fomento</publisher>
                             <pubPlace corresp="countries.xml#MX">México</pubPlace>
                             <date when="1894">1894</date>
                         </imprint>
@@ -2796,7 +2899,7 @@
                         <title level="m" type="sub">Escenas del mundo real</title>
                         <edition>Edición de El Diario del Hogar</edition>
                         <imprint>
-                            <publisher>Tipografía Literaria de F. Mata</publisher>
+                            <publisher corresp="publishers.xml#P99">Tipografía Literaria de F. Mata</publisher>
                             <pubPlace corresp="countries.xml#MX">México</pubPlace>
                             <date when="1882">1882</date>
                         </imprint>
@@ -2810,7 +2913,7 @@
                         <title level="m" type="sub">Escenas del mundo real</title>
                         <edition>Edición de El Siglo XIX</edition>
                         <imprint>
-                            <publisher>Imprenta de Ignacio Cumplido</publisher>
+                            <publisher corresp="publishers.xml#P19">Imprenta de Ignacio Cumplido</publisher>
                             <pubPlace corresp="countries.xml#MX">México</pubPlace>
                             <date when="1885">1885</date>
                         </imprint>
@@ -2823,7 +2926,7 @@
                         <title level="m" type="main">Ernestina</title>
                         <title level="m" type="sub">Escenas del mundo real</title>
                         <imprint>
-                            <publisher>Imprenta y Litografía de Ireneo Paz</publisher>
+                            <publisher corresp="publishers.xml#P26">Imprenta y Litografía de Ireneo Paz</publisher>
                             <pubPlace corresp="countries.xml#MX">México</pubPlace>
                             <date when="1886">1886</date>
                         </imprint>
@@ -2838,13 +2941,14 @@
                         <title level="m" type="sub">Apuntes para una novela</title>
                         <edition>Edición de La Revista de México</edition>
                         <imprint>
-                            <publisher>Imprenta, Litografía y Enc. de Ireneo Paz</publisher>
+                            <publisher corresp="publishers.xml#P26">Imprenta, Litografía y Enc. de Ireneo Paz</publisher>
                             <pubPlace corresp="countries.xml#MX">México</pubPlace>
                             <date when="1891">1891</date>
                         </imprint>
                         <extent n="84">En 4° mayor, 84 pp., ilustr.</extent>
                     </monogr>
                 </biblStruct>
+                <!-- hier weiter: -->
                 <biblStruct corresp="works.xml#W188" xml:id="E244">
                     <monogr>
                         <author key="A91">Sosa, Francisco</author>
